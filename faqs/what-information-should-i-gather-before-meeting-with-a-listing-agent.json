@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/what-information-should-i-gather-before-meeting-with-a-listing-agent",
+  "name": "What information should I gather before meeting with a listing agent?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What information should I gather before meeting with a listing agent?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Before meeting with a listing agent, it's beneficial to gather information about your property, including any recent appraisals, renovation details, and a list of inclusions or exclusions for the sale. You should also consider your desired timeline for selling and any specific financial goals. This preparation helps the agent conduct a more accurate market analysis and tailor their strategy to your unique situation, especially for properties in diverse locales from Brickell to West Palm Beach.",
+        "@type": "Answer",
+        "description": "Before meeting a listing agent, prepare property details, renovation information, desired selling timeline, and financial goals to facilitate a tailored strategy."
+      }
+    }
+  ],
+  "description": "Before meeting a listing agent, prepare property details, renovation information, desired selling timeline, and financial goals to facilitate a tailored strateg"
+}

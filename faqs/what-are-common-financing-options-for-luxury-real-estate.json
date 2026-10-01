@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/what-are-common-financing-options-for-luxury-real-estate",
+  "name": "What are common financing options for luxury real estate?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are common financing options for luxury real estate?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Common financing options for luxury real estate often include conventional jumbo loans, portfolio loans, and sometimes private banking solutions tailored for high-net-worth individuals. Jumbo loans exceed conforming loan limits and are standard for luxury purchases, while portfolio loans offer more flexible terms but are held by the originating bank. Private banking can provide bespoke financial products, including asset-backed lending. A preparation step is to assess your financial profile, including assets, income, and liquidity, to determine the most advantageous financing structure. Lenders specializing in luxury properties can provide personalized advice.",
+        "@type": "Answer",
+        "description": "Luxury real estate financing includes jumbo loans, portfolio loans, and private banking solutions. Assess your financial profile to determine the best structure."
+      }
+    }
+  ],
+  "description": "Luxury real estate financing includes jumbo loans, portfolio loans, and private banking solutions. Assess your financial profile to determine the best structure"
+}

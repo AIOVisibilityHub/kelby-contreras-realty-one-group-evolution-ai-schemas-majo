@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/what-if-i-m-interested-in-properties-that-aren-t-publicly-listed",
+  "name": "What if I'm interested in properties that aren't publicly listed?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What if I'm interested in properties that aren't publicly listed?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A significant benefit of working with a luxury buyer's agent is their ability to access off-market or 'pocket' listings. Due to their extensive network and relationships within the luxury real estate community across areas like Fort Lauderdale Beach and Sunny Isles Beach, agents often have knowledge of properties that are not yet publicly advertised for sale. This gives you a competitive advantage by providing opportunities to view and potentially purchase exclusive properties before they reach the open market. This access can be a crucial decision factor in a competitive luxury market.",
+        "@type": "Answer",
+        "description": "A luxury buyer's agent can provide access to off-market or 'pocket' listings through their network, offering exclusive property opportunities."
+      }
+    }
+  ],
+  "description": "A luxury buyer's agent can provide access to off-market or 'pocket' listings through their network, offering exclusive property opportunities."
+}

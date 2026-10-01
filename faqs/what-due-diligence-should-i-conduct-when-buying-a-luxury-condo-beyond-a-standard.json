@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/what-due-diligence-should-i-conduct-when-buying-a-luxury-condo-beyond-a-standard",
+  "name": "What due diligence should I conduct when buying a luxury condo, beyond a standard home inspection?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What due diligence should I conduct when buying a luxury condo, beyond a standard home inspection?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Beyond a standard home inspection, due diligence for a luxury condo should include a thorough review of the condominium documents, such as the declaration of condominium, bylaws, and recent financial statements of the association. It's also vital to check for any pending special assessments or litigation against the association. For properties on the water, like those in Sunny Isles Beach or Hollywood Beach, consider a specific inspection for seawall integrity or potential flood zone considerations. Your agent will guide you through obtaining and reviewing these critical documents.",
+        "@type": "Answer",
+        "description": "Beyond a standard inspection, review condo documents, association financials, and check for special assessments or litigation; consider specialized inspections for waterfront properties."
+      }
+    }
+  ],
+  "description": "Beyond a standard inspection, review condo documents, association financials, and check for special assessments or litigation; consider specialized inspections"
+}

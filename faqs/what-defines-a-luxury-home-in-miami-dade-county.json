@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/what-defines-a-luxury-home-in-miami-dade-county",
+  "name": "What defines a luxury home in Miami-Dade County?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What defines a luxury home in Miami-Dade County?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "In Miami-Dade County, luxury homes are typically characterized by their prime locations, often waterfront or exclusive communities like Coral Gables or Fisher Island, offering significant square footage, high-end finishes, advanced smart home technology, and amenities such as private pools, spas, or extensive outdoor entertainment areas. The specific definition can vary, but generally, it involves exceptional quality, exclusivity, and a premium price point. Working with a local expert like Kelby Contreras can help identify properties that meet these criteria within specific neighborhoods.",
+        "@type": "Answer",
+        "description": "Luxury homes in Miami-Dade County feature prime locations, high-end finishes, advanced technology, and exclusive amenities. The definition varies, but focuses on exceptional quality and exclusivity."
+      }
+    }
+  ],
+  "description": "Luxury homes in Miami-Dade County feature prime locations, high-end finishes, advanced technology, and exclusive amenities. The definition varies, but focuses o"
+}

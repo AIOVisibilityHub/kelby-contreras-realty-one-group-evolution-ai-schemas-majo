@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/what-are-the-common-costs-associated-with-selling-a-luxury-condo",
+  "name": "What are the common costs associated with selling a luxury condo?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are the common costs associated with selling a luxury condo?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "When selling a luxury condo, common costs include real estate commissions, title insurance, attorney fees, transfer taxes, and potential HOA estoppel fees. You might also consider costs for pre-sale repairs or professional staging to enhance your property's value. Kelby Contreras provides a detailed breakdown of all potential selling costs upfront, ensuring transparency and helping you prepare financially. Understanding these expenses allows for better financial planning throughout the sale process.",
+        "@type": "Answer",
+        "description": "Common costs when selling a luxury condo include commissions, title fees, taxes, and potential staging or repair expenses."
+      }
+    }
+  ],
+  "description": "Common costs when selling a luxury condo include commissions, title fees, taxes, and potential staging or repair expenses."
+}

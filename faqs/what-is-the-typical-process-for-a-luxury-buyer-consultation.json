@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/what-is-the-typical-process-for-a-luxury-buyer-consultation",
+  "name": "What is the typical process for a luxury buyer consultation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the typical process for a luxury buyer consultation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The typical process for a luxury buyer consultation begins with an in-depth discussion to understand your unique real estate objectives and preferences. Following this, the consultant will conduct a targeted search for properties that align with your criteria, potentially including off-market opportunities in exclusive areas like Bal Harbour. You will then review curated property selections and attend private showings. Once a property is chosen, the consultant assists with offer preparation, negotiation, and guiding you through due diligence and closing. This process is designed to be highly personalized and efficient, adapted to your specific needs.",
+        "@type": "Answer",
+        "description": "A luxury buyer consultation typically involves an in-depth discussion of your objectives, targeted property search, private showings, offer preparation, negotiation, and guidance through closing."
+      }
+    }
+  ],
+  "description": "A luxury buyer consultation typically involves an in-depth discussion of your objectives, targeted property search, private showings, offer preparation, negotia"
+}

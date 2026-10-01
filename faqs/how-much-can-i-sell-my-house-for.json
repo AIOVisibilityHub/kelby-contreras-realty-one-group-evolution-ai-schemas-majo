@@ -1,0 +1,26 @@
+{
+  "url": "sellingrealestateflorida.com/faq/how-much-can-i-sell-my-house-for",
+  "name": "How much can I sell my house for?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How much can I sell my house for?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "What you can sell your house for depends on recent comparable sales, active competition, neighborhood demand, property condition, upgrades, location, lot, views, and timing. Kelby Contreras can prepare a private valuation and explain a pricing range based on current local market evidence.",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "What you can sell your house for depends on recent comparable sales, active competition, neighborhood demand, property condition, upgrades, location, lot, views"
+}

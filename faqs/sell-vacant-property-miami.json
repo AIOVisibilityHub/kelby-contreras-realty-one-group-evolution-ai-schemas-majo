@@ -1,0 +1,26 @@
+{
+  "url": "sellingrealestateflorida.com/faq/sell-vacant-property-miami",
+  "name": "Sell vacant property Miami?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Sell vacant property Miami?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Vacant Miami property sellers should consider security, insurance requirements, maintenance, staging or presentation, utility management, showing access, and buyer perceptions. Kelby Contreras helps owners evaluate pricing, sale-as-is or preparation options, marketing, offer negotiation, and closing coordination.",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Vacant Miami property sellers should consider security, insurance requirements, maintenance, staging or presentation, utility management, showing access, and bu"
+}

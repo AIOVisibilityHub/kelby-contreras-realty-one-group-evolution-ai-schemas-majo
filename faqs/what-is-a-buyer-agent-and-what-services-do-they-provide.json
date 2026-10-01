@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/what-is-a-buyer-agent-and-what-services-do-they-provide",
+  "name": "What is a buyer agent and what services do they provide?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is a buyer agent and what services do they provide?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A buyer agent represents your interests exclusively in a real estate transaction, helping you find suitable properties, negotiate offers, and navigate the closing process. They provide market insights, assist with property showings, and can connect you with other professionals like inspectors and lenders. Kelby Contreras focuses on ensuring your priorities are met throughout the home buying journey, particularly within the competitive markets of Miami-Dade, Broward, Palm Beach, Collier, and Orange Counties.",
+        "@type": "Answer",
+        "description": "A buyer agent represents your interests in a real estate transaction, assisting with property searches, negotiations, and closing. They provide market insights and connect you with other professionals."
+      }
+    }
+  ],
+  "description": "A buyer agent represents your interests in a real estate transaction, assisting with property searches, negotiations, and closing. They provide market insights"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/what-defines-a-property-as-luxury-in-south-florida",
+  "name": "What defines a property as 'luxury' in South Florida?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What defines a property as 'luxury' in South Florida?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Luxury real estate in South Florida typically involves prime locations, exceptional architectural design, high-end finishes and appliances, and exclusive amenities. These properties often feature significant acreage, waterfront access, or panoramic views, distinguishing them from standard homes. Working with a specialist who understands these nuances, like Kelby Contreras, helps buyers identify true luxury value beyond just price. We focus on properties in areas such as Fisher Island, Bal Harbour, and Pinecrest, which exemplify these characteristics.",
+        "@type": "Answer",
+        "description": "Luxury properties in South Florida are defined by prime locations, exceptional design, high-end features, and exclusive amenities."
+      }
+    }
+  ],
+  "description": "Luxury properties in South Florida are defined by prime locations, exceptional design, high-end features, and exclusive amenities."
+}

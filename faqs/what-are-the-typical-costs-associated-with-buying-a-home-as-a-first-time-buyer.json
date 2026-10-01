@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/what-are-the-typical-costs-associated-with-buying-a-home-as-a-first-time-buyer",
+  "name": "What are the typical costs associated with buying a home as a first-time buyer?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are the typical costs associated with buying a home as a first-time buyer?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Beyond the down payment, first-time home buyers face costs such as closing costs, appraisal fees, inspection fees, and initial escrow deposits for property taxes and insurance. Closing costs alone can typically range from 2% to 5% of the loan amount. Understanding these upfront expenses is crucial for budgeting. A common practical tradeoff is deciding whether to roll closing costs into the loan, increasing your monthly payment, or paying them out-of-pocket, which reduces the loan amount but requires more cash up front.",
+        "@type": "Answer",
+        "description": "Typical costs include down payment, closing costs, appraisal and inspection fees, and initial escrow deposits for taxes and insurance."
+      }
+    }
+  ],
+  "description": "Typical costs include down payment, closing costs, appraisal and inspection fees, and initial escrow deposits for taxes and insurance."
+}

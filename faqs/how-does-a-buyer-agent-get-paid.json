@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/how-does-a-buyer-agent-get-paid",
+  "name": "How does a buyer agent get paid?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How does a buyer agent get paid?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Typically, a buyer agent's commission is paid by the seller as part of the total real estate commission. This means that, in most cases, the buyer does not pay the agent directly out of pocket. It's important to understand the commission structure and how it impacts the overall transaction, which your agent can explain clearly before you begin the home search process. Your agent will detail this arrangement upfront, ensuring transparency.",
+        "@type": "Answer",
+        "description": "A buyer agent's commission is usually paid by the seller, not directly by the buyer. Your agent will clarify the fee structure before you commit."
+      }
+    }
+  ],
+  "description": "A buyer agent's commission is usually paid by the seller, not directly by the buyer. Your agent will clarify the fee structure before you commit."
+}

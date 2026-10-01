@@ -1,0 +1,26 @@
+{
+  "url": "sellingrealestateflorida.com/faq/sell-investment-property-miami",
+  "name": "Sell investment property Miami?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Sell investment property Miami?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Selling a Miami investment property requires attention to tenant status, lease terms, income and expense records, rental rules, condition, buyer type, and potential tax consequences. Kelby Contreras helps owners position and market investment properties; sellers should consult qualified tax and legal professionals regarding 1031 exchanges or other tax matters.",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Selling a Miami investment property requires attention to tenant status, lease terms, income and expense records, rental rules, condition, buyer type, and poten"
+}

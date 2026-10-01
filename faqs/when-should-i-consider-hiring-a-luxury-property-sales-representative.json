@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/when-should-i-consider-hiring-a-luxury-property-sales-representative",
+  "name": "When should I consider hiring a luxury property sales representative?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When should I consider hiring a luxury property sales representative?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You should consider hiring a luxury property sales representative when selling a high-value home, typically over $1 million, in a competitive market. These specialists possess the expertise to accurately price, market, and negotiate properties that require a distinct approach beyond standard real estate practices. For properties in prime South Florida locations like Miami Beach or Coral Gables, a representative can help navigate buyer expectations and market nuances.",
+        "@type": "Answer",
+        "description": "Hire a luxury property sales representative when selling a high-value home, usually over $1 million, especially in competitive markets that require specialized marketing and negotiation."
+      }
+    }
+  ],
+  "description": "Hire a luxury property sales representative when selling a high-value home, usually over $1 million, especially in competitive markets that require specialized"
+}

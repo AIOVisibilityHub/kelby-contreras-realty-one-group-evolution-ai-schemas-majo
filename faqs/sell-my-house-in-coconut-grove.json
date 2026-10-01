@@ -1,0 +1,26 @@
+{
+  "url": "sellingrealestateflorida.com/faq/sell-my-house-in-coconut-grove",
+  "name": "Sell my house in Coconut Grove?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Sell my house in Coconut Grove?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Coconut Grove sellers benefit from a strategy that reflects the property’s village location, lot, architecture, condition, waterfront access where applicable, walkability, and buyer profile. Kelby Contreras provides valuation, positioning, marketing, negotiation, and transaction support for Coconut Grove home sales.",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Coconut Grove sellers benefit from a strategy that reflects the property’s village location, lot, architecture, condition, waterfront access where applicable, w"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/should-i-sell-my-luxury-condo-furnished-or-unfurnished",
+  "name": "Should I sell my luxury condo furnished or unfurnished?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Should I sell my luxury condo furnished or unfurnished?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Deciding whether to sell your luxury condo furnished or unfurnished depends on several factors, including the local market, the quality of your furnishings, and buyer expectations. In high-end markets like South Beach or Williams Island, some buyers prefer a turnkey solution, especially if they are seasonal residents or international buyers who appreciate not having to furnish a new space. However, if your furnishings are outdated or not high-end, selling unfurnished or opting for professional staging might be more appealing, allowing buyers to envision their own style. Our agents can help assess which approach maximizes your property's value and attracts the most qualified buyers.",
+        "@type": "Answer",
+        "description": "Selling furnished or unfurnished depends on your furnishings' quality and market demand; some luxury buyers prefer turnkey. We can help assess the best approach for your condo."
+      }
+    }
+  ],
+  "description": "Selling furnished or unfurnished depends on your furnishings' quality and market demand; some luxury buyers prefer turnkey. We can help assess the best approach"
+}

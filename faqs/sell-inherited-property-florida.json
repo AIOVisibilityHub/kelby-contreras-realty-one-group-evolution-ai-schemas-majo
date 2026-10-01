@@ -1,0 +1,26 @@
+{
+  "url": "sellingrealestateflorida.com/faq/sell-inherited-property-florida",
+  "name": "Sell inherited property Florida?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Sell inherited property Florida?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Selling an inherited Florida property may involve probate, multiple heirs, title questions, property condition, timing, and tax considerations. Kelby Contreras can help with valuation, sale options, marketing, negotiation, and closing coordination, while heirs should seek legal and tax advice from qualified Florida professionals when needed.",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Selling an inherited Florida property may involve probate, multiple heirs, title questions, property condition, timing, and tax considerations. Kelby Contreras"
+}

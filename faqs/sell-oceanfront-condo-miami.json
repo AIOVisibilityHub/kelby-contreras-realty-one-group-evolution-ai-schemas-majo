@@ -1,0 +1,26 @@
+{
+  "url": "sellingrealestateflorida.com/faq/sell-oceanfront-condo-miami",
+  "name": "Sell oceanfront condo Miami?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Sell oceanfront condo Miami?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "To sell an oceanfront Miami condo, the strategy should account for beach access, views, unit orientation, building amenities, HOA fees, assessments, insurance, rental policies, and recent comparable sales. Kelby Contreras helps owners prepare, price, market, negotiate, and close luxury oceanfront condo sales.",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "To sell an oceanfront Miami condo, the strategy should account for beach access, views, unit orientation, building amenities, HOA fees, assessments, insurance,"
+}

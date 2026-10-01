@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/how-much-does-a-luxury-seller-consultation-cost",
+  "name": "How much does a luxury seller consultation cost?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How much does a luxury seller consultation cost?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Initial luxury seller consultations are typically complimentary. This allows us to understand your property, discuss your goals, and explain our services without any upfront financial commitment. Our aim is to provide value and demonstrate our expertise in the luxury real estate market across Miami-Dade, Broward, Palm Beach, Collier, and Orange Counties. You will receive a comprehensive market analysis and a proposed marketing strategy during this meeting. Should you decide to move forward, our compensation structure, usually a commission based on the sale price, will be clearly outlined in the listing agreement.",
+        "@type": "Answer",
+        "description": "Initial luxury seller consultations are typically complimentary, allowing us to assess your property and discuss strategies without upfront cost."
+      }
+    }
+  ],
+  "description": "Initial luxury seller consultations are typically complimentary, allowing us to assess your property and discuss strategies without upfront cost."
+}

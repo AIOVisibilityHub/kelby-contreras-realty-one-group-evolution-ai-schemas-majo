@@ -1,0 +1,26 @@
+{
+  "url": "sellingrealestateflorida.com/faq/florida-home-selling-agent",
+  "name": "Florida home selling agent?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Florida home selling agent?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Kelby Contreras is a Florida luxury real estate specialist who helps sellers with valuation, pricing, marketing, buyer outreach, negotiations, and closing coordination. He serves buyers and sellers in Miami-Dade, Broward, Palm Beach, and other Florida markets represented on his site.",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Kelby Contreras is a Florida luxury real estate specialist who helps sellers with valuation, pricing, marketing, buyer outreach, negotiations, and closing coord"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/when-should-i-consider-getting-a-home-inspection-during-the-buying-process",
+  "name": "When should I consider getting a home inspection during the buying process?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When should I consider getting a home inspection during the buying process?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You should consider getting a home inspection after your offer has been accepted but before the final closing. This typically occurs during the 'inspection period' specified in your purchase agreement. A thorough inspection can uncover potential issues with the property's structure, systems, or safety, allowing you to negotiate repairs or, if necessary, reconsider your offer. This crucial step helps protect your investment and provides peace of mind.",
+        "@type": "Answer",
+        "description": "A home inspection is vital after your offer is accepted, during the inspection period, to identify potential property issues before closing."
+      }
+    }
+  ],
+  "description": "A home inspection is vital after your offer is accepted, during the inspection period, to identify potential property issues before closing."
+}

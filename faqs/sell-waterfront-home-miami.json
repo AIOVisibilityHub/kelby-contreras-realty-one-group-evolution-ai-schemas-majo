@@ -1,0 +1,26 @@
+{
+  "url": "sellingrealestateflorida.com/faq/sell-waterfront-home-miami",
+  "name": "Sell waterfront home Miami?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Sell waterfront home Miami?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Selling a Miami waterfront home requires a pricing and marketing strategy that accurately presents the location, water access, views, dockage or boating features where applicable, seawall condition, lot, insurance considerations, and lifestyle value. Kelby Contreras helps waterfront sellers position the property and negotiate with qualified buyers.",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Selling a Miami waterfront home requires a pricing and marketing strategy that accurately presents the location, water access, views, dockage or boating feature"
+}

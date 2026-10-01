@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/what-questions-should-i-ask-when-choosing-a-real-estate-agent-to-sell-my-luxury",
+  "name": "What questions should I ask when choosing a real estate agent to sell my luxury home?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What questions should I ask when choosing a real estate agent to sell my luxury home?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "When choosing a real estate agent for your luxury home, ask about their experience specifically with high-end properties in your local market, such as Coral Gables or Boca Raton. Inquire about their marketing strategy for luxury listings, their network of affluent buyers, and their approach to confidentiality and negotiation. A crucial decision factor is assessing their proven track record, asking for examples of successful luxury sales, and understanding how they plan to uniquely position your property to attract the most qualified buyers.",
+        "@type": "Answer",
+        "description": "When choosing an agent, ask about their luxury market experience, marketing strategy, buyer network, and confidentiality approach, assessing their track record and unique property positioning plan."
+      }
+    }
+  ],
+  "description": "When choosing an agent, ask about their luxury market experience, marketing strategy, buyer network, and confidentiality approach, assessing their track record"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/what-should-i-prepare-for-my-luxury-seller-consultation",
+  "name": "What should I prepare for my luxury seller consultation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What should I prepare for my luxury seller consultation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "For your luxury seller consultation, gather any relevant documents about your property, such as recent appraisal reports, renovation details, property surveys, or HOA information. Be prepared to discuss your property's unique features, recent upgrades, and any preferred selling timelines or financial goals. Providing these details allows us to conduct a more accurate market analysis tailored to your specific home and location within our service areas, from Aventura to West Palm Beach, enabling a more productive discussion about pricing and marketing strategies.",
+        "@type": "Answer",
+        "description": "Prepare documents like appraisals, renovation details, and HOA information, and be ready to discuss your property's features and selling goals for the consultation."
+      }
+    }
+  ],
+  "description": "Prepare documents like appraisals, renovation details, and HOA information, and be ready to discuss your property's features and selling goals for the consultat"
+}

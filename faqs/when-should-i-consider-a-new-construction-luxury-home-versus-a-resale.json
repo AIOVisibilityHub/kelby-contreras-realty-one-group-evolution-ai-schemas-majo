@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/when-should-i-consider-a-new-construction-luxury-home-versus-a-resale",
+  "name": "When should I consider a new construction luxury home versus a resale?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When should I consider a new construction luxury home versus a resale?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You should consider a new construction luxury home if you prioritize modern design, state-of-the-art technology, and the ability to customize finishes and layouts before moving in. New builds often come with warranties and are built to current building codes. Resale luxury homes, conversely, may offer established landscaping, unique historical character, and potentially more negotiating room on price, especially in mature luxury neighborhoods like Coral Gables. Your decision often involves balancing immediate move-in readiness against personalization and potential long-term maintenance differences.",
+        "@type": "Answer",
+        "description": "Choose new construction for modern design, technology, and customization, or resale for established character and potential negotiation, balancing immediate needs with long-term preferences."
+      }
+    }
+  ],
+  "description": "Choose new construction for modern design, technology, and customization, or resale for established character and potential negotiation, balancing immediate nee"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/what-costs-are-involved-when-selling-a-luxury-property",
+  "name": "What costs are involved when selling a luxury property?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What costs are involved when selling a luxury property?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "When selling a luxury property, several costs are typically involved beyond the agent's commission. These may include closing costs, title insurance, property taxes prorated at closing, potential HOA or condominium association fees, and any agreed-upon repairs or concessions to the buyer. Additionally, sellers might incur expenses for professional staging, photography, or pre-listing inspections to prepare the home for market. Understanding these potential costs upfront, particularly for high-value properties in locations like Williams Island or Key Biscayne, allows for accurate financial planning and helps manage expectations during the sale process.",
+        "@type": "Answer",
+        "description": "Costs for selling a luxury property include agent commissions, closing costs, prorated property taxes, and potential HOA fees. Additional expenses may arise from staging, photography, or repairs."
+      }
+    }
+  ],
+  "description": "Costs for selling a luxury property include agent commissions, closing costs, prorated property taxes, and potential HOA fees. Additional expenses may arise fro"
+}

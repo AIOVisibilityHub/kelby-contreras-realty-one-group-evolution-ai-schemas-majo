@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/what-should-i-look-for-when-choosing-a-luxury-buyer-s-agent",
+  "name": "What should I look for when choosing a luxury buyer's agent?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What should I look for when choosing a luxury buyer's agent?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "When choosing a luxury buyer's agent, look for proven experience in high-end real estate, strong negotiation skills, and a deep understanding of your target luxury markets, such as Delray Beach or Doral. Evaluate their communication style, responsiveness, and their ability to provide discreet, personalized service. It's also important to consider their professional network, which can provide access to exclusive listings and reputable service providers. A practical tradeoff to consider is prioritizing an agent's specialized expertise over general real estate experience.",
+        "@type": "Answer",
+        "description": "Look for an agent with proven luxury real estate experience, strong negotiation skills, market expertise, excellent communication, and a robust professional network."
+      }
+    }
+  ],
+  "description": "Look for an agent with proven luxury real estate experience, strong negotiation skills, market expertise, excellent communication, and a robust professional net"
+}

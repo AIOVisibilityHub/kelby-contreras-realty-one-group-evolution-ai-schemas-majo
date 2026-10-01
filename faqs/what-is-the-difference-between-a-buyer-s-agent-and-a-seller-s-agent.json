@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/what-is-the-difference-between-a-buyer-s-agent-and-a-seller-s-agent",
+  "name": "What is the difference between a buyer's agent and a seller's agent?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the difference between a buyer's agent and a seller's agent?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A buyer's agent represents the interests of the homebuyer, helping them find suitable properties, negotiate terms, and navigate the purchasing process. A seller's agent, also known as a listing agent, represents the seller, aiming to market their property effectively and secure the best possible sale price. As Kelby Contreras - Realty ONE Group Evolution, we can act as a buyer's agent to guide you through finding a home in areas like Miami or Fort Lauderdale, always prioritizing your interests as the buyer.",
+        "@type": "Answer",
+        "description": "A buyer's agent represents the homebuyer's interests in finding and purchasing a property, while a seller's agent represents the seller's interests in marketing and selling their home."
+      }
+    }
+  ],
+  "description": "A buyer's agent represents the homebuyer's interests in finding and purchasing a property, while a seller's agent represents the seller's interests in marketing"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/what-should-i-prepare-before-my-luxury-buyer-consultation",
+  "name": "What should I prepare before my luxury buyer consultation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What should I prepare before my luxury buyer consultation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Before your luxury buyer consultation, it is beneficial to gather information regarding your ideal property features, desired locations (e.g., Brickell, Key Biscayne), budget parameters, and any specific lifestyle requirements. Consider what non-negotiable amenities you seek, your preferred architectural styles, and your general timeline for purchasing. Having a clear understanding of your financial pre-qualification or pre-approval status is also helpful. This preparation allows the consultant to accurately assess your needs and begin identifying suitable luxury properties and neighborhoods effectively.",
+        "@type": "Answer",
+        "description": "Before your luxury buyer consultation, prepare your ideal property features, desired locations, budget, lifestyle requirements, and financial pre-qualification status."
+      }
+    }
+  ],
+  "description": "Before your luxury buyer consultation, prepare your ideal property features, desired locations, budget, lifestyle requirements, and financial pre-qualification"
+}

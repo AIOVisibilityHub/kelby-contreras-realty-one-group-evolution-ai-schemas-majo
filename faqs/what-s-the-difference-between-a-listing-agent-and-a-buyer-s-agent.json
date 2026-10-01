@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/what-s-the-difference-between-a-listing-agent-and-a-buyer-s-agent",
+  "name": "What's the difference between a listing agent and a buyer's agent?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What's the difference between a listing agent and a buyer's agent?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A listing agent exclusively represents the seller, working to market the property, negotiate offers, and secure the best terms for their client. In contrast, a buyer's agent exclusively represents the buyer, helping them find suitable properties, negotiate purchase prices, and navigate the buying process. While both are real estate agents, their fiduciary duties are to opposite parties in a transaction, ensuring each side has dedicated representation. Understanding this distinction is key when engaging real estate services.",
+        "@type": "Answer",
+        "description": "A listing agent represents the seller, while a buyer's agent represents the buyer; both have distinct fiduciary duties in a real estate transaction."
+      }
+    }
+  ],
+  "description": "A listing agent represents the seller, while a buyer's agent represents the buyer; both have distinct fiduciary duties in a real estate transaction."
+}

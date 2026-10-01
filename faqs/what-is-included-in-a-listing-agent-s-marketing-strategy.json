@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/what-is-included-in-a-listing-agent-s-marketing-strategy",
+  "name": "What is included in a listing agent's marketing strategy?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is included in a listing agent's marketing strategy?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A comprehensive marketing strategy from a listing agent typically includes professional photography, virtual tours, drone footage, and a detailed property description. They will syndicate your listing to multiple online platforms, including the Multiple Listing Service (MLS), and utilize social media channels. Depending on the property and market, they may also conduct open houses and agent-only showings. The goal is maximum exposure to attract qualified buyers across South Florida's diverse markets, from Miami Beach to Fort Lauderdale Beach.",
+        "@type": "Answer",
+        "description": "A listing agent's marketing strategy includes professional photography, virtual tours, online syndication to MLS, social media promotion, and open houses to attract buyers."
+      }
+    }
+  ],
+  "description": "A listing agent's marketing strategy includes professional photography, virtual tours, online syndication to MLS, social media promotion, and open houses to att"
+}

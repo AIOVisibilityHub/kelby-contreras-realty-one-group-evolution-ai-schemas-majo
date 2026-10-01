@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/what-is-the-typical-commission-structure-for-a-luxury-listing-agent-and-how-does",
+  "name": "What is the typical commission structure for a luxury listing agent, and how does it compare?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the typical commission structure for a luxury listing agent, and how does it compare?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The commission structure for a luxury listing agent is generally a percentage of the final sale price, similar to general real estate. However, the value provided in exchange for this commission often differs, as luxury agents invest more heavily in bespoke marketing, professional staging advice, and extensive networking. While the percentage might be comparable, the specific services included, such as professional photography, virtual tours, and targeted advertising campaigns, represent a higher cost and specialized effort that impacts the total value proposition. It’s important to understand what services are encompassed.",
+        "@type": "Answer",
+        "description": "Luxury listing agent commissions are typically a percentage of the sale price, similar to general agents, but reflect a greater investment in specialized marketing and services."
+      }
+    }
+  ],
+  "description": "Luxury listing agent commissions are typically a percentage of the sale price, similar to general agents, but reflect a greater investment in specialized market"
+}

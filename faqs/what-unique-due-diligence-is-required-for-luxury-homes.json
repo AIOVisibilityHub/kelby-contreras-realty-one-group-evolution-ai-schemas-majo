@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/what-unique-due-diligence-is-required-for-luxury-homes",
+  "name": "What unique due diligence is required for luxury homes?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What unique due diligence is required for luxury homes?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Unique due diligence for luxury homes often extends beyond standard inspections to include assessments of custom features, advanced security systems, specialized construction materials, and the integrity of waterfront structures like seawalls or docks. It may also involve detailed reviews of homeowner association documents for exclusive communities and title searches for complex property histories. We facilitate access to qualified professionals for these detailed evaluations, especially for distinct properties in areas like Fisher Island or Williams Island.",
+        "@type": "Answer",
+        "description": "Luxury home due diligence includes assessing custom features, advanced systems, specialized materials, and unique structures like seawalls."
+      }
+    }
+  ],
+  "description": "Luxury home due diligence includes assessing custom features, advanced systems, specialized materials, and unique structures like seawalls."
+}

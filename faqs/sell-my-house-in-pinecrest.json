@@ -1,0 +1,26 @@
+{
+  "url": "sellingrealestateflorida.com/faq/sell-my-house-in-pinecrest",
+  "name": "Sell my house in Pinecrest?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Sell my house in Pinecrest?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Pinecrest home sellers benefit from a valuation and marketing plan built around lot size, estate features, school and lifestyle demand, architecture, condition, privacy, and local comparable sales. Kelby Contreras provides direct seller representation from initial pricing through closing.",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Pinecrest home sellers benefit from a valuation and marketing plan built around lot size, estate features, school and lifestyle demand, architecture, condition,"
+}

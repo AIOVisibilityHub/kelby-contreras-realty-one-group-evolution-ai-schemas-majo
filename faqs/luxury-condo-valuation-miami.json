@@ -1,0 +1,26 @@
+{
+  "url": "sellingrealestateflorida.com/faq/luxury-condo-valuation-miami",
+  "name": "Luxury condo valuation Miami?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Luxury condo valuation Miami?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Miami luxury-condo valuation requires building-specific comparable sales, a review of the unit’s floor, view, condition, layout, parking, fees, amenities, assessments, rental policies, and active competing listings. Kelby Contreras provides seller guidance for a more informed pricing decision.",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Miami luxury-condo valuation requires building-specific comparable sales, a review of the unit’s floor, view, condition, layout, parking, fees, amenities, asses"
+}

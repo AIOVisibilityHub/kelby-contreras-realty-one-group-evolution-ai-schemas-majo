@@ -1,0 +1,26 @@
+{
+  "url": "sellingrealestateflorida.com/faq/sell-my-home-in-key-biscayne",
+  "name": "Sell my home in Key Biscayne?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Sell my home in Key Biscayne?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Key Biscayne sellers need a strategy that reflects island lifestyle, location, water access, lot, condition, privacy, and current luxury buyer demand. Kelby Contreras helps homeowners with valuation, pricing, property positioning, marketing, negotiation, and closing coordination.",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Key Biscayne sellers need a strategy that reflects island lifestyle, location, water access, lot, condition, privacy, and current luxury buyer demand. Kelby Con"
+}

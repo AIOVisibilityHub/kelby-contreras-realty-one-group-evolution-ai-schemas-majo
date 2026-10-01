@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/what-is-the-role-of-an-appraisal-in-a-luxury-home-purchase",
+  "name": "What is the role of an appraisal in a luxury home purchase?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the role of an appraisal in a luxury home purchase?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "An appraisal in a luxury home purchase provides an independent valuation of the property's market worth, which is crucial for lenders to ensure the loan amount is justified. For unique luxury properties, appraisers rely on specialized methods and comparable sales that may be less frequent. If the appraisal comes in lower than the agreed-upon purchase price, it can impact financing and may require further negotiation or a larger down payment. Understanding the appraisal process and its potential impact is a key part of process clarity.",
+        "@type": "Answer",
+        "description": "An appraisal determines a luxury home's market worth for lenders, especially for unique properties. A lower appraisal can impact financing, requiring negotiation or a larger down payment."
+      }
+    }
+  ],
+  "description": "An appraisal determines a luxury home's market worth for lenders, especially for unique properties. A lower appraisal can impact financing, requiring negotiatio"
+}

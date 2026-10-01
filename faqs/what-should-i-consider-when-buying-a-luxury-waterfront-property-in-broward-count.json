@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/what-should-i-consider-when-buying-a-luxury-waterfront-property-in-broward-count",
+  "name": "What should I consider when buying a luxury waterfront property in Broward County?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What should I consider when buying a luxury waterfront property in Broward County?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "When buying a luxury waterfront property in Broward County, particularly in areas like Fort Lauderdale Beach or Pompano Beach, consider factors beyond the property itself, such as seawall condition, dockage suitability for your vessels, and potential flood insurance requirements. Evaluate the water depth, access to open water, and any environmental regulations that might impact future development or maintenance. A comprehensive inspection addressing these specific waterfront elements is a critical part of the due diligence process.",
+        "@type": "Answer",
+        "description": "For Broward County luxury waterfront homes, assess seawall condition, dockage, flood insurance, and water access. A specialized inspection of these elements is crucial."
+      }
+    }
+  ],
+  "description": "For Broward County luxury waterfront homes, assess seawall condition, dockage, flood insurance, and water access. A specialized inspection of these elements is"
+}

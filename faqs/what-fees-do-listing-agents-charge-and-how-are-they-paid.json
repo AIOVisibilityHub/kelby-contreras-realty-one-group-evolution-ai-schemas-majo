@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/what-fees-do-listing-agents-charge-and-how-are-they-paid",
+  "name": "What fees do listing agents charge, and how are they paid?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What fees do listing agents charge, and how are they paid?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Listing agents typically charge a commission, which is a percentage of the final sale price of the home. This commission is generally paid at closing from the sale proceeds. The commission percentage is agreed upon beforehand in the listing agreement and usually includes the compensation for both the listing agent and the buyer's agent. You should clarify the commission structure during your initial consultation with a potential agent.",
+        "@type": "Answer",
+        "description": "Listing agents charge a commission, a percentage of the home's sale price, paid at closing from the sale proceeds and agreed upon in the listing agreement."
+      }
+    }
+  ],
+  "description": "Listing agents charge a commission, a percentage of the home's sale price, paid at closing from the sale proceeds and agreed upon in the listing agreement."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/what-are-the-common-closing-costs-for-a-luxury-home-in-south-florida",
+  "name": "What are the common closing costs for a luxury home in South Florida?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are the common closing costs for a luxury home in South Florida?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Closing costs for a luxury home in South Florida typically include attorney fees, title insurance, appraisal fees, lender fees, and transfer taxes, which can be a significant percentage of the purchase price. These costs often range from 2% to 5% of the loan amount, but can be higher depending on the specific transaction. Understanding these upfront expenses is vital for budgeting, and Kelby Contreras can provide an estimate based on your specific property.",
+        "@type": "Answer",
+        "description": "Common luxury home closing costs in South Florida include attorney fees, title insurance, appraisal fees, lender fees, and transfer taxes, typically 2-5% of the loan amount."
+      }
+    }
+  ],
+  "description": "Common luxury home closing costs in South Florida include attorney fees, title insurance, appraisal fees, lender fees, and transfer taxes, typically 2-5% of the"
+}

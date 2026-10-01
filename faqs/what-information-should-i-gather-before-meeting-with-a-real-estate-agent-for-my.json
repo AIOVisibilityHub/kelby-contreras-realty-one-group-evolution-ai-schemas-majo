@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/what-information-should-i-gather-before-meeting-with-a-real-estate-agent-for-my",
+  "name": "What information should I gather before meeting with a real estate agent for my luxury home search?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What information should I gather before meeting with a real estate agent for my luxury home search?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Before meeting with a real estate agent for your luxury home search, you should gather information about your financial readiness, including pre-approval status. Also, define your preferences such as desired neighborhoods (e.g., Fisher Island, Las Olas), minimum square footage, number of bedrooms/bathrooms, key amenities (e.g., waterfront access, private gym), and your preferred timeline. This preparation allows Kelby Contreras to efficiently narrow down suitable options.",
+        "@type": "Answer",
+        "description": "Before meeting an agent, gather financial readiness information and define your property preferences, including desired neighborhoods and key amenities."
+      }
+    }
+  ],
+  "description": "Before meeting an agent, gather financial readiness information and define your property preferences, including desired neighborhoods and key amenities."
+}

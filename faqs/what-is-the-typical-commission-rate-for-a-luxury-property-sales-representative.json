@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/what-is-the-typical-commission-rate-for-a-luxury-property-sales-representative",
+  "name": "What is the typical commission rate for a luxury property sales representative?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the typical commission rate for a luxury property sales representative?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Commission rates for luxury property sales representation are typically negotiable and can vary based on factors like property value, market conditions, and the scope of services provided. While there isn't a fixed rate, it's generally a percentage of the final sale price. When interviewing representatives, inquire about their commission structure and what specific marketing and negotiation services are included to ensure alignment with your expectations and property's unique needs.",
+        "@type": "Answer",
+        "description": "Commission rates for luxury property sales representation are negotiable and vary by property value and services, typically being a percentage of the final sale price."
+      }
+    }
+  ],
+  "description": "Commission rates for luxury property sales representation are negotiable and vary by property value and services, typically being a percentage of the final sale"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/how-do-listing-agents-determine-the-asking-price-for-a-home",
+  "name": "How do listing agents determine the asking price for a home?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do listing agents determine the asking price for a home?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Listing agents determine an asking price by conducting a comparative market analysis (CMA). This involves evaluating recently sold properties, active listings, and expired listings that are similar to yours in size, condition, and location within areas like Miami-Dade, Broward, or Palm Beach County. They consider factors such as property features, upgrades, market trends, and current demand. Preparation for this process includes providing your agent with details of any recent renovations or improvements that could impact the property's value.",
+        "@type": "Answer",
+        "description": "Listing agents perform a comparative market analysis (CMA) by evaluating similar sold and active properties in your area to determine an optimal asking price."
+      }
+    }
+  ],
+  "description": "Listing agents perform a comparative market analysis (CMA) by evaluating similar sold and active properties in your area to determine an optimal asking price."
+}

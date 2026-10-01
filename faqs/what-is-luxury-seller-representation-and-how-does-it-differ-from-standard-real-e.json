@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/what-is-luxury-seller-representation-and-how-does-it-differ-from-standard-real-e",
+  "name": "What is luxury seller representation and how does it differ from standard real estate services?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is luxury seller representation and how does it differ from standard real estate services?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Luxury seller representation is a specialized real estate service focused on properties typically valued above a certain threshold, often involving unique marketing strategies and a deep understanding of the high-end market. It differs from standard services by offering tailored marketing, discretion, and negotiation expertise specific to affluent buyers and distinctive properties. For properties in Miami-Dade or Palm Beach County, this often includes international marketing channels, professional staging advice, and targeted outreach to high-net-worth individuals.",
+        "@type": "Answer",
+        "description": "Luxury seller representation provides specialized marketing, discretion, and negotiation expertise for high-value properties, differing from standard services by targeting affluent buyers with tailored strategies."
+      }
+    }
+  ],
+  "description": "Luxury seller representation provides specialized marketing, discretion, and negotiation expertise for high-value properties, differing from standard services b"
+}

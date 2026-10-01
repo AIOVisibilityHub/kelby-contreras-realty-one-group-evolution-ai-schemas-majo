@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/what-commission-rates-can-i-expect-when-selling-a-luxury-home",
+  "name": "What commission rates can I expect when selling a luxury home?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What commission rates can I expect when selling a luxury home?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Commission rates for selling a luxury home are typically negotiable and vary based on the services provided and market dynamics. While there isn't a fixed rate, it generally includes compensation for the listing agent and the buyer's agent. The total commission is discussed upfront and outlined in the listing agreement, reflecting the extensive marketing, specialized expertise, and global reach often required for high-end properties. It's crucial to understand what services are covered, such as professional photography, bespoke marketing, and private showings.",
+        "@type": "Answer",
+        "description": "Commission rates for luxury home sales are negotiable, covering both listing and buyer agent services, and are detailed in the listing agreement, reflecting the extensive marketing and expertise required."
+      }
+    }
+  ],
+  "description": "Commission rates for luxury home sales are negotiable, covering both listing and buyer agent services, and are detailed in the listing agreement, reflecting the"
+}

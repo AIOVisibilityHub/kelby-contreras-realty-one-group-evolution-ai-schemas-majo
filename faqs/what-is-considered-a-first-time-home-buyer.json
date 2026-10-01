@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/what-is-considered-a-first-time-home-buyer",
+  "name": "What is considered a first-time home buyer?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is considered a first-time home buyer?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Generally, a first-time home buyer is someone who has not owned a home in the last three years. This definition is used by many assistance programs, including those offered at the state and federal level. Even if you've owned a property before, you might still qualify if you haven't held ownership for a specific period, often three years. Understanding this definition is key as it determines your eligibility for various first-time home buyer benefits.",
+        "@type": "Answer",
+        "description": "A first-time home buyer is typically someone who has not owned a home in the last three years, as defined by many assistance programs."
+      }
+    }
+  ],
+  "description": "A first-time home buyer is typically someone who has not owned a home in the last three years, as defined by many assistance programs."
+}

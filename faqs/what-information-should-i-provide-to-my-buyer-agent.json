@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/what-information-should-i-provide-to-my-buyer-agent",
+  "name": "What information should I provide to my buyer agent?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What information should I provide to my buyer agent?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "To help your buyer agent effectively, you should provide details about your desired property type, budget, preferred locations, and any must-have features or deal-breakers. Also, be transparent about your timeline for purchasing and whether you have been pre-approved for a mortgage. Providing this information comprehensively from the outset helps your agent narrow down listings efficiently and tailor their search to your specific criteria, especially in diverse markets like Palm Beach County.",
+        "@type": "Answer",
+        "description": "Provide your buyer agent with details about your property preferences, budget, locations, timeline, and mortgage pre-approval status. This helps them efficiently tailor your property search."
+      }
+    }
+  ],
+  "description": "Provide your buyer agent with details about your property preferences, budget, locations, timeline, and mortgage pre-approval status. This helps them efficientl"
+}

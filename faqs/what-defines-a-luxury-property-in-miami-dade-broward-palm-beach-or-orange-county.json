@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/what-defines-a-luxury-property-in-miami-dade-broward-palm-beach-or-orange-county",
+  "name": "What defines a luxury property in Miami-Dade, Broward, Palm Beach, or Orange County?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What defines a luxury property in Miami-Dade, Broward, Palm Beach, or Orange County?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Luxury properties in these South Florida counties typically feature high-end finishes, premium amenities, expansive layouts, desirable locations, and often unique architectural designs. While exact definitions vary, common elements include waterfront access, private pools, advanced home automation systems, and exclusive community features. The specific county and neighborhood can also influence what is considered luxury; for example, a property in Fisher Island might have different luxury benchmarks than one in Winter Park, Orange County. Our expertise covers these nuanced local market distinctions.",
+        "@type": "Answer",
+        "description": "Luxury properties in these South Florida counties are characterized by high-end finishes, premium amenities, expansive layouts, and desirable locations, with specifics varying by area."
+      }
+    }
+  ],
+  "description": "Luxury properties in these South Florida counties are characterized by high-end finishes, premium amenities, expansive layouts, and desirable locations, with sp"
+}

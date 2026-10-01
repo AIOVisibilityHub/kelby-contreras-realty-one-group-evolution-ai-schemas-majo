@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/what-are-the-key-steps-in-searching-for-a-luxury-home-with-a-real-estate-agent",
+  "name": "What are the key steps in searching for a luxury home with a real estate agent?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are the key steps in searching for a luxury home with a real estate agent?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The luxury home search process with an agent typically begins with an in-depth consultation to understand your lifestyle needs, preferred locations (e.g., Miami Beach, Las Olas), and specific property features. This is followed by curated property showings, often including off-market opportunities. Once a property is selected, the agent assists with offer negotiation, due diligence, inspection coordination, and closing. We focus on providing exclusive access and discreet handling of sensitive information throughout the entire process.",
+        "@type": "Answer",
+        "description": "Key steps include an initial consultation, curated showings, offer negotiation, due diligence, and closing. We provide exclusive access and discreet handling for luxury property transactions."
+      }
+    }
+  ],
+  "description": "Key steps include an initial consultation, curated showings, offer negotiation, due diligence, and closing. We provide exclusive access and discreet handling fo"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/what-are-common-closing-costs-when-buying-a-home-in-florida",
+  "name": "What are common closing costs when buying a home in Florida?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are common closing costs when buying a home in Florida?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Common closing costs in Florida typically range from 2% to 5% of the loan amount and include various fees such as lender origination fees, title insurance, appraisal fees, and attorney fees. These costs are separate from your down payment and are due at the closing of the sale. Understanding these expenses upfront, which your agent and lender can detail, is essential for accurate budgeting and to avoid surprises at the final stage of your home purchase.",
+        "@type": "Answer",
+        "description": "Closing costs in Florida, usually 2-5% of the loan, cover fees like title insurance and appraisals, and are separate from your down payment."
+      }
+    }
+  ],
+  "description": "Closing costs in Florida, usually 2-5% of the loan, cover fees like title insurance and appraisals, and are separate from your down payment."
+}

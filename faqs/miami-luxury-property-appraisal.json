@@ -1,0 +1,26 @@
+{
+  "url": "sellingrealestateflorida.com/faq/miami-luxury-property-appraisal",
+  "name": "Miami luxury property appraisal?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Miami luxury property appraisal?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A formal property appraisal is completed by a state-licensed appraiser. Kelby Contreras can provide a comparative market analysis and seller valuation strategy, but a real estate agent’s market analysis is not a substitute for a formal appraisal when one is required by a lender, court, tax authority, or other party.",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "A formal property appraisal is completed by a state-licensed appraiser. Kelby Contreras can provide a comparative market analysis and seller valuation strategy,"
+}

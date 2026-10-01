@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/when-should-i-schedule-a-luxury-seller-consultation",
+  "name": "When should I schedule a luxury seller consultation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When should I schedule a luxury seller consultation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You should schedule a luxury seller consultation when you are considering selling your high-value property, ideally a few months before you plan to list. This allows ample time to prepare your home, gather necessary documentation, and understand the current market dynamics in your specific South Florida location. Early consultation enables us to identify any recommended improvements or staging strategies that could enhance your property's appeal to discerning buyers and ensures a strategic market entry. It also provides an opportunity to align on pricing expectations and marketing approaches well in advance.",
+        "@type": "Answer",
+        "description": "Schedule a luxury seller consultation when considering selling your high-value property, ideally a few months before listing, to allow for preparation and strategic planning."
+      }
+    }
+  ],
+  "description": "Schedule a luxury seller consultation when considering selling your high-value property, ideally a few months before listing, to allow for preparation and strat"
+}

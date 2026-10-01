@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/what-is-a-listing-agent-and-what-do-they-do",
+  "name": "What is a listing agent and what do they do?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is a listing agent and what do they do?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A listing agent represents sellers in real estate transactions. Their primary role involves marketing the property, setting an appropriate price, negotiating offers, and guiding the seller through closing. This includes tasks like professional photography, creating compelling property descriptions, coordinating showings, and managing communication with potential buyers and their agents. A listing agent works to maximize the seller's return and ensure a smooth transaction.",
+        "@type": "Answer",
+        "description": "A listing agent represents sellers, marketing their property, negotiating offers, and guiding them through the sales process to achieve the best possible outcome."
+      }
+    }
+  ],
+  "description": "A listing agent represents sellers, marketing their property, negotiating offers, and guiding them through the sales process to achieve the best possible outcom"
+}

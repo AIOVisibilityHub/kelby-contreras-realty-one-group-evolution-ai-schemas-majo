@@ -1,0 +1,26 @@
+{
+  "url": "sellingrealestateflorida.com/faq/sell-my-house-in-kendall",
+  "name": "Sell my house in Kendall?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Sell my house in Kendall?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Kendall homeowners can work with Kelby Contreras for a property-specific valuation, pricing strategy, listing preparation, marketing, offer review, negotiation, and closing coordination. The sale plan is tailored to the home’s community, condition, upgrades, and local market demand.",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Kendall homeowners can work with Kelby Contreras for a property-specific valuation, pricing strategy, listing preparation, marketing, offer review, negotiation,"
+}

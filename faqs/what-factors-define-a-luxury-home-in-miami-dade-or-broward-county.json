@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/what-factors-define-a-luxury-home-in-miami-dade-or-broward-county",
+  "name": "What factors define a luxury home in Miami-Dade or Broward County?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What factors define a luxury home in Miami-Dade or Broward County?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Luxury homes in Miami-Dade and Broward Counties are typically defined by unique architectural design, premium finishes, extensive amenities, desirable locations, and high value. Features like waterfront access, bespoke landscaping, smart home technology, and expansive square footage contribute to this classification. We analyze these elements and recent market trends in areas such as Aventura or Coral Gables to accurately position your property.",
+        "@type": "Answer",
+        "description": "Luxury homes in Miami-Dade and Broward Counties are defined by unique architecture, premium finishes, extensive amenities, and desirable locations. These factors, along with market trends, help us position your property."
+      }
+    }
+  ],
+  "description": "Luxury homes in Miami-Dade and Broward Counties are defined by unique architecture, premium finishes, extensive amenities, and desirable locations. These factor"
+}

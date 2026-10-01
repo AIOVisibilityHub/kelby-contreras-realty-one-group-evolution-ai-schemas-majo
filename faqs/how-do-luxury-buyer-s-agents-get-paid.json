@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/how-do-luxury-buyer-s-agents-get-paid",
+  "name": "How do luxury buyer's agents get paid?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do luxury buyer's agents get paid?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Luxury buyer's agents typically receive their commission from the seller at the close of a successful transaction, which is a common practice in real estate. This commission is usually a percentage of the final sale price and is agreed upon between the listing agent and the seller, then split with the buyer's agent. This structure means that buyers generally do not pay their agent directly, making the service financially accessible. A key preparation step is to confirm commission arrangements with your agent early in the engagement.",
+        "@type": "Answer",
+        "description": "Luxury buyer's agents typically receive a commission from the seller at closing, which is a percentage of the sale price."
+      }
+    }
+  ],
+  "description": "Luxury buyer's agents typically receive a commission from the seller at closing, which is a percentage of the sale price."
+}

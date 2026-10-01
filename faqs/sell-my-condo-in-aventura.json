@@ -1,0 +1,26 @@
+{
+  "url": "sellingrealestateflorida.com/faq/sell-my-condo-in-aventura",
+  "name": "Sell my condo in Aventura?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Sell my condo in Aventura?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Aventura condo sellers benefit from building-specific pricing that considers views, floor, condition, amenities, association costs, rental rules, and nearby competitive listings. Kelby Contreras provides valuation, marketing, buyer outreach, negotiation, and closing coordination.",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Aventura condo sellers benefit from building-specific pricing that considers views, floor, condition, amenities, association costs, rental rules, and nearby com"
+}

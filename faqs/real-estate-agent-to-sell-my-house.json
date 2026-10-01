@@ -1,0 +1,26 @@
+{
+  "url": "sellingrealestateflorida.com/faq/real-estate-agent-to-sell-my-house",
+  "name": "Real estate agent to sell my house?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Real estate agent to sell my house?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "When choosing a real estate agent to sell your house, look for local market knowledge, a credible valuation process, a written marketing plan, communication standards, negotiation experience, and a clear approach to buyer screening and closing coordination. Kelby Contreras provides seller representation across Miami and South Florida.",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "When choosing a real estate agent to sell your house, look for local market knowledge, a credible valuation process, a written marketing plan, communication sta"
+}

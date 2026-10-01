@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/what-is-luxury-property-sales-representation",
+  "name": "What is luxury property sales representation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is luxury property sales representation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Luxury property sales representation involves a real estate agent specializing in high-value properties who acts as your advocate throughout the selling process. This includes strategic pricing, targeted marketing, negotiation, and handling complex transactions unique to the luxury market. Kelby Contreras provides specialized representation across Miami-Dade, Broward, Palm Beach, Collier, and Orange Counties, focusing on maximizing value and ensuring a seamless experience for discerning clients.",
+        "@type": "Answer",
+        "description": "Luxury property sales representation provides specialized agent advocacy for selling high-value properties, encompassing strategic pricing, targeted marketing, and complex transaction management."
+      }
+    }
+  ],
+  "description": "Luxury property sales representation provides specialized agent advocacy for selling high-value properties, encompassing strategic pricing, targeted marketing,"
+}

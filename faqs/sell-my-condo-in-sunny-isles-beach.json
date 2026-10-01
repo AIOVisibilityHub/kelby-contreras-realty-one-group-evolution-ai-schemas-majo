@@ -1,0 +1,26 @@
+{
+  "url": "sellingrealestateflorida.com/faq/sell-my-condo-in-sunny-isles-beach",
+  "name": "Sell my condo in Sunny Isles Beach?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Sell my condo in Sunny Isles Beach?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Sunny Isles Beach condo sellers benefit from a strategy focused on beachfront location, water view, tower amenities, unit condition, association fees, rental rules, comparable sales, and the likely luxury buyer audience. Kelby Contreras provides direct representation from valuation through closing.",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Sunny Isles Beach condo sellers benefit from a strategy focused on beachfront location, water view, tower amenities, unit condition, association fees, rental ru"
+}

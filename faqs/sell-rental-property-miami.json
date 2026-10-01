@@ -1,0 +1,26 @@
+{
+  "url": "sellingrealestateflorida.com/faq/sell-rental-property-miami",
+  "name": "Sell rental property Miami?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Sell rental property Miami?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "To sell a Miami rental property, gather leases, tenant information, income and expense records, maintenance history, association rules, and any local rental requirements. Kelby Contreras helps owners evaluate whether to sell vacant or occupied, develop a pricing strategy, market the property, and manage buyer negotiations.",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "To sell a Miami rental property, gather leases, tenant information, income and expense records, maintenance history, association rules, and any local rental req"
+}

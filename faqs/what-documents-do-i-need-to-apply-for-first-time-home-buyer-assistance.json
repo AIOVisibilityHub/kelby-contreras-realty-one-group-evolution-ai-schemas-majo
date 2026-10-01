@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/what-documents-do-i-need-to-apply-for-first-time-home-buyer-assistance",
+  "name": "What documents do I need to apply for first-time home buyer assistance?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What documents do I need to apply for first-time home buyer assistance?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "To apply for first-time home buyer assistance, you typically need to gather financial documents such as recent pay stubs, W-2s, tax returns for the past two years, bank statements, and credit reports. Lenders and program administrators will use these to verify your income, assets, and financial stability. A key preparation step is to organize these documents well in advance and ensure they are up-to-date. This will streamline the application process and help avoid potential delays. Some programs may also require completion of a home buyer education certificate.",
+        "@type": "Answer",
+        "description": "You will need pay stubs, W-2s, tax returns, bank statements, and credit reports to apply for assistance."
+      }
+    }
+  ],
+  "description": "You will need pay stubs, W-2s, tax returns, bank statements, and credit reports to apply for assistance."
+}

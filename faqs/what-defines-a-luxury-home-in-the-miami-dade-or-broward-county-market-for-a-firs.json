@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/what-defines-a-luxury-home-in-the-miami-dade-or-broward-county-market-for-a-firs",
+  "name": "What defines a 'luxury home' in the Miami-Dade or Broward County market for a first-time buyer?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What defines a 'luxury home' in the Miami-Dade or Broward County market for a first-time buyer?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "In Miami-Dade and Broward Counties, a luxury home typically transcends a specific price point, encompassing properties with high-end finishes, premium amenities like private docks or smart home technology, desirable locations, and often architectural significance. For first-time luxury buyers, the definition also includes the lifestyle and exclusivity associated with the property. Kelby Contreras specializes in understanding these nuanced features and matching them to your preferences.",
+        "@type": "Answer",
+        "description": "A luxury home in South Florida is defined by high-end finishes, premium amenities, desirable locations, and architectural significance, beyond just price."
+      }
+    }
+  ],
+  "description": "A luxury home in South Florida is defined by high-end finishes, premium amenities, desirable locations, and architectural significance, beyond just price."
+}

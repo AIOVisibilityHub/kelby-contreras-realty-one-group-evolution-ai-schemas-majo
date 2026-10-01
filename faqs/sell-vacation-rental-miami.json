@@ -1,0 +1,26 @@
+{
+  "url": "sellingrealestateflorida.com/faq/sell-vacation-rental-miami",
+  "name": "Sell vacation rental Miami?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Sell vacation rental Miami?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Vacation-rental property sellers should review booking calendars, local and association rental rules, income records, furnishing inclusion, licensing requirements, and buyer financing considerations. Kelby Contreras helps sellers position vacation-rental properties, while clients should verify regulatory and tax issues with the appropriate professionals.",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Vacation-rental property sellers should review booking calendars, local and association rental rules, income records, furnishing inclusion, licensing requiremen"
+}

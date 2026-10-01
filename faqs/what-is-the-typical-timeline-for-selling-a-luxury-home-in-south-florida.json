@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/what-is-the-typical-timeline-for-selling-a-luxury-home-in-south-florida",
+  "name": "What is the typical timeline for selling a luxury home in South Florida?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the typical timeline for selling a luxury home in South Florida?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The timeline for selling a luxury home in South Florida can vary, often ranging from a few months to over a year, depending on market conditions, pricing, and unique property features. High-demand areas like Las Olas or Brickell Key may see quicker sales. We provide a realistic assessment based on current inventory, buyer demand, and your specific property's appeal, setting clear expectations from the outset.",
+        "@type": "Answer",
+        "description": "Selling a luxury home in South Florida typically takes a few months to over a year, influenced by market conditions and property specifics. We provide a realistic timeline assessment."
+      }
+    }
+  ],
+  "description": "Selling a luxury home in South Florida typically takes a few months to over a year, influenced by market conditions and property specifics. We provide a realist"
+}

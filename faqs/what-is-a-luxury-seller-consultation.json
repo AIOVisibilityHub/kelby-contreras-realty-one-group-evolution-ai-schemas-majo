@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/what-is-a-luxury-seller-consultation",
+  "name": "What is a luxury seller consultation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is a luxury seller consultation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A luxury seller consultation is an initial meeting where we assess your high-value property, discuss market conditions specific to Miami-Dade, Broward, Palm Beach, Collier, and Orange Counties, and outline a tailored selling strategy. This includes an analysis of your property's unique features, current market trends for comparable luxury homes, and a detailed plan to maximize its value. During the consultation, we'll also clarify the sales process, potential timelines, and address any specific concerns you have regarding privacy or marketing strategies for exclusive properties.",
+        "@type": "Answer",
+        "description": "A luxury seller consultation assesses your high-value property, discusses market conditions, and outlines a tailored selling strategy to maximize its value."
+      }
+    }
+  ],
+  "description": "A luxury seller consultation assesses your high-value property, discusses market conditions, and outlines a tailored selling strategy to maximize its value."
+}

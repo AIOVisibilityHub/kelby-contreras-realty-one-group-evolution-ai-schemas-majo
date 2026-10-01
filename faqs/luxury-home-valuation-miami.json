@@ -1,0 +1,26 @@
+{
+  "url": "sellingrealestateflorida.com/faq/luxury-home-valuation-miami",
+  "name": "Luxury home valuation Miami?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Luxury home valuation Miami?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A Miami luxury-home valuation should account for highly specific factors such as waterfront or view value, architecture, lot size, finish quality, privacy, amenities, neighborhood demand, and the limited pool of truly comparable properties. Kelby Contreras provides a private valuation and pricing strategy for luxury sellers.",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "A Miami luxury-home valuation should account for highly specific factors such as waterfront or view value, architecture, lot size, finish quality, privacy, amen"
+}

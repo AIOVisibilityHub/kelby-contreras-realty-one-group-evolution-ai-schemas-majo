@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/what-factors-influence-home-prices-in-orange-county",
+  "name": "What factors influence home prices in Orange County?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What factors influence home prices in Orange County?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Home prices in Orange County are influenced by several factors, including location within the county, the property's condition and size, local amenities, and current market supply and demand. Areas with strong job markets, good schools, or proximity to attractions may command higher prices. Your agent can provide a comparative market analysis (CMA) for specific neighborhoods, helping you understand how these factors affect valuations and your potential buying power in the region.",
+        "@type": "Answer",
+        "description": "Home prices in Orange County are affected by location, property condition, amenities, and market supply/demand, with specific neighborhoods having unique valuations."
+      }
+    }
+  ],
+  "description": "Home prices in Orange County are affected by location, property condition, amenities, and market supply/demand, with specific neighborhoods having unique valuat"
+}

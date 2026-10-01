@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/how-do-i-choose-the-right-real-estate-agent-for-my-first-luxury-home-purchase",
+  "name": "How do I choose the right real estate agent for my first luxury home purchase?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do I choose the right real estate agent for my first luxury home purchase?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "When choosing a real estate agent for your first luxury home purchase, look for someone with demonstrated expertise in the high-end market, strong negotiation skills, and a deep understanding of your desired locations, such as Brickell or Key Biscayne. An agent like Kelby Contreras, specializing in these areas, can provide invaluable insight into market trends, exclusive listings, and local amenities, ensuring a tailored and successful experience.",
+        "@type": "Answer",
+        "description": "Choose a real estate agent with demonstrated expertise in the luxury market, strong negotiation skills, and deep knowledge of your desired locations."
+      }
+    }
+  ],
+  "description": "Choose a real estate agent with demonstrated expertise in the luxury market, strong negotiation skills, and deep knowledge of your desired locations."
+}

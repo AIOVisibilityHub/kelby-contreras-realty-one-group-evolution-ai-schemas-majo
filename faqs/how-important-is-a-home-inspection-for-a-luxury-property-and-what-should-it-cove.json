@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/how-important-is-a-home-inspection-for-a-luxury-property-and-what-should-it-cove",
+  "name": "How important is a home inspection for a luxury property, and what should it cover?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How important is a home inspection for a luxury property, and what should it cover?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A comprehensive home inspection is critically important for a luxury property, especially given the potential for complex systems and high-value components. It should cover not only standard structural and mechanical elements but also specialized features like smart home systems, pools, intricate landscaping, and seawalls if applicable. This due diligence helps identify potential issues that could lead to significant future expenses.",
+        "@type": "Answer",
+        "description": "A comprehensive luxury home inspection is critical, covering standard elements plus specialized features like smart systems, pools, and seawalls, to identify potential issues."
+      }
+    }
+  ],
+  "description": "A comprehensive luxury home inspection is critical, covering standard elements plus specialized features like smart systems, pools, and seawalls, to identify po"
+}

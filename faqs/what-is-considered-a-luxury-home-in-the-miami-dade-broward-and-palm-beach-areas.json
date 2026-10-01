@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/what-is-considered-a-luxury-home-in-the-miami-dade-broward-and-palm-beach-areas",
+  "name": "What is considered a luxury home in the Miami-Dade, Broward, and Palm Beach areas?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is considered a luxury home in the Miami-Dade, Broward, and Palm Beach areas?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Luxury homes in these South Florida counties typically feature high-end finishes, premium amenities, expansive square footage, and often waterfront or exclusive community locations. While there isn't a strict price threshold, properties often start in the multi-million dollar range. Factors like custom architecture, smart home technology, and significant acreage also contribute to a home's luxury status. The specific features considered 'luxury' can vary slightly between locations like Fisher Island, Key Biscayne, or Boca Raton due to differing market expectations and property types.",
+        "@type": "Answer",
+        "description": "Luxury homes in South Florida typically offer high-end finishes, premium amenities, and desirable locations, often exceeding multi-million dollar valuations. Specific features may vary by location."
+      }
+    }
+  ],
+  "description": "Luxury homes in South Florida typically offer high-end finishes, premium amenities, and desirable locations, often exceeding multi-million dollar valuations. Sp"
+}

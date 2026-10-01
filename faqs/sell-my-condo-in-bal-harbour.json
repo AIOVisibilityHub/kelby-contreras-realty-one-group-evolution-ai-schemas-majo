@@ -1,0 +1,26 @@
+{
+  "url": "sellingrealestateflorida.com/faq/sell-my-condo-in-bal-harbour",
+  "name": "Sell my condo in Bal Harbour?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Sell my condo in Bal Harbour?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Bal Harbour condo sellers should use a pricing and marketing plan tailored to the building, unit features, beach access, privacy, services, comparable sales, and luxury buyer pool. Kelby Contreras provides private valuation, strategic marketing, negotiation, and sale coordination.",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Bal Harbour condo sellers should use a pricing and marketing plan tailored to the building, unit features, beach access, privacy, services, comparable sales, an"
+}

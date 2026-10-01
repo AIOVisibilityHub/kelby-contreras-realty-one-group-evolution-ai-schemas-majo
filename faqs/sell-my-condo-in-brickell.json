@@ -1,0 +1,26 @@
+{
+  "url": "sellingrealestateflorida.com/faq/sell-my-condo-in-brickell",
+  "name": "Sell my condo in Brickell?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Sell my condo in Brickell?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Brickell condo sellers should price against current and recent sales in the same building as well as nearby competing towers. Kelby Contreras helps owners assess unit views, floor, finishes, amenities, association fees, rental rules, and buyer demand to build a clear condo sale strategy.",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Brickell condo sellers should price against current and recent sales in the same building as well as nearby competing towers. Kelby Contreras helps owners asses"
+}

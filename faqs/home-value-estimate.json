@@ -1,0 +1,26 @@
+{
+  "url": "sellingrealestateflorida.com/faq/home-value-estimate",
+  "name": "Home value estimate?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Home value estimate?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A home value estimate is a starting point, but it may not capture condition, upgrades, location on the street, views, lot attributes, building-specific factors, or recent market changes. Kelby Contreras provides a more tailored property valuation for Miami and South Florida sellers.",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "A home value estimate is a starting point, but it may not capture condition, upgrades, location on the street, views, lot attributes, building-specific factors,"
+}

@@ -1,0 +1,26 @@
+{
+  "url": "sellingrealestateflorida.com/faq/sell-my-house-in-coral-gables",
+  "name": "Sell my house in Coral Gables?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Sell my house in Coral Gables?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Kelby Contreras helps Coral Gables homeowners sell through a property-specific valuation, neighborhood-aware pricing strategy, targeted marketing, buyer outreach, negotiation, and closing coordination. The approach can be tailored for estates, historic homes, golf-community properties, waterfront homes, and other luxury residences.",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Kelby Contreras helps Coral Gables homeowners sell through a property-specific valuation, neighborhood-aware pricing strategy, targeted marketing, buyer outreac"
+}

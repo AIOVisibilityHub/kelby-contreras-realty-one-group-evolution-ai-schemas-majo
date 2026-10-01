@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/what-is-included-in-your-marketing-strategy-for-luxury-homes",
+  "name": "What is included in your marketing strategy for luxury homes?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is included in your marketing strategy for luxury homes?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Our marketing strategy for luxury homes is comprehensive and designed to reach an exclusive audience. It typically includes professional photography, aerial drone footage, virtual reality tours, and custom property websites. We leverage targeted digital advertising on luxury real estate platforms and social media, alongside discreet outreach to our network of high-net-worth buyers and international contacts. Print advertising in high-end publications may also be utilized. The specific elements chosen for your property will depend on its unique characteristics and the most effective channels to attract qualified buyers in locations like Fisher Island or Las Olas.",
+        "@type": "Answer",
+        "description": "Our luxury home marketing strategy includes professional visuals, targeted digital ads, network outreach, and sometimes print, tailored to reach exclusive buyers."
+      }
+    }
+  ],
+  "description": "Our luxury home marketing strategy includes professional visuals, targeted digital ads, network outreach, and sometimes print, tailored to reach exclusive buyer"
+}

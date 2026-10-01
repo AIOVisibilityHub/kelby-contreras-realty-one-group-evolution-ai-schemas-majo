@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/what-are-the-typical-closing-costs-for-a-luxury-home-in-florida",
+  "name": "What are the typical closing costs for a luxury home in Florida?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are the typical closing costs for a luxury home in Florida?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Typical closing costs for a luxury home in Florida generally range from 2% to 5% of the purchase price, but can vary based on the transaction specifics and loan type. These costs include title insurance, recording fees, transfer taxes, attorney fees, appraisal fees, and lender origination fees if financing. For luxury properties, higher purchase prices naturally lead to higher closing cost totals. It's essential to get a detailed breakdown from your lender and title company early in the process to properly prepare your budget.",
+        "@type": "Answer",
+        "description": "Closing costs for luxury homes in Florida typically range from 2% to 5% of the purchase price, including title insurance, fees, and taxes. Get a detailed breakdown to budget accurately."
+      }
+    }
+  ],
+  "description": "Closing costs for luxury homes in Florida typically range from 2% to 5% of the purchase price, including title insurance, fees, and taxes. Get a detailed breakd"
+}

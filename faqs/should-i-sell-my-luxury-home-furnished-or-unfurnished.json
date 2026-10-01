@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/should-i-sell-my-luxury-home-furnished-or-unfurnished",
+  "name": "Should I sell my luxury home furnished or unfurnished?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Should I sell my luxury home furnished or unfurnished?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Deciding whether to sell a luxury home furnished or unfurnished depends on your target buyer and the property's style. Selling furnished can enhance a home's appeal by showcasing its livability and design, particularly for international buyers or those seeking a turnkey solution in areas like Williams Island. However, it can also limit appeal if the decor isn't universally desirable. We can help assess which approach best aligns with market trends and your property's unique characteristics.",
+        "@type": "Answer",
+        "description": "Selling a luxury home furnished or unfurnished depends on your target buyer and the home's style. Furnishing can enhance appeal but may limit it if decor isn't universal."
+      }
+    }
+  ],
+  "description": "Selling a luxury home furnished or unfurnished depends on your target buyer and the home's style. Furnishing can enhance appeal but may limit it if decor isn't"
+}

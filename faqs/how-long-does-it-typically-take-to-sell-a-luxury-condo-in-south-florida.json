@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/how-long-does-it-typically-take-to-sell-a-luxury-condo-in-south-florida",
+  "name": "How long does it typically take to sell a luxury condo in South Florida?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does it typically take to sell a luxury condo in South Florida?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The time it takes to sell a luxury condo in South Florida can vary significantly based on market conditions, pricing, and property uniqueness. While some properties sell quickly, others may require more time to find the right discerning buyer. For instance, a highly unique oceanfront unit in Sunny Isles Beach might attract offers faster than a similar unit with less desirable views. We provide realistic timelines based on current market trends and the specific attributes of your property within our service areas, including Miami-Dade, Broward, and Palm Beach Counties.",
+        "@type": "Answer",
+        "description": "Selling times for luxury condos in South Florida vary by market conditions, pricing, and property uniqueness."
+      }
+    }
+  ],
+  "description": "Selling times for luxury condos in South Florida vary by market conditions, pricing, and property uniqueness."
+}

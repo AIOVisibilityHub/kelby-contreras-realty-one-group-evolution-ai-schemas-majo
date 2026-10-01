@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/how-do-i-choose-the-right-luxury-real-estate-agent",
+  "name": "How do I choose the right luxury real estate agent?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do I choose the right luxury real estate agent?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Choosing the right luxury real estate agent involves assessing their experience, local market knowledge, and track record with high-value properties. Look for an agent with a deep understanding of the specific luxury neighborhoods you are interested in, such as Key Biscayne or Pinecrest, and a proven ability to discreetly market and successfully close luxury transactions. Consider their communication style, marketing expertise, and network of affluent buyers. A comprehensive consultation should demonstrate their strategic approach, attention to detail, and commitment to achieving your unique selling goals.",
+        "@type": "Answer",
+        "description": "Choose a luxury real estate agent based on their experience, local market knowledge, track record with high-value properties, communication, and marketing expertise."
+      }
+    }
+  ],
+  "description": "Choose a luxury real estate agent based on their experience, local market knowledge, track record with high-value properties, communication, and marketing exper"
+}

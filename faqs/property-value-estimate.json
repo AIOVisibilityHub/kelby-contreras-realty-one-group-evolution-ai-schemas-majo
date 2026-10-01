@@ -1,0 +1,26 @@
+{
+  "url": "sellingrealestateflorida.com/faq/property-value-estimate",
+  "name": "Property value estimate?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Property value estimate?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A useful property value estimate compares the property with recent relevant sales and current competing listings while considering the home’s location, type, size, condition, improvements, and features. Kelby Contreras provides a seller consultation and pricing strategy based on current market data.",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "A useful property value estimate compares the property with recent relevant sales and current competing listings while considering the home’s location, type, si"
+}

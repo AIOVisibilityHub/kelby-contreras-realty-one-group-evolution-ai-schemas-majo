@@ -1,0 +1,26 @@
+{
+  "url": "sellingrealestateflorida.com/faq/sell-luxury-property-miami",
+  "name": "Sell luxury property Miami?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Sell luxury property Miami?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Kelby Contreras helps Miami luxury-property owners sell through a tailored valuation, strategic pricing, premium positioning, targeted and confidential marketing options, buyer qualification, negotiation, and transaction coordination. The plan is built around the property’s specific location, features, market position, and seller goals.",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Kelby Contreras helps Miami luxury-property owners sell through a tailored valuation, strategic pricing, premium positioning, targeted and confidential marketin"
+}

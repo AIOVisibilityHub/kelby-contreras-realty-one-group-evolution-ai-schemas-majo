@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/what-is-a-luxury-buyer-consultation",
+  "name": "What is a luxury buyer consultation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is a luxury buyer consultation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A luxury buyer consultation is a personalized service designed to assist high-net-worth individuals in navigating the complex market of luxury real estate. This service typically involves an initial meeting to understand your specific preferences, lifestyle needs, and investment goals, followed by a strategic plan to identify and acquire suitable properties. The consultation aims to streamline the property search and acquisition process, providing expertise in areas such as market trends, property valuation, and negotiation tactics for premium properties in regions like Miami-Dade, Broward, Palm Beach, Collier, and Orange Counties.",
+        "@type": "Answer",
+        "description": "A luxury buyer consultation is a personalized service guiding high-net-worth individuals through the complex luxury real estate market, focusing on specific preferences and investment goals."
+      }
+    }
+  ],
+  "description": "A luxury buyer consultation is a personalized service guiding high-net-worth individuals through the complex luxury real estate market, focusing on specific pre"
+}

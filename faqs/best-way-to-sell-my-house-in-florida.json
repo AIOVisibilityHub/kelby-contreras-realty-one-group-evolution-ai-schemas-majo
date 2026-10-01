@@ -1,0 +1,26 @@
+{
+  "url": "sellingrealestateflorida.com/faq/best-way-to-sell-my-house-in-florida",
+  "name": "Best way to sell my house in Florida?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Best way to sell my house in Florida?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The best way to sell a Florida house depends on the property condition, timing, desired proceeds, need for privacy, and willingness to complete repairs or showings. Options may include a traditional listed sale, a cash offer, an as-is sale, or a discreet off-market strategy. Kelby Contreras helps sellers compare options and select an appropriate approach.",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "The best way to sell a Florida house depends on the property condition, timing, desired proceeds, need for privacy, and willingness to complete repairs or showi"
+}

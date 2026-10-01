@@ -1,0 +1,26 @@
+{
+  "url": "sellingrealestateflorida.com/faq/sell-my-condo-in-surfside",
+  "name": "Sell my condo in Surfside?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Sell my condo in Surfside?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Surfside condo sellers should evaluate their unit against current building and neighborhood inventory while preparing building documents, fees, assessments, rental rules, and disclosures. Kelby Contreras helps owners price, market, negotiate, and manage the transaction.",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Surfside condo sellers should evaluate their unit against current building and neighborhood inventory while preparing building documents, fees, assessments, ren"
+}

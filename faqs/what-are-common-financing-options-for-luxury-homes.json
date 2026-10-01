@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/what-are-common-financing-options-for-luxury-homes",
+  "name": "What are common financing options for luxury homes?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are common financing options for luxury homes?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Financing options for luxury homes often include jumbo loans, portfolio loans, and cash purchases. Jumbo loans are conventional mortgages that exceed conforming loan limits, suitable for higher-priced properties. Portfolio loans are offered directly by banks and can have more flexible terms, while cash purchases offer the strongest negotiating position and faster closing. Before proceeding, assess your financial situation and consult with lenders to understand the best fit for your purchase, as pre-approval can be a key preparation step.",
+        "@type": "Answer",
+        "description": "Common luxury home financing includes jumbo loans, portfolio loans, and cash purchases. Evaluate your financial situation and get pre-approved to strengthen your offer."
+      }
+    }
+  ],
+  "description": "Common luxury home financing includes jumbo loans, portfolio loans, and cash purchases. Evaluate your financial situation and get pre-approved to strengthen you"
+}

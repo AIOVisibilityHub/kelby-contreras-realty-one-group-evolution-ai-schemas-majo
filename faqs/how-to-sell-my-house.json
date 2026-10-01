@@ -1,0 +1,26 @@
+{
+  "url": "sellingrealestateflorida.com/faq/how-to-sell-my-house",
+  "name": "How to sell my house?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How to sell my house?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Selling a house usually involves setting goals, obtaining a current market valuation, deciding whether to repair or sell as-is, preparing the property, pricing it strategically, marketing it, managing showings, reviewing offers, negotiating terms, completing inspections and disclosures, and closing. Kelby Contreras helps Miami and South Florida owners manage each step with direct representation.",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Selling a house usually involves setting goals, obtaining a current market valuation, deciding whether to repair or sell as-is, preparing the property, pricing"
+}

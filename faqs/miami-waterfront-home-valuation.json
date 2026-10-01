@@ -1,0 +1,26 @@
+{
+  "url": "sellingrealestateflorida.com/faq/miami-waterfront-home-valuation",
+  "name": "Miami waterfront home valuation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Miami waterfront home valuation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A Miami waterfront home valuation should include location on the water, view, water access, dock and seawall condition, bridge clearance where applicable, lot size, elevation, insurance considerations, home condition, and comparable waterfront sales. Kelby Contreras offers private valuation guidance for waterfront sellers.",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "A Miami waterfront home valuation should include location on the water, view, water access, dock and seawall condition, bridge clearance where applicable, lot s"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/what-are-the-typical-closing-costs-associated-with-buying-a-luxury-condo-in-sout",
+  "name": "What are the typical closing costs associated with buying a luxury condo in South Florida?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are the typical closing costs associated with buying a luxury condo in South Florida?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Closing costs for a luxury condo in South Florida generally range from 2% to 5% of the purchase price. These costs include title insurance, appraisal fees, recording fees, and potentially a buyer's documentary stamp tax. For properties within specific HOAs or COAs, there might also be additional fees or reserves to consider. Understanding these upfront expenses is crucial for budgeting, and your real estate agent can provide a detailed estimate based on the specific property and location, such as a high-value unit in Brickell or Coral Gables.",
+        "@type": "Answer",
+        "description": "Closing costs for luxury condos in South Florida typically range from 2% to 5% of the purchase price, covering various fees like title insurance and taxes."
+      }
+    }
+  ],
+  "description": "Closing costs for luxury condos in South Florida typically range from 2% to 5% of the purchase price, covering various fees like title insurance and taxes."
+}

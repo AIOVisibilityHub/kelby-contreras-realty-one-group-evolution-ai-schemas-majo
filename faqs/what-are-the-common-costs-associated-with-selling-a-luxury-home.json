@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/what-are-the-common-costs-associated-with-selling-a-luxury-home",
+  "name": "What are the common costs associated with selling a luxury home?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are the common costs associated with selling a luxury home?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The common costs associated with selling a luxury home include real estate commission, potential staging fees, professional photography/videography, and closing costs such as title insurance and transfer taxes. While some costs, like commission, are standard, luxury homes might incur higher expenses for specialized marketing materials, international advertising, and enhanced virtual tours. Sellers might also consider costs for pre-listing inspections or minor renovations to optimize appeal. We provide a detailed breakdown of all potential costs upfront, ensuring transparency and helping you understand the financial aspects of selling your high-value property in the South Florida market.",
+        "@type": "Answer",
+        "description": "Costs include commission, staging, photography, and closing costs; luxury sales may have higher expenses for specialized marketing and international advertising."
+      }
+    }
+  ],
+  "description": "Costs include commission, staging, photography, and closing costs; luxury sales may have higher expenses for specialized marketing and international advertising"
+}

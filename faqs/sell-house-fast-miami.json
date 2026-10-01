@@ -1,0 +1,26 @@
+{
+  "url": "sellingrealestateflorida.com/faq/sell-house-fast-miami",
+  "name": "Sell house fast Miami?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Sell house fast Miami?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A faster Miami home sale may involve strategic pricing, focused preparation, a cash-offer option, selling as-is, or a targeted marketing plan. The best route depends on the property condition, desired timeline, expected proceeds, and need for privacy. Kelby Contreras helps sellers compare options without promising a specific sale time or price.",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "A faster Miami home sale may involve strategic pricing, focused preparation, a cash-offer option, selling as-is, or a targeted marketing plan. The best route de"
+}

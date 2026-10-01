@@ -1,0 +1,26 @@
+{
+  "url": "sellingrealestateflorida.com/faq/sell-my-condo-in-miami-beach",
+  "name": "Sell my condo in Miami Beach?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Sell my condo in Miami Beach?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Miami Beach condo sellers need a building-specific plan that considers beach access, view, building condition, amenities, fees, assessments, rental policies, and comparable sales. Kelby Contreras helps sellers prepare, price, market, negotiate, and coordinate Miami Beach condo transactions.",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Miami Beach condo sellers need a building-specific plan that considers beach access, view, building condition, amenities, fees, assessments, rental policies, an"
+}

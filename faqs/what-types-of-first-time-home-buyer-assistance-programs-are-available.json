@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/what-types-of-first-time-home-buyer-assistance-programs-are-available",
+  "name": "What types of first-time home buyer assistance programs are available?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What types of first-time home buyer assistance programs are available?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "First-time home buyer assistance programs typically include down payment assistance, closing cost assistance, and favorable loan terms. These programs can be offered by federal, state, or local government entities, as well as non-profit organizations. It's important to research what options are available in your specific area, such as Miami-Dade or Broward County, as eligibility requirements and available funds can vary significantly. Some programs might be specific to certain professions or income levels.",
+        "@type": "Answer",
+        "description": "Assistance programs include down payment, closing cost aid, and favorable loan terms from federal, state, or local sources."
+      }
+    }
+  ],
+  "description": "Assistance programs include down payment, closing cost aid, and favorable loan terms from federal, state, or local sources."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/what-is-the-typical-process-after-a-luxury-seller-consultation",
+  "name": "What is the typical process after a luxury seller consultation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the typical process after a luxury seller consultation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "After a luxury seller consultation, if you decide to proceed, the next steps involve formalizing our partnership through a listing agreement. Following this, we will activate the tailored marketing plan developed during our meeting, which may include professional photography, virtual tours, and targeted advertising to high-net-worth individuals. We will coordinate property showings, manage inquiries, and provide regular updates on market feedback. The process culminates in receiving offers, negotiating terms, and guiding you through the closing process, ensuring a smooth transaction for your luxury property.",
+        "@type": "Answer",
+        "description": "After consultation, if you proceed, we finalize a listing agreement, activate the marketing plan, manage showings, and guide you through offers and closing."
+      }
+    }
+  ],
+  "description": "After consultation, if you proceed, we finalize a listing agreement, activate the marketing plan, manage showings, and guide you through offers and closing."
+}

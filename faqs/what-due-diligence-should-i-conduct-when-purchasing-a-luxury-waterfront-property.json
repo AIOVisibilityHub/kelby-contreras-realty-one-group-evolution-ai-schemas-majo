@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/what-due-diligence-should-i-conduct-when-purchasing-a-luxury-waterfront-property",
+  "name": "What due diligence should I conduct when purchasing a luxury waterfront property?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What due diligence should I conduct when purchasing a luxury waterfront property?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "For luxury waterfront properties, due diligence should include a thorough marine survey to assess seawall integrity, dock condition, and dredge requirements. Environmental reports are crucial to understand flood zone designations, coastal regulations, and potential erosion risks specific to South Florida. Additionally, verify insurance costs, as premiums for waterfront properties can be substantial. Understanding these specific factors is essential, as they can significantly impact maintenance, use, and long-term value.",
+        "@type": "Answer",
+        "description": "When buying luxury waterfront property, conduct marine and environmental surveys, and verify insurance costs. These specific due diligence steps address unique risks and costs of coastal homes."
+      }
+    }
+  ],
+  "description": "When buying luxury waterfront property, conduct marine and environmental surveys, and verify insurance costs. These specific due diligence steps address unique"
+}

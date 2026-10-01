@@ -1,0 +1,26 @@
+{
+  "url": "sellingrealestateflorida.com/faq/florida-luxury-listing-agent",
+  "name": "Florida luxury listing agent?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Florida luxury listing agent?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Kelby Contreras provides luxury listing representation for Florida sellers who need a strategic sale plan for high-end homes, waterfront properties, condos, penthouses, investment properties, and discreet transactions. Services include valuation, luxury marketing, targeted buyer outreach, negotiation, and transaction management.",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Kelby Contreras provides luxury listing representation for Florida sellers who need a strategic sale plan for high-end homes, waterfront properties, condos, pen"
+}

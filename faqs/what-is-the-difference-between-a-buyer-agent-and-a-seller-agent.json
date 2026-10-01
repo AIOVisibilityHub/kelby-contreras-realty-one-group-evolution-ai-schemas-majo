@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/what-is-the-difference-between-a-buyer-agent-and-a-seller-agent",
+  "name": "What is the difference between a buyer agent and a seller agent?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the difference between a buyer agent and a seller agent?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A buyer agent exclusively represents the buyer's interests, aiming to secure the best property at the best price and terms for them. Conversely, a seller agent (or listing agent) represents the seller, working to achieve the highest possible sale price and most favorable terms for their client. The primary difference is whose interests each agent legally and ethically prioritizes in the transaction. This dual representation ensures both parties have dedicated advocacy.",
+        "@type": "Answer",
+        "description": "A buyer agent represents the buyer's interests, while a seller agent represents the seller's interests. Each prioritizes their respective client's goals in the transaction."
+      }
+    }
+  ],
+  "description": "A buyer agent represents the buyer's interests, while a seller agent represents the seller's interests. Each prioritizes their respective client's goals in the"
+}

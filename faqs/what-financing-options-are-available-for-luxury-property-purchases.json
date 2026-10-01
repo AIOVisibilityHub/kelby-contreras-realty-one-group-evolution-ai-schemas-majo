@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/what-financing-options-are-available-for-luxury-property-purchases",
+  "name": "What financing options are available for luxury property purchases?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What financing options are available for luxury property purchases?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Financing for luxury properties often involves specialized jumbo loans, portfolio loans, or even cash transactions. Traditional mortgage products may not always accommodate the higher price points and unique property characteristics. Lenders often require more extensive documentation and a strong financial profile for these types of loans. We can connect clients with lenders experienced in luxury financing, helping them explore options tailored to their specific needs, whether for a sprawling estate in Coral Gables or a penthouse in Downtown Miami.",
+        "@type": "Answer",
+        "description": "Luxury property financing includes specialized jumbo loans, portfolio loans, or cash, often requiring extensive documentation and a strong financial profile."
+      }
+    }
+  ],
+  "description": "Luxury property financing includes specialized jumbo loans, portfolio loans, or cash, often requiring extensive documentation and a strong financial profile."
+}
