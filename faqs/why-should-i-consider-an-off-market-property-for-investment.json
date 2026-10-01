@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/why-should-i-consider-an-off-market-property-for-investment",
+  "name": "Why should I consider an off-market property for investment?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Why should I consider an off-market property for investment?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Investors consider off-market properties for various reasons, including less competition, potential for better pricing, and access to unique inventory not available to the general public. These properties can be opportunities for growth or value-add strategies. A practical tradeoff is that while you might secure a deal with less competition, you may also need to conduct more thorough due diligence yourself, as publicly available information can be limited compared to listed properties.",
+        "@type": "Answer",
+        "description": "Off-market properties offer less competition and unique inventory, but may require more intensive due diligence from the buyer."
+      }
+    }
+  ],
+  "description": "Off-market properties offer less competition and unique inventory, but may require more intensive due diligence from the buyer."
+}

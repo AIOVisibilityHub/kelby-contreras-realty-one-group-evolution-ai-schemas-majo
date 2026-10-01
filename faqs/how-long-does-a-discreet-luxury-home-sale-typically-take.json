@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/how-long-does-a-discreet-luxury-home-sale-typically-take",
+  "name": "How long does a discreet luxury home sale typically take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does a discreet luxury home sale typically take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The timeline for a discreet luxury home sale can vary significantly more than a traditional sale. Because it relies on targeted outreach rather than broad market exposure, the duration depends on finding the right buyer within a specific network. Factors like unique property features, market conditions, and the seller's flexibility on price and terms influence the timeframe. Kelby Contreras provides transparent communication about potential timelines, managing expectations that while discretion is maintained, it might take longer to connect with the ideal buyer compared to a publicly listed property.",
+        "@type": "Answer",
+        "description": "Discreet luxury home sales can vary in duration due to targeted outreach. Factors like property uniqueness and market conditions influence the timeline."
+      }
+    }
+  ],
+  "description": "Discreet luxury home sales can vary in duration due to targeted outreach. Factors like property uniqueness and market conditions influence the timeline."
+}

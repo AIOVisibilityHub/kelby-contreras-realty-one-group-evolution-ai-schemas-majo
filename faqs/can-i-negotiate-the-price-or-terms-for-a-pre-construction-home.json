@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/can-i-negotiate-the-price-or-terms-for-a-pre-construction-home",
+  "name": "Can I negotiate the price or terms for a pre-construction home?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I negotiate the price or terms for a pre-construction home?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Negotiating on a pre-construction home is often possible, though it might differ from negotiating a resale. While the base price might be firm, you may have leverage to negotiate on upgrades, closing costs, or incentives like design credits. A key decision factor is the current sales phase of the development; early phases might offer more flexibility. Your agent can advise on the best negotiation strategies based on the builder's policies and market conditions in your specific area, such as Palm Beach County.",
+        "@type": "Answer",
+        "description": "Negotiations on pre-construction homes often focus on upgrades, closing costs, or incentives rather than just the base price."
+      }
+    }
+  ],
+  "description": "Negotiations on pre-construction homes often focus on upgrades, closing costs, or incentives rather than just the base price."
+}

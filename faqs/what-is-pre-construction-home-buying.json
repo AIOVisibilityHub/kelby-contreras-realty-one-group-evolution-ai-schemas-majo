@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/what-is-pre-construction-home-buying",
+  "name": "What is pre-construction home buying?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is pre-construction home buying?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Pre-construction home buying involves purchasing a property before it has been built or while it is still under construction. This means you are often buying from blueprints or renderings. A key benefit is the ability to select finishes and upgrades, customizing your future home to your preferences. However, it's crucial to understand the builder's timeline and potential for delays, as construction schedules can shift. Your real estate agent can help clarify the typical construction phases and milestones to expect.",
+        "@type": "Answer",
+        "description": "Pre-construction home buying is purchasing a property before or during its construction, often allowing for personalization of finishes."
+      }
+    }
+  ],
+  "description": "Pre-construction home buying is purchasing a property before or during its construction, often allowing for personalization of finishes."
+}

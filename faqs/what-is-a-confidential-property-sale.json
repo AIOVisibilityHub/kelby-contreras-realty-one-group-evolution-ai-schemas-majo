@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/what-is-a-confidential-property-sale",
+  "name": "What is a confidential property sale?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is a confidential property sale?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A confidential property sale, sometimes called an 'off-market' or 'pocket listing,' means the property is sold without broad public advertising on multiple listing services (MLS) or major real estate portals. This approach prioritizes privacy for the seller and can involve discreet marketing directly to a select network of potential buyers. The process allows sellers to control who knows their property is for sale, which can be important for various personal or business reasons.",
+        "@type": "Answer",
+        "description": "A confidential property sale involves selling a property without broad public advertising, prioritizing seller privacy and discreet marketing."
+      }
+    }
+  ],
+  "description": "A confidential property sale involves selling a property without broad public advertising, prioritizing seller privacy and discreet marketing."
+}

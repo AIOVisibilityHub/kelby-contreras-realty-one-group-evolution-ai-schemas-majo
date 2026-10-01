@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/how-long-does-remote-closing-coordination-typically-take",
+  "name": "How long does remote closing coordination typically take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does remote closing coordination typically take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The duration of remote closing coordination largely depends on the complexity of the transaction, the type of financing, and the responsiveness of all parties involved. Generally, from the time a contract is executed to the closing date, the process can range from 30 to 60 days. Factors like obtaining clear title, lender processing times, and appraisal scheduling can influence this timeline. Your Kelby Contreras coordinator will work to keep the process on track, managing deadlines and proactively addressing potential delays to facilitate a timely closing.",
+        "@type": "Answer",
+        "description": "It generally takes 30-60 days, depending on transaction complexity and responsiveness of parties. Your coordinator will manage deadlines to facilitate a timely closing."
+      }
+    }
+  ],
+  "description": "It generally takes 30-60 days, depending on transaction complexity and responsiveness of parties. Your coordinator will manage deadlines to facilitate a timely"
+}

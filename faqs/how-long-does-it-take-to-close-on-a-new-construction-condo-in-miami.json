@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/how-long-does-it-take-to-close-on-a-new-construction-condo-in-miami",
+  "name": "How long does it take to close on a new construction condo in Miami?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does it take to close on a new construction condo in Miami?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The closing timeline for a new construction condo in Miami can vary significantly, typically ranging from 12 to 36 months, depending on the project's stage of development. If you purchase early in the pre-construction phase, the wait will be longer. Factors like permitting delays, material availability, and construction progress can all affect the final delivery date. Kelby Contreras assists clients in understanding these potential timelines and monitoring project progress throughout the buying process.",
+        "@type": "Answer",
+        "description": "Closing on a new construction condo in Miami usually takes 12 to 36 months, depending on the project's construction phase. Factors like permitting and material availability can influence the timeline."
+      }
+    }
+  ],
+  "description": "Closing on a new construction condo in Miami usually takes 12 to 36 months, depending on the project's construction phase. Factors like permitting and material"
+}

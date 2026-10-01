@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/what-is-a-punch-list-and-how-does-it-work-for-new-construction-condos",
+  "name": "What is a 'punch list' and how does it work for new construction condos?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is a 'punch list' and how does it work for new construction condos?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A 'punch list' is a document detailing items that need repair or adjustment before you finalize the purchase of your new construction condo. This list is typically created during a walk-through inspection with the builder or their representative near the completion of construction. It identifies cosmetic defects, minor repairs, or incomplete work. You should carefully document all issues, no matter how small, to ensure they are addressed by the builder before closing. Kelby Contreras - Realty ONE Group Evolution can help you conduct a thorough punch list walk-through.",
+        "@type": "Answer",
+        "description": "A punch list identifies repairs or adjustments needed before closing on a new construction condo. It's created during a walk-through inspection to document and ensure the builder addresses all issues."
+      }
+    }
+  ],
+  "description": "A punch list identifies repairs or adjustments needed before closing on a new construction condo. It's created during a walk-through inspection to document and"
+}

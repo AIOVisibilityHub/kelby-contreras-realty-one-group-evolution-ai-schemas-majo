@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/how-do-i-determine-the-fair-market-value-of-an-off-market-oceanfront-condo",
+  "name": "How do I determine the fair market value of an off-market oceanfront condo?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do I determine the fair market value of an off-market oceanfront condo?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Determining the fair market value for an off-market oceanfront condo requires a comprehensive analysis by an experienced real estate professional. This involves evaluating recent sales of comparable properties, even those not publicly listed if accessible, considering the condo's unique features, condition, view, and location. An agent like Kelby Contreras uses their knowledge of local market trends and access to non-public sales data in specific areas like Las Olas or Key Biscayne to provide an accurate valuation. This process helps ensure the purchase price reflects the property's true worth in a less transparent market.",
+        "@type": "Answer",
+        "description": "Fair market value is determined by an experienced agent through analysis of comparable sales, property features, and local market trends."
+      }
+    }
+  ],
+  "description": "Fair market value is determined by an experienced agent through analysis of comparable sales, property features, and local market trends."
+}

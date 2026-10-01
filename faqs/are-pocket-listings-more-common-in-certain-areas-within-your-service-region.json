@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/are-pocket-listings-more-common-in-certain-areas-within-your-service-region",
+  "name": "Are pocket listings more common in certain areas within your service region?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Are pocket listings more common in certain areas within your service region?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Pocket listings can be found across our service areas, but they tend to be more prevalent in high-demand, affluent communities or areas with a strong luxury market where privacy is highly valued. This includes locales like Fisher Island, Key Biscayne, or areas along the coast in Palm Beach County. A contextual relevance point is that the prevalence often correlates with the concentration of high-net-worth individuals and properties that benefit from a discreet marketing approach, allowing us to leverage our specific network in these regions.",
+        "@type": "Answer",
+        "description": "Pocket listings are found across our service areas but are often more common in affluent, high-demand luxury markets like Fisher Island or coastal Palm Beach County, where privacy is valued."
+      }
+    }
+  ],
+  "description": "Pocket listings are found across our service areas but are often more common in affluent, high-demand luxury markets like Fisher Island or coastal Palm Beach Co"
+}

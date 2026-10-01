@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/why-do-sellers-choose-to-sell-their-waterfront-homes-off-market",
+  "name": "Why do sellers choose to sell their waterfront homes off-market?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Why do sellers choose to sell their waterfront homes off-market?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Sellers often choose an off-market approach for privacy, especially for high-value waterfront estates where discretion is paramount. It allows them to control who views the property and when, avoiding public open houses. Sometimes, sellers want to test the market's interest or have specific timing needs that a traditional listing might not accommodate. Kelby Contreras can facilitate these private transactions, matching properties in areas like Miami Beach or Fort Lauderdale with qualified buyers.",
+        "@type": "Answer",
+        "description": "Sellers use off-market sales for privacy, discretion, and to control the sale process without public exposure. It's common for high-value waterfront properties."
+      }
+    }
+  ],
+  "description": "Sellers use off-market sales for privacy, discretion, and to control the sale process without public exposure. It's common for high-value waterfront properties."
+}

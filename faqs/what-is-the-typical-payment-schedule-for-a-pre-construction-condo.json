@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/what-is-the-typical-payment-schedule-for-a-pre-construction-condo",
+  "name": "What is the typical payment schedule for a pre-construction condo?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the typical payment schedule for a pre-construction condo?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Payment schedules for pre-construction condos typically involve a series of deposits made over the construction period, rather than a single upfront payment. This often starts with an initial deposit upon signing the contract, followed by additional deposits at key construction milestones like groundbreaking, reaching a certain floor, or topping off the building. Buyers should be prepared for a structured deposit schedule that can extend for several years.",
+        "@type": "Answer",
+        "description": "Payment schedules usually involve multiple deposits spread across the construction timeline, with payments tied to specific milestones."
+      }
+    }
+  ],
+  "description": "Payment schedules usually involve multiple deposits spread across the construction timeline, with payments tied to specific milestones."
+}

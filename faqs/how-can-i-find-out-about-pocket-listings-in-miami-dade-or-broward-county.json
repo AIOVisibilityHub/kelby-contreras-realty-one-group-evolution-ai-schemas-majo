@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/how-can-i-find-out-about-pocket-listings-in-miami-dade-or-broward-county",
+  "name": "How can I find out about pocket listings in Miami-Dade or Broward County?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How can I find out about pocket listings in Miami-Dade or Broward County?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "To access pocket listings in Miami-Dade, Broward, Palm Beach, Collier, or Orange County, the most effective way is to work with an agent who has a strong local network and specializes in off-market properties. We maintain a proprietary list of unadvertised homes and actively connect with other agents who have private inventory. By understanding your specific criteria, we can proactively identify and present suitable pocket listings that match your needs before they become publicly available.",
+        "@type": "Answer",
+        "description": "Finding pocket listings in areas like Miami-Dade or Broward County requires working with an agent with a strong local network. We maintain a private list of off-market homes and can match them to your specific criteria."
+      }
+    }
+  ],
+  "description": "Finding pocket listings in areas like Miami-Dade or Broward County requires working with an agent with a strong local network. We maintain a private list of off"
+}

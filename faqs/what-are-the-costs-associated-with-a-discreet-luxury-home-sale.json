@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/what-are-the-costs-associated-with-a-discreet-luxury-home-sale",
+  "name": "What are the costs associated with a discreet luxury home sale?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are the costs associated with a discreet luxury home sale?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The costs associated with a discreet luxury home sale are generally similar to a traditional sale, primarily revolving around real estate commissions for the agent. However, some expenses like extensive public marketing campaigns are reduced or eliminated. Sellers may choose to invest more in professional photography, staging, or legal counsel to ensure a smooth, private transaction. Kelby Contreras will discuss all potential costs upfront, including any fees related to specialized marketing materials for private viewing, ensuring clarity without hidden surprises. Our transparent approach helps clients understand their financial commitment.",
+        "@type": "Answer",
+        "description": "Costs for discreet luxury home sales are similar to traditional sales, primarily commissions, but public marketing expenses are often reduced. Other potential costs include professional staging and legal fees."
+      }
+    }
+  ],
+  "description": "Costs for discreet luxury home sales are similar to traditional sales, primarily commissions, but public marketing expenses are often reduced. Other potential c"
+}

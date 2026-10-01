@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/what-does-a-confidential-property-purchase-involve",
+  "name": "What does a 'confidential property purchase' involve?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What does a 'confidential property purchase' involve?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A confidential property purchase typically involves transactions where the buyer's identity, the property's availability, or the terms of sale are kept private from the general public. This can be crucial for high-profile individuals, strategic investments, or situations where discretion is paramount. For clients of Kelby Contreras, this often means leveraging a network of off-market listings and direct negotiations to ensure privacy throughout the process, from initial inquiry to closing, minimizing exposure and potential disruption.",
+        "@type": "Answer",
+        "description": "A confidential property purchase keeps details of the buyer, property, or sale terms private. It often involves off-market listings and direct negotiations to ensure discretion."
+      }
+    }
+  ],
+  "description": "A confidential property purchase keeps details of the buyer, property, or sale terms private. It often involves off-market listings and direct negotiations to e"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/what-does-pre-construction-condo-mean",
+  "name": "What does 'pre-construction condo' mean?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What does 'pre-construction condo' mean?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A pre-construction condo is a unit in a condominium building that has not yet been built or is currently under construction. Buyers purchase the property based on floor plans, renderings, and specifications provided by the developer. This often allows for customization options and securing a unit at an earlier price point before market appreciation.",
+        "@type": "Answer",
+        "description": "A pre-construction condo is a unit purchased before or during its construction, based on developer plans."
+      }
+    }
+  ],
+  "description": "A pre-construction condo is a unit purchased before or during its construction, based on developer plans."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/what-is-an-off-market-oceanfront-condo",
+  "name": "What is an off-market oceanfront condo?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is an off-market oceanfront condo?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "An off-market oceanfront condo is a property that is available for sale but not publicly listed on the multiple listing service (MLS) or other public real estate platforms. These properties are often sold through private networks, real estate agents with strong local connections, or direct owner-to-buyer transactions. Buying off-market can offer exclusive opportunities to access unique properties before they face broader competition. Kelby Contreras, with expertise in areas like Miami-Dade and Broward Counties, often leverages local connections to find such exclusive listings for clients, providing a competitive advantage in these sought-after markets.",
+        "@type": "Answer",
+        "description": "An off-market oceanfront condo is a property for sale that is not publicly listed, often sold through private networks or agents."
+      }
+    }
+  ],
+  "description": "An off-market oceanfront condo is a property for sale that is not publicly listed, often sold through private networks or agents."
+}

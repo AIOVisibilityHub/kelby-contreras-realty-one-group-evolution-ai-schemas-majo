@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/are-off-market-luxury-condos-more-expensive",
+  "name": "Are off-market luxury condos more expensive?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Are off-market luxury condos more expensive?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The pricing of off-market luxury condos can vary significantly and is not inherently higher or lower than publicly listed properties. While some sellers might price properties at a premium due to exclusivity, others may offer a more competitive price for a quick, discreet sale. The lack of public market comparables can make valuation more nuanced. A practical tradeoff for buyers is that while you might find unique value, negotiation often relies more heavily on your agent's expertise and market insight rather than publicly available data.",
+        "@type": "Answer",
+        "description": "Pricing for off-market luxury condos isn't uniformly higher or lower. Negotiation relies heavily on agent expertise due to limited public data."
+      }
+    }
+  ],
+  "description": "Pricing for off-market luxury condos isn't uniformly higher or lower. Negotiation relies heavily on agent expertise due to limited public data."
+}

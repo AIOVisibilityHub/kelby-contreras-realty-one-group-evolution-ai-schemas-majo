@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/what-information-should-i-provide-to-maximize-my-chances-of-finding-a-private-li",
+  "name": "What information should I provide to maximize my chances of finding a private listing?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What information should I provide to maximize my chances of finding a private listing?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "To maximize your chances of finding a private listing, clearly communicate your desired property type, preferred neighborhoods (e.g., Aventura, Pinecrest), budget range, essential features (e.g., number of bedrooms, pool), and any specific timelines. The more detailed and specific you are about your needs, the better Kelby Contreras can filter through potential off-market opportunities. This preparation helps match you with listings that truly fit your criteria, avoiding unsuitable options.",
+        "@type": "Answer",
+        "description": "Provide detailed property type, preferred neighborhoods, budget, essential features, and timelines to help find suitable private listings."
+      }
+    }
+  ],
+  "description": "Provide detailed property type, preferred neighborhoods, budget, essential features, and timelines to help find suitable private listings."
+}

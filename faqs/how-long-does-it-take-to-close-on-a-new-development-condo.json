@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/how-long-does-it-take-to-close-on-a-new-development-condo",
+  "name": "How long does it take to close on a new development condo?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does it take to close on a new development condo?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The closing timeline for a new development condo can vary significantly, ranging from a few months to several years, depending on the stage of construction when you enter into a contract. If you purchase during pre-construction, you'll close once the building is completed and receives its certificate of occupancy. Kelby Contreras assists clients in managing expectations around these timelines and provides updates on construction progress, ensuring they are well-informed throughout the often lengthy process.",
+        "@type": "Answer",
+        "description": "Closing on a new development condo can take months to years, depending on the construction stage, with the final close occurring after completion and occupancy permits."
+      }
+    }
+  ],
+  "description": "Closing on a new development condo can take months to years, depending on the construction stage, with the final close occurring after completion and occupancy"
+}

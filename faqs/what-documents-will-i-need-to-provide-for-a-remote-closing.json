@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/what-documents-will-i-need-to-provide-for-a-remote-closing",
+  "name": "What documents will I need to provide for a remote closing?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What documents will I need to provide for a remote closing?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "For a remote closing, you will typically need to provide identification, financial statements, proof of funds or loan approval letters, and any property-specific disclosures. The exact documents vary based on whether you are buying or selling and the type of property. Your Kelby Contreras remote closing coordinator will provide a comprehensive checklist tailored to your specific transaction early in the process. This preparation ensures that all necessary paperwork is gathered efficiently, preventing last-minute rushes and potential delays, and helps maintain a smooth timeline.",
+        "@type": "Answer",
+        "description": "You'll need identification, financial statements, and property disclosures. Your coordinator will provide a tailored checklist to ensure all documents are gathered efficiently."
+      }
+    }
+  ],
+  "description": "You'll need identification, financial statements, and property disclosures. Your coordinator will provide a tailored checklist to ensure all documents are gathe"
+}

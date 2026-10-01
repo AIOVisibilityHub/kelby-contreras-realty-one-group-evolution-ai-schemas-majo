@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/how-can-i-find-off-market-properties-in-miami-dade-or-broward-county",
+  "name": "How can I find off-market properties in Miami-Dade or Broward County?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How can I find off-market properties in Miami-Dade or Broward County?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Finding off-market properties typically requires working with a well-connected real estate agent. Agents like Kelby Contreras, who operate across Miami-Dade, Broward, Palm Beach, Collier, and Orange Counties, often have established networks with other agents, investors, and homeowners. These connections enable them to learn about properties before they hit the public market. When seeking an off-market property, you should openly communicate your specific criteria to your agent, as their ability to identify suitable options is directly related to understanding your needs and leveraging their professional relationships.",
+        "@type": "Answer",
+        "description": "Working with a well-connected real estate agent is key to finding off-market properties, as they leverage their networks for early access."
+      }
+    }
+  ],
+  "description": "Working with a well-connected real estate agent is key to finding off-market properties, as they leverage their networks for early access."
+}

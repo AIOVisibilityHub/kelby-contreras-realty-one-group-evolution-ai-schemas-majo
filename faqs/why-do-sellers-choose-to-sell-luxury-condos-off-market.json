@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/why-do-sellers-choose-to-sell-luxury-condos-off-market",
+  "name": "Why do sellers choose to sell luxury condos off-market?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Why do sellers choose to sell luxury condos off-market?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Sellers choose to sell luxury condos off-market for various reasons, including privacy, discretion, and a desire to avoid the public exposure and extensive showings associated with traditional listings. They might also want to test the market without formally committing or limit the negotiation process to serious, pre-qualified buyers. For sellers in high-profile areas like Miami Beach or Bal Harbour, maintaining confidentiality regarding their property and personal affairs is often a key decision factor.",
+        "@type": "Answer",
+        "description": "Sellers opt for off-market sales for privacy, discretion, and to avoid public exposure, often to protect their personal affairs or test the market."
+      }
+    }
+  ],
+  "description": "Sellers opt for off-market sales for privacy, discretion, and to avoid public exposure, often to protect their personal affairs or test the market."
+}

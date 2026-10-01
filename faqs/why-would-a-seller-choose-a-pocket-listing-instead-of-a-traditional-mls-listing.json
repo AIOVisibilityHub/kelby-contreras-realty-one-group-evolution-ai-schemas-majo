@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/why-would-a-seller-choose-a-pocket-listing-instead-of-a-traditional-mls-listing",
+  "name": "Why would a seller choose a pocket listing instead of a traditional MLS listing?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Why would a seller choose a pocket listing instead of a traditional MLS listing?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Sellers often choose pocket listings for privacy, to test the market discreetly, or to avoid the disruptions of public showings and open houses. This approach can be appealing to high-profile individuals or those with unique properties who prefer a controlled sales process. One practical tradeoff is that while it offers discretion, the exposure to potential buyers is more limited compared to a broad MLS listing, which might affect the final sale price or time on market. However, it can generate significant interest from pre-qualified buyers within our network.",
+        "@type": "Answer",
+        "description": "Sellers opt for pocket listings for privacy, discretion, or to test the market without public exposure. It offers a controlled sales process but with more limited buyer reach."
+      }
+    }
+  ],
+  "description": "Sellers opt for pocket listings for privacy, discretion, or to test the market without public exposure. It offers a controlled sales process but with more limit"
+}

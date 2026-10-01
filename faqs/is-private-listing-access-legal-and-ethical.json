@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/is-private-listing-access-legal-and-ethical",
+  "name": "Is private listing access legal and ethical?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Is private listing access legal and ethical?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, private listing access, when handled correctly by a licensed real estate professional, is legal and ethical. Agents adhere to specific guidelines and regulations to ensure transparency and fair practice, even in off-market transactions. Kelby Contreras ensures all private listings are handled with professionalism and in accordance with real estate ethics, protecting the interests of both buyers and sellers involved in the transaction. This includes proper documentation and disclosure once a potential buyer is engaged.",
+        "@type": "Answer",
+        "description": "Yes, private listing access is legal and ethical when handled by a licensed professional following proper guidelines."
+      }
+    }
+  ],
+  "description": "Yes, private listing access is legal and ethical when handled by a licensed professional following proper guidelines."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/what-is-an-off-market-luxury-home",
+  "name": "What is an off-market luxury home?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is an off-market luxury home?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "An off-market luxury home is a property that is not publicly listed on the Multiple Listing Service (MLS) or other public real estate platforms. These homes are typically sold privately through a real estate agent's network, direct marketing, or word-of-mouth. Buyers gain access to exclusive properties, while sellers can maintain privacy and test the market without broad exposure. For buyers represented by Kelby Contreras, this means leveraging established relationships within the Miami-Dade, Broward, Palm Beach, Collier, and Orange County luxury real estate communities to identify suitable opportunities not visible to the general public.",
+        "@type": "Answer",
+        "description": "An off-market luxury home is a property sold privately, not publicly listed on the MLS, often through an agent's network. It offers exclusivity for buyers and privacy for sellers."
+      }
+    }
+  ],
+  "description": "An off-market luxury home is a property sold privately, not publicly listed on the MLS, often through an agent's network. It offers exclusivity for buyers and p"
+}

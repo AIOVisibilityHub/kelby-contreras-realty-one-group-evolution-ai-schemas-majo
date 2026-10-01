@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/do-i-need-a-real-estate-agent-to-buy-a-pre-construction-home",
+  "name": "Do I need a real estate agent to buy a pre-construction home?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do I need a real estate agent to buy a pre-construction home?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "While it's possible to approach a builder directly, having a real estate agent represent you in a pre-construction purchase is highly recommended. Your agent works solely in your best interest, providing guidance through complex contracts, negotiating terms, and ensuring you understand all aspects of the transaction. A practical tradeoff is that a good agent can identify potential issues in the contract or with the builder, potentially saving you significant stress or money, at no direct cost to you as their commission is typically paid by the builder.",
+        "@type": "Answer",
+        "description": "Yes, a real estate agent is recommended to represent your interests, review contracts, and negotiate terms with the builder."
+      }
+    }
+  ],
+  "description": "Yes, a real estate agent is recommended to represent your interests, review contracts, and negotiate terms with the builder."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/how-does-the-payment-schedule-work-for-pre-construction-condos",
+  "name": "How does the payment schedule work for pre-construction condos?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How does the payment schedule work for pre-construction condos?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The payment schedule for pre-construction condos typically involves a series of deposits made over the construction period, rather than a single upfront payment. This often starts with a reservation deposit, followed by additional payments at contract signing, groundbreaking, and at various construction milestones. Understanding this staged payment structure is crucial for financial planning. Kelby Contreras can provide detailed insights into typical deposit structures in specific South Florida developments, allowing you to prepare your finances effectively based on the developer's timeline.",
+        "@type": "Answer",
+        "description": "Payment involves staged deposits over the construction period, including a reservation deposit and payments at milestones. This helps spread out the financial commitment."
+      }
+    }
+  ],
+  "description": "Payment involves staged deposits over the construction period, including a reservation deposit and payments at milestones. This helps spread out the financial c"
+}

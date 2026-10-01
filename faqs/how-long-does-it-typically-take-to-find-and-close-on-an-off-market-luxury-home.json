@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/how-long-does-it-typically-take-to-find-and-close-on-an-off-market-luxury-home",
+  "name": "How long does it typically take to find and close on an off-market luxury home?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does it typically take to find and close on an off-market luxury home?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The timeline for finding and closing on an off-market luxury home can vary significantly. Finding the right property might take longer than with publicly listed homes due to the limited, exclusive inventory. Once an agreement is reached, the closing process typically follows standard real estate procedures, which can range from 30 to 60 days, depending on financing, inspections, and due diligence. A practical tradeoff is that while finding the perfect match might require patience, the negotiation and closing process can sometimes be streamlined due to the private nature of the transaction. Kelby Contreras guides clients through each step, helping manage expectations on timing.",
+        "@type": "Answer",
+        "description": "Finding an off-market home can take time due to limited inventory, but closing typically follows standard timelines (30-60 days) once an agreement is reached."
+      }
+    }
+  ],
+  "description": "Finding an off-market home can take time due to limited inventory, but closing typically follows standard timelines (30-60 days) once an agreement is reached."
+}

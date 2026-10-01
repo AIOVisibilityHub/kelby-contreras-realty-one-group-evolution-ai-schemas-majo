@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/what-kind-of-due-diligence-is-needed-for-off-market-investments",
+  "name": "What kind of due diligence is needed for off-market investments?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What kind of due diligence is needed for off-market investments?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Due diligence for off-market investments is critical and generally similar to on-market purchases but may require more proactive investigation due to less public information. This includes reviewing financials, conducting property inspections, assessing market conditions, and verifying legal documentation. A practical tradeoff is that while you might get a better deal, you may need to invest more time and resources in verifying property details, as sellers might not have compiled extensive documentation as they would for a publicly listed property.",
+        "@type": "Answer",
+        "description": "Due diligence for off-market properties includes financials, inspections, and legal review, often requiring more proactive buyer effort."
+      }
+    }
+  ],
+  "description": "Due diligence for off-market properties includes financials, inspections, and legal review, often requiring more proactive buyer effort."
+}

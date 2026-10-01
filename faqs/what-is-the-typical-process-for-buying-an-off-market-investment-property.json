@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/what-is-the-typical-process-for-buying-an-off-market-investment-property",
+  "name": "What is the typical process for buying an off-market investment property?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the typical process for buying an off-market investment property?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The process for buying an off-market investment property typically begins with identifying a suitable property, often through an agent or personal network. This is followed by discreet negotiations, a non-disclosure agreement (NDA) if necessary, and due diligence before a purchase agreement. A key process clarity point is that the timing can vary significantly; off-market deals may close faster due to fewer contingencies, or slower if detailed negotiations are required outside standard listing procedures.",
+        "@type": "Answer",
+        "description": "The typical process involves identification, negotiation, due diligence, and purchase, with variable timing depending on the deal."
+      }
+    }
+  ],
+  "description": "The typical process involves identification, negotiation, due diligence, and purchase, with variable timing depending on the deal."
+}

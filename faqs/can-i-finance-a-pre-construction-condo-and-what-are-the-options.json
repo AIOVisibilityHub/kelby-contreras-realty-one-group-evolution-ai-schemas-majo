@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/can-i-finance-a-pre-construction-condo-and-what-are-the-options",
+  "name": "Can I finance a pre-construction condo, and what are the options?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I finance a pre-construction condo, and what are the options?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Financing a pre-construction condo differs from a resale. During the construction phase, buyers typically pay deposits out of pocket. Lenders usually do not provide traditional mortgages until the project is near completion and has received its certificate of occupancy. Some developers may offer preferred lender programs, which can streamline the mortgage process closer to closing. Buyers should have a clear financial plan for the deposit schedule and be prepared to secure a mortgage once the unit is ready for occupancy. Kelby Contreras can guide you through understanding these financial stages.",
+        "@type": "Answer",
+        "description": "Pre-construction condos require upfront deposits, with traditional mortgages typically secured closer to project completion."
+      }
+    }
+  ],
+  "description": "Pre-construction condos require upfront deposits, with traditional mortgages typically secured closer to project completion."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/why-would-someone-sell-their-oceanfront-condo-off-market",
+  "name": "Why would someone sell their oceanfront condo off-market?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Why would someone sell their oceanfront condo off-market?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Sellers choose to list off-market for various reasons, including a desire for privacy, to test the market discreetly, to avoid the costs associated with public listings, or to facilitate a quick sale without extensive marketing. It allows owners to control who views their property and maintain confidentiality during the sale process. For instance, high-profile owners in locations like Fisher Island or Aventura might prefer this method to manage visibility. A real estate agency like Realty ONE Group Evolution can help connect serious buyers with these private sellers, ensuring their specific needs and privacy concerns are met.",
+        "@type": "Answer",
+        "description": "Sellers often choose off-market sales for privacy, discretion, to avoid public listing costs, or to facilitate a quick transaction."
+      }
+    }
+  ],
+  "description": "Sellers often choose off-market sales for privacy, discretion, to avoid public listing costs, or to facilitate a quick transaction."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/what-is-the-warranty-typically-offered-with-a-new-construction-home",
+  "name": "What is the warranty typically offered with a new construction home?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the warranty typically offered with a new construction home?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "New construction homes usually come with a builder's warranty, which typically covers different components for varying periods. For instance, structural elements might be covered for 10 years, while systems like plumbing and electrical might have a 2-year warranty, and cosmetic finishes for 1 year. A practical tradeoff is that while warranties provide protection, the specifics and what is covered can vary significantly between builders. It's crucial to review the warranty document thoroughly before purchase. Your real estate agent can help ensure you understand its scope.",
+        "@type": "Answer",
+        "description": "Builder warranties for new homes typically cover different components for varying periods, like structural, systems, and cosmetic finishes."
+      }
+    }
+  ],
+  "description": "Builder warranties for new homes typically cover different components for varying periods, like structural, systems, and cosmetic finishes."
+}

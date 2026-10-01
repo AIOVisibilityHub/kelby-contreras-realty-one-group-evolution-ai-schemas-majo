@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/what-are-the-typical-closing-costs-when-purchasing-a-luxury-property-remotely-in",
+  "name": "What are the typical closing costs when purchasing a luxury property remotely in Florida?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are the typical closing costs when purchasing a luxury property remotely in Florida?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "While specific closing costs can vary, buyers of luxury properties in Florida should anticipate expenses such as title insurance, appraisal fees, inspection fees, recording fees, and potentially a portion of property taxes and homeowner's association dues. In counties like Miami-Dade and Broward, these costs are typically a percentage of the purchase price. A key decision factor is understanding which party traditionally covers specific costs in Florida real estate transactions. Your agent will provide a detailed estimate early in the process, allowing for accurate financial planning.",
+        "@type": "Answer",
+        "description": "Typical closing costs for Florida luxury properties include title insurance, appraisal, inspection, and recording fees, often a percentage of the purchase price."
+      }
+    }
+  ],
+  "description": "Typical closing costs for Florida luxury properties include title insurance, appraisal, inspection, and recording fees, often a percentage of the purchase price"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/what-kind-of-warranty-comes-with-a-new-construction-home-in-miami",
+  "name": "What kind of warranty comes with a new construction home in Miami?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What kind of warranty comes with a new construction home in Miami?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "New construction homes in Miami typically come with a builder's warranty, which varies by builder and usually includes different coverage periods. Commonly, this includes a one-year warranty on workmanship and materials, two years on plumbing, electrical, heating, and cooling systems, and up to ten years on major structural components. It's essential to thoroughly review the specific warranty details provided by the builder, including what is covered, what is excluded, and the claims process. Understanding these terms is a critical preparation step before signing a contract.",
+        "@type": "Answer",
+        "description": "New construction homes in Miami usually come with a builder's warranty, commonly covering workmanship for one year, systems for two years, and structural elements for ten years."
+      }
+    }
+  ],
+  "description": "New construction homes in Miami usually come with a builder's warranty, commonly covering workmanship for one year, systems for two years, and structural elemen"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/when-should-i-involve-a-real-estate-agent-in-my-new-construction-home-search",
+  "name": "When should I involve a real estate agent in my new construction home search?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When should I involve a real estate agent in my new construction home search?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "It is crucial to involve a real estate agent from the very beginning of your new construction search, ideally before your first visit to any builder's sales office. Builders have their own sales representatives who represent the builder's interests. Your agent, like Kelby Contreras, will represent *your* interests, helping you understand contracts, negotiate terms, and navigate the complex building process. Failing to register with an agent on your first visit could forfeit your right to buyer representation later.",
+        "@type": "Answer",
+        "description": "Involve an agent before visiting any builder's sales office to ensure your interests are represented. They assist with contracts, negotiations, and the building process."
+      }
+    }
+  ],
+  "description": "Involve an agent before visiting any builder's sales office to ensure your interests are represented. They assist with contracts, negotiations, and the building"
+}

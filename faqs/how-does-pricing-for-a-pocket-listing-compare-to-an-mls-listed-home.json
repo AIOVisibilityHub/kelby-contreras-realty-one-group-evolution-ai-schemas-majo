@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/how-does-pricing-for-a-pocket-listing-compare-to-an-mls-listed-home",
+  "name": "How does pricing for a pocket listing compare to an MLS-listed home?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How does pricing for a pocket listing compare to an MLS-listed home?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Pricing for a pocket listing can vary widely. Sometimes, sellers are open to a quicker sale at a slightly lower price for the convenience and privacy. Other times, highly desirable or unique properties might command a premium. A practical tradeoff to consider is that while you might find unique value, public market data for comparable homes is limited. Our expertise in local markets such as Miami Beach or Fort Lauderdale allows us to provide insight into off-market values, helping you assess a fair price for these exclusive opportunities.",
+        "@type": "Answer",
+        "description": "Pocket listing pricing varies; some sellers prioritize a quick, discreet sale, while unique properties may command a premium. Limited public data means our local market expertise is crucial for valuation."
+      }
+    }
+  ],
+  "description": "Pocket listing pricing varies; some sellers prioritize a quick, discreet sale, while unique properties may command a premium. Limited public data means our loca"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/are-new-development-condos-subject-to-special-assessments",
+  "name": "Are new development condos subject to special assessments?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Are new development condos subject to special assessments?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "While new development condos typically have modern infrastructure, they are not immune to special assessments, although the likelihood is generally lower in the immediate years following construction. Special assessments can arise for unexpected major repairs or improvements not covered by the regular HOA budget or reserve funds. Buyers should review the developer's financial projections and the initial reserve study, if available, to gauge potential future liabilities. Kelby Contreras can help clarify these documents for clients.",
+        "@type": "Answer",
+        "description": "New development condos can still have special assessments for unexpected major repairs, though less likely initially; buyers should review financial projections."
+      }
+    }
+  ],
+  "description": "New development condos can still have special assessments for unexpected major repairs, though less likely initially; buyers should review financial projections"
+}

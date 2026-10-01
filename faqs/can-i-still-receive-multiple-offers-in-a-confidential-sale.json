@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/can-i-still-receive-multiple-offers-in-a-confidential-sale",
+  "name": "Can I still receive multiple offers in a confidential sale?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I still receive multiple offers in a confidential sale?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "While less common than with a publicly listed property, it is still possible to receive multiple offers in a confidential sale, especially if the property is highly desirable or unique. Your agent's ability to discretely reach a broad network of qualified buyers is key. However, the intent of a confidential sale often leans towards finding the right buyer at an acceptable price with minimal public exposure, rather than generating a bidding war. The focus is on quality over quantity of offers.",
+        "@type": "Answer",
+        "description": "Yes, but it's less common. The focus is usually on finding the right buyer discretely, not necessarily generating a bidding war."
+      }
+    }
+  ],
+  "description": "Yes, but it's less common. The focus is usually on finding the right buyer discretely, not necessarily generating a bidding war."
+}

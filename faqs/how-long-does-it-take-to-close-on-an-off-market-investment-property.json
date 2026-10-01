@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/how-long-does-it-take-to-close-on-an-off-market-investment-property",
+  "name": "How long does it take to close on an off-market investment property?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does it take to close on an off-market investment property?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The closing timeline for an off-market investment property can vary significantly. Some deals, particularly those with motivated sellers and streamlined due diligence, can close faster than traditional sales. Others might take longer due to complex negotiations, unique financing, or specific seller requirements. Process clarity reveals that the speed often depends on the level of preparation from both buyer and seller; having financing pre-arranged and clear objectives can expedite the process.",
+        "@type": "Answer",
+        "description": "Closing times for off-market properties vary; some are fast due to motivated sellers, while others take longer due to complexity."
+      }
+    }
+  ],
+  "description": "Closing times for off-market properties vary; some are fast due to motivated sellers, while others take longer due to complexity."
+}

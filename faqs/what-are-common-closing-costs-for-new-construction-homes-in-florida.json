@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/what-are-common-closing-costs-for-new-construction-homes-in-florida",
+  "name": "What are common closing costs for new construction homes in Florida?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are common closing costs for new construction homes in Florida?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Common closing costs for new construction homes in Florida typically include title insurance, lender fees (if financing), appraisal fees, and property taxes prorated at closing. Additionally, new construction often involves developer-specific fees such as impact fees, community development district (CDD) fees, and sometimes contribution to a homeowners association (HOA) reserve. It is crucial to review the developer's contract and a detailed estimate of these costs, which can vary by community and county, to avoid surprises.",
+        "@type": "Answer",
+        "description": "New construction closing costs in Florida include title, lender, appraisal, and prorated taxes, plus potential developer-specific fees like impact and CDD fees."
+      }
+    }
+  ],
+  "description": "New construction closing costs in Florida include title, lender, appraisal, and prorated taxes, plus potential developer-specific fees like impact and CDD fees."
+}

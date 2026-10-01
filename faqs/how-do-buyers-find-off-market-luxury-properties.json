@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/how-do-buyers-find-off-market-luxury-properties",
+  "name": "How do buyers find off-market luxury properties?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do buyers find off-market luxury properties?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Finding off-market luxury properties primarily involves working with a well-connected real estate agent specializing in the luxury market. These agents have extensive networks of other agents, high-net-worth individuals, and industry contacts who are aware of properties not yet publicly listed. Buyers should prepare by clearly defining their criteria, budget, and desired locations, as these details help their agent proactively identify potential matches. Kelby Contreras leverages an established network across Miami-Dade, Broward, Palm Beach, Collier, and Orange Counties to connect qualified buyers with exclusive off-market opportunities.",
+        "@type": "Answer",
+        "description": "Buyers find off-market properties by working with well-connected luxury real estate agents who have extensive networks and can identify unlisted homes."
+      }
+    }
+  ],
+  "description": "Buyers find off-market properties by working with well-connected luxury real estate agents who have extensive networks and can identify unlisted homes."
+}

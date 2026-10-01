@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/how-do-commissions-work-for-a-confidential-property-sale",
+  "name": "How do commissions work for a confidential property sale?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do commissions work for a confidential property sale?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Commissions for a confidential property sale generally operate similarly to traditional sales, typically as a percentage of the final sale price, agreed upon in the listing agreement. However, due to the specialized nature and discreet marketing efforts, the commission structure might sometimes reflect the unique service provided by the agent in finding an off-market buyer. It is crucial to discuss and clarify the commission agreement with your agent upfront, ensuring transparency and alignment with the unique process.",
+        "@type": "Answer",
+        "description": "Commissions are typically a percentage of the sale price, similar to traditional sales, but may reflect the specialized discreet marketing efforts; discuss upfront."
+      }
+    }
+  ],
+  "description": "Commissions are typically a percentage of the sale price, similar to traditional sales, but may reflect the specialized discreet marketing efforts; discuss upfr"
+}

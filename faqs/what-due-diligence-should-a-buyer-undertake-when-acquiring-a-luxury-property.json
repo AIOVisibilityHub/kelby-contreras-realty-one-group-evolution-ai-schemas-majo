@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/what-due-diligence-should-a-buyer-undertake-when-acquiring-a-luxury-property",
+  "name": "What due diligence should a buyer undertake when acquiring a luxury property?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What due diligence should a buyer undertake when acquiring a luxury property?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Buyers acquiring a luxury property should undertake comprehensive due diligence, including professional inspections for structural, mechanical, and environmental issues, as well as a thorough review of title and property records. It's also crucial to investigate local zoning regulations, potential HOA rules, and any historical or landmark designations that might affect future renovations or use. For waterfront properties common in South Florida, checking seawall condition, flood zone specifics, and insurance implications is vital. Kelby Contreras guides buyers through this complex process, ensuring all potential concerns are identified and addressed before closing.",
+        "@type": "Answer",
+        "description": "Buyers should conduct professional inspections, review title and zoning records, investigate HOA rules, and for South Florida, check waterfront specifics like seawall condition and flood zones."
+      }
+    }
+  ],
+  "description": "Buyers should conduct professional inspections, review title and zoning records, investigate HOA rules, and for South Florida, check waterfront specifics like s"
+}

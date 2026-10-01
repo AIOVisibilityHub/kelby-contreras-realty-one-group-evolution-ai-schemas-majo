@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/can-i-use-an-llc-or-other-entity-for-a-confidential-purchase",
+  "name": "Can I use an LLC or other entity for a confidential purchase?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I use an LLC or other entity for a confidential purchase?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, using a Limited Liability Company (LLC) or other legal entity is a common strategy for maintaining confidentiality in property purchases. This allows the entity, rather than an individual, to appear as the buyer on public records, effectively masking the true owner's identity. This approach often involves additional legal consultation to set up the entity correctly and ensure it aligns with your confidentiality goals. Kelby Contreras can help guide you through how this strategy integrates with the overall purchase process.",
+        "@type": "Answer",
+        "description": "Yes, using an LLC or other legal entity is a common way to maintain confidentiality. The entity appears as the buyer, masking the true owner's identity."
+      }
+    }
+  ],
+  "description": "Yes, using an LLC or other legal entity is a common way to maintain confidentiality. The entity appears as the buyer, masking the true owner's identity."
+}

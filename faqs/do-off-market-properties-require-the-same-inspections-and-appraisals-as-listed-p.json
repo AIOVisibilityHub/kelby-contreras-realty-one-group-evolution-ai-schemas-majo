@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/do-off-market-properties-require-the-same-inspections-and-appraisals-as-listed-p",
+  "name": "Do off-market properties require the same inspections and appraisals as listed properties?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do off-market properties require the same inspections and appraisals as listed properties?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, off-market properties absolutely require the same rigorous inspections and appraisals as properties listed on the open market. Skipping these crucial steps can expose a buyer to significant financial risks, such as undisclosed structural issues or an inaccurate valuation. A professional appraisal ensures the property's value aligns with the purchase price, which is vital for securing financing, especially in diverse markets spanning from Aventura to Pinecrest. Always ensure a comprehensive inspection and appraisal are part of your due diligence process, regardless of how the property was found.",
+        "@type": "Answer",
+        "description": "Yes, off-market properties require the same inspections and appraisals as listed properties to protect the buyer from risks."
+      }
+    }
+  ],
+  "description": "Yes, off-market properties require the same inspections and appraisals as listed properties to protect the buyer from risks."
+}

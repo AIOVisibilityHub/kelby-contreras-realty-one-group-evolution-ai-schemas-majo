@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/what-is-the-typical-timeline-for-purchasing-a-new-construction-home-in-miami",
+  "name": "What is the typical timeline for purchasing a new construction home in Miami?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the typical timeline for purchasing a new construction home in Miami?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The timeline for purchasing a new construction home in Miami can vary significantly. If the home is already built (spec home), the process might be similar to an existing home, taking 30-60 days to close once financing is secured. For homes built from the ground up, the construction phase can range from 6 to 18 months or more, depending on the builder, complexity, and supply chain. It's crucial to understand the builder's estimated completion date and any potential delays. Working with a real estate agent specializing in new construction, like Kelby Contreras, can help manage expectations and track progress effectively.",
+        "@type": "Answer",
+        "description": "The timeline for new construction homes in Miami varies from 30-60 days for completed homes to 6-18 months or more for ground-up builds, depending on builder and complexity."
+      }
+    }
+  ],
+  "description": "The timeline for new construction homes in Miami varies from 30-60 days for completed homes to 6-18 months or more for ground-up builds, depending on builder an"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/what-is-an-off-market-waterfront-home",
+  "name": "What is an off-market waterfront home?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is an off-market waterfront home?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "An off-market waterfront home is a property available for sale that is not publicly listed on the Multiple Listing Service (MLS) or other public platforms. These homes are often sold discreetly, allowing sellers to maintain privacy and test the market without broad exposure. For buyers, it can mean access to unique properties not widely known, potentially reducing competition. Kelby Contreras specializes in connecting buyers with these exclusive opportunities in South Florida's competitive waterfront markets.",
+        "@type": "Answer",
+        "description": "An off-market waterfront home is a property sold privately without being listed on public platforms like the MLS. This offers privacy for sellers and exclusive access for buyers."
+      }
+    }
+  ],
+  "description": "An off-market waterfront home is a property sold privately without being listed on public platforms like the MLS. This offers privacy for sellers and exclusive"
+}

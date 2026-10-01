@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/can-i-negotiate-the-price-or-terms-with-a-new-home-builder",
+  "name": "Can I negotiate the price or terms with a new home builder?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I negotiate the price or terms with a new home builder?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, negotiation with new home builders is often possible, especially on upgrades, closing costs, or lot premiums. While base prices might be firm, builders frequently offer incentives to buyers, such as design center credits, assistance with closing costs, or appliance packages. Having an agent like Kelby Contreras represents your interests during these negotiations, potentially saving you money and securing better terms than you might achieve alone.",
+        "@type": "Answer",
+        "description": "Negotiation with builders is often possible for upgrades, closing costs, or incentives. An agent can help secure favorable terms on your behalf."
+      }
+    }
+  ],
+  "description": "Negotiation with builders is often possible for upgrades, closing costs, or incentives. An agent can help secure favorable terms on your behalf."
+}

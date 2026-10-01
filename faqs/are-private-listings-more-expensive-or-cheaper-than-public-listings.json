@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/are-private-listings-more-expensive-or-cheaper-than-public-listings",
+  "name": "Are private listings more expensive or cheaper than public listings?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Are private listings more expensive or cheaper than public listings?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The pricing of private listings can vary and is not inherently cheaper or more expensive than public listings. Sometimes sellers choose private sales for discretion, not necessarily a discount, while others might price competitively to avoid a lengthy public marketing period. The value depends on factors like market conditions, property uniqueness, and seller motivation. The advantage lies in accessing properties before widespread bidding wars begin, which can influence the final sale price, especially in sought-after areas like Miami Beach or Coral Gables.",
+        "@type": "Answer",
+        "description": "Private listing prices vary; they are not inherently cheaper or more expensive. The advantage is accessing properties before public competition."
+      }
+    }
+  ],
+  "description": "Private listing prices vary; they are not inherently cheaper or more expensive. The advantage is accessing properties before public competition."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/why-would-a-seller-choose-to-list-their-property-off-market",
+  "name": "Why would a seller choose to list their property off-market?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Why would a seller choose to list their property off-market?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Sellers opt for off-market sales for various reasons, including privacy, discretion, and a desire to test the market without public exposure. They might also want to avoid the costs and disruptions associated with traditional marketing, such as open houses and extensive staging. For instance, a high-profile individual in areas like Fisher Island or Williams Island might prioritize privacy over broad market exposure. This approach allows for a more controlled selling process, often targeting specific buyers through an agent's network.",
+        "@type": "Answer",
+        "description": "Sellers choose off-market listings for privacy, discretion, to test the market, or to avoid public marketing efforts."
+      }
+    }
+  ],
+  "description": "Sellers choose off-market listings for privacy, discretion, to test the market, or to avoid public marketing efforts."
+}

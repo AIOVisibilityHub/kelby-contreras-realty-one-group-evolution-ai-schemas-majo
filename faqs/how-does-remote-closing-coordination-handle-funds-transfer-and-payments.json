@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/how-does-remote-closing-coordination-handle-funds-transfer-and-payments",
+  "name": "How does remote closing coordination handle funds transfer and payments?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How does remote closing coordination handle funds transfer and payments?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "For remote closings, funds transfer is typically handled via wire transfer through secure banking channels or certified funds. The title company, in coordination with your lender, provides detailed instructions for wiring funds, ensuring they arrive safely and on time for closing. This method provides a reliable and auditable trail for all financial transactions. It is crucial to independently verify all wire instructions directly with the title company using a known, trusted contact method, such as a phone number from their official website, to avoid fraud. Your coordinator will guide you on these secure practices.",
+        "@type": "Answer",
+        "description": "Funds are transferred via secure wire transfer through the title company. It's crucial to independently verify all wire instructions directly with the title company to prevent fraud."
+      }
+    }
+  ],
+  "description": "Funds are transferred via secure wire transfer through the title company. It's crucial to independently verify all wire instructions directly with the title com"
+}

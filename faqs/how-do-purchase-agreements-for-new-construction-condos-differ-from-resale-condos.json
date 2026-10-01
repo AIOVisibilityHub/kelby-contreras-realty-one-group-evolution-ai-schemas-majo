@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/how-do-purchase-agreements-for-new-construction-condos-differ-from-resale-condos",
+  "name": "How do purchase agreements for new construction condos differ from resale condos?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do purchase agreements for new construction condos differ from resale condos?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Purchase agreements for new construction condos often differ significantly from those for resale properties, primarily due to the unfinished nature of the product. They typically include provisions for construction delays, material changes, and payment schedules involving deposits at various construction milestones. Unlike resale contracts, new construction agreements may also outline specific builder warranties and a longer inspection period, often at key stages of development. Your agent at Kelby Contreras - Realty ONE Group Evolution can help review these complex documents to ensure your interests are protected throughout the process.",
+        "@type": "Answer",
+        "description": "New construction purchase agreements differ by including provisions for construction delays, material changes, phased payments, and builder warranties, unlike resale contracts."
+      }
+    }
+  ],
+  "description": "New construction purchase agreements differ by including provisions for construction delays, material changes, phased payments, and builder warranties, unlike r"
+}

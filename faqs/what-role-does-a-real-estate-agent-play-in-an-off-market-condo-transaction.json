@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/what-role-does-a-real-estate-agent-play-in-an-off-market-condo-transaction",
+  "name": "What role does a real estate agent play in an off-market condo transaction?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What role does a real estate agent play in an off-market condo transaction?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A real estate agent is crucial in an off-market condo transaction by providing access to exclusive listings through their private networks and market intelligence. They act as your primary point of contact, negotiating terms, coordinating due diligence, and guiding you through the closing process. Kelby Contreras, for instance, leverages her extensive experience and local connections across Miami-Dade and Broward Counties to identify suitable off-market opportunities, ensuring you are presented with properties that align with your specific criteria and assisting in navigating the nuances of such private sales effectively.",
+        "@type": "Answer",
+        "description": "An agent provides access to exclusive listings, negotiates terms, coordinates due diligence, and guides the private sale process."
+      }
+    }
+  ],
+  "description": "An agent provides access to exclusive listings, negotiates terms, coordinates due diligence, and guides the private sale process."
+}

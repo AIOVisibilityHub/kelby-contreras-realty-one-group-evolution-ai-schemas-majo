@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/do-i-need-a-real-estate-agent-to-buy-a-new-construction-home",
+  "name": "Do I need a real estate agent to buy a new construction home?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do I need a real estate agent to buy a new construction home?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, having a real estate agent is highly recommended even when buying new construction directly from a builder. The builder's sales team represents the builder's interests, not yours. An independent agent, like Kelby Contreras, can advocate for you, negotiate terms, interpret contracts, and ensure you understand all aspects of the purchase, including upgrades and incentives. This representation typically comes at no cost to the buyer.",
+        "@type": "Answer",
+        "description": "An independent real estate agent is highly recommended for new construction purchases to represent your interests, negotiate terms, and interpret contracts, typically at no cost to you."
+      }
+    }
+  ],
+  "description": "An independent real estate agent is highly recommended for new construction purchases to represent your interests, negotiate terms, and interpret contracts, typ"
+}

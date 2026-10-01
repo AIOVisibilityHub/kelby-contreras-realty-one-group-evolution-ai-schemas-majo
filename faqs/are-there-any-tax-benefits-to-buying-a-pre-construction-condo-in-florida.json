@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/are-there-any-tax-benefits-to-buying-a-pre-construction-condo-in-florida",
+  "name": "Are there any tax benefits to buying a pre-construction condo in Florida?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Are there any tax benefits to buying a pre-construction condo in Florida?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Buying a pre-construction condo in Florida primarily involves property taxes and potential capital gains if you sell the unit. Florida has no state income tax, which can be an advantage for residents. However, property taxes will be assessed based on the completed value of the unit. There are no specific tax benefits inherent to pre-construction status itself, but the overall tax environment in Florida can be favorable. Consulting with a tax professional is recommended to understand how property ownership impacts your specific financial situation. Kelby Contreras can connect you with local experts if needed.",
+        "@type": "Answer",
+        "description": "While Florida has no state income tax, there are no specific tax benefits for pre-construction condos; property taxes apply upon completion."
+      }
+    }
+  ],
+  "description": "While Florida has no state income tax, there are no specific tax benefits for pre-construction condos; property taxes apply upon completion."
+}

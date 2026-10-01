@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/how-does-a-discreet-luxury-home-sale-differ-from-a-traditional-listing",
+  "name": "How does a discreet luxury home sale differ from a traditional listing?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How does a discreet luxury home sale differ from a traditional listing?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The primary difference lies in visibility and marketing. A traditional listing is widely advertised on multiple platforms, aiming for maximum exposure. A discreet sale, however, relies on an agent's private network and direct outreach to qualified buyers, ensuring confidentiality. While a traditional sale might attract more offers, a discreet sale offers unparalleled privacy and control over showings and information shared. Kelby Contreras helps evaluate these practical tradeoffs, advising if the privacy benefits outweigh the potential for broader market reach based on your specific luxury property and goals.",
+        "@type": "Answer",
+        "description": "A discreet sale prioritizes privacy through private networks, unlike traditional listings which aim for maximum public exposure on platforms like MLS."
+      }
+    }
+  ],
+  "description": "A discreet sale prioritizes privacy through private networks, unlike traditional listings which aim for maximum public exposure on platforms like MLS."
+}

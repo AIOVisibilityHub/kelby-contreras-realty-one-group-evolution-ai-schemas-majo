@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/what-is-the-typical-closing-process-for-a-pre-construction-condo",
+  "name": "What is the typical closing process for a pre-construction condo?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the typical closing process for a pre-construction condo?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The closing process for a pre-construction condo begins after construction is complete and the certificate of occupancy is issued. This typically involves a final walk-through to inspect the unit, securing your financing if applicable, and signing final documents. It differs from resales in that there's a significant waiting period between contract and closing. Kelby Contreras guides clients through each step, ensuring all necessary documentation and inspections are completed efficiently, particularly when navigating the specific requirements of South Florida lenders and title companies.",
+        "@type": "Answer",
+        "description": "Closing occurs after construction completion, involving a final walk-through, securing financing, and signing documents. It has a significant waiting period after the initial contract."
+      }
+    }
+  ],
+  "description": "Closing occurs after construction completion, involving a final walk-through, securing financing, and signing documents. It has a significant waiting period aft"
+}

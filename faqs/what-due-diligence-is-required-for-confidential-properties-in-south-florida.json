@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/what-due-diligence-is-required-for-confidential-properties-in-south-florida",
+  "name": "What due diligence is required for confidential properties in South Florida?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What due diligence is required for confidential properties in South Florida?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Due diligence for confidential properties in South Florida is critical and largely mirrors that of public listings, but with an added layer of discretion. It includes standard checks like property inspections, title searches, zoning verification, and environmental assessments. However, it's essential to conduct these inquiries without compromising the confidentiality of the transaction. Kelby Contreras ensures all necessary due diligence is performed thoroughly and discreetly, especially given the diverse property types and regulations across areas like Miami-Dade, Broward, and Palm Beach Counties.",
+        "@type": "Answer",
+        "description": "Due diligence for confidential properties in South Florida is critical and similar to public listings, but requires discretion. It includes inspections, title searches, and zoning verification."
+      }
+    }
+  ],
+  "description": "Due diligence for confidential properties in South Florida is critical and similar to public listings, but requires discretion. It includes inspections, title s"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/how-long-does-it-typically-take-to-close-on-a-new-development-property",
+  "name": "How long does it typically take to close on a new development property?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does it typically take to close on a new development property?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The closing timeline for a new development property varies significantly based on the construction phase. If you purchase a home that is already completed, closing can happen within 30-60 days, similar to a resale. However, for homes bought during pre-construction or early construction phases, the process can take anywhere from 6 months to over a year, depending on the builder's schedule and unforeseen delays. Kelby Contreras helps manage expectations and tracks progress with builders.",
+        "@type": "Answer",
+        "description": "Closing times for new developments range from 30-60 days for completed homes to over a year for pre-construction, depending on the construction phase and builder schedule."
+      }
+    }
+  ],
+  "description": "Closing times for new developments range from 30-60 days for completed homes to over a year for pre-construction, depending on the construction phase and builde"
+}

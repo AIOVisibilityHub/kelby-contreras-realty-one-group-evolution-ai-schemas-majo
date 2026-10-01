@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/should-i-use-my-own-real-estate-agent-when-buying-a-new-construction-home-in-mia",
+  "name": "Should I use my own real estate agent when buying a new construction home in Miami?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Should I use my own real estate agent when buying a new construction home in Miami?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, it is highly recommended to use your own real estate agent when purchasing a new construction home in Miami. The builder's sales representative works for the builder's best interests, not yours. An independent agent, like Kelby Contreras, can represent your interests, help negotiate terms, understand the contract, explain upgrades and options, and guide you through the construction and closing process. Bringing your agent on your first visit to the builder's sales office is crucial, as some builders may not allow agent representation if you visit alone first.",
+        "@type": "Answer",
+        "description": "Yes, it's highly recommended to use your own real estate agent when buying new construction in Miami to ensure your interests are represented, especially when negotiating and understanding the contract."
+      }
+    }
+  ],
+  "description": "Yes, it's highly recommended to use your own real estate agent when buying new construction in Miami to ensure your interests are represented, especially when n"
+}

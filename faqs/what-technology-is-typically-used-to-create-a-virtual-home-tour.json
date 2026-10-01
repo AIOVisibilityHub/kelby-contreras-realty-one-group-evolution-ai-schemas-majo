@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/what-technology-is-typically-used-to-create-a-virtual-home-tour",
+  "name": "What technology is typically used to create a virtual home tour?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What technology is typically used to create a virtual home tour?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Virtual home tours are primarily created using specialized 3D cameras and software platforms like Matterport, which capture comprehensive spatial data. These tools stitch together panoramic images to create a navigable, interactive model of the property. Other methods might include high-resolution 360-degree cameras or drone footage for exterior views. Understanding the technology helps explain the process clarity, showing how detailed and immersive experiences are generated to give buyers a realistic sense of a home's environment.",
+        "@type": "Answer",
+        "description": "Virtual home tours are primarily created using specialized 3D cameras and software like Matterport, which generate interactive, navigable property models."
+      }
+    }
+  ],
+  "description": "Virtual home tours are primarily created using specialized 3D cameras and software like Matterport, which generate interactive, navigable property models."
+}

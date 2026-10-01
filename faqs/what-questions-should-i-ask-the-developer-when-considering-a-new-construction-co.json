@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/what-questions-should-i-ask-the-developer-when-considering-a-new-construction-co",
+  "name": "What questions should I ask the developer when considering a new construction condo?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What questions should I ask the developer when considering a new construction condo?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "When considering a new construction condo, ask the developer about the project's completion timeline, the specific finishes and appliances included, warranty details, and any potential for construction delays. Inquire about the homeowner's association (HOA) fees, what they cover, and if a reserve study has been completed. It's also important to understand the developer's track record and the financial stability of the project. Your Kelby Contreras - Realty ONE Group Evolution agent can guide you on key questions and review developer disclosures.",
+        "@type": "Answer",
+        "description": "Ask the developer about completion timelines, included finishes, warranty details, potential delays, HOA fees, and their track record. These questions help assess project viability and your financial commitment."
+      }
+    }
+  ],
+  "description": "Ask the developer about completion timelines, included finishes, warranty details, potential delays, HOA fees, and their track record. These questions help asse"
+}

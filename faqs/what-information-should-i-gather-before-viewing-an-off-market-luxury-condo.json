@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/what-information-should-i-gather-before-viewing-an-off-market-luxury-condo",
+  "name": "What information should I gather before viewing an off-market luxury condo?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What information should I gather before viewing an off-market luxury condo?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Before viewing an off-market luxury condo, you should gather and consolidate your financial pre-approval documents, clearly define your property preferences (e.g., location, size, amenities, architectural style), and discuss your budget in detail with your agent. This preparation ensures you are ready to act quickly if a suitable property arises and demonstrates your seriousness to the seller. Understanding your non-negotiables, particularly for areas like Brickell or Sunny Isles Beach, helps your agent filter options effectively and saves time.",
+        "@type": "Answer",
+        "description": "Before viewing, have financial pre-approval ready, define property preferences, and discuss budget. This preparation allows quick action."
+      }
+    }
+  ],
+  "description": "Before viewing, have financial pre-approval ready, define property preferences, and discuss budget. This preparation allows quick action."
+}

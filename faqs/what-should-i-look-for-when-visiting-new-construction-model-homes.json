@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/what-should-i-look-for-when-visiting-new-construction-model-homes",
+  "name": "What should I look for when visiting new construction model homes?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What should I look for when visiting new construction model homes?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "When visiting model homes, focus on the overall layout, available upgrades, and the quality of standard finishes. Pay attention to the floor plan flow, storage options, and natural light. It's helpful to take photos or videos and make notes about what you like and dislike. Your agent can help you differentiate between standard features and expensive upgrades, ensuring you understand the true cost to achieve the look of the model home.",
+        "@type": "Answer",
+        "description": "Evaluate layout, standard finishes, and potential upgrades. Distinguish between included features and extra costs shown in model homes."
+      }
+    }
+  ],
+  "description": "Evaluate layout, standard finishes, and potential upgrades. Distinguish between included features and extra costs shown in model homes."
+}

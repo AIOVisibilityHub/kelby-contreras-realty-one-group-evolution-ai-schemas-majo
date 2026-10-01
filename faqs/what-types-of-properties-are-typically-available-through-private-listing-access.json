@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/what-types-of-properties-are-typically-available-through-private-listing-access",
+  "name": "What types of properties are typically available through private listing access?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What types of properties are typically available through private listing access?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Private listing access often includes a range of properties, from luxury estates to unique homes, and sometimes properties where sellers prioritize discretion or a quick, quiet sale over public exposure. While any property *can* be sold off-market, it's more common to find homes with specific features or in high-demand neighborhoods where sellers have a clear reason to avoid the public spotlight. Examples might include waterfront properties in Fort Lauderdale or investment opportunities in Brickell.",
+        "@type": "Answer",
+        "description": "Private listings range from luxury homes to unique properties where sellers prioritize discretion or a quiet sale."
+      }
+    }
+  ],
+  "description": "Private listings range from luxury homes to unique properties where sellers prioritize discretion or a quiet sale."
+}

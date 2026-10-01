@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/why-would-someone-sell-their-luxury-home-off-market",
+  "name": "Why would someone sell their luxury home off-market?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Why would someone sell their luxury home off-market?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Sellers choose the off-market route for several reasons, primarily privacy and discretion. They might want to avoid public showings, open houses, or widespread marketing that could disrupt their lifestyle or attract unwanted attention. Another common reason is to test the market's reception to a property without formally listing it, allowing for more flexible pricing strategies. For sellers in high-profile areas like Fisher Island or Bal Harbour, maintaining confidentiality is often paramount, and an off-market sale through a reputable agent like Kelby Contreras can facilitate this discreetly.",
+        "@type": "Answer",
+        "description": "Sellers choose off-market sales for privacy, discretion, to avoid public exposure, or to test market reception without a formal listing."
+      }
+    }
+  ],
+  "description": "Sellers choose off-market sales for privacy, discretion, to avoid public exposure, or to test market reception without a formal listing."
+}

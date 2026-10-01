@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/what-is-an-off-market-luxury-condo",
+  "name": "What is an off-market luxury condo?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is an off-market luxury condo?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "An off-market luxury condo is a property available for sale that is not publicly advertised on multiple listing services (MLS) or other widespread platforms. These properties are typically discreetly marketed to a select group of potential buyers through exclusive networks, real estate agents specializing in luxury properties, or private listings. One practical tradeoff is that while they offer exclusivity and potentially less competition, finding them requires working with an agent who has established connections in the luxury market, like those at Realty ONE Group Evolution, who specialize in Miami-Dade, Broward, Palm Beach, Collier, and Orange Counties.",
+        "@type": "Answer",
+        "description": "An off-market luxury condo is a property sold discreetly without public listing. They offer exclusivity but require a well-connected agent to find."
+      }
+    }
+  ],
+  "description": "An off-market luxury condo is a property sold discreetly without public listing. They offer exclusivity but require a well-connected agent to find."
+}

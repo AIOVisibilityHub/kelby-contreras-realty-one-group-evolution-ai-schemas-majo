@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/what-financing-options-are-available-for-new-construction-homes",
+  "name": "What financing options are available for new construction homes?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What financing options are available for new construction homes?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Financing for new construction can include conventional loans, FHA loans, VA loans, and sometimes specific builder-preferred lenders who may offer incentives. It's important to get pre-approved early in the process. A preparation step is to compare offers from multiple lenders, including any preferred by the builder, to ensure you secure the most favorable interest rates and terms for your specific financial situation.",
+        "@type": "Answer",
+        "description": "Financing options include conventional, FHA, and VA loans; comparing multiple lenders, including builder-preferred ones, is a key preparation step."
+      }
+    }
+  ],
+  "description": "Financing options include conventional, FHA, and VA loans; comparing multiple lenders, including builder-preferred ones, is a key preparation step."
+}

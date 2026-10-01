@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/are-virtual-home-tours-available-for-all-properties-listed-with-kelby-contreras",
+  "name": "Are virtual home tours available for all properties listed with Kelby Contreras?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Are virtual home tours available for all properties listed with Kelby Contreras?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "We strive to provide virtual home tours for a significant number of our listings, particularly for homes in high-demand areas or those appealing to out-of-state buyers across our service areas like Miami-Dade, Broward, Palm Beach, Collier, and Orange counties. The availability depends on seller preference, property type, and marketing strategy. If a virtual tour isn't explicitly linked, you can always ask your Kelby Contreras agent if one is available or if a live virtual walkthrough can be arranged for a specific property.",
+        "@type": "Answer",
+        "description": "We offer virtual tours for many listings, but availability varies. Your Kelby Contreras agent can confirm if one is available or arrange a live walkthrough."
+      }
+    }
+  ],
+  "description": "We offer virtual tours for many listings, but availability varies. Your Kelby Contreras agent can confirm if one is available or arrange a live walkthrough."
+}

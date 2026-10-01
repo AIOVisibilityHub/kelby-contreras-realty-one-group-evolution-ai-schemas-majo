@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/what-are-the-potential-risks-or-downsides-of-pre-construction-home-buying",
+  "name": "What are the potential risks or downsides of pre-construction home buying?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are the potential risks or downsides of pre-construction home buying?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Risks in pre-construction buying include potential construction delays, which can impact your move-in date and financial planning. There's also the possibility that the final product might differ slightly from initial plans or renderings. Another practical tradeoff is that property values might fluctuate between the time of purchase and completion, affecting your equity. It's essential to have a clear understanding of the contract's clauses regarding delays and changes. Your agent can help review the contract to identify potential issues.",
+        "@type": "Answer",
+        "description": "Potential downsides include construction delays, variations from plans, and market fluctuations before completion."
+      }
+    }
+  ],
+  "description": "Potential downsides include construction delays, variations from plans, and market fluctuations before completion."
+}

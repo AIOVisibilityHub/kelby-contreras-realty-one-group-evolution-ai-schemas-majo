@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/what-legal-protections-are-in-place-for-buyers-of-new-construction-condos-in-flo",
+  "name": "What legal protections are in place for buyers of new construction condos in Florida?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What legal protections are in place for buyers of new construction condos in Florida?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Florida Statute Chapter 718, known as the Condominium Act, governs new construction condominiums, providing buyers with various protections. These include mandatory disclosure documents, the right to rescind a purchase contract within a specific timeframe (often 15 days from receiving all documents), and requirements for escrowing deposits. It's crucial preparation to review all disclosure materials and contracts with a real estate professional or attorney to understand your rights and obligations fully before committing to a purchase.",
+        "@type": "Answer",
+        "description": "Florida's Condominium Act (Chapter 718) protects new condo buyers with mandatory disclosures and rescission rights. Reviewing all documents with a professional is crucial preparation."
+      }
+    }
+  ],
+  "description": "Florida's Condominium Act (Chapter 718) protects new condo buyers with mandatory disclosures and rescission rights. Reviewing all documents with a professional"
+}

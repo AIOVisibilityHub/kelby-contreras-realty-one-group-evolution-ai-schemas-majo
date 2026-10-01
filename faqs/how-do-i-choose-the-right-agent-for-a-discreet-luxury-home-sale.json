@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/how-do-i-choose-the-right-agent-for-a-discreet-luxury-home-sale",
+  "name": "How do I choose the right agent for a discreet luxury home sale?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do I choose the right agent for a discreet luxury home sale?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Choosing the right agent for a discreet luxury home sale requires evaluating their experience, network, and commitment to confidentiality. Look for an agent with a proven track record in high-value, off-market transactions and strong connections within the luxury real estate community across South Florida. They should demonstrate a clear understanding of your need for discretion and a robust strategy for private marketing. Kelby Contreras emphasizes discretion and a tailored approach, ensuring your privacy is paramount while connecting you with the right buyer through established networks in areas like Miami-Dade, Broward, and Palm Beach counties.",
+        "@type": "Answer",
+        "description": "Choose an agent based on their experience in off-market luxury sales, their network of qualified buyers, and their commitment to confidentiality."
+      }
+    }
+  ],
+  "description": "Choose an agent based on their experience in off-market luxury sales, their network of qualified buyers, and their commitment to confidentiality."
+}

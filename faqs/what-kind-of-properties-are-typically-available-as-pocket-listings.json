@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/what-kind-of-properties-are-typically-available-as-pocket-listings",
+  "name": "What kind of properties are typically available as pocket listings?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What kind of properties are typically available as pocket listings?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Pocket listings often include luxury homes, unique properties, investment opportunities, or properties where the seller values privacy above broad market exposure. These can range from waterfront estates in Key Biscayne to exclusive condos in Brickell. A decision factor for sellers in choosing this route is often a desire to avoid the public scrutiny and numerous showings associated with traditional listings, making it common for properties requiring a more discreet marketing approach.",
+        "@type": "Answer",
+        "description": "Pocket listings frequently include luxury, unique, or investment properties, particularly when sellers prioritize privacy over wide public exposure."
+      }
+    }
+  ],
+  "description": "Pocket listings frequently include luxury, unique, or investment properties, particularly when sellers prioritize privacy over wide public exposure."
+}

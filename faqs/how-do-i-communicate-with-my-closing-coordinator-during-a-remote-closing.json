@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/how-do-i-communicate-with-my-closing-coordinator-during-a-remote-closing",
+  "name": "How do I communicate with my closing coordinator during a remote closing?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do I communicate with my closing coordinator during a remote closing?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Communication with your remote closing coordinator is typically handled through a combination of phone calls, email, and secure online portals or communication platforms. This ensures that you can reach your coordinator easily and receive timely updates regardless of your location, whether you are in Miami or traveling. Kelby Contreras prioritizes clear and consistent communication, providing you with a primary contact and a structured update schedule. This setup allows for efficient information exchange and quick resolution of any questions or concerns that may arise.",
+        "@type": "Answer",
+        "description": "Communication is primarily via phone, email, and secure online platforms, with a primary contact and structured updates, ensuring timely interaction."
+      }
+    }
+  ],
+  "description": "Communication is primarily via phone, email, and secure online platforms, with a primary contact and structured updates, ensuring timely interaction."
+}

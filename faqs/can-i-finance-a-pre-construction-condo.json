@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/can-i-finance-a-pre-construction-condo",
+  "name": "Can I finance a pre-construction condo?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I finance a pre-construction condo?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, financing a pre-construction condo is possible, though the loan typically doesn't close until the building is complete. During the construction period, you'll make installment payments as per the developer's schedule, often from your own funds or a bridge loan. It's advisable to secure pre-approval for a mortgage early, as lending requirements can change. Kelby Contreras can connect you with trusted lenders experienced in pre-construction financing in the South Florida market, ensuring you understand your options and are prepared when the time comes to close.",
+        "@type": "Answer",
+        "description": "Yes, financing is possible, but the loan usually closes upon building completion. You make installment payments during construction, and pre-approval is recommended."
+      }
+    }
+  ],
+  "description": "Yes, financing is possible, but the loan usually closes upon building completion. You make installment payments during construction, and pre-approval is recomme"
+}

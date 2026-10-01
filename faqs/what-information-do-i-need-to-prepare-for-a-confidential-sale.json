@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/what-information-do-i-need-to-prepare-for-a-confidential-sale",
+  "name": "What information do I need to prepare for a confidential sale?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What information do I need to prepare for a confidential sale?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "To prepare for a confidential sale, you should gather essential property details such as recent appraisals, survey documents, property tax records, and any relevant financial statements if it's an income-producing property. You'll also need to consider your desired level of discretion and specific terms. This preparation ensures that once a qualified buyer expresses interest, you have all necessary documentation ready to facilitate a smooth, discreet transaction. This streamlines the process and maintains confidentiality.",
+        "@type": "Answer",
+        "description": "Prepare property appraisals, surveys, tax records, and financial statements; also, define your desired discretion level to streamline the discreet transaction."
+      }
+    }
+  ],
+  "description": "Prepare property appraisals, surveys, tax records, and financial statements; also, define your desired discretion level to streamline the discreet transaction."
+}

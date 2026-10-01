@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/what-is-the-earnest-money-deposit-process-for-new-construction-in-miami",
+  "name": "What is the earnest money deposit process for new construction in Miami?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the earnest money deposit process for new construction in Miami?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The earnest money deposit (EMD) process for new construction in Miami typically involves a larger initial deposit compared to resale homes, often ranging from 5% to 20% of the purchase price. This amount can be paid in stages, such as an initial deposit upon contract signing, and subsequent payments tied to construction milestones. The EMD demonstrates your commitment to the purchase and is usually non-refundable if you back out without a valid contingency. It's crucial to understand the deposit schedule, refundability clauses, and how your EMD will be held, usually in an escrow account, before committing.",
+        "@type": "Answer",
+        "description": "Earnest money deposits for new construction in Miami are often 5-20% of the price, paid in stages, and are generally non-refundable if you cancel without cause."
+      }
+    }
+  ],
+  "description": "Earnest money deposits for new construction in Miami are often 5-20% of the price, paid in stages, and are generally non-refundable if you cancel without cause."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/what-due-diligence-should-i-perform-before-purchasing-a-new-construction-home-in",
+  "name": "What due diligence should I perform before purchasing a new construction home in Miami?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What due diligence should I perform before purchasing a new construction home in Miami?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Before purchasing a new construction home in Miami, thorough due diligence is essential. This includes researching the builder's reputation and track record, reviewing their warranty program, and understanding the specific terms of the purchase agreement and any addendums. It's also wise to investigate the local area's development plans, potential future construction, and HOA documents if applicable. Consider conducting an independent home inspection, even for new builds, to identify any issues before closing. Kelby Contreras can assist in gathering this crucial information and guiding you through the due diligence process.",
+        "@type": "Answer",
+        "description": "Before buying new construction in Miami, research the builder, review warranties and contracts, investigate local development, and consider an independent home inspection."
+      }
+    }
+  ],
+  "description": "Before buying new construction in Miami, research the builder, review warranties and contracts, investigate local development, and consider an independent home"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/what-is-the-role-of-the-title-company-in-a-remote-closing",
+  "name": "What is the role of the title company in a remote closing?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the role of the title company in a remote closing?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The title company plays a crucial role in a remote closing, just as it would in a traditional one. Their responsibilities include conducting a thorough title search, issuing title insurance, preparing closing documents like the HUD-1 or Closing Disclosure, and facilitating the secure transfer of funds. In a remote setup, the title company often coordinates the digital signing process or arranges for a mobile notary. Your Kelby Contreras remote closing coordinator works closely with the chosen title company to ensure all title-related aspects are handled efficiently and in compliance with Florida regulations.",
+        "@type": "Answer",
+        "description": "The title company conducts title searches, issues insurance, prepares closing documents, and facilitates fund transfer, often coordinating digital signings in a remote closing."
+      }
+    }
+  ],
+  "description": "The title company conducts title searches, issues insurance, prepares closing documents, and facilitates fund transfer, often coordinating digital signings in a"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/what-are-common-closing-costs-associated-with-a-new-development-condo-purchase",
+  "name": "What are common closing costs associated with a new development condo purchase?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are common closing costs associated with a new development condo purchase?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Closing costs for new development condos include traditional expenses like title insurance and attorney fees, but often also involve developer-specific fees such as impact fees, connection fees, and contributions to the condo association's working capital fund. These developer fees can sometimes be substantial and are important to factor into your budget beyond the purchase price. Kelby Contreras helps clients understand and anticipate these additional costs, particularly in markets like Fort Lauderdale and Palm Beach, to avoid surprises.",
+        "@type": "Answer",
+        "description": "New development condo closing costs include standard fees plus additional developer-specific charges like impact and connection fees, and working capital contributions."
+      }
+    }
+  ],
+  "description": "New development condo closing costs include standard fees plus additional developer-specific charges like impact and connection fees, and working capital contri"
+}

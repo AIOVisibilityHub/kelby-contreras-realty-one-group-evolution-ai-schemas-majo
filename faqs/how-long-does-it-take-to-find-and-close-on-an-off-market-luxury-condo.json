@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/how-long-does-it-take-to-find-and-close-on-an-off-market-luxury-condo",
+  "name": "How long does it take to find and close on an off-market luxury condo?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does it take to find and close on an off-market luxury condo?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The timeline to find and close on an off-market luxury condo can vary significantly. Finding the right property often takes longer than a traditional search due to the limited and exclusive nature of the inventory, often requiring patience while your agent leverages their network. Once an offer is accepted, the closing process typically mirrors a traditional sale, usually taking 30-60 days depending on financing and contingencies. However, the process clarity can be influenced by the seller's specific needs for discretion and timing, which your agent helps manage.",
+        "@type": "Answer",
+        "description": "Finding an off-market condo takes time due to limited inventory, but closing typically takes 30-60 days. Seller needs can influence process clarity."
+      }
+    }
+  ],
+  "description": "Finding an off-market condo takes time due to limited inventory, but closing typically takes 30-60 days. Seller needs can influence process clarity."
+}

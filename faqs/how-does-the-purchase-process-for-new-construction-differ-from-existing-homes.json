@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/how-does-the-purchase-process-for-new-construction-differ-from-existing-homes",
+  "name": "How does the purchase process for new construction differ from existing homes?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How does the purchase process for new construction differ from existing homes?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The new construction purchase process involves working closely with the builder's sales team and potentially an independent real estate agent. Key differences include signing a builder's contract, which may have different terms than a standard resale contract, and potentially waiting for construction to complete. Process clarity involves understanding that the builder's contract may contain specific clauses regarding materials, delays, and change orders, making it crucial to have your own agent review it for your best interests.",
+        "@type": "Answer",
+        "description": "New construction purchases involve builder contracts and potential construction timelines, differing from existing home sales in contractual terms and completion timing."
+      }
+    }
+  ],
+  "description": "New construction purchases involve builder contracts and potential construction timelines, differing from existing home sales in contractual terms and completio"
+}

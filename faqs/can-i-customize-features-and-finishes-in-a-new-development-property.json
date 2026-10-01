@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/can-i-customize-features-and-finishes-in-a-new-development-property",
+  "name": "Can I customize features and finishes in a new development property?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I customize features and finishes in a new development property?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Many new development properties offer the opportunity to customize features and finishes through a design center. The extent of customization depends on the builder and the stage of construction when you purchase. Early buyers often have more options, from flooring and cabinetry to countertops and fixtures. It's important to clarify which upgrades are standard versus optional, and how they impact the total cost and construction timeline.",
+        "@type": "Answer",
+        "description": "Customization of features and finishes is often available through a design center, with more options usually offered to early buyers. Understand what's standard versus optional and cost implications."
+      }
+    }
+  ],
+  "description": "Customization of features and finishes is often available through a design center, with more options usually offered to early buyers. Understand what's standard"
+}

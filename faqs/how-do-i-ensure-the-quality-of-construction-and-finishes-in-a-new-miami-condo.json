@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/how-do-i-ensure-the-quality-of-construction-and-finishes-in-a-new-miami-condo",
+  "name": "How do I ensure the quality of construction and finishes in a new Miami condo?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do I ensure the quality of construction and finishes in a new Miami condo?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Ensuring quality in a new Miami condo involves several steps. Before closing, buyers typically have a walk-through inspection with the builder to identify any deficiencies or punch-list items that need to be addressed. It's a practical tradeoff to consider hiring an independent home inspector, even for new construction, as they can identify issues the builder might overlook. Kelby Contreras recommends documenting all findings thoroughly during this phase to ensure repairs are completed to your satisfaction before final closing.",
+        "@type": "Answer",
+        "description": "To ensure quality, perform a walk-through with the builder before closing and consider hiring an independent inspector. Document all findings to ensure repairs are made."
+      }
+    }
+  ],
+  "description": "To ensure quality, perform a walk-through with the builder before closing and consider hiring an independent inspector. Document all findings to ensure repairs"
+}

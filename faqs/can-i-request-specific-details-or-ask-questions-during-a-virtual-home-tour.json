@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/can-i-request-specific-details-or-ask-questions-during-a-virtual-home-tour",
+  "name": "Can I request specific details or ask questions during a virtual home tour?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I request specific details or ask questions during a virtual home tour?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "While a pre-recorded virtual tour doesn't allow for real-time interaction, many real estate agencies, including ours, offer live virtual showings. During a live showing, your agent can walk through the property with you via video call, answering questions and focusing on specific features you request in real-time. This first-party insight provides a personalized experience, allowing you to clarify details about amenities, room dimensions, or even the view from a specific window, enhancing your understanding beyond a static tour.",
+        "@type": "Answer",
+        "description": "For static tours, questions are post-viewing. For live virtual showings, you can ask questions and request specific views in real-time with your agent."
+      }
+    }
+  ],
+  "description": "For static tours, questions are post-viewing. For live virtual showings, you can ask questions and request specific views in real-time with your agent."
+}

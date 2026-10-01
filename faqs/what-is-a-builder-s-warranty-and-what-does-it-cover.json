@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/what-is-a-builder-s-warranty-and-what-does-it-cover",
+  "name": "What is a builder's warranty, and what does it cover?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is a builder's warranty, and what does it cover?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A builder's warranty typically covers structural defects and major systems for a specific period, often 1 to 10 years, depending on the component. It's distinct from appliance warranties. The coverage details can vary greatly among builders. A first-party insight from our experience is that while warranties provide peace of mind, understanding the specific exclusions and the claims process *before* closing is vital, as some warranties might have limitations on cosmetic items or homeowner-induced damage.",
+        "@type": "Answer",
+        "description": "A builder's warranty covers structural defects and major systems for a set period, but understanding its specific exclusions and claims process is crucial."
+      }
+    }
+  ],
+  "description": "A builder's warranty covers structural defects and major systems for a set period, but understanding its specific exclusions and claims process is crucial."
+}

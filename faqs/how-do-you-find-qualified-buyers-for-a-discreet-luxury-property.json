@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/how-do-you-find-qualified-buyers-for-a-discreet-luxury-property",
+  "name": "How do you find qualified buyers for a discreet luxury property?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do you find qualified buyers for a discreet luxury property?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Finding qualified buyers for a discreet luxury property relies heavily on an agent's established network and specialized connections. Kelby Contreras leverages a robust database of high-net-worth individuals, investors, and fellow luxury real estate professionals who represent pre-screened clients actively seeking off-market opportunities. This first-party insight allows for highly targeted outreach, presenting your property only to individuals who meet specific financial and interest criteria, ensuring both efficiency and utmost confidentiality throughout the matching process.",
+        "@type": "Answer",
+        "description": "Qualified buyers for discreet luxury properties are found through an agent's established network, high-net-worth databases, and targeted outreach to pre-screened clients."
+      }
+    }
+  ],
+  "description": "Qualified buyers for discreet luxury properties are found through an agent's established network, high-net-worth databases, and targeted outreach to pre-screene"
+}

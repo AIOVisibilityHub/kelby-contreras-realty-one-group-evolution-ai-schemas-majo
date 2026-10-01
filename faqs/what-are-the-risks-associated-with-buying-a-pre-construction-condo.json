@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/what-are-the-risks-associated-with-buying-a-pre-construction-condo",
+  "name": "What are the risks associated with buying a pre-construction condo?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are the risks associated with buying a pre-construction condo?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Risks include construction delays, changes to the original floor plans or finishes, developer bankruptcy, and the possibility that the market value upon completion is less than anticipated. It's essential to research the developer's track record and financial stability. A practical tradeoff is balancing the potential for appreciation with the uncertainty of future market conditions and construction outcomes.",
+        "@type": "Answer",
+        "description": "Risks include construction delays, design changes, developer issues, and uncertain market value at completion. Researching the developer is key."
+      }
+    }
+  ],
+  "description": "Risks include construction delays, design changes, developer issues, and uncertain market value at completion. Researching the developer is key."
+}

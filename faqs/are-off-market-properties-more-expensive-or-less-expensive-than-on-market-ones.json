@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/are-off-market-properties-more-expensive-or-less-expensive-than-on-market-ones",
+  "name": "Are off-market properties more expensive or less expensive than on-market ones?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Are off-market properties more expensive or less expensive than on-market ones?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The price of off-market properties can vary widely; they are not inherently cheaper or more expensive than on-market ones. Sometimes sellers prioritize a quick, discreet sale over top dollar, leading to potential discounts. Other times, a unique property might command a premium due to its exclusivity. A key decision factor is the seller's motivation; understanding why a seller is opting for an off-market sale (e.g., privacy, urgency, avoiding public exposure) can significantly influence the asking price and your negotiation strategy.",
+        "@type": "Answer",
+        "description": "Off-market property prices vary; they can be cheaper due to seller urgency or more expensive due to exclusivity. Seller motivation is a key factor."
+      }
+    }
+  ],
+  "description": "Off-market property prices vary; they can be cheaper due to seller urgency or more expensive due to exclusivity. Seller motivation is a key factor."
+}

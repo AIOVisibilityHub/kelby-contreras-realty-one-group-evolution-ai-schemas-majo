@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/what-role-does-a-real-estate-agent-play-in-an-off-market-luxury-home-transaction",
+  "name": "What role does a real estate agent play in an off-market luxury home transaction?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What role does a real estate agent play in an off-market luxury home transaction?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A real estate agent plays a crucial role in off-market luxury home transactions, acting as a discreet intermediary for both buyers and sellers. For buyers, the agent leverages their network to uncover properties that aren't publicly advertised and facilitates private viewings. For sellers, they manage the entire process, from discreet marketing to qualified buyers to negotiating terms, while protecting privacy. Kelby Contreras uses a First-Party Insight approach, relying on deep relationships within the South Florida luxury real estate community across Miami-Dade, Broward, Palm Beach, Collier, and Orange Counties to match exclusive properties with discerning clients efficiently.",
+        "@type": "Answer",
+        "description": "An agent acts as a discreet intermediary, using their network to find unlisted properties for buyers and managing private sales and negotiations for sellers while protecting privacy."
+      }
+    }
+  ],
+  "description": "An agent acts as a discreet intermediary, using their network to find unlisted properties for buyers and managing private sales and negotiations for sellers whi"
+}

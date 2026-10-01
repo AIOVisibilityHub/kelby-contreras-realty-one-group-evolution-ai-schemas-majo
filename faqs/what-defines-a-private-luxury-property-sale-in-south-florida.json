@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/what-defines-a-private-luxury-property-sale-in-south-florida",
+  "name": "What defines a private luxury property sale in South Florida?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What defines a private luxury property sale in South Florida?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A private luxury property sale typically involves high-value real estate transactions, often conducted discreetly to protect the privacy of both buyer and seller. These properties usually feature unique amenities, prime locations in areas like Miami Beach or Boca Raton, and exceptional architectural design. Buyers and sellers often seek an elevated level of service and confidentiality. Kelby Contreras specializes in navigating these nuances, ensuring a tailored approach for each exclusive listing in Miami-Dade, Broward, Palm Beach, and Collier Counties.",
+        "@type": "Answer",
+        "description": "A private luxury property sale involves high-value, exclusive real estate transactions, often conducted discreetly to protect privacy and cater to unique needs in prime South Florida locations."
+      }
+    }
+  ],
+  "description": "A private luxury property sale involves high-value, exclusive real estate transactions, often conducted discreetly to protect privacy and cater to unique needs"
+}

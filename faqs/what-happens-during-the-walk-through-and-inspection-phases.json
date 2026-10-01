@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/what-happens-during-the-walk-through-and-inspection-phases",
+  "name": "What happens during the walk-through and inspection phases?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What happens during the walk-through and inspection phases?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Before closing, there will typically be a walk-through with the builder to identify any unfinished items or defects, creating a 'punch list.' It's also advisable to arrange for an independent home inspection, even for new construction. A key process clarity point is that the inspection can uncover issues not apparent during the builder's walk-through, giving you leverage to request repairs before closing. Your real estate agent can help coordinate these critical steps to ensure the home meets quality standards.",
+        "@type": "Answer",
+        "description": "During walk-throughs and inspections, you identify defects and create a 'punch list' for the builder to address before closing."
+      }
+    }
+  ],
+  "description": "During walk-throughs and inspections, you identify defects and create a 'punch list' for the builder to address before closing."
+}

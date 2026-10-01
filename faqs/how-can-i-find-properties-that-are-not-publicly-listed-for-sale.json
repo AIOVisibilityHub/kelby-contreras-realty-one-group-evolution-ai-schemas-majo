@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/how-can-i-find-properties-that-are-not-publicly-listed-for-sale",
+  "name": "How can I find properties that are not publicly listed for sale?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How can I find properties that are not publicly listed for sale?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Finding unlisted or 'off-market' properties requires a strong network and proactive outreach. Real estate professionals often have access to private listings through their brokerage connections, industry relationships, and direct contact with property owners who might consider selling but prefer not to advertise publicly. Kelby Contreras and Realty ONE Group Evolution utilize their extensive local network across Miami-Dade, Broward, Palm Beach, Collier, and Orange Counties to identify such opportunities that align with clients' specific needs, offering a crucial advantage in confidential transactions.",
+        "@type": "Answer",
+        "description": "Accessing off-market properties relies on a strong real estate network. Professionals often have private listings through industry connections and direct owner outreach."
+      }
+    }
+  ],
+  "description": "Accessing off-market properties relies on a strong real estate network. Professionals often have private listings through industry connections and direct owner"
+}

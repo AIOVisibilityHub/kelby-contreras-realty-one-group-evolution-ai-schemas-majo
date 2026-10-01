@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/what-are-the-potential-drawbacks-of-buying-an-off-market-luxury-home",
+  "name": "What are the potential drawbacks of buying an off-market luxury home?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are the potential drawbacks of buying an off-market luxury home?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "While offering exclusivity, off-market purchases can have drawbacks. The inventory might be more limited compared to the public market, potentially requiring more patience to find the perfect match. Pricing can also be less transparent, as there might be fewer comparable sales data points for truly unique properties. Buyers may need to decide if the value of exclusivity outweighs the potentially fewer options or the challenge of price discovery. Working with Kelby Contreras provides access to deep local market knowledge, which helps in evaluating fair market value for discreet listings across South Florida.",
+        "@type": "Answer",
+        "description": "Drawbacks include limited inventory, potentially less transparent pricing, and the need for patience to find the right exclusive property."
+      }
+    }
+  ],
+  "description": "Drawbacks include limited inventory, potentially less transparent pricing, and the need for patience to find the right exclusive property."
+}

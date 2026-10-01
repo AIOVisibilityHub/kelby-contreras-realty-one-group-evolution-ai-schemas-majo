@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/can-i-still-view-public-listings-if-i-m-seeking-private-access",
+  "name": "Can I still view public listings if I'm seeking private access?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I still view public listings if I'm seeking private access?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Absolutely. Seeking private listing access does not limit your ability to view and consider public listings. In fact, it is often recommended to explore both avenues simultaneously to broaden your options in the competitive South Florida market. Kelby Contreras can help you navigate both public and private markets, ensuring you have the widest possible selection of homes that meet your criteria. This approach offers a comprehensive search strategy.",
+        "@type": "Answer",
+        "description": "Yes, you can and should view public listings even while seeking private access to maximize your options."
+      }
+    }
+  ],
+  "description": "Yes, you can and should view public listings even while seeking private access to maximize your options."
+}

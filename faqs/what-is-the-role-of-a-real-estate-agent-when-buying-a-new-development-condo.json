@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/what-is-the-role-of-a-real-estate-agent-when-buying-a-new-development-condo",
+  "name": "What is the role of a real estate agent when buying a new development condo?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the role of a real estate agent when buying a new development condo?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A real estate agent represents your interests, not the developer's, providing unbiased advice and guidance throughout the new construction purchase process. They can help you compare different developments, understand contract terms, negotiate with the developer, and navigate the closing process. Kelby Contreras acts as an advocate for buyers, offering expertise in new developments across areas like Brickell and Downtown Miami to ensure a smooth transaction and protect your best interests.",
+        "@type": "Answer",
+        "description": "A real estate agent represents the buyer's interests, offering unbiased advice, comparing developments, assisting with negotiations, and guiding through closing."
+      }
+    }
+  ],
+  "description": "A real estate agent represents the buyer's interests, offering unbiased advice, comparing developments, assisting with negotiations, and guiding through closing"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/what-are-common-extra-costs-or-fees-in-pre-construction-purchases",
+  "name": "What are common extra costs or fees in pre-construction purchases?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are common extra costs or fees in pre-construction purchases?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Beyond the purchase price, pre-construction condo buyers should anticipate various additional costs and fees. These can include closing costs, property taxes, homeowner association (HOA) fees (which start upon closing), and potential developer fees like impact fees or capital contributions. It's crucial to budget for these. Kelby Contreras helps clients understand and itemize all potential costs associated with pre-construction purchases in different South Florida municipalities, such as those in Broward or Palm Beach County, providing a clearer financial picture upfront.",
+        "@type": "Answer",
+        "description": "Common extra costs include closing costs, property taxes, HOA fees, and potential developer fees. These should be budgeted for in addition to the purchase price."
+      }
+    }
+  ],
+  "description": "Common extra costs include closing costs, property taxes, HOA fees, and potential developer fees. These should be budgeted for in addition to the purchase price"
+}

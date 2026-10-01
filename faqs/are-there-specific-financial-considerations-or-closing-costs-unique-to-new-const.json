@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/are-there-specific-financial-considerations-or-closing-costs-unique-to-new-const",
+  "name": "Are there specific financial considerations or closing costs unique to new construction condos?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Are there specific financial considerations or closing costs unique to new construction condos?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, new construction condos often involve unique financial considerations beyond standard closing costs. Buyers may be responsible for developer fees, impact fees, master association setup fees, or contributions to reserves, which are not typically found in resale transactions. It's crucial to review the developer's contract and disclosure documents carefully to understand all potential fees. Kelby Contreras - Realty ONE Group Evolution can help you anticipate these additional costs and negotiate terms where possible.",
+        "@type": "Answer",
+        "description": "New construction condos can have unique closing costs such as developer fees, impact fees, or master association setup fees. Review the contract carefully to understand all potential charges."
+      }
+    }
+  ],
+  "description": "New construction condos can have unique closing costs such as developer fees, impact fees, or master association setup fees. Review the contract carefully to un"
+}

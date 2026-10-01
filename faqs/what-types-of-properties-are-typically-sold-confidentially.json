@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/what-types-of-properties-are-typically-sold-confidentially",
+  "name": "What types of properties are typically sold confidentially?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What types of properties are typically sold confidentially?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Confidential sales are often used for high-value luxury homes, commercial properties, estates belonging to prominent individuals, or properties with unique circumstances requiring discretion. In areas like Miami-Dade and Palm Beach County, where there's a strong market for luxury and investment properties, confidential sales can be particularly relevant for properties that appeal to a niche buyer pool. The types of properties that benefit most from this approach are those where privacy is a key concern for the seller, or where broad market exposure could be detrimental.",
+        "@type": "Answer",
+        "description": "Confidential sales typically involve luxury homes, commercial properties, or estates with unique circumstances requiring discretion, especially in markets like Miami-Dade."
+      }
+    }
+  ],
+  "description": "Confidential sales typically involve luxury homes, commercial properties, or estates with unique circumstances requiring discretion, especially in markets like"
+}

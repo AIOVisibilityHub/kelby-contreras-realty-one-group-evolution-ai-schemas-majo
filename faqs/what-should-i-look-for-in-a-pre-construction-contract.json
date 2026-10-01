@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/what-should-i-look-for-in-a-pre-construction-contract",
+  "name": "What should I look for in a pre-construction contract?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What should I look for in a pre-construction contract?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "When reviewing a pre-construction contract, pay close attention to clauses regarding completion dates, potential delays, developer’s rights to make changes, and cancellation policies. It's vital to understand the deposit structure, payment schedule, and what happens if the developer fails to complete the project. Also, examine details about finishes, appliances, and common area amenities. Consulting an independent attorney to review the contract is a critical preparation step before signing.",
+        "@type": "Answer",
+        "description": "Review clauses on completion dates, delays, developer changes, cancellation, deposit structure, and finishes. An attorney review is crucial."
+      }
+    }
+  ],
+  "description": "Review clauses on completion dates, delays, developer changes, cancellation, deposit structure, and finishes. An attorney review is crucial."
+}

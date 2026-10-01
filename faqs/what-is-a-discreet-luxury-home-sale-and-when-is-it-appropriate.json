@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/what-is-a-discreet-luxury-home-sale-and-when-is-it-appropriate",
+  "name": "What is a discreet luxury home sale and when is it appropriate?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is a discreet luxury home sale and when is it appropriate?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A discreet luxury home sale, often called an off-market or private sale, involves selling a property without public advertising on MLS or other major listing platforms. This approach is appropriate when sellers prioritize privacy, seek to control information flow, or wish to avoid public exposure of their property and personal affairs. It's often chosen by high-profile individuals, those with unique properties, or when market testing is desired before a full public launch. Kelby Contreras specializes in facilitating these private transactions, ensuring your specific needs for discretion are met throughout the process.",
+        "@type": "Answer",
+        "description": "A discreet luxury home sale is a private transaction without public advertising, suitable for sellers who prioritize privacy and control over the sales process."
+      }
+    }
+  ],
+  "description": "A discreet luxury home sale is a private transaction without public advertising, suitable for sellers who prioritize privacy and control over the sales process."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/what-are-the-common-pitfalls-to-avoid-when-buying-new-construction",
+  "name": "What are the common pitfalls to avoid when buying new construction?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are the common pitfalls to avoid when buying new construction?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Common pitfalls include not having independent representation, misunderstanding the builder's contract, overspending on upgrades, and neglecting to get independent inspections. Builder contracts are typically written to protect the builder. An agent can identify clauses that might not be in your best interest, recommend independent inspections at various stages, and ensure you understand what's included versus what's an extra cost. This proactive approach helps avoid costly surprises.",
+        "@type": "Answer",
+        "description": "Avoid pitfalls like no independent representation, misunderstood contracts, overspending on upgrades, and skipping independent inspections. An agent helps mitigate these risks."
+      }
+    }
+  ],
+  "description": "Avoid pitfalls like no independent representation, misunderstood contracts, overspending on upgrades, and skipping independent inspections. An agent helps mitig"
+}

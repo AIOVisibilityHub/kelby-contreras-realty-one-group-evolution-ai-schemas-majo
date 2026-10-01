@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/can-i-negotiate-the-price-or-features-of-a-new-construction-home",
+  "name": "Can I negotiate the price or features of a new construction home?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I negotiate the price or features of a new construction home?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Negotiating on new construction is often possible, though the degree varies by builder, market conditions, and the inventory available. While direct price reductions may be less common in strong markets, you might negotiate for upgrades, closing cost credits, or appliance packages. A practical tradeoff is that while a builder may resist lowering the base price, they might be more flexible with incentives that offer similar financial benefit, such as paying a portion of your closing costs, which can reduce your out-of-pocket expenses.",
+        "@type": "Answer",
+        "description": "Negotiation on new construction may involve upgrades, closing cost credits, or appliance packages rather than direct price reductions."
+      }
+    }
+  ],
+  "description": "Negotiation on new construction may involve upgrades, closing cost credits, or appliance packages rather than direct price reductions."
+}

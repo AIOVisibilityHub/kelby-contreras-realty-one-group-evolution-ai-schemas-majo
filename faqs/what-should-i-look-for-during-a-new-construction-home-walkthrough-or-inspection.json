@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/what-should-i-look-for-during-a-new-construction-home-walkthrough-or-inspection",
+  "name": "What should I look for during a new construction home walkthrough or inspection?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What should I look for during a new construction home walkthrough or inspection?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "During a new construction walkthrough, pay close attention to overall quality, ensuring all agreed-upon finishes and features are present and correctly installed. Check for any visible defects like cracks, paint imperfections, or issues with appliances and fixtures. It is highly advisable to hire an independent home inspector to identify potential structural, electrical, plumbing, or HVAC issues that may not be obvious. Kelby Contreras can guide you on key areas to focus on during these critical pre-closing stages.",
+        "@type": "Answer",
+        "description": "During a new construction walkthrough, check for quality, correct installations, and visible defects. Hiring an independent home inspector for structural and system checks is strongly recommended."
+      }
+    }
+  ],
+  "description": "During a new construction walkthrough, check for quality, correct installations, and visible defects. Hiring an independent home inspector for structural and sy"
+}

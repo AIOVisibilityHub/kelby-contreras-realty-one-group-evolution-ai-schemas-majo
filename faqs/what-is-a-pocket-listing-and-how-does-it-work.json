@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/what-is-a-pocket-listing-and-how-does-it-work",
+  "name": "What is a pocket listing and how does it work?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is a pocket listing and how does it work?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A pocket listing, also known as an off-market or unlisted property, is a home that is for sale but not publicly advertised on the Multiple Listing Service (MLS). This means it is not visible to the general public or most real estate agents. We facilitate access to these exclusive properties through our network, connecting buyers with sellers who prefer a discreet sale. The process involves direct communication and negotiation, often allowing sellers to maintain privacy and buyers to access unique inventory before it hits the open market.",
+        "@type": "Answer",
+        "description": "A pocket listing is a property for sale that is not publicly advertised on the MLS. We provide access to these exclusive, off-market homes through our private network, enabling discreet transactions."
+      }
+    }
+  ],
+  "description": "A pocket listing is a property for sale that is not publicly advertised on the MLS. We provide access to these exclusive, off-market homes through our private n"
+}

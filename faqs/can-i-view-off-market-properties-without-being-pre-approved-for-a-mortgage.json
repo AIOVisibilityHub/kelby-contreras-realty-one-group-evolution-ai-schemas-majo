@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/can-i-view-off-market-properties-without-being-pre-approved-for-a-mortgage",
+  "name": "Can I view off-market properties without being pre-approved for a mortgage?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I view off-market properties without being pre-approved for a mortgage?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "While it's possible to view some off-market properties without pre-approval, many sellers and their agents will require proof of funds or a pre-approval letter before scheduling a showing. This is particularly true for high-value properties or in competitive markets where sellers want to ensure serious buyers. Obtaining mortgage pre-approval demonstrates your financial readiness and commitment, which can significantly enhance your credibility and access to exclusive off-market listings. It also helps an agent like Kelby Contreras to accurately gauge your buying power and focus on properties that truly fit your budget, streamlining the search process.",
+        "@type": "Answer",
+        "description": "Some off-market properties can be viewed without pre-approval, but many sellers require proof of funds or pre-approval to ensure serious buyers."
+      }
+    }
+  ],
+  "description": "Some off-market properties can be viewed without pre-approval, but many sellers require proof of funds or pre-approval to ensure serious buyers."
+}

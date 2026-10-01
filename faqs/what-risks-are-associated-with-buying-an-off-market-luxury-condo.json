@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/what-risks-are-associated-with-buying-an-off-market-luxury-condo",
+  "name": "What risks are associated with buying an off-market luxury condo?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What risks are associated with buying an off-market luxury condo?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Risks associated with buying an off-market luxury condo can include potentially limited market exposure, which might mean you are not seeing a full range of comparable properties. There can also be less publicly available information about the property, making due diligence even more critical. A practical tradeoff is that while you gain exclusivity, you must rely heavily on your agent for comprehensive market analysis and property details. Ensuring a thorough inspection and title search is paramount, similar to any property purchase.",
+        "@type": "Answer",
+        "description": "Risks include limited market exposure and less public information. You rely heavily on your agent for analysis, making due diligence crucial."
+      }
+    }
+  ],
+  "description": "Risks include limited market exposure and less public information. You rely heavily on your agent for analysis, making due diligence crucial."
+}

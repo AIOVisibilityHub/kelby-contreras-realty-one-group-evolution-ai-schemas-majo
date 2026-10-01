@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/what-is-the-difference-between-a-custom-build-and-a-spec-home",
+  "name": "What is the difference between a custom build and a spec home?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the difference between a custom build and a spec home?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A custom build involves designing a home from scratch with an architect and builder, offering complete personalization of floor plans and finishes. This option provides maximum flexibility but usually has a longer timeline and higher cost. A 'spec home' (speculative home) is built by a developer with pre-selected designs and finishes, often nearing completion or move-in ready. While personalization is limited, spec homes offer quicker occupancy and often lower costs. We can help you compare these options based on your priorities and budget in areas like Aventura or Coral Gables.",
+        "@type": "Answer",
+        "description": "Custom builds offer full personalization and a longer timeline, while spec homes are pre-designed for quicker occupancy with limited choices. We help compare these based on your needs."
+      }
+    }
+  ],
+  "description": "Custom builds offer full personalization and a longer timeline, while spec homes are pre-designed for quicker occupancy with limited choices. We help compare th"
+}

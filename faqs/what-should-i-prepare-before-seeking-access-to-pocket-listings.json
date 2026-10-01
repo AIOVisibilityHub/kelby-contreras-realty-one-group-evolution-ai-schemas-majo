@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/what-should-i-prepare-before-seeking-access-to-pocket-listings",
+  "name": "What should I prepare before seeking access to pocket listings?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What should I prepare before seeking access to pocket listings?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Before seeking access to pocket listings, it's essential to have your financial ducks in a row. This includes securing pre-approval for a mortgage or having proof of funds for a cash purchase. A key preparation step is to clearly define your property criteria, including desired location (e.g., specific neighborhoods in Boca Raton or Coral Gables), size, features, and budget. This allows us to efficiently match you with suitable off-market opportunities and demonstrates your serious intent to sellers, who often prefer well-qualified buyers for private sales.",
+        "@type": "Answer",
+        "description": "Before accessing pocket listings, secure mortgage pre-approval or proof of funds and clearly define your property criteria, including location, size, and budget."
+      }
+    }
+  ],
+  "description": "Before accessing pocket listings, secure mortgage pre-approval or proof of funds and clearly define your property criteria, including location, size, and budget"
+}

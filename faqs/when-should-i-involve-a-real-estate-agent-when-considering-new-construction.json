@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/when-should-i-involve-a-real-estate-agent-when-considering-new-construction",
+  "name": "When should I involve a real estate agent when considering new construction?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When should I involve a real estate agent when considering new construction?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "It is advisable to involve a real estate agent from your very first visit to a new construction site or model home. The builder's sales team represents the builder's interests, not yours. Having an independent agent ensures you have dedicated representation to negotiate terms, understand contracts, and protect your interests throughout the entire process. A practical tradeoff is that while a builder's representative might seem convenient, an independent agent can provide unbiased advice and help you navigate the complexities of the purchase without additional cost to you.",
+        "@type": "Answer",
+        "description": "Involve an independent real estate agent before or during your first visit to a new construction site to ensure your interests are represented."
+      }
+    }
+  ],
+  "description": "Involve an independent real estate agent before or during your first visit to a new construction site to ensure your interests are represented."
+}

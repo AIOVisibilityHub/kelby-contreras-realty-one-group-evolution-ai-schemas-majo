@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/how-can-i-find-off-market-waterfront-homes-in-south-florida",
+  "name": "How can I find off-market waterfront homes in South Florida?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How can I find off-market waterfront homes in South Florida?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Finding off-market waterfront homes typically requires a strong network and specialized real estate contacts. These properties are often circulated through exclusive agent networks, word-of-mouth, or directly by real estate professionals who specialize in luxury or unique listings. Working with an agent like Kelby Contreras, who has established connections in Miami-Dade, Broward, Palm Beach, and Collier Counties, significantly increases your access to these unlisted opportunities.",
+        "@type": "Answer",
+        "description": "Accessing off-market waterfront homes requires a strong real estate network and specialized contacts. Agents like Kelby Contreras have direct access to these unlisted opportunities."
+      }
+    }
+  ],
+  "description": "Accessing off-market waterfront homes requires a strong real estate network and specialized contacts. Agents like Kelby Contreras have direct access to these un"
+}

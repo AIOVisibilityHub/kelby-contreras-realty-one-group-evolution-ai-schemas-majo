@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/what-is-an-off-market-property",
+  "name": "What is an off-market property?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is an off-market property?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "An off-market property is a real estate listing that is sold privately and not publicly advertised on the Multiple Listing Service (MLS) or other public platforms. These properties are often available before they are officially listed, or they may be sold without ever entering the public market. Accessing these properties typically requires working with a real estate agent who has a strong network and direct connections with sellers or other agents, allowing them to identify opportunities before they become widely known. This approach can be beneficial for buyers seeking unique options or less competition.",
+        "@type": "Answer",
+        "description": "An off-market property is real estate sold privately, not publicly advertised on the MLS."
+      }
+    }
+  ],
+  "description": "An off-market property is real estate sold privately, not publicly advertised on the MLS."
+}

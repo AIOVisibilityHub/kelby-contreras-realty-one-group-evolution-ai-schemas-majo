@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/do-i-need-a-real-estate-agent-to-buy-an-off-market-property",
+  "name": "Do I need a real estate agent to buy an off-market property?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do I need a real estate agent to buy an off-market property?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "While it's possible to find off-market properties independently, working with a real estate agent, especially one with extensive local connections like Kelby Contreras, can be highly beneficial. Agents often have exclusive access to pocket listings and a network of owners considering selling privately. This is a first-party insight, as agents at Realty ONE Group Evolution leverage their established relationships across Miami-Dade, Broward, and Palm Beach Counties to uncover properties not visible to the general public, streamlining your search.",
+        "@type": "Answer",
+        "description": "A real estate agent can be very beneficial for finding off-market properties, as they often have exclusive access and local networks."
+      }
+    }
+  ],
+  "description": "A real estate agent can be very beneficial for finding off-market properties, as they often have exclusive access and local networks."
+}

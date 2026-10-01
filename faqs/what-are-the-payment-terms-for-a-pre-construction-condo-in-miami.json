@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/what-are-the-payment-terms-for-a-pre-construction-condo-in-miami",
+  "name": "What are the payment terms for a pre-construction condo in Miami?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are the payment terms for a pre-construction condo in Miami?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Payment terms for pre-construction condos in Miami typically involve a deposit schedule rather than a single upfront payment. Buyers often provide an initial deposit (e.g., 10-20%) upon contract signing, followed by additional payments at various construction milestones, such as groundbreaking, topping off, or when a certain percentage of construction is complete. The final balance is due at closing. It's important to review the specific payment schedule in the purchase agreement, as these can vary significantly by developer and project. Kelby Contreras can help clarify these structured payment plans.",
+        "@type": "Answer",
+        "description": "Pre-construction condo payment terms involve a deposit schedule over time, with payments tied to construction milestones, rather than one upfront sum."
+      }
+    }
+  ],
+  "description": "Pre-construction condo payment terms involve a deposit schedule over time, with payments tied to construction milestones, rather than one upfront sum."
+}

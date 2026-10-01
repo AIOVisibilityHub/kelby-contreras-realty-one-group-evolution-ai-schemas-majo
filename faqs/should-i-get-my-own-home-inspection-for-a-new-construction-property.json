@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/should-i-get-my-own-home-inspection-for-a-new-construction-property",
+  "name": "Should I get my own home inspection for a new construction property?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Should I get my own home inspection for a new construction property?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Absolutely. Even though new homes are built to current codes and often undergo builder inspections, an independent home inspection by a third-party professional is highly recommended. Inspectors can catch issues that might be overlooked, providing an unbiased assessment of the home's condition before closing. This provides an additional layer of protection beyond the builder's warranty and can address potential concerns while the builder is still on-site. This is a crucial step in all regions we serve, including Miami-Dade and Broward counties.",
+        "@type": "Answer",
+        "description": "Yes, always get an independent home inspection. It provides an unbiased assessment, identifies potential issues, and offers protection beyond the builder's warranty."
+      }
+    }
+  ],
+  "description": "Yes, always get an independent home inspection. It provides an unbiased assessment, identifies potential issues, and offers protection beyond the builder's warr"
+}

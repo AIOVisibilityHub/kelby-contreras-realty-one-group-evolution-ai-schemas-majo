@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/what-information-about-my-home-will-be-shared-during-a-discreet-sale",
+  "name": "What information about my home will be shared during a discreet sale?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What information about my home will be shared during a discreet sale?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "During a discreet sale, information sharing is strictly controlled and minimized to protect your privacy. Initial discussions with potential buyers will typically involve general property characteristics and location details without revealing the exact address or owner identity. Only after a buyer is thoroughly vetted and signs a confidentiality agreement will more detailed information, such as specific property features, photos, and eventually the address, be disclosed. Kelby Contreras prioritizes your control over information disclosure, ensuring that no sensitive data is shared without your express consent at each stage of the process.",
+        "@type": "Answer",
+        "description": "Information sharing during a discreet sale is controlled. Initial details are general; specific information, including address, is shared only after a vetted buyer signs a confidentiality agreement."
+      }
+    }
+  ],
+  "description": "Information sharing during a discreet sale is controlled. Initial details are general; specific information, including address, is shared only after a vetted bu"
+}

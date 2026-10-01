@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/what-is-a-pre-construction-condo",
+  "name": "What is a pre-construction condo?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is a pre-construction condo?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A pre-construction condo is a condominium unit purchased before or during its construction. Buyers typically reserve a unit with a deposit and make additional payments as construction progresses. This allows purchasers to secure a unit at an earlier price point and often customize certain finishes, though the customization options vary by developer and stage of construction. Kelby Contreras assists clients in understanding these early-stage purchasing agreements across Miami-Dade and Broward Counties.",
+        "@type": "Answer",
+        "description": "A pre-construction condo is a unit purchased before or during its construction, typically allowing for customization and early pricing."
+      }
+    }
+  ],
+  "description": "A pre-construction condo is a unit purchased before or during its construction, typically allowing for customization and early pricing."
+}

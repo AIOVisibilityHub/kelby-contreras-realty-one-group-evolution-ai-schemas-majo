@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/how-do-i-find-off-market-investment-properties-in-south-florida",
+  "name": "How do I find off-market investment properties in South Florida?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do I find off-market investment properties in South Florida?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Finding off-market investment properties in South Florida, including Miami-Dade, Broward, and Palm Beach Counties, often involves leveraging professional networks, direct outreach to property owners, and working with real estate agents who specialize in these transactions. Developing strong relationships with local real estate professionals, such as those at Kelby Contreras - Realty ONE Group Evolution, is a first-party insight that can significantly improve your access to these exclusive opportunities. Agents often have private networks and direct contacts with potential sellers.",
+        "@type": "Answer",
+        "description": "Find off-market properties in South Florida through professional networks, direct owner outreach, and specialized real estate agents."
+      }
+    }
+  ],
+  "description": "Find off-market properties in South Florida through professional networks, direct owner outreach, and specialized real estate agents."
+}

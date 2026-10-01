@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/how-long-does-it-take-to-close-on-a-pre-construction-home",
+  "name": "How long does it take to close on a pre-construction home?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does it take to close on a pre-construction home?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The timeline to close on a pre-construction home can vary significantly, typically ranging from 6 months to over 2 years, depending on the project's size, complexity, and current stage of construction. This differs from resales, which close much faster. A practical tradeoff is that this extended timeline allows for financial planning, but also introduces uncertainty regarding market conditions upon completion. Your agent can provide insights into typical timelines for specific developments in areas like Miami-Dade or Broward County.",
+        "@type": "Answer",
+        "description": "Closing on pre-construction homes can take 6 months to over 2 years, depending on the project, allowing for financial planning but also market uncertainty."
+      }
+    }
+  ],
+  "description": "Closing on pre-construction homes can take 6 months to over 2 years, depending on the project, allowing for financial planning but also market uncertainty."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/what-are-off-market-investment-properties",
+  "name": "What are off-market investment properties?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are off-market investment properties?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Off-market investment properties are real estate assets that are sold discreetly without being publicly listed on the Multiple Listing Service (MLS) or other public platforms. These properties may include distressed assets, pocket listings, or properties where the seller prefers privacy. For investors, this can mean less competition and potentially more favorable terms. Understanding the seller's motivation for an off-market sale is a key preparation step, as it can influence negotiation strategy and transaction speed.",
+        "@type": "Answer",
+        "description": "Off-market investment properties are sold privately, not publicly listed on the MLS, often offering investors unique opportunities."
+      }
+    }
+  ],
+  "description": "Off-market investment properties are sold privately, not publicly listed on the MLS, often offering investors unique opportunities."
+}

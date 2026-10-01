@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/what-are-common-closing-costs-for-a-new-construction-condo-in-miami",
+  "name": "What are common closing costs for a new construction condo in Miami?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are common closing costs for a new construction condo in Miami?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Closing costs for new construction condos in Miami typically range from 2% to 5% of the purchase price. These can include title insurance, documentary stamps on the deed and mortgage, appraisal fees, lender fees, and attorney fees. A significant difference in new construction can be the inclusion of impact fees or developer contributions to HOA reserves, which might not be present in resale properties. Preparation involves budgeting for these costs, which are often paid out-of-pocket at closing.",
+        "@type": "Answer",
+        "description": "Closing costs for new construction condos in Miami usually range from 2-5% of the purchase price, including title insurance and various fees. New construction may also include developer contributions or impact fees."
+      }
+    }
+  ],
+  "description": "Closing costs for new construction condos in Miami usually range from 2-5% of the purchase price, including title insurance and various fees. New construction m"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/how-long-does-it-take-to-find-and-close-on-an-off-market-property",
+  "name": "How long does it take to find and close on an off-market property?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does it take to find and close on an off-market property?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The timeline for finding and closing an off-market property can vary significantly. Finding one depends on the immediate availability within an agent's network and how specific your criteria are. Once an off-market property is identified and an agreement reached, the closing process typically mirrors that of a traditional sale, usually taking 30-60 days. However, without public marketing, some aspects like negotiating terms or arranging financing might proceed at a different pace. Your agent can help manage expectations and provide realistic timelines based on the specific circumstances and location, such as in the fast-paced markets of Fort Lauderdale or West Palm Beach.",
+        "@type": "Answer",
+        "description": "Finding off-market properties varies, but closing typically takes 30-60 days, similar to traditional sales, depending on specifics."
+      }
+    }
+  ],
+  "description": "Finding off-market properties varies, but closing typically takes 30-60 days, similar to traditional sales, depending on specifics."
+}

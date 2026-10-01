@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/can-i-negotiate-the-price-or-terms-for-a-new-development-condo",
+  "name": "Can I negotiate the price or terms for a new development condo?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I negotiate the price or terms for a new development condo?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Negotiating the purchase price for a new development condo can be challenging, especially in popular markets or during early phases when demand is high. Developers often prefer to maintain consistent pricing. However, there may be opportunities to negotiate on incentives such as upgraded finishes, contributions towards closing costs, or developer-paid association fees for a certain period. Kelby Contreras can advise on viable negotiation strategies specific to various new developments across Miami-Dade and Broward Counties.",
+        "@type": "Answer",
+        "description": "Negotiating price for new development condos is difficult, but incentives like upgraded finishes or closing cost contributions might be negotiable."
+      }
+    }
+  ],
+  "description": "Negotiating price for new development condos is difficult, but incentives like upgraded finishes or closing cost contributions might be negotiable."
+}

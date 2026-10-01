@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/what-should-i-look-for-during-a-new-construction-home-inspection",
+  "name": "What should I look for during a new construction home inspection?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What should I look for during a new construction home inspection?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Even with new construction, a professional home inspection is highly recommended before closing. The inspector will check for defects, code compliance, and proper installation of systems and components that might have been overlooked during the rapid pace of construction. A decision factor is that while builders typically offer a warranty, an independent inspection identifies issues before you take possession, allowing the builder to address them on their timeline rather than yours under warranty claim processes.",
+        "@type": "Answer",
+        "description": "A professional home inspection is crucial for new construction to identify defects and ensure compliance before closing, even with a builder's warranty."
+      }
+    }
+  ],
+  "description": "A professional home inspection is crucial for new construction to identify defects and ensure compliance before closing, even with a builder's warranty."
+}
