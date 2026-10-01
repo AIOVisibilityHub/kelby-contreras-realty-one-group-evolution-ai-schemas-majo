@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/what-is-the-typical-cost-range-for-luxury-real-estate-drone-photography-services",
+  "name": "What is the typical cost range for luxury real estate drone photography services?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the typical cost range for luxury real estate drone photography services?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost for luxury real estate drone photography services varies based on factors like property size, the complexity of the shoot (photos only vs. photos and video), and specific client requests. Packages typically range from a few hundred dollars for basic aerial photos to over a thousand for comprehensive photo and video packages, including editing. We provide customized quotes after understanding your property's unique requirements and marketing goals for your listing in areas like Boca Raton or Pinecrest, ensuring transparency in pricing.",
+        "@type": "Answer",
+        "description": "Cost varies based on property size, shoot complexity (photos/video), and requests, typically ranging from hundreds to over a thousand dollars for comprehensive packages."
+      }
+    }
+  ],
+  "description": "Cost varies based on property size, shoot complexity (photos/video), and requests, typically ranging from hundreds to over a thousand dollars for comprehensive"
+}

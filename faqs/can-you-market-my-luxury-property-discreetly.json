@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/can-you-market-my-luxury-property-discreetly",
+  "name": "Can you market my luxury property discreetly?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can you market my luxury property discreetly?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, discreet marketing is a specialized service offered for luxury properties where privacy is paramount. This approach involves leveraging our exclusive network of high-net-worth individuals and targeted, private presentations rather than public listings. Properties in areas such as Pinecrest or Coral Gables often benefit from this method, ensuring confidentiality while still reaching qualified buyers who value discretion. We work closely with clients to tailor a marketing strategy that aligns with their privacy needs.",
+        "@type": "Answer",
+        "description": "Yes, discreet marketing for luxury properties uses private networks and targeted presentations to ensure confidentiality while reaching qualified, high-net-worth buyers."
+      }
+    }
+  ],
+  "description": "Yes, discreet marketing for luxury properties uses private networks and targeted presentations to ensure confidentiality while reaching qualified, high-net-wort"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/can-i-negotiate-personal-property-inclusions-in-a-luxury-home-purchase",
+  "name": "Can I negotiate personal property inclusions in a luxury home purchase?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I negotiate personal property inclusions in a luxury home purchase?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, negotiating personal property inclusions is common in luxury home purchases. This can include items such as designer furnishings, high-end appliances not typically included, unique art installations, or even specialized gym equipment. These items are typically listed separately in the purchase agreement or an addendum. Explicitly clarifying and detailing any desired inclusions during the negotiation phase helps prevent misunderstandings and ensures that all agreed-upon items are formally part of the transaction, especially for unique properties in locations like Fisher Island.",
+        "@type": "Answer",
+        "description": "Yes, personal property inclusions like designer furnishings or specialized equipment can be negotiated in luxury home purchases, and should be explicitly detailed in the purchase agreement."
+      }
+    }
+  ],
+  "description": "Yes, personal property inclusions like designer furnishings or specialized equipment can be negotiated in luxury home purchases, and should be explicitly detail"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/how-do-you-determine-the-listing-price-for-a-luxury-condo",
+  "name": "How do you determine the listing price for a luxury condo?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do you determine the listing price for a luxury condo?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The listing price for a luxury condo is determined through a comprehensive comparative market analysis (CMA). This involves evaluating recently sold comparable properties, current market trends, and the unique features and upgrades of your condo. Factors like location within exclusive areas such as Fisher Island or Coral Gables, specific views, and unique amenities significantly influence the valuation. We also consider absorption rates for luxury inventory in your specific submarket to strategize a competitive and realistic pricing point.",
+        "@type": "Answer",
+        "description": "We determine luxury condo listing prices using a comparative market analysis, considering market trends, unique features, location, and absorption rates in specific high-end areas."
+      }
+    }
+  ],
+  "description": "We determine luxury condo listing prices using a comparative market analysis, considering market trends, unique features, location, and absorption rates in spec"
+}

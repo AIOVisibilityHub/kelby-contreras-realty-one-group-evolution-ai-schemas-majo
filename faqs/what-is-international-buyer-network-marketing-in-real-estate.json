@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/what-is-international-buyer-network-marketing-in-real-estate",
+  "name": "What is International Buyer Network Marketing in real estate?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is International Buyer Network Marketing in real estate?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "International Buyer Network Marketing connects real estate listings with potential buyers located outside the United States. It involves strategic marketing to a global audience, often through specialized platforms and agent networks, to attract foreign investment in properties. For a market like Miami-Dade, Broward, or Palm Beach County, this can significantly expand the pool of interested purchasers, especially for luxury or investment properties, making it a crucial strategy to consider for sellers in these regions.",
+        "@type": "Answer",
+        "description": "International Buyer Network Marketing targets property listings to buyers outside the United States, expanding the market for sellers."
+      }
+    }
+  ],
+  "description": "International Buyer Network Marketing targets property listings to buyers outside the United States, expanding the market for sellers."
+}

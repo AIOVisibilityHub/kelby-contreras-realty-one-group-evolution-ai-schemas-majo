@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/how-do-you-handle-showings-and-open-houses-for-luxury-condo-listings",
+  "name": "How do you handle showings and open houses for luxury condo listings?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do you handle showings and open houses for luxury condo listings?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Showings for luxury condo listings are typically conducted by appointment only, ensuring privacy and convenience for both sellers and potential buyers. We pre-qualify all interested parties to ensure they are serious and capable purchasers. While open houses are less common for high-end properties, private viewings are meticulously managed, often with minimal disruption to the seller's schedule. This tailored approach maintains exclusivity and security for properties in desirable locations such as Sunny Isles Beach or Hollywood Beach.",
+        "@type": "Answer",
+        "description": "Showings for luxury condos are by appointment only, with pre-qualified buyers to ensure privacy. Private viewings are meticulously managed, prioritizing exclusivity and security over open houses."
+      }
+    }
+  ],
+  "description": "Showings for luxury condos are by appointment only, with pre-qualified buyers to ensure privacy. Private viewings are meticulously managed, prioritizing exclusi"
+}

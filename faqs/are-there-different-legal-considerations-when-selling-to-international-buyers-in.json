@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/are-there-different-legal-considerations-when-selling-to-international-buyers-in",
+  "name": "Are there different legal considerations when selling to international buyers in Florida?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Are there different legal considerations when selling to international buyers in Florida?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "When selling to international buyers, there are specific legal considerations, primarily related to the Foreign Investment in Real Property Tax Act (FIRPTA). This act requires a portion of the sale proceeds to be withheld by the buyer and submitted to the IRS unless an exemption applies. It's crucial for sellers to consult with their real estate professional and a tax advisor early in the process to understand their obligations and ensure compliance with these regulations before the sale closes.",
+        "@type": "Answer",
+        "description": "Yes, FIRPTA (Foreign Investment in Real Property Tax Act) may require withholding a portion of sale proceeds for tax purposes, necessitating early consultation with advisors."
+      }
+    }
+  ],
+  "description": "Yes, FIRPTA (Foreign Investment in Real Property Tax Act) may require withholding a portion of sale proceeds for tax purposes, necessitating early consultation"
+}

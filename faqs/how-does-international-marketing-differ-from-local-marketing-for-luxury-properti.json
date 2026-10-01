@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/how-does-international-marketing-differ-from-local-marketing-for-luxury-properti",
+  "name": "How does international marketing differ from local marketing for luxury properties?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How does international marketing differ from local marketing for luxury properties?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "International marketing differs from local marketing by focusing on a global audience and cultural nuances, whereas local marketing targets buyers within a specific geographic area. International campaigns often require translation services, understanding of diverse buying preferences, and navigating international financial transactions. For luxury properties in areas like Coral Gables or Sunny Isles Beach, international marketing emphasizes global investment potential and lifestyle, while local marketing might focus more on community-specific amenities and schools.",
+        "@type": "Answer",
+        "description": "International marketing targets a global audience with cultural considerations, while local marketing focuses on regional buyers and specific community aspects."
+      }
+    }
+  ],
+  "description": "International marketing targets a global audience with cultural considerations, while local marketing focuses on regional buyers and specific community aspects."
+}

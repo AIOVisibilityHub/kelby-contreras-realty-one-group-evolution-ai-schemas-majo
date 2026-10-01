@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/when-should-i-consider-custom-floor-plan-modifications-for-a-luxury-home-purchas",
+  "name": "When should I consider custom floor plan modifications for a luxury home purchase?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When should I consider custom floor plan modifications for a luxury home purchase?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You should consider custom floor plan modifications during the early stages of the purchase process, especially if buying a new construction or undergoing a significant renovation. This allows for integration of personal preferences, such as adding a specialized room, adjusting a layout for accessibility, or optimizing views. It's essential to discuss potential modifications with your real estate agent and builder or architect early on, as structural changes or significant reconfigurations can impact timelines and budgets. This preparation ensures your vision aligns with the property's potential.",
+        "@type": "Answer",
+        "description": "Consider custom floor plan modifications early in the purchase or renovation process to integrate personal preferences, optimizing views or adding specialized rooms, and discuss impact on timelines and budgets."
+      }
+    }
+  ],
+  "description": "Consider custom floor plan modifications early in the purchase or renovation process to integrate personal preferences, optimizing views or adding specialized r"
+}

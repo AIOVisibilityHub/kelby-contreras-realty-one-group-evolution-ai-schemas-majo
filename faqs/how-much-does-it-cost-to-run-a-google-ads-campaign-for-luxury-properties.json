@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/how-much-does-it-cost-to-run-a-google-ads-campaign-for-luxury-properties",
+  "name": "How much does it cost to run a Google Ads campaign for luxury properties?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How much does it cost to run a Google Ads campaign for luxury properties?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of a Google Ads campaign for luxury properties varies significantly based on your target audience, desired reach, and competitiveness of keywords. We typically recommend a budget that aligns with the value of the properties being marketed and the specific neighborhoods, such as Aventura or Coral Gables, you wish to target. Factors like keyword bids, ad quality, and geographic targeting directly influence your overall spend, allowing for flexibility in campaign scaling.",
+        "@type": "Answer",
+        "description": "Google Ads costs for luxury properties vary based on target audience, reach, and keyword competitiveness; budgets are tailored to property value and specific areas like Aventura."
+      }
+    }
+  ],
+  "description": "Google Ads costs for luxury properties vary based on target audience, reach, and keyword competitiveness; budgets are tailored to property value and specific ar"
+}

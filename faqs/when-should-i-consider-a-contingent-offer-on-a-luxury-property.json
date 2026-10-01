@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/when-should-i-consider-a-contingent-offer-on-a-luxury-property",
+  "name": "When should I consider a contingent offer on a luxury property?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When should I consider a contingent offer on a luxury property?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A contingent offer on a luxury property should be considered when there are specific conditions that must be met for you to proceed with the purchase, such as the sale of your current home or a detailed inspection revealing significant issues. While 'clean' offers are often preferred in competitive luxury markets, a well-structured contingent offer can be strategically viable if your agent can demonstrate strong financial backing and a clear path to contingency removal. Kelby Contreras can advise on balancing the need for contingencies with market competitiveness, particularly in desirable areas like Key Biscayne where demand can be high.",
+        "@type": "Answer",
+        "description": "Consider a contingent offer on a luxury property when specific conditions, like selling your current home, are necessary, with your agent advising on market competitiveness."
+      }
+    }
+  ],
+  "description": "Consider a contingent offer on a luxury property when specific conditions, like selling your current home, are necessary, with your agent advising on market com"
+}

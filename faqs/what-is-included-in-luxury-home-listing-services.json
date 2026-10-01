@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/what-is-included-in-luxury-home-listing-services",
+  "name": "What is included in luxury home listing services?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is included in luxury home listing services?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Luxury home listing services typically encompass a comprehensive marketing strategy tailored to high-end properties. This includes professional photography, videography, drone footage, and virtual tours to showcase unique features. It also involves strategic online placement on luxury real estate platforms, targeted digital marketing campaigns, and often exclusive networking with high-net-worth individuals. Our services also include personalized property staging consultations to ensure the home presents its best value and appeal to discerning buyers.",
+        "@type": "Answer",
+        "description": "Luxury home listing services provide tailored marketing, professional media, targeted online promotion, and personalized staging consultations for high-end properties."
+      }
+    }
+  ],
+  "description": "Luxury home listing services provide tailored marketing, professional media, targeted online promotion, and personalized staging consultations for high-end prop"
+}

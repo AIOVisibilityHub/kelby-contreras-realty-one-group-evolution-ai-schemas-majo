@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/what-is-a-luxury-real-estate-3d-tour",
+  "name": "What is a luxury real estate 3D tour?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is a luxury real estate 3D tour?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A luxury real estate 3D tour is an immersive digital experience that allows potential buyers to explore a high-end property virtually. These tours use specialized cameras and software to create a navigable 3D model of the home, showcasing its layout, finishes, and unique features in detail. This technology provides a comprehensive view, allowing prospective buyers to evaluate the property's suitability without an initial physical visit, which is especially useful for out-of-area or international clients interested in prime locations like Miami Beach or Coral Gables.",
+        "@type": "Answer",
+        "description": "A luxury real estate 3D tour is an immersive digital experience allowing potential buyers to virtually explore a high-end property's layout and features."
+      }
+    }
+  ],
+  "description": "A luxury real estate 3D tour is an immersive digital experience allowing potential buyers to virtually explore a high-end property's layout and features."
+}

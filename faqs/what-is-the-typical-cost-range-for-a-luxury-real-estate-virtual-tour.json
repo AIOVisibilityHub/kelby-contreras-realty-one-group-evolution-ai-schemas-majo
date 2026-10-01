@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/what-is-the-typical-cost-range-for-a-luxury-real-estate-virtual-tour",
+  "name": "What is the typical cost range for a luxury real estate virtual tour?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the typical cost range for a luxury real estate virtual tour?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of a luxury real estate virtual tour can vary widely, typically ranging from a few hundred to several thousand dollars, depending on the scope and complexity. Factors influencing the price include the property's size, the desired level of detail (e.g., 3D modeling vs. basic 360s), inclusion of drone footage, cinematic video production, and any custom interactive features. For properties in areas like Aventura or Boca Raton, an intricate tour highlighting amenities like private docks or golf course views would likely be at the higher end. It's best to get a customized quote based on the specific requirements of your listing.",
+        "@type": "Answer",
+        "description": "Costs range from hundreds to thousands, influenced by property size, detail level, drone footage, and custom features."
+      }
+    }
+  ],
+  "description": "Costs range from hundreds to thousands, influenced by property size, detail level, drone footage, and custom features."
+}

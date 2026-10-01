@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/how-do-you-handle-multiple-offers-on-a-luxury-property-as-a-seller-s-agent",
+  "name": "How do you handle multiple offers on a luxury property as a seller's agent?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do you handle multiple offers on a luxury property as a seller's agent?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "When handling multiple offers on a luxury property, a seller's agent carefully evaluates each proposal beyond just the price. They consider terms, contingencies, buyer qualifications, and closing timelines to determine the most advantageous option for the seller. The agent may also engage in a 'best and final' round or strategic counter-offers. Kelby Contreras guides sellers through this process by presenting a clear breakdown of each offer's pros and cons, helping them make an informed decision that aligns with their goals for properties across Miami-Dade and Broward County.",
+        "@type": "Answer",
+        "description": "A seller's agent evaluates multiple luxury offers based on price, terms, contingencies, and buyer qualifications, guiding sellers to the best option."
+      }
+    }
+  ],
+  "description": "A seller's agent evaluates multiple luxury offers based on price, terms, contingencies, and buyer qualifications, guiding sellers to the best option."
+}

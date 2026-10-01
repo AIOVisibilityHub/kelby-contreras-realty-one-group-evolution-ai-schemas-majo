@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/what-types-of-technology-are-used-in-luxury-real-estate-virtual-tours",
+  "name": "What types of technology are used in luxury real estate virtual tours?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What types of technology are used in luxury real estate virtual tours?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Luxury real estate virtual tours typically employ advanced technologies to create a lifelike and engaging experience. This includes professional-grade 360-degree cameras for panoramic views, Matterport or similar 3D scanning technology to create detailed digital twins, and drone photography for aerial perspectives of the property and its surroundings. High-resolution videography with cinematic production quality is also common. The choice of technology can depend on the specific features of the luxury property, such as expansive grounds in Pinecrest or unique waterfront views in Key Biscayne, to best highlight its selling points.",
+        "@type": "Answer",
+        "description": "Advanced technologies like 360-degree cameras, 3D scanning (e.g., Matterport), drone photography, and high-resolution videography are used."
+      }
+    }
+  ],
+  "description": "Advanced technologies like 360-degree cameras, 3D scanning (e.g., Matterport), drone photography, and high-resolution videography are used."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/what-is-international-marketing-for-luxury-real-estate",
+  "name": "What is international marketing for luxury real estate?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is international marketing for luxury real estate?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "International marketing for luxury real estate involves strategically promoting high-value properties to potential buyers outside the local market. This includes leveraging global advertising platforms, targeted digital campaigns, and a network of international agents to reach a wider, affluent audience. For properties in areas like Miami-Dade and Broward County, this approach is crucial due to the significant international interest in South Florida real estate, helping to maximize exposure and attract diverse buyers.",
+        "@type": "Answer",
+        "description": "International marketing promotes luxury properties to buyers outside the local market using global platforms and networks."
+      }
+    }
+  ],
+  "description": "International marketing promotes luxury properties to buyers outside the local market using global platforms and networks."
+}

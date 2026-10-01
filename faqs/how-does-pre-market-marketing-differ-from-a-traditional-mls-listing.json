@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/how-does-pre-market-marketing-differ-from-a-traditional-mls-listing",
+  "name": "How does pre-market marketing differ from a traditional MLS listing?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How does pre-market marketing differ from a traditional MLS listing?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Pre-market marketing significantly differs from a traditional MLS listing primarily in its exclusivity and public exposure. A traditional MLS listing publicly broadcasts the property to all real estate agents and the general public, aiming for maximum visibility. In contrast, pre-market marketing is discreet, targeting a carefully selected network of potential buyers through private channels. This approach prioritizes privacy and controlled access, often allowing sellers to gauge interest and negotiate terms without the property accumulating 'days on market' data, which can sometimes influence buyer perception.",
+        "@type": "Answer",
+        "description": "Pre-market marketing is discreet and targets a select network of buyers privately, while a traditional MLS listing publicly broadcasts the property for maximum exposure."
+      }
+    }
+  ],
+  "description": "Pre-market marketing is discreet and targets a select network of buyers privately, while a traditional MLS listing publicly broadcasts the property for maximum"
+}

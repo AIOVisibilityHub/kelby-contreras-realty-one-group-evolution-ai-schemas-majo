@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/how-do-you-vet-international-buyers-for-luxury-properties",
+  "name": "How do you vet international buyers for luxury properties?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do you vet international buyers for luxury properties?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Vetting international buyers for luxury properties involves a comprehensive qualification process. This includes verifying financial capability, often through proof of funds or pre-approval from reputable financial institutions. We also conduct due diligence to understand their investment goals and ensure alignment with the property's offerings. A first-party insight is our established network with international financial advisors and legal experts who assist in verifying buyer credibility and ensuring transaction compliance.",
+        "@type": "Answer",
+        "description": "We vet international buyers by verifying financial capability and investment goals, often utilizing our network of international financial and legal experts for due diligence."
+      }
+    }
+  ],
+  "description": "We vet international buyers by verifying financial capability and investment goals, often utilizing our network of international financial and legal experts for"
+}

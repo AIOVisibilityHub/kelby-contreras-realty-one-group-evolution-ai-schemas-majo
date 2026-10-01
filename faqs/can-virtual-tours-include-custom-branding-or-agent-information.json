@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/can-virtual-tours-include-custom-branding-or-agent-information",
+  "name": "Can virtual tours include custom branding or agent information?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can virtual tours include custom branding or agent information?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, luxury real estate virtual tours can typically be customized to include specific branding elements. This often involves integrating the real estate agency's logo, agent contact information, and consistent brand colors into the tour interface. Some platforms also allow for narrated voiceovers by the agent, featuring specific property details or highlighting unique selling points, much like Kelby Contreras does with Realty ONE Group Evolution. This customization helps reinforce brand identity and ensures that potential buyers know who to contact directly after experiencing the property virtually.",
+        "@type": "Answer",
+        "description": "Yes, virtual tours can include branding, agent contact info, and narrated voiceovers to reinforce identity and provide direct contact."
+      }
+    }
+  ],
+  "description": "Yes, virtual tours can include branding, agent contact info, and narrated voiceovers to reinforce identity and provide direct contact."
+}

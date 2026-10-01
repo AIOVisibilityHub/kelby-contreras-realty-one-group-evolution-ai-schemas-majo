@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/what-is-the-process-for-scheduling-and-conducting-drone-photography-for-my-listi",
+  "name": "What is the process for scheduling and conducting drone photography for my listing?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the process for scheduling and conducting drone photography for my listing?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The process begins with an initial consultation to understand your property's unique features and your marketing goals. We then coordinate a suitable date and time, considering optimal lighting and weather conditions for your Miami-Dade or Broward County property. On the day of the shoot, our experienced pilot will conduct pre-flight safety checks before capturing high-resolution photos and videos. After post-production, the edited visuals are delivered to you promptly for your listing, ensuring a smooth and efficient turnaround.",
+        "@type": "Answer",
+        "description": "The process involves an initial consultation, scheduling based on optimal conditions, on-site capture by a licensed pilot, and timely delivery of edited visuals."
+      }
+    }
+  ],
+  "description": "The process involves an initial consultation, scheduling based on optimal conditions, on-site capture by a licensed pilot, and timely delivery of edited visuals"
+}

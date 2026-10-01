@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/what-is-a-multiple-offer-strategy-when-selling-a-home",
+  "name": "What is a multiple offer strategy when selling a home?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is a multiple offer strategy when selling a home?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A multiple offer strategy occurs when a seller receives several purchase offers for their property simultaneously. This situation typically arises in a competitive market or for highly desirable homes. Working with a knowledgeable agent is crucial to effectively compare the terms, contingencies, and financial strength of each offer beyond just the price, ensuring you select the best overall proposal for your specific goals.",
+        "@type": "Answer",
+        "description": "A multiple offer strategy is when a seller receives several purchase offers for their property at the same time, often in a competitive market."
+      }
+    }
+  ],
+  "description": "A multiple offer strategy is when a seller receives several purchase offers for their property at the same time, often in a competitive market."
+}

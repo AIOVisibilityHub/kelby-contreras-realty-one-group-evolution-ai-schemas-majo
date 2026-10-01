@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/what-are-the-typical-timelines-for-luxury-property-negotiations-and-closing",
+  "name": "What are the typical timelines for luxury property negotiations and closing?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are the typical timelines for luxury property negotiations and closing?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The typical timelines for luxury property negotiations can vary, but generally, the offer and counter-offer process can take days to several weeks, depending on the complexity and parties involved. Once an agreement is reached, the closing process typically ranges from 30 to 60 days for financed deals, while cash transactions can close much faster, sometimes within two to four weeks. Factors like title searches, appraisal scheduling, and specific lender requirements can affect these timelines, particularly in high-demand areas like Fort Lauderdale Beach.",
+        "@type": "Answer",
+        "description": "Negotiations for luxury properties typically take days to weeks, followed by a 30-60 day closing for financed deals, or 2-4 weeks for cash. Timelines vary based on complexity and local factors."
+      }
+    }
+  ],
+  "description": "Negotiations for luxury properties typically take days to weeks, followed by a 30-60 day closing for financed deals, or 2-4 weeks for cash. Timelines vary based"
+}

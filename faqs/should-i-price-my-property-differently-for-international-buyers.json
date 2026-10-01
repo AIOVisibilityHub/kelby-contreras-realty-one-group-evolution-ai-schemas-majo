@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/should-i-price-my-property-differently-for-international-buyers",
+  "name": "Should I price my property differently for international buyers?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Should I price my property differently for international buyers?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Property pricing should generally remain consistent regardless of the buyer's origin, based on market value, comparable sales, and property condition. However, understanding that international buyers often convert prices to their home currency can be a decision factor. It's important to work with a real estate professional who has local market knowledge in areas like Brickell or Key Biscayne to ensure your property is competitively priced to attract both domestic and international interest, without alienating any segment.",
+        "@type": "Answer",
+        "description": "Pricing should be consistent with market value. However, international buyers often convert prices to their currency, a factor to consider when determining competitive pricing."
+      }
+    }
+  ],
+  "description": "Pricing should be consistent with market value. However, international buyers often convert prices to their currency, a factor to consider when determining comp"
+}

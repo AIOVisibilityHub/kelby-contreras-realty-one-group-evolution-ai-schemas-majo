@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/how-do-you-reach-international-buyers-for-luxury-homes",
+  "name": "How do you reach international buyers for luxury homes?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do you reach international buyers for luxury homes?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Reaching international buyers involves a multi-faceted approach, including listing properties on prominent global real estate portals and collaborating with international broker networks. We also utilize targeted digital marketing through social media and search engines, often translated into multiple languages, to connect with prospective buyers in key regions. Our local knowledge of areas like Miami Beach and Fort Lauderdale allows us to highlight specific lifestyle benefits that resonate with different international client profiles.",
+        "@type": "Answer",
+        "description": "We reach international buyers by listing on global portals, using international broker networks, and executing targeted multi-language digital marketing."
+      }
+    }
+  ],
+  "description": "We reach international buyers by listing on global portals, using international broker networks, and executing targeted multi-language digital marketing."
+}

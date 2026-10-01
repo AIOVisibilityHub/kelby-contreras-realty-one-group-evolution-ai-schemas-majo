@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/what-is-luxury-property-buyer-screening",
+  "name": "What is luxury property buyer screening?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is luxury property buyer screening?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Luxury property buyer screening is a process designed to verify a potential buyer's financial capacity and serious intent to purchase a high-value property. This helps sellers and their agents ensure that prospective buyers are qualified, reducing wasted time on unqualified leads and providing security for exclusive viewings. For buyers, understanding this process prepares them for the financial disclosures and background checks that are standard in the luxury market, facilitating a smoother transaction once a suitable property is identified.",
+        "@type": "Answer",
+        "description": "Luxury property buyer screening verifies a potential buyer's financial capacity and serious intent for high-value properties."
+      }
+    }
+  ],
+  "description": "Luxury property buyer screening verifies a potential buyer's financial capacity and serious intent for high-value properties."
+}

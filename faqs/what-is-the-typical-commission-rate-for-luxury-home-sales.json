@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/what-is-the-typical-commission-rate-for-luxury-home-sales",
+  "name": "What is the typical commission rate for luxury home sales?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the typical commission rate for luxury home sales?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Commission rates for luxury home sales are generally negotiable and vary based on the specific services provided, the complexity of the sale, and local market practices. While there isn't a fixed rate, it typically covers the extensive marketing, professional photography, global exposure, and agent expertise required for high-value properties. A practical tradeoff to consider is that a slightly higher commission might secure a more robust marketing package and greater agent dedication, potentially leading to a higher sale price and quicker transaction.",
+        "@type": "Answer",
+        "description": "Commission rates for luxury home sales are negotiable and cover extensive marketing and expertise; higher rates may provide more comprehensive services and potentially better sale outcomes."
+      }
+    }
+  ],
+  "description": "Commission rates for luxury home sales are negotiable and cover extensive marketing and expertise; higher rates may provide more comprehensive services and pote"
+}

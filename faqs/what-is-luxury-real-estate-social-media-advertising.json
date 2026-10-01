@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/what-is-luxury-real-estate-social-media-advertising",
+  "name": "What is luxury real estate social media advertising?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is luxury real estate social media advertising?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Luxury real estate social media advertising involves using platforms like Instagram, Facebook, and LinkedIn to target high-net-worth individuals and potential buyers for upscale properties. It leverages high-quality visuals, compelling storytelling, and precise audience targeting to showcase unique property features, exclusive amenities, and the aspirational lifestyle associated with luxury homes. For properties in areas like Miami Beach or Coral Gables, this approach emphasizes the unique local appeal and affluent community, which helps to attract qualified buyers who value these specific attributes.",
+        "@type": "Answer",
+        "description": "Luxury real estate social media advertising targets high-net-worth buyers for upscale properties using platforms like Instagram and Facebook, emphasizing visuals and storytelling."
+      }
+    }
+  ],
+  "description": "Luxury real estate social media advertising targets high-net-worth buyers for upscale properties using platforms like Instagram and Facebook, emphasizing visual"
+}

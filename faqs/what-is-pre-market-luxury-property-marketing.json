@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/what-is-pre-market-luxury-property-marketing",
+  "name": "What is pre-market luxury property marketing?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is pre-market luxury property marketing?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Pre-market luxury property marketing involves strategically preparing and promoting a high-end property discreetly before it is officially listed on the Multiple Listing Service (MLS). This approach targets an exclusive network of potential buyers, often through private showings, curated digital presentations, and direct outreach. The goal is to generate early interest, gauge market demand, and potentially secure a sale at a premium price with less public exposure. A key benefit is maintaining privacy while testing the market waters without the property accumulating 'days on market' data.",
+        "@type": "Answer",
+        "description": "Pre-market luxury property marketing discreetly promotes high-end properties to an exclusive network of buyers before public listing, aiming for early interest and a premium sale."
+      }
+    }
+  ],
+  "description": "Pre-market luxury property marketing discreetly promotes high-end properties to an exclusive network of buyers before public listing, aiming for early interest"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/how-does-an-agent-determine-the-right-offer-price-for-a-luxury-home",
+  "name": "How does an agent determine the right offer price for a luxury home?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How does an agent determine the right offer price for a luxury home?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Determining the right offer price for a luxury home involves a comprehensive market analysis, evaluating comparable high-end sales, and assessing unique property features that may not have direct comps. An agent considers factors such as architectural significance, bespoke finishes, views, location within exclusive communities, and recent market trends specific to luxury segments. Kelby Contreras uses this detailed approach, combining data with an understanding of buyer demand in specific high-value areas like Coral Gables or Sunny Isles Beach, to advise on a strategic offer that balances value with negotiation leverage.",
+        "@type": "Answer",
+        "description": "An agent determines the right luxury offer price by analyzing comparable high-end sales, unique features, market trends, and specific location factors."
+      }
+    }
+  ],
+  "description": "An agent determines the right luxury offer price by analyzing comparable high-end sales, unique features, market trends, and specific location factors."
+}

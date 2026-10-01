@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/how-do-you-handle-showing-a-luxury-property-that-is-currently-occupied",
+  "name": "How do you handle showing a luxury property that is currently occupied?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do you handle showing a luxury property that is currently occupied?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Showing an occupied luxury property requires careful coordination to minimize disruption for the residents while maximizing the property's appeal. This involves scheduling viewings well in advance, ensuring the home is meticulously prepared before each showing, and communicating showing expectations clearly with the occupants. Kelby Contreras works closely with sellers to establish a showing schedule that respects their privacy and daily routines, a common consideration for occupied residences in high-demand areas like Key Biscayne or Coral Gables. Maintaining a pristine environment is crucial for leaving a lasting impression.",
+        "@type": "Answer",
+        "description": "Showing an occupied luxury property requires careful coordination, advance scheduling, and meticulous preparation to minimize disruption. We work with residents to respect their privacy and routines."
+      }
+    }
+  ],
+  "description": "Showing an occupied luxury property requires careful coordination, advance scheduling, and meticulous preparation to minimize disruption. We work with residents"
+}

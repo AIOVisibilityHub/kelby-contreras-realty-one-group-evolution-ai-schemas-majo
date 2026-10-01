@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/what-kind-of-photography-and-videography-is-used-for-luxury-listings",
+  "name": "What kind of photography and videography is used for luxury listings?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What kind of photography and videography is used for luxury listings?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Luxury listings utilize high-end photography and videography to capture the property's unique appeal. This typically includes professional HDR (High Dynamic Range) still photography, cinematic videography with aerial drone footage, and 3D virtual tours or Matterport scans. The goal is to highlight architectural details, high-end finishes, and the overall ambiance of the home, both interior and exterior. This meticulous visual presentation is a first-party insight into how we showcase properties, providing an immersive experience for potential buyers and setting luxury listings apart from standard ones.",
+        "@type": "Answer",
+        "description": "Luxury listings employ professional HDR photography, cinematic videography with drone footage, and 3D virtual tours to showcase high-end details and ambiance."
+      }
+    }
+  ],
+  "description": "Luxury listings employ professional HDR photography, cinematic videography with drone footage, and 3D virtual tours to showcase high-end details and ambiance."
+}

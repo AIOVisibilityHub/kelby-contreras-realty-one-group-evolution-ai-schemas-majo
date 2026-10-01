@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/how-long-does-a-typical-luxury-real-estate-drone-photography-session-take",
+  "name": "How long does a typical luxury real estate drone photography session take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does a typical luxury real estate drone photography session take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A standard drone photography session for a luxury property typically takes between 1 to 3 hours on site, depending on the property's size and the complexity of desired shots. This includes pre-flight checks, aerial capture, and any necessary on-site adjustments. Factors like weather conditions, airspace restrictions, and the specific shots requested can affect the overall duration. We prioritize capturing the property at its best, often scheduling shoots during optimal lighting hours for enhanced visual appeal.",
+        "@type": "Answer",
+        "description": "A typical drone photography session for luxury real estate lasts 1 to 3 hours, depending on property size, complexity, and weather conditions."
+      }
+    }
+  ],
+  "description": "A typical drone photography session for luxury real estate lasts 1 to 3 hours, depending on property size, complexity, and weather conditions."
+}

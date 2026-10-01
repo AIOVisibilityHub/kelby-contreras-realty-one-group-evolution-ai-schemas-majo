@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/how-do-you-measure-the-success-of-a-luxury-real-estate-google-ads-campaign",
+  "name": "How do you measure the success of a Luxury Real Estate Google Ads campaign?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do you measure the success of a Luxury Real Estate Google Ads campaign?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "We measure success by tracking key performance indicators (KPIs) such as click-through rates (CTR), conversion rates (e.g., inquiries, property viewings), cost per lead, and return on ad spend (ROAS). Regular reporting provides insights into which ads and keywords are most effective in attracting luxury buyers in areas like Pinecrest or Doral. This data-driven approach allows us to continually refine campaigns, ensuring your budget is spent efficiently to achieve your sales objectives.",
+        "@type": "Answer",
+        "description": "Success is measured by KPIs like click-through rates, conversion rates, cost per lead, and return on ad spend, with regular reports guiding continuous campaign refinement."
+      }
+    }
+  ],
+  "description": "Success is measured by KPIs like click-through rates, conversion rates, cost per lead, and return on ad spend, with regular reports guiding continuous campaign"
+}

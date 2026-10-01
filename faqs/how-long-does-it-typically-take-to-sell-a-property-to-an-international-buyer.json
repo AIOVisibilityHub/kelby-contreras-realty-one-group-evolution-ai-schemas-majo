@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/how-long-does-it-typically-take-to-sell-a-property-to-an-international-buyer",
+  "name": "How long does it typically take to sell a property to an international buyer?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does it typically take to sell a property to an international buyer?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The timeline to sell a property to an international buyer can vary, but it may sometimes take longer than a domestic sale due to factors like differing financing processes, potential travel requirements for buyers, or cultural considerations. However, international buyers often pay cash, which can expedite closing once an offer is accepted. Factors like property type, location (e.g., Miami vs. a less-known area), and current market conditions also play a significant role in determining the overall selling time.",
+        "@type": "Answer",
+        "description": "Selling to international buyers can take longer due to travel or financing, but cash offers can speed up closing. Factors like property type and location also influence timing."
+      }
+    }
+  ],
+  "description": "Selling to international buyers can take longer due to travel or financing, but cash offers can speed up closing. Factors like property type and location also i"
+}

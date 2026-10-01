@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/what-are-common-challenges-when-marketing-to-international-buyers",
+  "name": "What are common challenges when marketing to international buyers?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are common challenges when marketing to international buyers?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Common challenges include language barriers, time zone differences, and navigating diverse cultural expectations regarding property features and transactions. Another practical tradeoff is the need for specialized marketing channels that reach overseas audiences, which may differ from local advertising methods. Overcoming these challenges requires an agent experienced in international transactions who can provide clear communication, virtual property tours, and access to a global network to bridge these gaps.",
+        "@type": "Answer",
+        "description": "Challenges include language barriers, time zone differences, cultural expectations, and the need for specialized international marketing channels."
+      }
+    }
+  ],
+  "description": "Challenges include language barriers, time zone differences, cultural expectations, and the need for specialized international marketing channels."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/is-there-a-cost-associated-with-luxury-property-buyer-screening",
+  "name": "Is there a cost associated with luxury property buyer screening?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Is there a cost associated with luxury property buyer screening?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "There is typically no direct cost to the buyer for the luxury property buyer screening process itself. The costs involved are usually related to obtaining necessary documentation, such as bank statements or financial reports, which you would already have access to. The process is a step managed by the agents to ensure transaction viability, not a service you pay for. A preparation step for buyers is simply having these documents ready and accessible.",
+        "@type": "Answer",
+        "description": "There is no direct cost for the buyer screening process itself; any 'costs' relate to gathering existing financial documents."
+      }
+    }
+  ],
+  "description": "There is no direct cost for the buyer screening process itself; any 'costs' relate to gathering existing financial documents."
+}

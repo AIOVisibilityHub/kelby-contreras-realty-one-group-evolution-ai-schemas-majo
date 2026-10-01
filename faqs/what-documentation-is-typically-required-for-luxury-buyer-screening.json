@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/what-documentation-is-typically-required-for-luxury-buyer-screening",
+  "name": "What documentation is typically required for luxury buyer screening?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What documentation is typically required for luxury buyer screening?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "For luxury buyer screening, you will typically need to provide proof of funds, such as recent bank statements, investment account summaries, or a pre-approval letter from a reputable lender for the specific luxury price range. For preparation, buyers should gather these documents in advance to expedite the screening process, especially when interest in a desirable property is high. Sometimes, a verification of employment or business ownership may also be requested to establish income stability and liquidity.",
+        "@type": "Answer",
+        "description": "Required documentation often includes proof of funds like bank statements, investment summaries, or a pre-approval letter."
+      }
+    }
+  ],
+  "description": "Required documentation often includes proof of funds like bank statements, investment summaries, or a pre-approval letter."
+}

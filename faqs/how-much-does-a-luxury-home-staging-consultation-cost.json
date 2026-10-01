@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/how-much-does-a-luxury-home-staging-consultation-cost",
+  "name": "How much does a luxury home staging consultation cost?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How much does a luxury home staging consultation cost?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of a luxury home staging consultation varies based on factors such as the size of the property, its location within our service areas (e.g., Aventura versus Collier County), and the scope of the assessment required. While an initial consultation typically involves a set fee, the overall investment in staging services depends on whether you opt for full staging, partial staging, or simply follow through on the recommendations. It's an investment aimed at increasing your home's market value and reducing time on market.",
+        "@type": "Answer",
+        "description": "Consultation costs vary by property size, location (e.g., Miami-Dade, Collier County), and service scope; it's an investment to enhance market value and speed up your sale."
+      }
+    }
+  ],
+  "description": "Consultation costs vary by property size, location (e.g., Miami-Dade, Collier County), and service scope; it's an investment to enhance market value and speed u"
+}

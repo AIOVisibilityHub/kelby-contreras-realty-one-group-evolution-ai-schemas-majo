@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/what-factors-influence-the-cost-of-international-marketing-for-luxury-real-estat",
+  "name": "What factors influence the cost of international marketing for luxury real estate?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What factors influence the cost of international marketing for luxury real estate?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of international marketing for luxury real estate is influenced by the breadth of the campaign, including the number of global platforms used, the duration of advertising, and the complexity of bespoke marketing materials like professional photography and videography. The chosen target regions and any associated travel or international networking events also play a role. A key decision factor is balancing the investment in broader exposure with the specific target demographics and the property's unique selling points.",
+        "@type": "Answer",
+        "description": "Costs are influenced by campaign scope, platforms used, advertising duration, and bespoke marketing materials, balancing investment with target demographics."
+      }
+    }
+  ],
+  "description": "Costs are influenced by campaign scope, platforms used, advertising duration, and bespoke marketing materials, balancing investment with target demographics."
+}

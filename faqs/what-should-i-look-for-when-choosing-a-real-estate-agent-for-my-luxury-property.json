@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/what-should-i-look-for-when-choosing-a-real-estate-agent-for-my-luxury-property",
+  "name": "What should I look for when choosing a real estate agent for my luxury property?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What should I look for when choosing a real estate agent for my luxury property?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "When selecting a real estate agent for your luxury property, look for proven experience with high-net-worth clients and a deep understanding of the luxury market segment in your specific area, such as Broward County or Palm Beach County. An ideal agent should demonstrate a robust network of qualified buyers, a sophisticated marketing plan, and strong negotiation skills. Verify their portfolio of recently sold luxury homes and their ability to provide discreet, personalized service.",
+        "@type": "Answer",
+        "description": "Choose an agent with proven experience in luxury sales, a strong network, sophisticated marketing, and negotiation skills, specifically in your area of South Florida."
+      }
+    }
+  ],
+  "description": "Choose an agent with proven experience in luxury sales, a strong network, sophisticated marketing, and negotiation skills, specifically in your area of South Fl"
+}

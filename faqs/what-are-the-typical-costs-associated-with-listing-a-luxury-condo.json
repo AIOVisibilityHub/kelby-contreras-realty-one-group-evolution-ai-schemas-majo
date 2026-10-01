@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/what-are-the-typical-costs-associated-with-listing-a-luxury-condo",
+  "name": "What are the typical costs associated with listing a luxury condo?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are the typical costs associated with listing a luxury condo?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Typical costs associated with listing a luxury condo include real estate agent commissions, which are generally a percentage of the sale price. Other potential costs might involve professional staging, photography/videography, and closing costs. For sellers in competitive markets like Palm Beach County, investing in high-quality presentation services can significantly enhance the property's appeal and potentially lead to a higher sale price. We provide a transparent breakdown of all anticipated expenses during our initial consultation.",
+        "@type": "Answer",
+        "description": "Listing a luxury condo involves real estate agent commissions, potential staging and media costs, and closing costs. Investing in presentation can yield a higher sale price."
+      }
+    }
+  ],
+  "description": "Listing a luxury condo involves real estate agent commissions, potential staging and media costs, and closing costs. Investing in presentation can yield a highe"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/what-should-i-look-for-in-a-real-estate-agent-specializing-in-luxury-negotiation",
+  "name": "What should I look for in a real estate agent specializing in luxury negotiation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What should I look for in a real estate agent specializing in luxury negotiation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "When selecting a real estate agent for luxury negotiation, look for a professional with a proven track record in high-end sales, strong negotiation skills, and an in-depth understanding of the luxury market's unique dynamics. Experience with complex transactions, discretion, and a robust network are also critical. Kelby Contreras, for instance, offers specialized expertise in areas like Boca Raton and West Palm Beach, demonstrating a deep knowledge of property values, market trends, and buyer/seller motivations specific to these exclusive communities.",
+        "@type": "Answer",
+        "description": "Look for a luxury real estate agent with a proven track record in high-end sales, strong negotiation skills, market understanding, and discretion."
+      }
+    }
+  ],
+  "description": "Look for a luxury real estate agent with a proven track record in high-end sales, strong negotiation skills, market understanding, and discretion."
+}

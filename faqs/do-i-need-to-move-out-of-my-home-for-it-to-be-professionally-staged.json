@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/do-i-need-to-move-out-of-my-home-for-it-to-be-professionally-staged",
+  "name": "Do I need to move out of my home for it to be professionally staged?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do I need to move out of my home for it to be professionally staged?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You do not necessarily need to move out entirely for your home to be staged. The necessity depends on the scope of staging recommended during your consultation. For a full luxury staging, it's often more effective for the home to be vacant to allow stagers complete creative freedom. However, partial staging or consultations that focus on optimizing existing furnishings can be done while you are still residing in the property. Kelby Contreras will discuss the best approach based on your specific situation.",
+        "@type": "Answer",
+        "description": "Moving out is not always necessary for staging; it depends on the recommended scope. Full staging may benefit from vacancy, while partial staging can occur with residents present."
+      }
+    }
+  ],
+  "description": "Moving out is not always necessary for staging; it depends on the recommended scope. Full staging may benefit from vacancy, while partial staging can occur with"
+}

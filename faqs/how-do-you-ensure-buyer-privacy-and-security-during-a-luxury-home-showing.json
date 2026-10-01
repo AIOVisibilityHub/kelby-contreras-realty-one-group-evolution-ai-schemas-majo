@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/how-do-you-ensure-buyer-privacy-and-security-during-a-luxury-home-showing",
+  "name": "How do you ensure buyer privacy and security during a luxury home showing?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do you ensure buyer privacy and security during a luxury home showing?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Ensuring buyer privacy and security is paramount in luxury showings. This typically involves pre-screening potential buyers, requiring appointments, and often limiting access to only serious, qualified individuals. Kelby Contreras implements strict protocols, including verification of financial pre-qualification, ensuring a professional agent accompanies all viewings, and managing access to sensitive information or personal belongings. We prioritize a controlled environment to protect both the property and the privacy of all parties involved during the showing process.",
+        "@type": "Answer",
+        "description": "Buyer privacy and security are ensured through pre-screening, appointments, and limited access for qualified individuals. A professional agent always accompanies showings to protect the property and privacy."
+      }
+    }
+  ],
+  "description": "Buyer privacy and security are ensured through pre-screening, appointments, and limited access for qualified individuals. A professional agent always accompanie"
+}

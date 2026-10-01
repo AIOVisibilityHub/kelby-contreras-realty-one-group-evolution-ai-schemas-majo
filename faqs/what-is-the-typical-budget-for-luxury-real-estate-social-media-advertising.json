@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/what-is-the-typical-budget-for-luxury-real-estate-social-media-advertising",
+  "name": "What is the typical budget for luxury real estate social media advertising?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the typical budget for luxury real estate social media advertising?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The budget for luxury real estate social media advertising is highly variable, depending on the property's value, market competitiveness, desired reach, and campaign duration. While there isn't a fixed 'typical' budget, campaigns often start from a few hundred dollars per week for targeted exposure and can scale significantly for high-value properties or broader reach across multiple counties like Miami-Dade and Broward. Investing in professional content creation (photography, videography) is a crucial part of this budget, as high-quality visuals are non-negotiable for luxury listings. It's advisable to discuss specific campaign goals to determine an appropriate investment.",
+        "@type": "Answer",
+        "description": "Luxury real estate social media advertising budgets vary widely based on property value, market, and desired reach, often starting at several hundred dollars per week."
+      }
+    }
+  ],
+  "description": "Luxury real estate social media advertising budgets vary widely based on property value, market, and desired reach, often starting at several hundred dollars pe"
+}

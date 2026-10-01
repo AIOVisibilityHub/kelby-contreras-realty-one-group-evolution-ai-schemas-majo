@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/what-metrics-are-important-for-evaluating-the-success-of-luxury-real-estate-soci",
+  "name": "What metrics are important for evaluating the success of luxury real estate social media campaigns?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What metrics are important for evaluating the success of luxury real estate social media campaigns?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Key metrics for evaluating luxury real estate social media campaigns include reach and impressions (how many saw the ad), engagement rate (likes, comments, shares), click-through rate to property listings, lead generation (inquiries, contact form submissions), and ultimately, conversion rates to showings and offers. For high-value properties in markets like Orange County, tracking the quality of leads is paramount, not just the quantity. We analyze audience demographics to ensure we're reaching the intended affluent buyers, and monitor website traffic generated from social platforms to understand buyer journeys. These insights guide campaign optimization.",
+        "@type": "Answer",
+        "description": "Important metrics include reach, engagement, click-through rate, lead generation, and conversion to showings/offers, with a focus on lead quality for luxury properties."
+      }
+    }
+  ],
+  "description": "Important metrics include reach, engagement, click-through rate, lead generation, and conversion to showings/offers, with a focus on lead quality for luxury pro"
+}

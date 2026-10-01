@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/how-do-you-target-affluent-buyers-for-luxury-properties-on-social-media",
+  "name": "How do you target affluent buyers for luxury properties on social media?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do you target affluent buyers for luxury properties on social media?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Targeting affluent buyers for luxury properties on social media involves using advanced platform features such as detailed demographic filtering (income levels, net worth), interest-based targeting (luxury brands, high-end travel, investment), and behavioral targeting (recent luxury purchases, frequent fliers). Geographic targeting is precise, focusing on specific upscale neighborhoods like Fisher Island or Williams Island, or even custom audience creation from client lists. We also leverage lookalike audiences based on existing high-value clients to expand reach to similar profiles. This multi-layered approach ensures ads are shown to individuals most likely to be interested and capable of purchasing luxury real estate.",
+        "@type": "Answer",
+        "description": "Affluent buyers are targeted using detailed demographics, interests (luxury brands), behaviors, precise geographic filtering, and lookalike audiences on social media."
+      }
+    }
+  ],
+  "description": "Affluent buyers are targeted using detailed demographics, interests (luxury brands), behaviors, precise geographic filtering, and lookalike audiences on social"
+}

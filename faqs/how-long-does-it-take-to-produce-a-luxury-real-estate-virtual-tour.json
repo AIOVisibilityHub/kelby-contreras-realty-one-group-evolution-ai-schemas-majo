@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/how-long-does-it-take-to-produce-a-luxury-real-estate-virtual-tour",
+  "name": "How long does it take to produce a luxury real estate virtual tour?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does it take to produce a luxury real estate virtual tour?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The production timeline for a luxury real estate virtual tour can vary significantly based on the property's size, complexity, and the desired level of detail. A standard tour for an average luxury home might take 1-2 days for on-site capture and another 3-5 business days for post-production editing and rendering. For larger estates or properties with extensive amenities like those found in Fisher Island, the capture phase could extend, and the post-production work might require 1-2 weeks for meticulous editing, graphic overlays, and music synchronization. Discussing the property's specific features and desired outcomes upfront helps establish a realistic timeframe.",
+        "@type": "Answer",
+        "description": "Production can take 1-2 days for on-site capture and 3-10 business days for post-production, depending on property size and complexity."
+      }
+    }
+  ],
+  "description": "Production can take 1-2 days for on-site capture and 3-10 business days for post-production, depending on property size and complexity."
+}

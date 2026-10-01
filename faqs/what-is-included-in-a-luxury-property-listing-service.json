@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/what-is-included-in-a-luxury-property-listing-service",
+  "name": "What is included in a luxury property listing service?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is included in a luxury property listing service?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Luxury property listing services typically encompass comprehensive marketing strategies designed to target affluent buyers. This includes professional photography, videography, drone footage, and virtual tours to showcase high-end features. Enhanced online exposure on exclusive luxury real estate platforms, alongside traditional marketing such as bespoke brochures and private showings, are also standard. A key aspect involves a tailored marketing plan specific to your property's unique attributes, aiming to highlight its value and appeal to a discerning clientele.",
+        "@type": "Answer",
+        "description": "Luxury property listing services include professional photography, videography, and targeted marketing on exclusive platforms to attract affluent buyers for high-end homes."
+      }
+    }
+  ],
+  "description": "Luxury property listing services include professional photography, videography, and targeted marketing on exclusive platforms to attract affluent buyers for hig"
+}

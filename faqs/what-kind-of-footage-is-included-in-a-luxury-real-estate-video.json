@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/what-kind-of-footage-is-included-in-a-luxury-real-estate-video",
+  "name": "What kind of footage is included in a luxury real estate video?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What kind of footage is included in a luxury real estate video?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Luxury real estate videos often include a diverse range of captivating footage to highlight a property's exclusivity and lifestyle. This typically involves cinematic interior and exterior shots, aerial drone footage showcasing the property's scale and surroundings, and sometimes lifestyle elements depicting activities within the home or neighborhood. Special attention is given to unique architectural details, premium finishes, and expansive views. Preparation for filming can involve decluttering, staging areas to emphasize key features, and ensuring pools or outdoor spaces are in pristine condition to capture the best possible visuals.",
+        "@type": "Answer",
+        "description": "Luxury real estate videos include cinematic interior/exterior shots, aerial drone footage, and lifestyle elements to showcase exclusivity and lifestyle. Preparation involves staging and ensuring the property is pristine for optimal visuals."
+      }
+    }
+  ],
+  "description": "Luxury real estate videos include cinematic interior/exterior shots, aerial drone footage, and lifestyle elements to showcase exclusivity and lifestyle. Prepara"
+}

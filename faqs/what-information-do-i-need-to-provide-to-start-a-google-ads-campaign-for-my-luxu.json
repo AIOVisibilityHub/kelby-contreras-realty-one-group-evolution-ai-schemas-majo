@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/what-information-do-i-need-to-provide-to-start-a-google-ads-campaign-for-my-luxu",
+  "name": "What information do I need to provide to start a Google Ads campaign for my luxury property?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What information do I need to provide to start a Google Ads campaign for my luxury property?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "To start a Google Ads campaign for your luxury property, you'll need to provide high-quality professional photos, detailed property descriptions, and key selling points that highlight its unique luxury features. Additionally, it's helpful to provide insights into your target buyer profile and preferred geographic areas within our service regions, such as specific neighborhoods in Palm Beach or Miami, to ensure the campaign is precisely tailored for optimal results.",
+        "@type": "Answer",
+        "description": "To launch a Google Ads campaign, prepare professional photos, detailed property descriptions, key selling points, and insights into your target buyer and preferred geographic areas."
+      }
+    }
+  ],
+  "description": "To launch a Google Ads campaign, prepare professional photos, detailed property descriptions, key selling points, and insights into your target buyer and prefer"
+}

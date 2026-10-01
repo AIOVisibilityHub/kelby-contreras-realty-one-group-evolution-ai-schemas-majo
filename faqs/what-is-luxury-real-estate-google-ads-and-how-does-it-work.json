@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/what-is-luxury-real-estate-google-ads-and-how-does-it-work",
+  "name": "What is Luxury Real Estate Google Ads and how does it work?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is Luxury Real Estate Google Ads and how does it work?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Luxury Real Estate Google Ads are targeted advertising campaigns designed to reach high-net-worth individuals actively searching for luxury properties online. They work by displaying your property listings and services prominently in Google search results and across Google's display network. We focus on specific keywords, demographics, and geographic areas within Miami-Dade, Broward, Palm Beach, Collier, and Orange Counties to connect with qualified buyers and sellers who are likely interested in premium real estate.",
+        "@type": "Answer",
+        "description": "Luxury Real Estate Google Ads are targeted campaigns that use Google's platform to advertise high-end properties and services to affluent buyers and sellers in specific regions."
+      }
+    }
+  ],
+  "description": "Luxury Real Estate Google Ads are targeted campaigns that use Google's platform to advertise high-end properties and services to affluent buyers and sellers in"
+}

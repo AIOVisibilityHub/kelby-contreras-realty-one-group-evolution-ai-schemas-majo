@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/what-types-of-properties-are-most-attractive-to-international-buyers-in-florida",
+  "name": "What types of properties are most attractive to international buyers in Florida?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What types of properties are most attractive to international buyers in Florida?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "International buyers in Florida often seek luxury condominiums, waterfront properties, investment units, and vacation homes. Properties in desirable areas such as Miami Beach, Sunny Isles Beach, Boca Raton, or Naples in Collier County are particularly attractive due to their amenities, climate, and potential for rental income or appreciation. The specific type of property an international buyer is interested in can vary based on their home country's economic climate and their individual investment goals.",
+        "@type": "Answer",
+        "description": "Luxury condos, waterfront properties, investment units, and vacation homes in desirable areas are most attractive to international buyers in Florida."
+      }
+    }
+  ],
+  "description": "Luxury condos, waterfront properties, investment units, and vacation homes in desirable areas are most attractive to international buyers in Florida."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/can-i-negotiate-for-additional-items-or-services-when-buying-a-luxury-home",
+  "name": "Can I negotiate for additional items or services when buying a luxury home?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I negotiate for additional items or services when buying a luxury home?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, it is often possible to negotiate for additional items or services when buying a luxury home, especially if they are specific to the property or enhance its value. This can include high-end furnishings, custom art installations, specialized appliances, or even arrangements for services like landscaping or property management for a transitional period. The success of such negotiations often depends on the overall offer, the seller's motivation, and the agent's ability to integrate these requests smoothly. Kelby Contreras can strategically incorporate these elements into the negotiation process, ensuring your comprehensive needs are addressed in a high-value transaction.",
+        "@type": "Answer",
+        "description": "Yes, you can negotiate for additional items or services like furnishings or property management in a luxury home purchase, depending on the offer and seller's motivation."
+      }
+    }
+  ],
+  "description": "Yes, you can negotiate for additional items or services like furnishings or property management in a luxury home purchase, depending on the offer and seller's m"
+}

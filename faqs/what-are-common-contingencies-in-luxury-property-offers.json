@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/what-are-common-contingencies-in-luxury-property-offers",
+  "name": "What are common contingencies in luxury property offers?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are common contingencies in luxury property offers?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Common contingencies in luxury property offers often include financing, inspection, appraisal, and title review. However, in a competitive market, minimizing or waiving certain contingencies can make an offer more attractive to a seller. For instance, a buyer with proof of funds who can waive a financing contingency presents a stronger offer. Your agent will help you determine which contingencies are essential for your protection while also making your offer competitive, especially for unique properties in locations like Fisher Island.",
+        "@type": "Answer",
+        "description": "Common contingencies are financing, inspection, appraisal, and title review, but minimizing them can strengthen your offer in competitive luxury markets."
+      }
+    }
+  ],
+  "description": "Common contingencies are financing, inspection, appraisal, and title review, but minimizing them can strengthen your offer in competitive luxury markets."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/what-is-a-luxury-real-estate-virtual-tour",
+  "name": "What is a luxury real estate virtual tour?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is a luxury real estate virtual tour?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A luxury real estate virtual tour is an immersive online experience that allows potential buyers to explore a high-end property remotely. These tours often feature 3D models, 360-degree panoramic views, interactive floor plans, and high-definition video walkthroughs, showcasing the property's unique architectural details, premium finishes, and opulent amenities. The goal is to provide a comprehensive and engaging digital representation that captures the essence of the luxury listing, allowing for a detailed preview before an in-person visit. A well-produced virtual tour can significantly expand the reach of a luxury property beyond local buyers.",
+        "@type": "Answer",
+        "description": "A luxury real estate virtual tour is an immersive online experience showcasing high-end properties with 3D models, 360-degree views, and HD videos."
+      }
+    }
+  ],
+  "description": "A luxury real estate virtual tour is an immersive online experience showcasing high-end properties with 3D models, 360-degree views, and HD videos."
+}

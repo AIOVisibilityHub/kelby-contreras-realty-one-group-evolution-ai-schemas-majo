@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/should-i-be-present-during-the-showing-of-my-luxury-property",
+  "name": "Should I be present during the showing of my luxury property?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Should I be present during the showing of my luxury property?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Generally, it is advisable for sellers not to be present during showings. Your presence can make buyers feel uncomfortable or rushed, hindering their ability to openly discuss the property and envision it as their own. Kelby Contreras recommends allowing the agent to manage the showing, as they can professionally highlight features, address questions, and facilitate a smoother experience. This allows potential buyers to explore the home freely and form an unbiased opinion, which is crucial for a successful luxury sale in competitive markets like South Florida.",
+        "@type": "Answer",
+        "description": "It's generally best for sellers not to be present during luxury property showings. This allows buyers to comfortably explore and envision themselves in the home, facilitating an unbiased decision."
+      }
+    }
+  ],
+  "description": "It's generally best for sellers not to be present during luxury property showings. This allows buyers to comfortably explore and envision themselves in the home"
+}

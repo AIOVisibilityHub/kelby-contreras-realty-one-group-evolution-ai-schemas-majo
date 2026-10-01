@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/what-preparation-is-needed-at-the-property-before-a-drone-photography-shoot",
+  "name": "What preparation is needed at the property before a drone photography shoot?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What preparation is needed at the property before a drone photography shoot?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "To ensure optimal results, property preparation includes decluttering outdoor areas, ensuring all lights are on, and tidying up landscaping such as manicured lawns and clean pool areas. Secure any loose items, remove vehicles from immediate view, and clear potential obstacles. For waterfront properties in areas like Sunny Isles Beach or Hollywood Beach, ensure boat docks and seawalls are presented cleanly. A well-prepared property allows our pilots to focus on capturing the best aerial perspectives without distractions.",
+        "@type": "Answer",
+        "description": "Prepare by decluttering outdoor areas, turning on lights, tidying landscaping, securing loose items, and removing vehicles for optimal drone shots."
+      }
+    }
+  ],
+  "description": "Prepare by decluttering outdoor areas, turning on lights, tidying landscaping, securing loose items, and removing vehicles for optimal drone shots."
+}

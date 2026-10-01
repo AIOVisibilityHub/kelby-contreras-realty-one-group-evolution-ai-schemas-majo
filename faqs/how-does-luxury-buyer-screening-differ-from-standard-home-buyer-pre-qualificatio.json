@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/how-does-luxury-buyer-screening-differ-from-standard-home-buyer-pre-qualificatio",
+  "name": "How does luxury buyer screening differ from standard home buyer pre-qualification?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How does luxury buyer screening differ from standard home buyer pre-qualification?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Luxury buyer screening goes beyond standard pre-qualification by often requiring deeper financial scrutiny and a more comprehensive understanding of a buyer's net worth, not just income. A decision factor for the depth of screening is the property's value and market exclusivity. For properties in areas like Fisher Island or Bal Harbour, where transactions are often high-value and discreet, the screening ensures discretion and that a buyer's profile aligns with the property's prestige.",
+        "@type": "Answer",
+        "description": "Luxury screening involves deeper financial scrutiny and net worth assessment than standard pre-qualification, especially for exclusive properties."
+      }
+    }
+  ],
+  "description": "Luxury screening involves deeper financial scrutiny and net worth assessment than standard pre-qualification, especially for exclusive properties."
+}

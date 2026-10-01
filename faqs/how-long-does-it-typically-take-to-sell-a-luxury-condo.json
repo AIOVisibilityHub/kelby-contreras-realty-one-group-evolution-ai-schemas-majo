@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/how-long-does-it-typically-take-to-sell-a-luxury-condo",
+  "name": "How long does it typically take to sell a luxury condo?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does it typically take to sell a luxury condo?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The time it takes to sell a luxury condo can vary significantly based on market conditions, pricing strategy, and the property's unique attributes. In active luxury markets like Miami or Fort Lauderdale, well-priced and expertly marketed properties may sell relatively quickly. However, unique or ultra-luxury properties might require a longer marketing period to connect with the ideal buyer. Setting a realistic timeline is part of the initial consultation, factoring in your specific goals and local market dynamics.",
+        "@type": "Answer",
+        "description": "Selling a luxury condo varies based on market, pricing, and property features; well-priced units in active areas like Miami may sell faster, but ultra-luxury homes can take longer."
+      }
+    }
+  ],
+  "description": "Selling a luxury condo varies based on market, pricing, and property features; well-priced units in active areas like Miami may sell faster, but ultra-luxury ho"
+}

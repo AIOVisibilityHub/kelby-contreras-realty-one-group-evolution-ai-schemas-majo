@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/what-factors-can-influence-the-negotiation-timeline-for-a-luxury-property",
+  "name": "What factors can influence the negotiation timeline for a luxury property?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What factors can influence the negotiation timeline for a luxury property?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Several factors can influence the negotiation timeline for a luxury property, including the complexity of the deal, the number of parties involved, financing arrangements, and any unique contingencies. International buyers or sellers, bespoke property features, or specific legal structures can also extend the process. Kelby Contreras proactively manages these complexities, providing clients with realistic timelines and keeping them informed, whether they are buying or selling in fast-paced markets like Midtown/Wynwood or more secluded estates.",
+        "@type": "Answer",
+        "description": "Luxury negotiation timelines are influenced by deal complexity, parties involved, financing, contingencies, and unique property or international aspects, requiring proactive management."
+      }
+    }
+  ],
+  "description": "Luxury negotiation timelines are influenced by deal complexity, parties involved, financing, contingencies, and unique property or international aspects, requir"
+}

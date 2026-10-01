@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/what-is-the-typical-process-for-creating-a-3d-tour-for-a-luxury-home",
+  "name": "What is the typical process for creating a 3D tour for a luxury home?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the typical process for creating a 3D tour for a luxury home?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The process for creating a 3D tour for a luxury home typically begins with a professional photographer scheduling a shoot at the property. Specialized 3D cameras capture comprehensive data points throughout the home, including all rooms, unique architectural details, and outdoor living spaces. This data is then processed using advanced software to stitch together a complete, navigable 3D model. The final tour is then embedded into the property listing, often within 24-48 hours of the shoot, making it ready for viewing by potential buyers.",
+        "@type": "Answer",
+        "description": "Creating a 3D tour involves a professional shoot with specialized cameras to capture property data, which is then processed into a navigable 3D model for listing."
+      }
+    }
+  ],
+  "description": "Creating a 3D tour involves a professional shoot with specialized cameras to capture property data, which is then processed into a navigable 3D model for listin"
+}

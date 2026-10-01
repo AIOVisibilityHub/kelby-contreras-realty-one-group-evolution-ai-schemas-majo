@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/what-types-of-marketing-materials-are-used-for-pre-market-luxury-properties",
+  "name": "What types of marketing materials are used for pre-market luxury properties?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What types of marketing materials are used for pre-market luxury properties?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "For pre-market luxury properties, marketing materials are often bespoke and highly sophisticated. These commonly include high-resolution photography, cinematic video tours, detailed floor plans, and custom property brochures that highlight unique features and amenities. Digital presentations, virtual staging, and 3D renderings are also frequently employed to provide an immersive experience. The focus is on quality and exclusivity, often utilizing password-protected online portals or private links to share content with qualified buyers, ensuring discretion and a curated viewing experience.",
+        "@type": "Answer",
+        "description": "Pre-market luxury properties use high-resolution photography, cinematic videos, detailed floor plans, and custom brochures, often shared via private digital portals for exclusivity."
+      }
+    }
+  ],
+  "description": "Pre-market luxury properties use high-resolution photography, cinematic videos, detailed floor plans, and custom brochures, often shared via private digital por"
+}

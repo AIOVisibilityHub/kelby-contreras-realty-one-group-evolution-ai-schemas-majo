@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/what-kind-of-photography-and-videography-should-i-expect-for-my-luxury-listing",
+  "name": "What kind of photography and videography should I expect for my luxury listing?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What kind of photography and videography should I expect for my luxury listing?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "For luxury listings, you should expect professional, high-resolution photography, cinematic videography, and often drone footage to capture the property's full grandeur and surrounding environment. This includes twilight shots, virtual tours, and 3D floor plans to provide an immersive experience for potential buyers. The goal is to highlight architectural details, premium finishes, sprawling landscapes, and unique amenities such as private docks in Williams Island or ocean views in Bal Harbour. Our approach emphasizes capturing the aspirational lifestyle associated with the property, ensuring every visual element conveys exclusivity and quality.",
+        "@type": "Answer",
+        "description": "Expect professional, high-resolution photography, cinematic videography, drone footage, virtual tours, and 3D floor plans to showcase your luxury property's grandeur and lifestyle."
+      }
+    }
+  ],
+  "description": "Expect professional, high-resolution photography, cinematic videography, drone footage, virtual tours, and 3D floor plans to showcase your luxury property's gra"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/what-documents-do-international-buyers-typically-need-to-purchase-property-in-fl",
+  "name": "What documents do international buyers typically need to purchase property in Florida?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What documents do international buyers typically need to purchase property in Florida?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "International buyers typically need a valid passport, proof of funds for the purchase, and often require a U.S. bank account or a reliable international transfer method. Depending on their financing needs, additional financial documentation like bank statements or income verification may be required, similar to domestic buyers. It is a preparation step for international buyers to ensure all necessary financial and identification documents are readily available and properly verified to streamline the buying process.",
+        "@type": "Answer",
+        "description": "International buyers typically need a valid passport, proof of funds, and potentially a U.S. bank account or international transfer method."
+      }
+    }
+  ],
+  "description": "International buyers typically need a valid passport, proof of funds, and potentially a U.S. bank account or international transfer method."
+}

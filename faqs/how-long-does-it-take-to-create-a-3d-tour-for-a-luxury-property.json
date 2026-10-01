@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/how-long-does-it-take-to-create-a-3d-tour-for-a-luxury-property",
+  "name": "How long does it take to create a 3D tour for a luxury property?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does it take to create a 3D tour for a luxury property?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The on-site capture for a luxury property 3D tour typically takes 2 to 4 hours, depending on the size and complexity of the home, including detailed outdoor spaces common in South Florida properties. Processing the captured data into a fully interactive 3D tour usually takes an additional 24 to 48 hours. This swift turnaround ensures that the tour can be integrated into the property listing quickly, allowing for immediate marketing to potential buyers, which is critical in fast-moving markets like Miami-Dade County.",
+        "@type": "Answer",
+        "description": "On-site capture for a 3D tour typically takes 2-4 hours, with processing and delivery of the final tour usually within 24-48 hours."
+      }
+    }
+  ],
+  "description": "On-site capture for a 3D tour typically takes 2-4 hours, with processing and delivery of the final tour usually within 24-48 hours."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/how-do-you-protect-my-privacy-during-the-sale-of-a-high-value-property",
+  "name": "How do you protect my privacy during the sale of a high-value property?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do you protect my privacy during the sale of a high-value property?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Protecting your privacy during the sale of a high-value property is paramount and involves strategic, discreet marketing approaches. This includes limiting public exposure through 'pocket listings' or off-market sales, qualifying potential buyers rigorously before showings, and carefully managing personal information. We utilize our extensive network for private showings and target specific, pre-approved buyers to minimize general foot traffic. For prominent properties in areas like Fisher Island or Pinecrest, we prioritize confidentiality and control the flow of information to ensure a secure and private transaction, while still achieving optimal market reach.",
+        "@type": "Answer",
+        "description": "We protect privacy by using discreet marketing like 'pocket listings', rigorously qualifying buyers, and managing personal information, especially for high-value properties."
+      }
+    }
+  ],
+  "description": "We protect privacy by using discreet marketing like 'pocket listings', rigorously qualifying buyers, and managing personal information, especially for high-valu"
+}

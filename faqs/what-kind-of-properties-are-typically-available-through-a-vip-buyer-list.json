@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/what-kind-of-properties-are-typically-available-through-a-vip-buyer-list",
+  "name": "What kind of properties are typically available through a VIP Buyer List?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What kind of properties are typically available through a VIP Buyer List?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Properties on a VIP Buyer List can vary widely, including single-family homes, condos, townhouses, and luxury estates. These often include properties that are 'coming soon' to the market, off-market listings not publicly advertised, or homes from sellers who prefer a discreet sale. In our service areas like Collier County or Orange County, this can range from waterfront properties to golf course communities. The specific inventory depends on seller motivations and market conditions, providing diverse options that wouldn't typically be found through standard public searches.",
+        "@type": "Answer",
+        "description": "VIP Buyer Lists feature diverse properties, including pre-market, off-market, and exclusive listings, often tailored to specific buyer preferences."
+      }
+    }
+  ],
+  "description": "VIP Buyer Lists feature diverse properties, including pre-market, off-market, and exclusive listings, often tailored to specific buyer preferences."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/does-it-cost-extra-to-be-on-a-vip-buyer-list",
+  "name": "Does it cost extra to be on a VIP Buyer List?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Does it cost extra to be on a VIP Buyer List?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Typically, there is no direct cost for a buyer to be on a VIP Buyer List. Real estate agents are generally compensated by the seller through commission upon a successful sale. For buyers, the benefit is early access and specialized service without an additional fee. However, some exclusive programs or specific buyer agent agreements might exist, so it's wise to clarify the compensation structure with your agent upfront. Our service focuses on providing value through access and expertise, with no hidden fees for joining the list.",
+        "@type": "Answer",
+        "description": "No, joining a VIP Buyer List usually has no direct cost for buyers; agents are typically compensated by the seller upon a successful transaction."
+      }
+    }
+  ],
+  "description": "No, joining a VIP Buyer List usually has no direct cost for buyers; agents are typically compensated by the seller upon a successful transaction."
+}

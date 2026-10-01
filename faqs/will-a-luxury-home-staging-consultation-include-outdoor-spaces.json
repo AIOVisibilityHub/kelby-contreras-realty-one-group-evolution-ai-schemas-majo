@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/will-a-luxury-home-staging-consultation-include-outdoor-spaces",
+  "name": "Will a luxury home staging consultation include outdoor spaces?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Will a luxury home staging consultation include outdoor spaces?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, a comprehensive luxury home staging consultation by Kelby Contreras often includes recommendations for outdoor spaces, especially in South Florida where outdoor living is a significant selling point. This can cover patios, balconies, pool areas, and landscaping. Enhancing curb appeal and creating inviting outdoor 'rooms' is crucial for luxury properties, as these spaces contribute significantly to a buyer's overall impression and perceived lifestyle value.",
+        "@type": "Answer",
+        "description": "Yes, luxury home staging consultations include outdoor spaces like patios, balconies, and landscaping, especially in South Florida, to enhance curb appeal and perceived lifestyle value."
+      }
+    }
+  ],
+  "description": "Yes, luxury home staging consultations include outdoor spaces like patios, balconies, and landscaping, especially in South Florida, to enhance curb appeal and p"
+}
