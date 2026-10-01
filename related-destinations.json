@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "generatedAt": "2026-10-01T21:58:46.420Z",
+  "generatedAt": "2026-10-01T21:59:27.925Z",
   "name": "Cross-Destination Index",
   "aliases": [
     "Authority Network",
@@ -31,12 +31,18 @@
       "platform": "github",
       "label": "GitHub repository",
       "url": "https://github.com/AIOVisibilityHub/kelby-contreras-realty-one-group-evolution-ai-schemas-majo"
+    },
+    {
+      "role": "mirror-pages",
+      "platform": "github",
+      "label": "GitHub — AI Data Hub mirror",
+      "url": "https://aiovisibilityhub.github.io/kelby-contreras-realty-one-group-evolution-ai-schemas-majo/ai-data.html"
     }
   ],
   "destinations": {
     "github": {
       "url": "https://github.com/AIOVisibilityHub/kelby-contreras-realty-one-group-evolution-ai-schemas-majo",
-      "pagesUrl": "",
+      "pagesUrl": "https://aiovisibilityhub.github.io/kelby-contreras-realty-one-group-evolution-ai-schemas-majo/",
       "repo": "AIOVisibilityHub/kelby-contreras-realty-one-group-evolution-ai-schemas-majo"
     }
   }
