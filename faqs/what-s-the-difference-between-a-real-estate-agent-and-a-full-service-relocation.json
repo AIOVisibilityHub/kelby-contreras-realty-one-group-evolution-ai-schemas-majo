@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/what-s-the-difference-between-a-real-estate-agent-and-a-full-service-relocation",
+  "name": "What's the difference between a real estate agent and a full-service relocation company?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What's the difference between a real estate agent and a full-service relocation company?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A real estate agent, like Kelby Contreras - Realty ONE Group Evolution, primarily focuses on helping clients buy or sell property. A full-service relocation company might also handle broader aspects such as packing, shipping, temporary housing, and school enrollment. The key practical tradeoff is that a real estate agent offers specialized expertise in the housing market across regions like Miami-Dade, Broward, and Palm Beach, which is crucial for securing the right home. Full-service companies provide broader logistical support, often at an additional cost.",
+        "@type": "Answer",
+        "description": "A real estate agent specializes in property transactions, while a full-service relocation company handles broader logistics like packing and temporary housing, often for an additional fee."
+      }
+    }
+  ],
+  "description": "A real estate agent specializes in property transactions, while a full-service relocation company handles broader logistics like packing and temporary housing,"
+}

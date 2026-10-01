@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/what-kind-of-visa-or-residency-status-is-required-for-a-foreign-national-to-purc",
+  "name": "What kind of visa or residency status is required for a foreign national to purchase property in Florida?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What kind of visa or residency status is required for a foreign national to purchase property in Florida?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A specific visa or residency status is not required to purchase real estate in Florida. Foreign nationals are generally permitted to own property, regardless of their immigration status. However, owning property does not automatically grant residency or a visa. If you plan to spend extended periods in the U.S., you will need to ensure your visa status permits such stays independently of your property ownership.",
+        "@type": "Answer",
+        "description": "No specific visa or residency is required to purchase property in Florida, but ownership doesn't grant residency status."
+      }
+    }
+  ],
+  "description": "No specific visa or residency is required to purchase property in Florida, but ownership doesn't grant residency status."
+}

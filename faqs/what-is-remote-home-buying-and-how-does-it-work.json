@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/what-is-remote-home-buying-and-how-does-it-work",
+  "name": "What is remote home buying and how does it work?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is remote home buying and how does it work?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Remote home buying allows you to purchase a property without being physically present for every step, using virtual tools and professional assistance. This typically involves virtual tours, digital document signing, and communication with your agent via phone or video conference. Our team at Realty ONE Group Evolution can coordinate virtual showings and guide you through the digital process, simplifying transactions in areas like Miami-Dade and Broward Counties.",
+        "@type": "Answer",
+        "description": "Remote home buying allows you to purchase a property without being physically present, utilizing virtual tools and professional guidance for tasks like tours and document signing."
+      }
+    }
+  ],
+  "description": "Remote home buying allows you to purchase a property without being physically present, utilizing virtual tools and professional guidance for tasks like tours an"
+}

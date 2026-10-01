@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/what-specific-regulations-or-restrictions-apply-to-short-term-rentals-in-south-f",
+  "name": "What specific regulations or restrictions apply to short-term rentals in South Florida luxury communities?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What specific regulations or restrictions apply to short-term rentals in South Florida luxury communities?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Regulations for short-term rentals vary significantly across South Florida municipalities and within specific luxury communities. Some areas, like certain parts of Miami Beach or Fort Lauderdale, have strict zoning laws or licensing requirements, while others are more permissive. Homeowners' associations (HOAs) in luxury developments often have their own rules regarding rental periods, guest occupancy, and property management. We emphasize verifying these specific rules for any property of interest, as non-compliance can lead to substantial fines.",
+        "@type": "Answer",
+        "description": "Short-term rental regulations vary by municipality and HOA in South Florida; always verify specific rules to avoid fines."
+      }
+    }
+  ],
+  "description": "Short-term rental regulations vary by municipality and HOA in South Florida; always verify specific rules to avoid fines."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/how-does-the-purchase-process-differ-for-a-cash-buyer-versus-a-financed-buyer-in",
+  "name": "How does the purchase process differ for a cash buyer versus a financed buyer internationally?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How does the purchase process differ for a cash buyer versus a financed buyer internationally?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "For cash buyers, the purchase process is generally faster, as it eliminates the mortgage approval stage, often closing within 30 days. Financed buyers, especially international ones, require more extensive documentation and a longer approval period for foreign national loans, typically extending the process to 45-90 days. A key difference is the upfront preparation: cash buyers need proof of funds, while financed buyers must pre-qualify with a lender. Your choice impacts the complexity and speed of closing.",
+        "@type": "Answer",
+        "description": "Cash purchases are faster without mortgage approvals, usually closing in 30 days. Financed purchases, particularly for international buyers, require more documentation and take longer, around 45-90 days."
+      }
+    }
+  ],
+  "description": "Cash purchases are faster without mortgage approvals, usually closing in 30 days. Financed purchases, particularly for international buyers, require more docume"
+}

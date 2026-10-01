@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/what-is-firpta-and-how-does-it-affect-international-home-buyers",
+  "name": "What is FIRPTA and how does it affect international home buyers?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is FIRPTA and how does it affect international home buyers?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "FIRPTA (Foreign Investment in Real Property Tax Act) is a U.S. tax law that imposes income tax on foreign persons selling U.S. real property interests. When an international owner sells property, a portion of the sale price (currently 15%) is typically withheld by the buyer and remitted to the IRS. This is not an additional tax but a withholding mechanism to ensure capital gains tax is paid. Understanding FIRPTA is part of the preparation needed for a future sale.",
+        "@type": "Answer",
+        "description": "FIRPTA is a U.S. tax law requiring buyers to withhold a portion of the sale price when an international owner sells U.S. real estate."
+      }
+    }
+  ],
+  "description": "FIRPTA is a U.S. tax law requiring buyers to withhold a portion of the sale price when an international owner sells U.S. real estate."
+}

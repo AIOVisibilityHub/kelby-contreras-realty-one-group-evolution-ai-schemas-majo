@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/what-due-diligence-is-recommended-for-international-buyers-of-luxury-homes",
+  "name": "What due diligence is recommended for international buyers of luxury homes?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What due diligence is recommended for international buyers of luxury homes?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "For international buyers, thorough due diligence is paramount. This includes a comprehensive property inspection, title search to ensure clear ownership, and review of all relevant documents such as homeowner association (HOA) rules, disclosure statements, and insurance policies. For luxury properties in coastal areas, reviewing flood zone designations and understanding insurance costs specific to the location, like Hollywood Beach or Pompano Beach, is particularly important. We emphasize a detailed review to uncover any potential issues before closing.",
+        "@type": "Answer",
+        "description": "Recommended due diligence includes property inspection, title search, and reviewing HOA rules and insurance. Special attention to flood zones is crucial for coastal properties."
+      }
+    }
+  ],
+  "description": "Recommended due diligence includes property inspection, title search, and reviewing HOA rules and insurance. Special attention to flood zones is crucial for coa"
+}

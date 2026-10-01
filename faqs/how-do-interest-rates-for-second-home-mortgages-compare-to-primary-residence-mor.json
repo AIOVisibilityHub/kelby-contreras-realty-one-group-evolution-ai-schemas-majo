@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/how-do-interest-rates-for-second-home-mortgages-compare-to-primary-residence-mor",
+  "name": "How do interest rates for second home mortgages compare to primary residence mortgages?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do interest rates for second home mortgages compare to primary residence mortgages?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Interest rates for second home mortgages are generally slightly higher than those for primary residences. This is due to lenders perceiving a higher risk associated with non-primary properties. Additionally, down payment requirements can be more substantial for second homes, often starting around 10-20% or more, depending on the lender and your financial profile. It's important to compare various loan products and terms, as options like conventional loans, jumbo loans, or portfolio loans might be applicable. We can help you navigate these options to find the most suitable financing for your second home purchase in South Florida.",
+        "@type": "Answer",
+        "description": "Second home mortgage interest rates are typically slightly higher, and down payment requirements can be more substantial, often starting at 10-20%."
+      }
+    }
+  ],
+  "description": "Second home mortgage interest rates are typically slightly higher, and down payment requirements can be more substantial, often starting at 10-20%."
+}

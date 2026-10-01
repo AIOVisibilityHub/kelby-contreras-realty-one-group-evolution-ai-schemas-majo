@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/how-long-does-the-home-buying-process-typically-take-for-international-clients",
+  "name": "How long does the home buying process typically take for international clients?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does the home buying process typically take for international clients?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The timeline for international home buyers can vary based on several factors, including financing arrangements, legal requirements, and the buyer's availability for property visits. Cash transactions can close faster, often within 30-45 days, while those requiring a mortgage may extend to 60-90 days due to international banking processes. Having all required documentation prepared in advance can significantly shorten the overall process.",
+        "@type": "Answer",
+        "description": "The home buying process for international clients varies, typically 30-45 days for cash and 60-90 days with a mortgage; preparation can shorten this."
+      }
+    }
+  ],
+  "description": "The home buying process for international clients varies, typically 30-45 days for cash and 60-90 days with a mortgage; preparation can shorten this."
+}

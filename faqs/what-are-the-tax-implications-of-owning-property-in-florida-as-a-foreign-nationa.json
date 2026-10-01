@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/what-are-the-tax-implications-of-owning-property-in-florida-as-a-foreign-nationa",
+  "name": "What are the tax implications of owning property in Florida as a foreign national?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are the tax implications of owning property in Florida as a foreign national?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Owning property in Florida as a foreign national involves several tax considerations. You will be subject to U.S. property taxes, which are assessed locally. If you rent out the property, you may be subject to U.S. income tax on the rental income. Additionally, estate taxes can apply to U.S. assets held by non-residents. It's essential to consult with a qualified tax advisor to understand your specific obligations and optimize your tax strategy before and after purchasing a property.",
+        "@type": "Answer",
+        "description": "Foreign nationals owning property in Florida are subject to U.S. property taxes, income tax on rental income, and potential estate taxes. Consult a tax advisor for specifics."
+      }
+    }
+  ],
+  "description": "Foreign nationals owning property in Florida are subject to U.S. property taxes, income tax on rental income, and potential estate taxes. Consult a tax advisor"
+}

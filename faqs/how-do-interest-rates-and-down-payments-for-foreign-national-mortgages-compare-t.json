@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/how-do-interest-rates-and-down-payments-for-foreign-national-mortgages-compare-t",
+  "name": "How do interest rates and down payments for foreign national mortgages compare to traditional mortgages?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do interest rates and down payments for foreign national mortgages compare to traditional mortgages?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Foreign national mortgages generally have higher interest rates and require larger down payments than traditional mortgages for U.S. citizens. Down payments often start at 20-30%, sometimes more, compared to lower percentages for U.S. borrowers. This reflects the increased risk perceived by lenders. It's important to compare offers from various lenders as rates and terms can vary, impacting your overall cost of borrowing.",
+        "@type": "Answer",
+        "description": "Foreign national mortgages typically feature higher interest rates and larger down payments (20-30%+) than traditional mortgages. Comparing offers is crucial to assess the total borrowing cost."
+      }
+    }
+  ],
+  "description": "Foreign national mortgages typically feature higher interest rates and larger down payments (20-30%+) than traditional mortgages. Comparing offers is crucial to"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/what-are-the-general-requirements-for-a-foreign-national-to-purchase-a-condo-in",
+  "name": "What are the general requirements for a foreign national to purchase a condo in Florida?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are the general requirements for a foreign national to purchase a condo in Florida?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Foreign nationals can purchase real estate in Florida. The process is similar to that for U.S. citizens, but additional considerations for financing, taxes, and residency may apply. For example, obtaining a mortgage often requires a larger down payment and stricter eligibility criteria compared to domestic buyers. It's important to understand these differences early in the process to ensure a smooth transaction.",
+        "@type": "Answer",
+        "description": "Foreign nationals can buy property in Florida, but may face different requirements for financing and taxes compared to U.S. citizens."
+      }
+    }
+  ],
+  "description": "Foreign nationals can buy property in Florida, but may face different requirements for financing and taxes compared to U.S. citizens."
+}

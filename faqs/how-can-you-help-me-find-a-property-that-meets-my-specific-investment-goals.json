@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/how-can-you-help-me-find-a-property-that-meets-my-specific-investment-goals",
+  "name": "How can you help me find a property that meets my specific investment goals?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How can you help me find a property that meets my specific investment goals?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Our team specializes in understanding the unique investment goals of international buyers, whether it's for personal use, rental income, or capital appreciation. We leverage our deep market knowledge across all our service areas, including Collier and Orange Counties, to identify properties that align with your financial objectives and desired property type. This first-party insight allows us to guide you to locations and property profiles with the highest potential to meet your specific criteria.",
+        "@type": "Answer",
+        "description": "We help identify properties matching your investment goals, leveraging our market knowledge across all service areas to find options with high potential for personal use, rental income, or capital appreciation."
+      }
+    }
+  ],
+  "description": "We help identify properties matching your investment goals, leveraging our market knowledge across all service areas to find options with high potential for per"
+}

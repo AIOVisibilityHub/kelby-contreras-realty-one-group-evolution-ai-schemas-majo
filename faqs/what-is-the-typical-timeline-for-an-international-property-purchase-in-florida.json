@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/what-is-the-typical-timeline-for-an-international-property-purchase-in-florida",
+  "name": "What is the typical timeline for an international property purchase in Florida?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the typical timeline for an international property purchase in Florida?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The timeline for an international property purchase in Florida can range from 30 to 90 days, depending on financing and due diligence. Cash purchases tend to close faster, within 30-45 days, while financed transactions with foreign national loans may take 45-90 days due to additional underwriting requirements. Having all financial documents prepared and engaging a local agent who understands the process can help streamline the timeline.",
+        "@type": "Answer",
+        "description": "The timeline varies from 30-90 days; cash purchases are quicker, while financed deals may take longer due to foreign national loan processes."
+      }
+    }
+  ],
+  "description": "The timeline varies from 30-90 days; cash purchases are quicker, while financed deals may take longer due to foreign national loan processes."
+}

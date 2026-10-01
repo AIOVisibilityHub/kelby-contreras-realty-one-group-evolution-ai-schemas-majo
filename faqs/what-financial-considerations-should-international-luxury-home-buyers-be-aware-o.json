@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/what-financial-considerations-should-international-luxury-home-buyers-be-aware-o",
+  "name": "What financial considerations should international luxury home buyers be aware of?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What financial considerations should international luxury home buyers be aware of?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "International luxury home buyers should be aware of several financial aspects beyond the purchase price, including property taxes, insurance, and potential capital gains taxes upon resale. Exchange rate fluctuations can also significantly impact the overall cost. For those considering properties in high-value areas like Fisher Island or Key Biscayne, it's essential to factor in potential U.S. estate tax implications and to work with financial advisors to structure their purchase efficiently. Understanding these details upfront can prevent unforeseen costs.",
+        "@type": "Answer",
+        "description": "Key financial considerations include property taxes, insurance, capital gains, and exchange rates. U.S. estate tax can also be a factor for luxury properties."
+      }
+    }
+  ],
+  "description": "Key financial considerations include property taxes, insurance, capital gains, and exchange rates. U.S. estate tax can also be a factor for luxury properties."
+}

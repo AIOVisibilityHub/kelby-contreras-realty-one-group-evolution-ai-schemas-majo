@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/are-there-specific-insurance-requirements-for-florida-vacation-homes-especially",
+  "name": "Are there specific insurance requirements for Florida vacation homes, especially near the coast?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Are there specific insurance requirements for Florida vacation homes, especially near the coast?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, Florida vacation homes, especially those in coastal areas like Miami Beach or Fort Lauderdale Beach, often have specific and higher insurance requirements due to hurricane and flood risks. You may need separate policies for wind, flood, and standard homeowner's insurance. Lenders typically require these coverages. It's crucial to obtain quotes from multiple providers and understand the deductibles for each peril. Being prepared for these costs is an important part of the financial planning for a coastal vacation property.",
+        "@type": "Answer",
+        "description": "Coastal Florida vacation homes require specific insurance for wind and flood risks, often mandated by lenders. Obtain multiple quotes to understand all costs and deductibles."
+      }
+    }
+  ],
+  "description": "Coastal Florida vacation homes require specific insurance for wind and flood risks, often mandated by lenders. Obtain multiple quotes to understand all costs an"
+}

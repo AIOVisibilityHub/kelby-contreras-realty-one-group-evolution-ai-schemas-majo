@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/what-is-included-in-miami-beach-relocation-services",
+  "name": "What is included in Miami Beach relocation services?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is included in Miami Beach relocation services?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Miami Beach relocation services typically include assistance with finding a new residence, understanding local neighborhoods, and navigating the purchasing or rental process. As a real estate agency, we focus on identifying properties that meet your criteria and providing guidance on market conditions in areas like South Beach, Aventura, or Bal Harbour. This involves coordinating property viewings, offering insights into community amenities, and helping you understand the steps involved in securing your new home.",
+        "@type": "Answer",
+        "description": "Miami Beach relocation services assist with finding a new home, understanding local neighborhoods, and navigating the purchasing or rental process."
+      }
+    }
+  ],
+  "description": "Miami Beach relocation services assist with finding a new home, understanding local neighborhoods, and navigating the purchasing or rental process."
+}

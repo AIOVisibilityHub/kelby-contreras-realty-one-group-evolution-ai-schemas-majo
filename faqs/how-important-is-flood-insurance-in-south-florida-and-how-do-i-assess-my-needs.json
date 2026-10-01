@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/how-important-is-flood-insurance-in-south-florida-and-how-do-i-assess-my-needs",
+  "name": "How important is flood insurance in South Florida, and how do I assess my needs?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How important is flood insurance in South Florida, and how do I assess my needs?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Flood insurance is highly important in South Florida due to its low elevation and susceptibility to heavy rainfall and storm surges. While not always federally mandated, it is strongly recommended for most properties, even those outside designated flood zones. Assessing your needs involves checking a property's flood zone designation through FEMA maps and understanding potential risks associated with its proximity to water bodies. Kelby Contreras recommends consulting with an insurance professional to determine appropriate coverage for any property you consider, ensuring you understand your exposure and options.",
+        "@type": "Answer",
+        "description": "Flood insurance is crucial in South Florida due to elevation and storm risks. Check FEMA maps and consult an insurance professional for coverage."
+      }
+    }
+  ],
+  "description": "Flood insurance is crucial in South Florida due to elevation and storm risks. Check FEMA maps and consult an insurance professional for coverage."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/what-documents-does-a-foreign-national-need-to-prepare-for-a-condo-purchase-in-f",
+  "name": "What documents does a foreign national need to prepare for a condo purchase in Florida?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What documents does a foreign national need to prepare for a condo purchase in Florida?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "To prepare for a condo purchase, foreign nationals should gather financial statements, proof of funds for down payment and closing costs, and potentially income verification documents if seeking financing. A valid passport and, if applicable, visa information will also be required for identity verification. Having these documents ready can significantly streamline the purchase process, especially when working with lenders or title companies. Early preparation is key to a smooth transaction.",
+        "@type": "Answer",
+        "description": "Prepare financial statements, proof of funds, income verification, and a valid passport for the purchase."
+      }
+    }
+  ],
+  "description": "Prepare financial statements, proof of funds, income verification, and a valid passport for the purchase."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/what-is-executive-relocation-and-how-does-it-differ-from-a-standard-move",
+  "name": "What is executive relocation and how does it differ from a standard move?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is executive relocation and how does it differ from a standard move?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Executive relocation services are tailored for professionals moving for work, often with specific needs such as finding homes in upscale communities, navigating complex logistics, and minimizing disruption to their professional and personal lives. Unlike a standard residential move, executive relocation often involves a comprehensive suite of services including home finding, temporary housing, school searches, and spousal career assistance. Kelby Contreras specializes in understanding these unique needs, focusing on prime areas in Miami-Dade, Broward, Palm Beach, and Collier Counties where executive housing is prevalent, ensuring a smooth transition for high-level professionals.",
+        "@type": "Answer",
+        "description": "Executive relocation offers specialized services for professionals moving for work, focusing on minimizing disruption and finding suitable upscale housing, unlike a standard move."
+      }
+    }
+  ],
+  "description": "Executive relocation offers specialized services for professionals moving for work, focusing on minimizing disruption and finding suitable upscale housing, unli"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/what-is-the-role-of-a-real-estate-agent-like-kelby-contreras-when-seeking-a-fore",
+  "name": "What is the role of a real estate agent like Kelby Contreras when seeking a foreign national mortgage?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the role of a real estate agent like Kelby Contreras when seeking a foreign national mortgage?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A real estate agent specializing in foreign buyers, such as Kelby Contreras, can connect you with lenders who offer foreign national mortgage products. We provide referrals to trusted mortgage specialists familiar with the unique requirements for international clients. Our role is to guide you through the property search in areas like Aventura or Sunny Isles Beach, coordinate with lenders, and facilitate a smooth transaction, helping you navigate the local market nuances.",
+        "@type": "Answer",
+        "description": "A real estate agent specializing in foreign buyers, like Kelby Contreras, refers clients to foreign national mortgage lenders and guides them through property selection and the transaction process. We help navigate local market nuances."
+      }
+    }
+  ],
+  "description": "A real estate agent specializing in foreign buyers, like Kelby Contreras, refers clients to foreign national mortgage lenders and guides them through property s"
+}

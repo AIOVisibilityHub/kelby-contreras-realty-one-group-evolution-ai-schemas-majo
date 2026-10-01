@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/do-i-need-to-be-present-in-florida-to-purchase-a-property",
+  "name": "Do I need to be present in Florida to purchase a property?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do I need to be present in Florida to purchase a property?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "While it's highly recommended to visit properties in person, especially for significant investments, it is not strictly required for the entire purchase process. Many international buyers utilize power of attorney to designate a trusted individual or legal representative to act on their behalf for closing documents. This offers a practical tradeoff, allowing flexibility if travel is difficult, but requires careful selection and vetting of your representative.",
+        "@type": "Answer",
+        "description": "No, you don't need to be present for the entire purchase process; a power of attorney can allow a representative to act on your behalf."
+      }
+    }
+  ],
+  "description": "No, you don't need to be present for the entire purchase process; a power of attorney can allow a representative to act on your behalf."
+}

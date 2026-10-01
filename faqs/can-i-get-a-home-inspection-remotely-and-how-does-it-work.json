@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/can-i-get-a-home-inspection-remotely-and-how-does-it-work",
+  "name": "Can I get a home inspection remotely, and how does it work?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I get a home inspection remotely, and how does it work?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, you can facilitate a home inspection remotely by having a local, licensed inspector conduct the evaluation and provide a detailed report, often with photos, videos, and virtual consultations. The inspector acts as your eyes on the ground, pointing out any issues. We assist clients in coordinating reliable inspectors across our service areas, ensuring you receive a comprehensive understanding of the property's condition in places like Coral Gables or Pompano Beach, even from afar.",
+        "@type": "Answer",
+        "description": "Remote home inspections involve a local inspector providing detailed reports, photos, and virtual consultations, allowing you to understand property condition without being present."
+      }
+    }
+  ],
+  "description": "Remote home inspections involve a local inspector providing detailed reports, photos, and virtual consultations, allowing you to understand property condition w"
+}

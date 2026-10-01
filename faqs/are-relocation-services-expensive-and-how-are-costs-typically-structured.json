@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/are-relocation-services-expensive-and-how-are-costs-typically-structured",
+  "name": "Are relocation services expensive, and how are costs typically structured?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Are relocation services expensive, and how are costs typically structured?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The costs associated with relocation services typically depend on the scope of support required. As real estate agents, our services for buyers are generally compensated through commission paid by the seller, making our direct assistance to you as a buyer often cost-neutral. Other potential costs for a relocation might involve movers or temporary housing. We focus on assisting you with the real estate transaction, a practical tradeoff that allows you to leverage professional expertise without direct service fees for home purchase guidance.",
+        "@type": "Answer",
+        "description": "As real estate agents, our buyer services are typically seller-paid, meaning direct real estate assistance is often cost-neutral for you. Other costs like movers are separate."
+      }
+    }
+  ],
+  "description": "As real estate agents, our buyer services are typically seller-paid, meaning direct real estate assistance is often cost-neutral for you. Other costs like mover"
+}

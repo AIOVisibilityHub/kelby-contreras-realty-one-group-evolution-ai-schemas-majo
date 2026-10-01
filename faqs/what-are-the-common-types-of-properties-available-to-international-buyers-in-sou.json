@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/what-are-the-common-types-of-properties-available-to-international-buyers-in-sou",
+  "name": "What are the common types of properties available to international buyers in South Florida?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are the common types of properties available to international buyers in South Florida?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "International buyers in South Florida often consider luxury condominiums in areas like Aventura, Sunny Isles Beach, or Brickell, as well as single-family homes in communities across Miami-Dade, Broward, and Palm Beach Counties. Investment properties, such as vacation rentals, are also popular. The best choice depends on whether you seek a primary residence, a seasonal home, or an income-generating asset, and Kelby Contreras specializes in helping buyers identify the right property type for their goals across these diverse areas.",
+        "@type": "Answer",
+        "description": "Common properties include luxury condos, single-family homes, and investment properties, with choices depending on your intended use and location preferences."
+      }
+    }
+  ],
+  "description": "Common properties include luxury condos, single-family homes, and investment properties, with choices depending on your intended use and location preferences."
+}

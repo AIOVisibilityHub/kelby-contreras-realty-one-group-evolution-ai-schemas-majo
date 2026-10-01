@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/what-are-the-common-closing-costs-for-international-buyers-in-florida",
+  "name": "What are the common closing costs for international buyers in Florida?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are the common closing costs for international buyers in Florida?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Closing costs for international buyers in Florida are similar to domestic buyers but may include additional fees related to international wire transfers or specific legal considerations. These typically range from 2-5% of the purchase price and cover items like title insurance, appraisal fees, recording fees, and attorney fees. Understanding these costs upfront is part of the preparation needed to budget accurately for your purchase.",
+        "@type": "Answer",
+        "description": "Closing costs for international buyers in Florida are typically 2-5% of the purchase price and cover standard fees, with potential additional international transfer costs."
+      }
+    }
+  ],
+  "description": "Closing costs for international buyers in Florida are typically 2-5% of the purchase price and cover standard fees, with potential additional international tran"
+}

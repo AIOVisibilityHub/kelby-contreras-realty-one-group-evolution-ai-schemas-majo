@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/can-i-obtain-a-mortgage-in-florida-as-an-international-buyer",
+  "name": "Can I obtain a mortgage in Florida as an international buyer?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I obtain a mortgage in Florida as an international buyer?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, international buyers can often obtain mortgages in Florida, though the requirements differ from those for U.S. citizens. Lenders typically require larger down payments, sometimes 30-40% or more, and may have specific income verification processes for non-U.S. residents. It's a practical tradeoff to consider: a larger down payment may offer more favorable loan terms and a wider selection of lenders, potentially simplifying the financing process.",
+        "@type": "Answer",
+        "description": "International buyers can get mortgages in Florida, but often require larger down payments and have specific income verification processes."
+      }
+    }
+  ],
+  "description": "International buyers can get mortgages in Florida, but often require larger down payments and have specific income verification processes."
+}

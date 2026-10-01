@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/what-is-the-process-for-a-foreign-national-to-close-on-a-condo-in-florida",
+  "name": "What is the process for a foreign national to close on a condo in Florida?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the process for a foreign national to close on a condo in Florida?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The closing process for foreign nationals in Florida involves several steps, including signing contracts, conducting due diligence, and transferring funds. A key difference for foreign nationals is understanding the impact of the Foreign Investment in Real Property Tax Act (FIRPTA), which may require withholding a portion of the sale proceeds if you later sell the property. Working with a local real estate agent familiar with these specific regulations helps ensure all necessary documentation is handled correctly.",
+        "@type": "Answer",
+        "description": "Closing involves contracts, due diligence, and fund transfers, with foreign nationals needing to understand FIRPTA implications."
+      }
+    }
+  ],
+  "description": "Closing involves contracts, due diligence, and fund transfers, with foreign nationals needing to understand FIRPTA implications."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/what-documents-do-i-need-to-prepare-to-buy-a-home-in-florida-as-a-foreign-nation",
+  "name": "What documents do I need to prepare to buy a home in Florida as a foreign national?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What documents do I need to prepare to buy a home in Florida as a foreign national?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "To buy a home in Florida, foreign nationals typically need to provide a valid passport, proof of funds for the down payment and closing costs, and international credit reports if available. Lenders may also request bank statements from your home country, income verification, and possibly a visa copy. Gathering these documents in advance can significantly streamline the pre-approval and purchasing process, ensuring you're ready when you find the right property.",
+        "@type": "Answer",
+        "description": "Prepare documents such as a valid passport, proof of funds, international credit reports, and income verification. Gathering these in advance streamlines the process."
+      }
+    }
+  ],
+  "description": "Prepare documents such as a valid passport, proof of funds, international credit reports, and income verification. Gathering these in advance streamlines the pr"
+}

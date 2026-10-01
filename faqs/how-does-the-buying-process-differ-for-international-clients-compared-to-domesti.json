@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/how-does-the-buying-process-differ-for-international-clients-compared-to-domesti",
+  "name": "How does the buying process differ for international clients compared to domestic buyers?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How does the buying process differ for international clients compared to domestic buyers?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "For international clients, the buying process typically involves additional considerations, particularly regarding legal and tax implications in the U.S. and their home country. While the core steps of property search, offer, and closing are similar, international buyers often require specific guidance on FIRPTA (Foreign Investment in Real Property Tax Act) and may need to secure an ITIN (Individual Taxpayer Identification Number). We provide assistance with these unique aspects, helping to navigate the complexities that can arise when purchasing luxury real estate in South Florida.",
+        "@type": "Answer",
+        "description": "International buyers face unique legal and tax considerations like FIRPTA and ITINs. The core buying process is similar, but specialized guidance is often needed."
+      }
+    }
+  ],
+  "description": "International buyers face unique legal and tax considerations like FIRPTA and ITINs. The core buying process is similar, but specialized guidance is often neede"
+}

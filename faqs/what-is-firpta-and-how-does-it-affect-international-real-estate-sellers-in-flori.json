@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/what-is-firpta-and-how-does-it-affect-international-real-estate-sellers-in-flori",
+  "name": "What is FIRPTA and how does it affect international real estate sellers in Florida?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is FIRPTA and how does it affect international real estate sellers in Florida?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "FIRPTA, the Foreign Investment in Real Property Tax Act, requires a buyer to withhold a percentage of the sale price (typically 15%) from a foreign seller and send it to the IRS. This is not an additional tax but an assurance that the foreign seller will pay any capital gains tax due. While this specifically applies to selling, an international buyer should be aware of this for future resale. It is essential to work with a title company experienced in these transactions.",
+        "@type": "Answer",
+        "description": "FIRPTA requires buyers to withhold a percentage of the sale price from foreign sellers for the IRS, ensuring capital gains tax payment. It's crucial for future resale considerations."
+      }
+    }
+  ],
+  "description": "FIRPTA requires buyers to withhold a percentage of the sale price from foreign sellers for the IRS, ensuring capital gains tax payment. It's crucial for future"
+}

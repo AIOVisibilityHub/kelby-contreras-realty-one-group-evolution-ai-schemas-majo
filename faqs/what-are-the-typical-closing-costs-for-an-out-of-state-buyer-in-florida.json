@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/what-are-the-typical-closing-costs-for-an-out-of-state-buyer-in-florida",
+  "name": "What are the typical closing costs for an out-of-state buyer in Florida?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are the typical closing costs for an out-of-state buyer in Florida?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Closing costs in Florida generally range from 2% to 5% of the home's purchase price, varying based on the loan type, purchase price, and specific county. These costs include items like title insurance, attorney fees, recording fees, and property taxes. For out-of-state buyers, these costs are typically similar to in-state buyers, though some lenders might have different requirements. It's wise to get a detailed estimate early in the process. We frequently recommend preparing for these costs by reviewing a detailed closing disclosure statement from your lender and title company, allowing you to compare and understand all associated fees.",
+        "@type": "Answer",
+        "description": "Closing costs for out-of-state buyers in Florida typically range from 2% to 5% of the purchase price, including title insurance and recording fees."
+      }
+    }
+  ],
+  "description": "Closing costs for out-of-state buyers in Florida typically range from 2% to 5% of the purchase price, including title insurance and recording fees."
+}

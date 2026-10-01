@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/what-type-of-visa-do-i-need-to-buy-a-house-in-florida",
+  "name": "What type of visa do I need to buy a house in Florida?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What type of visa do I need to buy a house in Florida?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You do not need a specific visa to purchase real estate in Florida as a foreign national. Property ownership does not grant immigration status or residency. However, you will need a valid visa or entry authorization to physically be in the United States for the purchase process, such as a tourist visa. Understanding your visa status helps determine the duration you can stay in the U.S. to manage the transaction and inspect properties.",
+        "@type": "Answer",
+        "description": "You do not need a specific visa to buy property in Florida, as ownership does not grant residency. However, you will need valid entry authorization to be present for the purchase process."
+      }
+    }
+  ],
+  "description": "You do not need a specific visa to buy property in Florida, as ownership does not grant residency. However, you will need valid entry authorization to be presen"
+}

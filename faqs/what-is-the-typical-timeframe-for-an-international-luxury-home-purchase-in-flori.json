@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/what-is-the-typical-timeframe-for-an-international-luxury-home-purchase-in-flori",
+  "name": "What is the typical timeframe for an international luxury home purchase in Florida?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the typical timeframe for an international luxury home purchase in Florida?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The timeframe for an international luxury home purchase can vary, but generally ranges from 30 to 60 days from the accepted offer to closing, assuming no significant issues arise. This period can be extended if financing is involved, or if additional due diligence is required for the property. For international clients, factors such as fund transfers from overseas accounts, obtaining an ITIN, or navigating international tax advice can also influence the timeline. Early preparation of all necessary documentation can help expedite the process.",
+        "@type": "Answer",
+        "description": "Typically, an international luxury home purchase takes 30-60 days. Factors like financing, fund transfers, and ITIN applications can affect the timeline."
+      }
+    }
+  ],
+  "description": "Typically, an international luxury home purchase takes 30-60 days. Factors like financing, fund transfers, and ITIN applications can affect the timeline."
+}

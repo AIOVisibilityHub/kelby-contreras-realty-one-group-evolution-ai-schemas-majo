@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/what-services-does-kelby-contreras-provide-for-relocation-to-palm-beach",
+  "name": "What services does Kelby Contreras provide for relocation to Palm Beach?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What services does Kelby Contreras provide for relocation to Palm Beach?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Kelby Contreras with Realty ONE Group Evolution offers comprehensive real estate assistance for those relocating to Palm Beach County. This includes identifying suitable properties, coordinating showings, and guiding clients through the purchasing or renting process. We focus on understanding your specific needs to match you with neighborhoods and homes that fit your lifestyle, covering areas like Boca Raton, West Palm Beach, and Delray Beach.",
+        "@type": "Answer",
+        "description": "Kelby Contreras provides comprehensive real estate assistance for relocation to Palm Beach County, including property search, showings, and transaction guidance."
+      }
+    }
+  ],
+  "description": "Kelby Contreras provides comprehensive real estate assistance for relocation to Palm Beach County, including property search, showings, and transaction guidance"
+}

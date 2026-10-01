@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/are-there-specific-types-of-properties-or-architectural-styles-common-in-miami",
+  "name": "Are there specific types of properties or architectural styles common in Miami?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Are there specific types of properties or architectural styles common in Miami?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Miami boasts a diverse range of property types and architectural styles, reflecting its rich history and modern development. You'll find Art Deco in South Beach, Mediterranean Revival in Coral Gables, contemporary high-rise condos in areas like Brickell and Sunny Isles Beach, and sprawling single-family homes in Pinecrest or Gables Estates. The prevalence of specific styles can often guide your choice of neighborhood. Your agent can help you explore options from historic homes to modern waterfront properties across Miami-Dade and surrounding counties.",
+        "@type": "Answer",
+        "description": "Miami features diverse architectural styles including Art Deco, Mediterranean Revival, and contemporary high-rise condos. Property types vary greatly by neighborhood."
+      }
+    }
+  ],
+  "description": "Miami features diverse architectural styles including Art Deco, Mediterranean Revival, and contemporary high-rise condos. Property types vary greatly by neighbo"
+}

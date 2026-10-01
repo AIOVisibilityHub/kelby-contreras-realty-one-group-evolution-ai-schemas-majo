@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/how-long-does-it-typically-take-to-close-on-a-vacation-home-in-florida",
+  "name": "How long does it typically take to close on a vacation home in Florida?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does it typically take to close on a vacation home in Florida?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The closing timeline for a Florida vacation home typically ranges from 30 to 60 days, though it can vary based on financing, inspection results, and the specifics of the transaction. Cash purchases can close faster, sometimes in as little as two weeks. Delays can occur due to mortgage processing, appraisal issues, or unexpected inspection findings. Keeping all required documents organized and responding promptly to requests from your lender and agent can help expedite the process.",
+        "@type": "Answer",
+        "description": "Closing on a Florida vacation home typically takes 30-60 days, but can be faster with cash or longer with financing or inspection issues. Prompt responses can help speed it up."
+      }
+    }
+  ],
+  "description": "Closing on a Florida vacation home typically takes 30-60 days, but can be faster with cash or longer with financing or inspection issues. Prompt responses can h"
+}

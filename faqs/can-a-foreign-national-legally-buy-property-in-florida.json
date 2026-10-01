@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/can-a-foreign-national-legally-buy-property-in-florida",
+  "name": "Can a foreign national legally buy property in Florida?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can a foreign national legally buy property in Florida?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, foreign nationals can legally buy and own property in Florida. There are generally no federal restrictions on foreign ownership of U.S. real estate. However, specific state laws, such as the recently enacted SB264 in Florida, may impose restrictions on individuals from certain countries regarding the purchase of agricultural land or properties near critical infrastructure. Understanding these specific regulations is a crucial first step in the home-buying process.",
+        "@type": "Answer",
+        "description": "Yes, foreign nationals can legally buy property in Florida, but state laws like SB264 may impose restrictions based on nationality or property type. It's important to understand these regulations before proceeding."
+      }
+    }
+  ],
+  "description": "Yes, foreign nationals can legally buy property in Florida, but state laws like SB264 may impose restrictions based on nationality or property type. It's import"
+}

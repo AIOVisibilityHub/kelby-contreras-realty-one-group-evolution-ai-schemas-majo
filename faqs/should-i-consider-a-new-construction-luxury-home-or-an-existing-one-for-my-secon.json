@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/should-i-consider-a-new-construction-luxury-home-or-an-existing-one-for-my-secon",
+  "name": "Should I consider a new construction luxury home or an existing one for my second home?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Should I consider a new construction luxury home or an existing one for my second home?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Deciding between new construction and an existing luxury home involves several tradeoffs. New construction offers modern designs, customizable features, and often comes with builder warranties, but may involve longer wait times and potential construction delays. Existing homes offer immediate occupancy, established landscaping, and a clearer sense of the neighborhood, though they might require renovations. Kelby Contreras can help you weigh these options against current market availability in areas like Doral's new developments versus established Brickell properties.",
+        "@type": "Answer",
+        "description": "New construction offers modern designs and warranties but may have delays; existing luxury homes provide immediate occupancy and established neighborhoods but might need renovations. Consider these tradeoffs based on your priorities."
+      }
+    }
+  ],
+  "description": "New construction offers modern designs and warranties but may have delays; existing luxury homes provide immediate occupancy and established neighborhoods but m"
+}

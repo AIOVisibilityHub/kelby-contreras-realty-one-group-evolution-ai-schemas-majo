@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/can-i-get-a-foreign-national-mortgage-for-a-property-in-miami-dade-county",
+  "name": "Can I get a foreign national mortgage for a property in Miami-Dade County?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I get a foreign national mortgage for a property in Miami-Dade County?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, securing a foreign national mortgage for a property in Miami-Dade County is possible, as South Florida is a popular market for international buyers. Lenders specializing in foreign nationals operate within this region. Your choice of property type and location within areas like Brickell, Miami Beach, or Coral Gables can influence lender offerings and requirements, making it important to discuss your specific property interests with a mortgage referral specialist.",
+        "@type": "Answer",
+        "description": "Yes, foreign national mortgages are available for properties in Miami-Dade County, a popular international market. Property type and location within areas like Brickell can influence lender terms."
+      }
+    }
+  ],
+  "description": "Yes, foreign national mortgages are available for properties in Miami-Dade County, a popular international market. Property type and location within areas like"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/can-i-get-a-mortgage-as-an-international-buyer-for-a-property-in-florida",
+  "name": "Can I get a mortgage as an international buyer for a property in Florida?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I get a mortgage as an international buyer for a property in Florida?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, international buyers can typically secure financing for properties in Florida, though the process differs from domestic loans. Foreign national mortgages often require larger down payments, sometimes 30-50%, and specific documentation regarding your financial stability in your home country. Lenders will also assess your creditworthiness based on international financial records. Kelby Contreras can guide you to lenders experienced with foreign national loans.",
+        "@type": "Answer",
+        "description": "Yes, international buyers can get mortgages, but expect larger down payments and specific financial documentation tailored for foreign nationals."
+      }
+    }
+  ],
+  "description": "Yes, international buyers can get mortgages, but expect larger down payments and specific financial documentation tailored for foreign nationals."
+}

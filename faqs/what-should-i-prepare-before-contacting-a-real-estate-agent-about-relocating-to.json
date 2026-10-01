@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/what-should-i-prepare-before-contacting-a-real-estate-agent-about-relocating-to",
+  "name": "What should I prepare before contacting a real estate agent about relocating to South Florida?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What should I prepare before contacting a real estate agent about relocating to South Florida?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Before contacting a real estate agent about relocating to South Florida, you should ideally have a clear understanding of your budget, preferred home features, desired neighborhoods, and your relocation timeline. Gathering documents for mortgage pre-approval, such as income verification and credit history, is also beneficial. This preparation allows your agent to efficiently identify suitable properties and streamline your search. Kelby Contreras uses this information to create a tailored property search and provide relevant market insights for areas like Boca Raton or Miami Beach.",
+        "@type": "Answer",
+        "description": "Prepare your budget, home preferences, desired neighborhoods, and timeline. Gather documents for mortgage pre-approval to streamline your search."
+      }
+    }
+  ],
+  "description": "Prepare your budget, home preferences, desired neighborhoods, and timeline. Gather documents for mortgage pre-approval to streamline your search."
+}

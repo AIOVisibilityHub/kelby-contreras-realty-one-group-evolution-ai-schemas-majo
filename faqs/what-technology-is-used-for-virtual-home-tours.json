@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/what-technology-is-used-for-virtual-home-tours",
+  "name": "What technology is used for virtual home tours?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What technology is used for virtual home tours?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Virtual home tours commonly use 3D walkthroughs, live video calls with an agent, and high-quality photo galleries. Platforms like Matterport create immersive 3D models, allowing you to navigate a property as if you were there. Our agents can conduct personalized video tours through platforms like Zoom or FaceTime, providing real-time commentary and answering your questions as they walk through homes in locations such as Palm Beach or Orange County.",
+        "@type": "Answer",
+        "description": "Technology for virtual tours includes 3D walkthroughs (e.g., Matterport), live video calls with an agent, and extensive photo galleries for remote property viewing."
+      }
+    }
+  ],
+  "description": "Technology for virtual tours includes 3D walkthroughs (e.g., Matterport), live video calls with an agent, and extensive photo galleries for remote property view"
+}

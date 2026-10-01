@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/what-is-considered-a-second-home-for-financing-purposes",
+  "name": "What is considered a second home for financing purposes?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is considered a second home for financing purposes?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A second home is typically a property you intend to occupy for a portion of the year, distinct from your primary residence, and is often located in a vacation area or close to a secondary employment hub. For financing, lenders generally require the property to be a reasonable distance from your primary residence, not rented out on a long-term basis, and available for your personal use. Understanding these criteria is crucial, as financing options for second homes often differ from those for investment properties or primary residences, impacting interest rates and down payment requirements.",
+        "@type": "Answer",
+        "description": "A second home is a property you occupy for part of the year, distinct from your primary residence, usually in a vacation or secondary employment area."
+      }
+    }
+  ],
+  "description": "A second home is a property you occupy for part of the year, distinct from your primary residence, usually in a vacation or secondary employment area."
+}

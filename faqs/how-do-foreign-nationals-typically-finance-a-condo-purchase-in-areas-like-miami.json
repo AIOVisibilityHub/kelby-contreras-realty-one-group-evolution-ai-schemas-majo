@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/how-do-foreign-nationals-typically-finance-a-condo-purchase-in-areas-like-miami",
+  "name": "How do foreign nationals typically finance a condo purchase in areas like Miami or Fort Lauderdale?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do foreign nationals typically finance a condo purchase in areas like Miami or Fort Lauderdale?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Foreign nationals often use cash or secure a mortgage from a U.S. lender. While cash purchases simplify the transaction, many prefer financing. Lenders specializing in foreign national loans are available, though they usually require a higher down payment, sometimes 30-40% or more, and a strong financial history. Discussing your specific financial situation with a knowledgeable real estate agent can help identify suitable lending options.",
+        "@type": "Answer",
+        "description": "Financing typically involves cash or a U.S. mortgage, often requiring a higher down payment for foreign nationals."
+      }
+    }
+  ],
+  "description": "Financing typically involves cash or a U.S. mortgage, often requiring a higher down payment for foreign nationals."
+}

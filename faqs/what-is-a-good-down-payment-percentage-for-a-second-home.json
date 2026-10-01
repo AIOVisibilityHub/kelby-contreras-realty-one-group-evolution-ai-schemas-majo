@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/what-is-a-good-down-payment-percentage-for-a-second-home",
+  "name": "What is a good down payment percentage for a second home?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is a good down payment percentage for a second home?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A good down payment for a second home typically ranges from 10% to 20%, though some lenders may require more. A higher down payment can reduce your monthly mortgage payments, lower your interest rate, and potentially allow you to avoid private mortgage insurance (PMI), although PMI is less common on second homes. It also demonstrates stronger financial standing to lenders. The ideal percentage depends on your financial comfort level, the lender's requirements, and current market conditions. We advise discussing your financial situation with a mortgage professional to determine the optimal down payment strategy for your specific purchase.",
+        "@type": "Answer",
+        "description": "A good down payment for a second home is usually 10-20%; a higher amount can reduce payments and potentially avoid PMI."
+      }
+    }
+  ],
+  "description": "A good down payment for a second home is usually 10-20%; a higher amount can reduce payments and potentially avoid PMI."
+}

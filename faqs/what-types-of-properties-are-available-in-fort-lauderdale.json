@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/what-types-of-properties-are-available-in-fort-lauderdale",
+  "name": "What types of properties are available in Fort Lauderdale?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What types of properties are available in Fort Lauderdale?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Fort Lauderdale offers a diverse range of properties, including waterfront homes with direct ocean or Intracoastal access, luxury condominiums, single-family houses, and townhouses. From historic homes in neighborhoods like Victoria Park to modern high-rises along Fort Lauderdale Beach, there's a wide variety to suit different preferences and budgets. Our agency covers all of Broward County, providing expertise across these various property types. Understanding your priorities regarding space, amenities, and location will help narrow down the best options available for you.",
+        "@type": "Answer",
+        "description": "Fort Lauderdale has diverse properties including waterfront homes, condos, single-family houses, and townhouses, across neighborhoods like Victoria Park."
+      }
+    }
+  ],
+  "description": "Fort Lauderdale has diverse properties including waterfront homes, condos, single-family houses, and townhouses, across neighborhoods like Victoria Park."
+}

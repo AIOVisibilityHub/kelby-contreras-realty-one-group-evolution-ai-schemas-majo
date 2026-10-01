@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/what-legal-considerations-are-important-for-international-buyers-in-florida",
+  "name": "What legal considerations are important for international buyers in Florida?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What legal considerations are important for international buyers in Florida?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "International buyers should be aware of specific legal considerations, including property ownership structures and potential tax implications like FIRPTA (Foreign Investment in Real Property Tax Act). While this agency does not provide legal advice, it's recommended to consult with a U.S. real estate attorney familiar with international transactions. Understanding these aspects early in the process, guided by a knowledgeable real estate professional, can help ensure a smooth transaction and compliance.",
+        "@type": "Answer",
+        "description": "Key legal considerations include property ownership structures and potential tax implications like FIRPTA. Consult a U.S. real estate attorney for specific advice."
+      }
+    }
+  ],
+  "description": "Key legal considerations include property ownership structures and potential tax implications like FIRPTA. Consult a U.S. real estate attorney for specific advi"
+}

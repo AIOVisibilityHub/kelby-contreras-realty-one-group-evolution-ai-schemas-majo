@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/what-kind-of-property-taxes-can-i-expect-to-pay-in-fort-lauderdale",
+  "name": "What kind of property taxes can I expect to pay in Fort Lauderdale?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What kind of property taxes can I expect to pay in Fort Lauderdale?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Property taxes in Fort Lauderdale, like the rest of Broward County, are determined by the assessed value of the property and the millage rates set by various taxing authorities, including the county, city, and school board. These rates can change annually, and homestead exemptions may offer savings for primary residents. It's important to factor these taxes into your overall budget, as they are a recurring cost. We can provide estimates based on specific property addresses, but recommend consulting the Broward County Property Appraiser's office for the most accurate current figures.",
+        "@type": "Answer",
+        "description": "Fort Lauderdale property taxes are based on assessed value and millage rates, which can change annually. Homestead exemptions may apply."
+      }
+    }
+  ],
+  "description": "Fort Lauderdale property taxes are based on assessed value and millage rates, which can change annually. Homestead exemptions may apply."
+}

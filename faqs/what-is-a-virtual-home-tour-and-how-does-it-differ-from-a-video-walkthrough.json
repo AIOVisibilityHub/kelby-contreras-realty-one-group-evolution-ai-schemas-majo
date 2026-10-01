@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/what-is-a-virtual-home-tour-and-how-does-it-differ-from-a-video-walkthrough",
+  "name": "What is a virtual home tour and how does it differ from a video walkthrough?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is a virtual home tour and how does it differ from a video walkthrough?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A virtual home tour typically refers to an interactive 3D experience, often created using Matterport or similar technology, allowing you to virtually 'walk through' a property at your own pace and explore different angles. This differs from a simple video walkthrough, which is a pre-recorded, linear video where the path and perspective are controlled by the videographer. Virtual tours offer a more immersive and self-directed viewing experience, enabling potential buyers to explore specific details they care about most. Consider a virtual tour if you want to intimately understand the layout and flow before an in-person visit.",
+        "@type": "Answer",
+        "description": "A virtual home tour is an interactive 3D experience allowing self-paced exploration, unlike a linear pre-recorded video walkthrough."
+      }
+    }
+  ],
+  "description": "A virtual home tour is an interactive 3D experience allowing self-paced exploration, unlike a linear pre-recorded video walkthrough."
+}

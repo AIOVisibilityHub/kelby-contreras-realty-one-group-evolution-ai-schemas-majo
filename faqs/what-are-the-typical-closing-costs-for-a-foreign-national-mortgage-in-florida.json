@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/what-are-the-typical-closing-costs-for-a-foreign-national-mortgage-in-florida",
+  "name": "What are the typical closing costs for a foreign national mortgage in Florida?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are the typical closing costs for a foreign national mortgage in Florida?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Closing costs for a foreign national mortgage in Florida are similar to those for domestic buyers but can sometimes be slightly higher due to additional processing. These costs typically range from 2% to 5% of the loan amount and include items like title insurance, attorney fees, appraisal fees, and loan origination fees. You should factor these into your overall budget, and your real estate agent can help estimate these expenses early in the buying process.",
+        "@type": "Answer",
+        "description": "Closing costs for foreign national mortgages in Florida are usually 2-5% of the loan amount, covering items like title insurance and appraisal fees. Budgeting for these additional expenses is essential."
+      }
+    }
+  ],
+  "description": "Closing costs for foreign national mortgages in Florida are usually 2-5% of the loan amount, covering items like title insurance and appraisal fees. Budgeting f"
+}

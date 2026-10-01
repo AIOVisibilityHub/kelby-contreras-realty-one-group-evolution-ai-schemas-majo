@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/what-is-the-typical-timeline-for-purchasing-a-second-home",
+  "name": "What is the typical timeline for purchasing a second home?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the typical timeline for purchasing a second home?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The timeline for purchasing a second home typically ranges from 30 to 60 days, similar to a primary residence, once an offer is accepted. However, this can vary based on factors such as mortgage approval speed, the complexity of inspections, and title work. Cash purchases can close much faster, often within 2-4 weeks. Being pre-approved for financing and having all necessary documentation ready can significantly expedite the process. We work closely with our clients and their lenders to ensure a smooth and efficient closing process for their South Florida second home.",
+        "@type": "Answer",
+        "description": "The timeline is typically 30 to 60 days for financed purchases, but can be faster with cash or pre-approval."
+      }
+    }
+  ],
+  "description": "The timeline is typically 30 to 60 days for financed purchases, but can be faster with cash or pre-approval."
+}

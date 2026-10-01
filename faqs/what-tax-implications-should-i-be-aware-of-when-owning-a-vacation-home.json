@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/what-tax-implications-should-i-be-aware-of-when-owning-a-vacation-home",
+  "name": "What tax implications should I be aware of when owning a vacation home?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What tax implications should I be aware of when owning a vacation home?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Owning a vacation home can have various tax implications, including property taxes, potential deductions for mortgage interest and property taxes, and capital gains tax upon sale. If you rent out the property, rental income and expenses will also affect your tax situation. The specific tax rules depend on how much you use the property personally versus renting it out. For example, if you rent out your property in Miami Beach for more than 14 days a year, specific IRS rules regarding rental income and deductions will apply. It's always advisable to consult with a tax professional to understand your individual tax obligations and opportunities.",
+        "@type": "Answer",
+        "description": "Tax implications include property taxes, potential deductions, and capital gains. Rental use also impacts your tax situation, so consult a tax professional."
+      }
+    }
+  ],
+  "description": "Tax implications include property taxes, potential deductions, and capital gains. Rental use also impacts your tax situation, so consult a tax professional."
+}

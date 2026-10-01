@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/what-are-the-typical-costs-associated-with-executive-relocation",
+  "name": "What are the typical costs associated with executive relocation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are the typical costs associated with executive relocation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Costs for executive relocation are highly variable and depend on the scope of services required, distance of the move, and the real estate market. These can include packing and moving expenses, temporary housing, real estate commissions, legal fees, and potential tax implications. Understanding these costs upfront is crucial for budgeting. Kelby Contreras helps clients understand the real estate market nuances in areas like Miami, Fort Lauderdale, and Palm Beach, including typical closing costs and commission structures, which are significant components of overall relocation expenses.",
+        "@type": "Answer",
+        "description": "Executive relocation costs vary based on services, distance, and market. They can include moving, housing, commissions, and legal fees."
+      }
+    }
+  ],
+  "description": "Executive relocation costs vary based on services, distance, and market. They can include moving, housing, commissions, and legal fees."
+}

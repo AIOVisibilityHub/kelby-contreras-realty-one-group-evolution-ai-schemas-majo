@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/how-do-i-research-schools-and-educational-options-when-moving-to-palm-beach",
+  "name": "How do I research schools and educational options when moving to Palm Beach?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do I research schools and educational options when moving to Palm Beach?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "To research schools in Palm Beach, you can start by exploring the Palm Beach County School District's website for public school information, including district boundaries, school ratings, and academic programs. Additionally, look into private school options if applicable. When making your decision, consider factors beyond test scores, such as school culture, extracurricular activities, and parent reviews, which can offer a more complete picture of the educational environment. An important preparation step is to visit prospective schools and speak with administrators or other parents if possible to gather firsthand insights.",
+        "@type": "Answer",
+        "description": "Research Palm Beach County School District's website for public schools and explore private options, considering school culture and programs."
+      }
+    }
+  ],
+  "description": "Research Palm Beach County School District's website for public schools and explore private options, considering school culture and programs."
+}

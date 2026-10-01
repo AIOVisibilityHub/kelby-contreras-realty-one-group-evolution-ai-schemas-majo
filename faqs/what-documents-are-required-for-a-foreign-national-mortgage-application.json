@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/what-documents-are-required-for-a-foreign-national-mortgage-application",
+  "name": "What documents are required for a foreign national mortgage application?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What documents are required for a foreign national mortgage application?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Applicants typically need to provide a valid passport, visa, proof of income from their home country, and international credit reports if available. Bank statements from both U.S. and foreign accounts, along with proof of funds for the down payment and reserves, are also essential. Gathering all financial documentation, including income verification translated into English, is a critical preparation step to ensure a smooth application process.",
+        "@type": "Answer",
+        "description": "Required documents often include a passport, visa, international income proof, bank statements, and proof of funds. Preparing translated financial documents is key for the application."
+      }
+    }
+  ],
+  "description": "Required documents often include a passport, visa, international income proof, bank statements, and proof of funds. Preparing translated financial documents is"
+}

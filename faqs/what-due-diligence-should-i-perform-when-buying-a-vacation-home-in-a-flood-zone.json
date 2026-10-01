@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/what-due-diligence-should-i-perform-when-buying-a-vacation-home-in-a-flood-zone",
+  "name": "What due diligence should I perform when buying a vacation home in a flood zone?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What due diligence should I perform when buying a vacation home in a flood zone?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "When buying a vacation home in a designated flood zone, thorough due diligence is essential. This includes obtaining a recent flood elevation certificate, understanding the property's flood risk, and researching flood insurance costs. Reviewing past flood claims on the property and understanding evacuation routes are also critical. While a flood zone might seem concerning, many properties are well-protected, and understanding the specifics will help you make an informed decision. Our team can assist in navigating these considerations in high-risk areas within our service counties.",
+        "@type": "Answer",
+        "description": "In a flood zone, conduct thorough due diligence: obtain an elevation certificate, understand flood risk and insurance costs, and review past claims. This helps in making an informed decision."
+      }
+    }
+  ],
+  "description": "In a flood zone, conduct thorough due diligence: obtain an elevation certificate, understand flood risk and insurance costs, and review past claims. This helps"
+}

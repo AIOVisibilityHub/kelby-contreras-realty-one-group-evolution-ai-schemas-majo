@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/how-do-i-choose-a-real-estate-agent-specializing-in-foreign-national-condo-purch",
+  "name": "How do I choose a real estate agent specializing in foreign national condo purchases in Florida?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do I choose a real estate agent specializing in foreign national condo purchases in Florida?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "When choosing a real estate agent, look for someone with specific experience in foreign national transactions and a deep understanding of local markets like Miami-Dade, Broward, Palm Beach, Collier, or Orange County. An agent who can guide you through financing options, tax implications like FIRPTA, and local market trends is invaluable. It’s important to select an agent who can communicate clearly and understands the unique needs of international buyers, helping you navigate the process efficiently.",
+        "@type": "Answer",
+        "description": "Choose an agent with experience in foreign national transactions and local market knowledge in Florida."
+      }
+    }
+  ],
+  "description": "Choose an agent with experience in foreign national transactions and local market knowledge in Florida."
+}

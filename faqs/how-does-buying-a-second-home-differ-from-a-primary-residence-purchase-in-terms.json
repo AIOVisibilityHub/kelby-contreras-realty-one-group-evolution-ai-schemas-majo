@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/how-does-buying-a-second-home-differ-from-a-primary-residence-purchase-in-terms",
+  "name": "How does buying a second home differ from a primary residence purchase in terms of financing?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How does buying a second home differ from a primary residence purchase in terms of financing?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Financing a second home often involves stricter lending criteria compared to a primary residence. Lenders typically require a larger down payment, often 20% or more, and a higher credit score. Interest rates can also be slightly higher, and you'll need to demonstrate sufficient reserves to cover both mortgage payments. Before beginning your search, understanding these financial requirements will help narrow down suitable properties and ensure a smoother approval process.",
+        "@type": "Answer",
+        "description": "Financing for a second home usually requires a larger down payment, higher credit score, and more stringent lending criteria than a primary residence. Interest rates may also be slightly higher."
+      }
+    }
+  ],
+  "description": "Financing for a second home usually requires a larger down payment, higher credit score, and more stringent lending criteria than a primary residence. Interest"
+}

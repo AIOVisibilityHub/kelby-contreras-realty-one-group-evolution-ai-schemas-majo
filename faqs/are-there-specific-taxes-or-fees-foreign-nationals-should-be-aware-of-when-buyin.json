@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/are-there-specific-taxes-or-fees-foreign-nationals-should-be-aware-of-when-buyin",
+  "name": "Are there specific taxes or fees foreign nationals should be aware of when buying a condo in Florida?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Are there specific taxes or fees foreign nationals should be aware of when buying a condo in Florida?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Foreign nationals are subject to standard Florida property taxes and closing costs. Additionally, while buying, there are no specific national taxes beyond those for U.S. buyers. However, the Foreign Investment in Real Property Tax Act (FIRPTA) is critical to understand if you eventually sell the property, as it mandates a tax withholding on the sale price. Consulting with a tax professional specializing in international real estate is advisable to understand your full tax obligations.",
+        "@type": "Answer",
+        "description": "Foreign nationals pay standard property taxes and closing costs in Florida, but should be aware of FIRPTA for future sales."
+      }
+    }
+  ],
+  "description": "Foreign nationals pay standard property taxes and closing costs in Florida, but should be aware of FIRPTA for future sales."
+}

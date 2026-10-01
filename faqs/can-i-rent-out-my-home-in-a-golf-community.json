@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/can-i-rent-out-my-home-in-a-golf-community",
+  "name": "Can I rent out my home in a golf community?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I rent out my home in a golf community?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Renting out a home in a golf community is subject to the specific rules and regulations of the community's Homeowners Association (HOA). Many golf communities have strict rental policies, including minimum lease terms (e.g., 6 months or 1 year), limits on the number of rentals, and requirements for tenant approval. Some communities may prohibit rentals entirely or charge additional fees. Understanding these rental restrictions is a critical decision factor if you plan to use the property as an investment or for seasonal income, as they can significantly impact your ability to generate rental revenue.",
+        "@type": "Answer",
+        "description": "Renting in a golf community is governed by HOA rules, which may include minimum lease terms, rental limits, or prohibitions. These restrictions are a key factor for potential investors."
+      }
+    }
+  ],
+  "description": "Renting in a golf community is governed by HOA rules, which may include minimum lease terms, rental limits, or prohibitions. These restrictions are a key factor"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/what-is-firpta-and-how-does-it-affect-foreign-national-property-owners-in-florid",
+  "name": "What is FIRPTA and how does it affect foreign national property owners in Florida?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is FIRPTA and how does it affect foreign national property owners in Florida?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "FIRPTA, the Foreign Investment in Real Property Tax Act, requires foreign sellers of U.S. real property interests to have income tax withheld from the sale proceeds. If you decide to sell your property in Florida in the future, a portion of the sale price (currently 15% for residential properties) will be withheld by the IRS unless an exemption applies. This withholding acts as an estimated income tax, which you can later adjust when filing your U.S. tax return. Understanding FIRPTA is an important consideration for future financial planning.",
+        "@type": "Answer",
+        "description": "FIRPTA requires foreign sellers of U.S. real estate to have 15% of the sale price withheld as estimated income tax, affecting future property sales."
+      }
+    }
+  ],
+  "description": "FIRPTA requires foreign sellers of U.S. real estate to have 15% of the sale price withheld as estimated income tax, affecting future property sales."
+}

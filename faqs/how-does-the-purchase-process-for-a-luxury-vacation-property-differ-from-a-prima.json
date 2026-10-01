@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/how-does-the-purchase-process-for-a-luxury-vacation-property-differ-from-a-prima",
+  "name": "How does the purchase process for a luxury vacation property differ from a primary residence?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How does the purchase process for a luxury vacation property differ from a primary residence?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The purchase process for a luxury vacation property often involves a more specialized search for unique features, a deeper financial review due to higher price points, and potentially different tax implications. Due diligence may include assessing short-term rental regulations, which vary by municipality in South Florida. We assist with navigating these complexities, including connecting you with legal and tax professionals who understand the nuances of high-value, non-primary residence transactions in areas like Miami-Dade and Palm Beach Counties.",
+        "@type": "Answer",
+        "description": "The luxury vacation property purchase process involves specialized searches, deeper financial review, and attention to rental regulations."
+      }
+    }
+  ],
+  "description": "The luxury vacation property purchase process involves specialized searches, deeper financial review, and attention to rental regulations."
+}

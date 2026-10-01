@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/how-much-down-payment-is-typically-required-for-foreign-national-home-buyers-in",
+  "name": "How much down payment is typically required for foreign national home buyers in Florida?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How much down payment is typically required for foreign national home buyers in Florida?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Foreign national buyers often face higher down payment requirements compared to U.S. citizens. Lenders typically require a minimum of 20% to 30% down payment, and sometimes more, especially if you do not have a credit history in the U.S. The exact percentage can vary based on the lender, loan program, and your financial profile. Preparing for a larger down payment is a practical tradeoff that can simplify securing financing for your Florida property.",
+        "@type": "Answer",
+        "description": "Foreign national buyers typically need a higher down payment, often 20% to 30% or more, depending on the lender and financial profile."
+      }
+    }
+  ],
+  "description": "Foreign national buyers typically need a higher down payment, often 20% to 30% or more, depending on the lender and financial profile."
+}

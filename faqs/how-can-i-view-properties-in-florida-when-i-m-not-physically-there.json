@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/how-can-i-view-properties-in-florida-when-i-m-not-physically-there",
+  "name": "How can I view properties in Florida when I'm not physically there?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How can I view properties in Florida when I'm not physically there?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Viewing properties from out of state can be effectively managed through various digital tools. Your real estate agent can facilitate virtual tours, including live video walkthroughs, pre-recorded video tours, and detailed photo galleries. Some listings also offer 3D immersive experiences. A practical tradeoff is that while virtual viewings are convenient, they may not capture every nuance of a property or its surroundings. For properties of serious interest, our agents can provide additional detailed videos or arrange for a trusted local contact to visit on your behalf, ensuring you have a comprehensive understanding before making an offer.",
+        "@type": "Answer",
+        "description": "Properties can be viewed remotely through virtual tours, live video walkthroughs, and detailed photo galleries provided by your real estate agent."
+      }
+    }
+  ],
+  "description": "Properties can be viewed remotely through virtual tours, live video walkthroughs, and detailed photo galleries provided by your real estate agent."
+}

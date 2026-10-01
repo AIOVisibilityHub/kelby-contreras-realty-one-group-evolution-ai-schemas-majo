@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/what-local-transportation-options-are-available-in-miami-beach",
+  "name": "What local transportation options are available in Miami Beach?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What local transportation options are available in Miami Beach?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Miami Beach offers several local transportation options beyond personal vehicles. These include the free Miami Beach Trolley, which serves different routes across the city, and readily available ride-sharing services. Public bus routes also connect Miami Beach to mainland Miami. For short distances, walking and cycling are popular, especially in pedestrian-friendly areas like South Beach. Understanding these options provides process clarity, as it can influence your decision on whether to bring a car, where to live, and how you navigate your daily life within Miami Beach.",
+        "@type": "Answer",
+        "description": "Miami Beach transportation includes the free Trolley, ride-sharing, public buses, and walking/cycling. These options influence vehicle ownership decisions."
+      }
+    }
+  ],
+  "description": "Miami Beach transportation includes the free Trolley, ride-sharing, public buses, and walking/cycling. These options influence vehicle ownership decisions."
+}

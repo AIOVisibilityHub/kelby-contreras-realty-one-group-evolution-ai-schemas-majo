@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/what-credit-history-is-needed-for-a-foreign-national-mortgage",
+  "name": "What credit history is needed for a foreign national mortgage?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What credit history is needed for a foreign national mortgage?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Many foreign national mortgage programs do not require a U.S. credit history. Instead, lenders may evaluate your financial stability based on your international credit report, banking relationships, and proof of assets from your home country. Some programs might accept alternative forms of credit, such as rental payment history or utility bill payments. Understanding that a lack of U.S. credit is not a barrier is important for potential buyers.",
+        "@type": "Answer",
+        "description": "A U.S. credit history is often not required for foreign national mortgages; lenders may use international credit or alternative financial stability proofs instead. No U.S. credit is not a barrier."
+      }
+    }
+  ],
+  "description": "A U.S. credit history is often not required for foreign national mortgages; lenders may use international credit or alternative financial stability proofs inste"
+}

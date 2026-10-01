@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/what-is-the-typical-deposit-required-for-a-home-purchase-in-south-florida-and-ho",
+  "name": "What is the typical deposit required for a home purchase in South Florida, and how does it vary?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the typical deposit required for a home purchase in South Florida, and how does it vary?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The typical deposit (earnest money) for a home purchase in South Florida generally ranges from 1% to 10% of the purchase price, but this can vary based on market conditions, property type, and seller expectations. In competitive markets, a higher deposit might strengthen your offer. For cash buyers, a significant deposit can signal strong commitment. It's important to understand that this deposit becomes part of your down payment at closing. Kelby Contreras advises clients on appropriate deposit amounts based on current market trends and the specifics of their desired property to ensure a competitive offer.",
+        "@type": "Answer",
+        "description": "Home purchase deposits typically range from 1% to 10% of the price, varying by market and property. A higher deposit can strengthen an offer."
+      }
+    }
+  ],
+  "description": "Home purchase deposits typically range from 1% to 10% of the price, varying by market and property. A higher deposit can strengthen an offer."
+}

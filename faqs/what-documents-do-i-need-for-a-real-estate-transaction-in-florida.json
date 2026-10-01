@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/what-documents-do-i-need-for-a-real-estate-transaction-in-florida",
+  "name": "What documents do I need for a real estate transaction in Florida?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What documents do I need for a real estate transaction in Florida?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "For a real estate transaction in Florida, you will typically need identification, proof of funds or mortgage pre-approval letters, and often tax returns or pay stubs for financial verification. If selling, you will need your property deed and any existing surveys. Buyers should also prepare to provide information for title insurance. A crucial preparation step is to organize these documents well in advance of making an offer or closing, as delays in providing them can impact transaction timelines.",
+        "@type": "Answer",
+        "description": "For Florida real estate, prepare identification, proof of funds or mortgage pre-approval, and financial verification documents. Organize these in advance to prevent transaction delays."
+      }
+    }
+  ],
+  "description": "For Florida real estate, prepare identification, proof of funds or mortgage pre-approval, and financial verification documents. Organize these in advance to pre"
+}

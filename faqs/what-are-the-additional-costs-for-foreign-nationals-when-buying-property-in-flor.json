@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/what-are-the-additional-costs-for-foreign-nationals-when-buying-property-in-flor",
+  "name": "What are the additional costs for foreign nationals when buying property in Florida?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are the additional costs for foreign nationals when buying property in Florida?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Beyond standard closing costs, foreign nationals may incur additional expenses such as higher mortgage interest rates due to increased perceived risk, and potential currency exchange fees if transferring funds from abroad. If you plan to rent out the property, be aware of tax implications such as FIRPTA withholding. Understanding these potential additional costs is crucial for accurate financial planning when purchasing property in Florida.",
+        "@type": "Answer",
+        "description": "Foreign nationals may face higher mortgage interest rates, currency exchange fees, and potential tax implications like FIRPTA if renting out the property."
+      }
+    }
+  ],
+  "description": "Foreign nationals may face higher mortgage interest rates, currency exchange fees, and potential tax implications like FIRPTA if renting out the property."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/what-services-do-you-offer-for-international-home-buyers",
+  "name": "What services do you offer for international home buyers?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What services do you offer for international home buyers?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "We assist international buyers with every stage of the home purchase process in Florida, from initial property search to closing. This includes understanding local market conditions, navigating financing options specific to non-residents, and connecting clients with necessary professionals like immigration attorneys or tax advisors. Our local market expertise across Miami-Dade, Broward, Palm Beach, Collier, and Orange Counties helps tailor property selections to individual needs and investment goals.",
+        "@type": "Answer",
+        "description": "We offer comprehensive services for international home buyers in Florida, including property search, financing guidance, and connecting with legal and tax professionals."
+      }
+    }
+  ],
+  "description": "We offer comprehensive services for international home buyers in Florida, including property search, financing guidance, and connecting with legal and tax profe"
+}

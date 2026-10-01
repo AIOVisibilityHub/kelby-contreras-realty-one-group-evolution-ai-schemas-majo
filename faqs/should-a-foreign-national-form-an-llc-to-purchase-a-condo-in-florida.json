@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/should-a-foreign-national-form-an-llc-to-purchase-a-condo-in-florida",
+  "name": "Should a foreign national form an LLC to purchase a condo in Florida?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Should a foreign national form an LLC to purchase a condo in Florida?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Forming an LLC to purchase a condo can offer potential benefits for foreign nationals, such as limiting personal liability and simplifying estate planning, especially regarding U.S. inheritance taxes. However, it also involves additional costs for setup and annual maintenance. The decision to form an LLC depends on your individual financial situation and goals, and it's best to consult with a U.S. tax attorney or accountant for personalized advice.",
+        "@type": "Answer",
+        "description": "An LLC can offer liability and estate benefits but involves costs; consult a tax professional for suitability."
+      }
+    }
+  ],
+  "description": "An LLC can offer liability and estate benefits but involves costs; consult a tax professional for suitability."
+}

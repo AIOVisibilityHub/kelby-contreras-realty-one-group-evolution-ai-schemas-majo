@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/do-i-need-to-visit-florida-for-the-closing-process-if-i-m-buying-from-out-of-sta",
+  "name": "Do I need to visit Florida for the closing process if I'm buying from out of state?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do I need to visit Florida for the closing process if I'm buying from out of state?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "While it's not strictly necessary to be physically present in Florida for closing, it is an option. Many out-of-state buyers choose to execute closing documents remotely through mail or electronic signing platforms. A power of attorney can also be granted to a trusted individual or your attorney. The decision factor often hinges on your comfort level with remote transactions versus the desire to be physically present. Our team works with reputable title companies and attorneys who are experienced in facilitating smooth remote closings, ensuring all legal requirements are met without you needing to travel.",
+        "@type": "Answer",
+        "description": "No, you don't typically need to visit Florida for closing. Documents can be signed remotely or via power of attorney."
+      }
+    }
+  ],
+  "description": "No, you don't typically need to visit Florida for closing. Documents can be signed remotely or via power of attorney."
+}

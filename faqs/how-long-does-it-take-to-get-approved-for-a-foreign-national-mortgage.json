@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/how-long-does-it-take-to-get-approved-for-a-foreign-national-mortgage",
+  "name": "How long does it take to get approved for a foreign national mortgage?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does it take to get approved for a foreign national mortgage?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The approval timeline for a foreign national mortgage can vary but typically ranges from 30 to 60 days, sometimes longer depending on the complexity of your financial profile and documentation. Providing all requested documents promptly and accurately can significantly expedite the process. Ensuring all international financial documents are translated and notarized beforehand is a key preparation step to avoid delays.",
+        "@type": "Answer",
+        "description": "Approval for a foreign national mortgage usually takes 30-60 days or more. Providing all documents accurately and promptly, especially translated international financials, helps speed up the process."
+      }
+    }
+  ],
+  "description": "Approval for a foreign national mortgage usually takes 30-60 days or more. Providing all documents accurately and promptly, especially translated international"
+}

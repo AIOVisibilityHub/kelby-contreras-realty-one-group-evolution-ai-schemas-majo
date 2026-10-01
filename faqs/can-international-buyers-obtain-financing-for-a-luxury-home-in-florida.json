@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/can-international-buyers-obtain-financing-for-a-luxury-home-in-florida",
+  "name": "Can international buyers obtain financing for a luxury home in Florida?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can international buyers obtain financing for a luxury home in Florida?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, international buyers can often obtain financing, though the requirements may differ from those for domestic buyers. Many U.S. lenders offer specific mortgage products for non-U.S. citizens, typically requiring a larger down payment (e.g., 30-50%) and a demonstrated financial history from their home country. The ability to secure favorable terms can depend on factors like your financial standing and the property's location. We can connect you with lenders experienced in international luxury real estate transactions in areas like Fort Lauderdale or Palm Beach.",
+        "@type": "Answer",
+        "description": "Yes, international buyers can get financing, often with larger down payments. Lenders specialize in these loans, and we can assist with connections."
+      }
+    }
+  ],
+  "description": "Yes, international buyers can get financing, often with larger down payments. Lenders specialize in these loans, and we can assist with connections."
+}

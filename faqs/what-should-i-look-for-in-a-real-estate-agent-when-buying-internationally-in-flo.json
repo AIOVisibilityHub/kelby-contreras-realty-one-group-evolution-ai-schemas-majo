@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/what-should-i-look-for-in-a-real-estate-agent-when-buying-internationally-in-flo",
+  "name": "What should I look for in a real estate agent when buying internationally in Florida?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What should I look for in a real estate agent when buying internationally in Florida?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "When choosing a real estate agent for an international purchase in Florida, look for someone with experience assisting foreign national clients. They should understand the unique financing options, legal considerations, and market nuances relevant to different areas in Florida, such as the distinct markets of Miami-Dade vs. Collier County. An agent like Kelby Contreras, with expertise across diverse South and Central Florida markets, can provide valuable local insight and streamline your buying journey.",
+        "@type": "Answer",
+        "description": "Seek an agent experienced with foreign national clients, understanding unique financing, legal aspects, and local market nuances across Florida regions."
+      }
+    }
+  ],
+  "description": "Seek an agent experienced with foreign national clients, understanding unique financing, legal aspects, and local market nuances across Florida regions."
+}

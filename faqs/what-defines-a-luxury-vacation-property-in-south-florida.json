@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/what-defines-a-luxury-vacation-property-in-south-florida",
+  "name": "What defines a 'luxury' vacation property in South Florida?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What defines a 'luxury' vacation property in South Florida?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Luxury vacation properties in South Florida typically feature high-end finishes, premium amenities like private pools or ocean access, desirable locations such as beachfront or exclusive communities, and significant square footage. These homes often boast advanced smart home technology, bespoke architecture, and professional landscaping. When considering a property, we help evaluate if its specific features and location in areas like Miami Beach or Naples align with what defines luxury for vacation purposes and the local market standards.",
+        "@type": "Answer",
+        "description": "Luxury vacation properties in South Florida are defined by high-end finishes, premium amenities, desirable locations, and significant size."
+      }
+    }
+  ],
+  "description": "Luxury vacation properties in South Florida are defined by high-end finishes, premium amenities, desirable locations, and significant size."
+}

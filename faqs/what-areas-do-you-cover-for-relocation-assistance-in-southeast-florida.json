@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/what-areas-do-you-cover-for-relocation-assistance-in-southeast-florida",
+  "name": "What areas do you cover for relocation assistance in Southeast Florida?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What areas do you cover for relocation assistance in Southeast Florida?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Kelby Contreras - Realty ONE Group Evolution offers relocation assistance across a broad region of Southeast Florida. Our service areas include Miami-Dade County, Broward County, Palm Beach County, Collier County, and Orange County. This covers popular destinations like Miami, Fort Lauderdale, and Palm Beach, as well as specific communities such as Coconut Grove, Coral Gables, South Beach, and Boca Raton, ensuring comprehensive support for your move within these diverse regions.",
+        "@type": "Answer",
+        "description": "We cover Miami-Dade, Broward, Palm Beach, Collier, and Orange Counties, including Miami, Fort Lauderdale, Palm Beach, and many specific communities."
+      }
+    }
+  ],
+  "description": "We cover Miami-Dade, Broward, Palm Beach, Collier, and Orange Counties, including Miami, Fort Lauderdale, Palm Beach, and many specific communities."
+}

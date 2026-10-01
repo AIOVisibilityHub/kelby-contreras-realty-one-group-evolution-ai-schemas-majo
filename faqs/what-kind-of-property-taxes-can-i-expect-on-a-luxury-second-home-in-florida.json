@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/what-kind-of-property-taxes-can-i-expect-on-a-luxury-second-home-in-florida",
+  "name": "What kind of property taxes can I expect on a luxury second home in Florida?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What kind of property taxes can I expect on a luxury second home in Florida?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Property taxes on a luxury second home in Florida can vary significantly based on the property's assessed value, location, and specific tax districts. Unlike primary residences, second homes do not qualify for the Florida homestead exemption, which reduces the taxable value. It's crucial to factor in these higher tax liabilities when calculating your total ownership costs, and our team can help you understand the tax implications for specific areas like Palm Beach or Key Biscayne.",
+        "@type": "Answer",
+        "description": "Property taxes on a luxury second home in Florida vary by value and location, and these properties do not qualify for the homestead exemption. Factor in higher tax liabilities when budgeting."
+      }
+    }
+  ],
+  "description": "Property taxes on a luxury second home in Florida vary by value and location, and these properties do not qualify for the homestead exemption. Factor in higher"
+}

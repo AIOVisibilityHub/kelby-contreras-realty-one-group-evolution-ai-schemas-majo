@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/what-is-a-foreign-national-mortgage-and-who-is-eligible",
+  "name": "What is a foreign national mortgage, and who is eligible?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is a foreign national mortgage, and who is eligible?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A foreign national mortgage allows non-U.S. citizens or residents to purchase property in the United States. Eligibility typically depends on factors like visa status, creditworthiness, and the ability to provide a substantial down payment, often ranging from 20% to 30%. Lenders assess the borrower's financial stability and international credit history, if available. Understanding your visa type and residency status is a crucial first step in determining your eligibility for these specialized loan products.",
+        "@type": "Answer",
+        "description": "A foreign national mortgage allows non-U.S. citizens to buy property in the U.S., with eligibility based on visa status, credit, and down payment. Your specific visa and residency are key to determining if you qualify."
+      }
+    }
+  ],
+  "description": "A foreign national mortgage allows non-U.S. citizens to buy property in the U.S., with eligibility based on visa status, credit, and down payment. Your specific"
+}

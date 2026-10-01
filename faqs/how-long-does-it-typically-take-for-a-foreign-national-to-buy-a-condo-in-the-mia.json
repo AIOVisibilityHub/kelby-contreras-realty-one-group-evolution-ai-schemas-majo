@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/how-long-does-it-typically-take-for-a-foreign-national-to-buy-a-condo-in-the-mia",
+  "name": "How long does it typically take for a foreign national to buy a condo in the Miami-Dade or Broward County areas?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does it typically take for a foreign national to buy a condo in the Miami-Dade or Broward County areas?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The timeline for purchasing a condo as a foreign national can vary, generally ranging from 30 to 60 days, similar to domestic transactions. However, if international financing is involved, the process might extend due to additional documentation requirements and transfer times for funds from overseas. Having all necessary financial documents prepared in advance can help expedite the process. Factors like securing a mortgage can influence the duration.",
+        "@type": "Answer",
+        "description": "The timeline is typically 30-60 days, but can be extended by international financing requirements."
+      }
+    }
+  ],
+  "description": "The timeline is typically 30-60 days, but can be extended by international financing requirements."
+}

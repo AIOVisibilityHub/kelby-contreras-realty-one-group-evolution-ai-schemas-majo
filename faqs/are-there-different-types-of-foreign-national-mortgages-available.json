@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/are-there-different-types-of-foreign-national-mortgages-available",
+  "name": "Are there different types of foreign national mortgages available?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Are there different types of foreign national mortgages available?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, there are various types of foreign national mortgages, differing mainly in down payment requirements, interest rates, and eligible property types. Some lenders may offer programs for non-resident aliens, while others focus on those with specific visa statuses. It's crucial to compare different loan programs to find one that aligns with your financial situation and the type of property you wish to purchase, as terms can vary significantly.",
+        "@type": "Answer",
+        "description": "Yes, different foreign national mortgage types exist, varying in down payments, interest rates, and eligible properties. Comparing programs helps find the best fit for your financial situation and property needs."
+      }
+    }
+  ],
+  "description": "Yes, different foreign national mortgage types exist, varying in down payments, interest rates, and eligible properties. Comparing programs helps find the best"
+}

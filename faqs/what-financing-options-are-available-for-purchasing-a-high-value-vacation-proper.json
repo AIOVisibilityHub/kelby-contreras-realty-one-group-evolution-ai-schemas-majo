@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/what-financing-options-are-available-for-purchasing-a-high-value-vacation-proper",
+  "name": "What financing options are available for purchasing a high-value vacation property?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What financing options are available for purchasing a high-value vacation property?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Financing options for luxury vacation properties often include conventional mortgages, jumbo loans for amounts exceeding standard limits, and portfolio loans offered by private banks. Some buyers opt for cash purchases. Lenders typically require larger down payments for vacation homes than for primary residences, and interest rates may differ. We can connect you with trusted local lenders in the Miami, Fort Lauderdale, and Palm Beach markets who specialize in high-net-worth clients and can outline specific requirements and rates.",
+        "@type": "Answer",
+        "description": "Financing options for luxury vacation properties include conventional, jumbo, or portfolio loans, often requiring larger down payments."
+      }
+    }
+  ],
+  "description": "Financing options for luxury vacation properties include conventional, jumbo, or portfolio loans, often requiring larger down payments."
+}

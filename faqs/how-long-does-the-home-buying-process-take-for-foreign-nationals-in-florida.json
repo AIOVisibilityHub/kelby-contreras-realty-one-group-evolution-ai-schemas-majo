@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/how-long-does-the-home-buying-process-take-for-foreign-nationals-in-florida",
+  "name": "How long does the home buying process take for foreign nationals in Florida?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does the home buying process take for foreign nationals in Florida?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The home buying process for foreign nationals in Florida can vary, but typically it takes 30 to 60 days from accepted offer to closing, similar to domestic buyers. However, additional time may be needed for international wire transfers, securing foreign national specific financing, and translating documents. Effectively managing these additional steps can impact the overall timeline, so preparation is key.",
+        "@type": "Answer",
+        "description": "The home buying process typically takes 30-60 days, but foreign nationals may need additional time for international transfers, financing, and document translation."
+      }
+    }
+  ],
+  "description": "The home buying process typically takes 30-60 days, but foreign nationals may need additional time for international transfers, financing, and document translat"
+}

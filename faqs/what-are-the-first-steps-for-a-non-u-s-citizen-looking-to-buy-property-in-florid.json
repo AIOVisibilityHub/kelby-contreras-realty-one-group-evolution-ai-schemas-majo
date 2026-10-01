@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/what-are-the-first-steps-for-a-non-u-s-citizen-looking-to-buy-property-in-florid",
+  "name": "What are the first steps for a non-U.S. citizen looking to buy property in Florida?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are the first steps for a non-U.S. citizen looking to buy property in Florida?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Non-U.S. citizens should first understand the financing options available to them, as foreign national loans often have different requirements than conventional U.S. mortgages. It's also crucial to define your property type preferences and desired locations within Florida, such as Miami-Dade or Broward County, to help narrow down suitable listings. Working with a local real estate professional, like Kelby Contreras, early in the process can help you navigate these initial considerations and connect you with appropriate lenders and properties.",
+        "@type": "Answer",
+        "description": "Begin by understanding foreign national loan options and defining your property preferences. A local agent can help navigate these initial steps."
+      }
+    }
+  ],
+  "description": "Begin by understanding foreign national loan options and defining your property preferences. A local agent can help navigate these initial steps."
+}

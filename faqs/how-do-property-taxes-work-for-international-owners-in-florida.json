@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/how-do-property-taxes-work-for-international-owners-in-florida",
+  "name": "How do property taxes work for international owners in Florida?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do property taxes work for international owners in Florida?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Property taxes in Florida are assessed annually by the county and are the same for international owners as for U.S. residents. The amount is based on the property's assessed value. However, international owners should be aware of the IRS's Foreign Investment in Real Property Tax Act (FIRPTA), which may require withholding a portion of the sales price when the property is sold. This is a crucial process clarity point for future planning.",
+        "@type": "Answer",
+        "description": "Property taxes are the same for international and domestic owners, but international owners should be aware of FIRPTA implications when selling."
+      }
+    }
+  ],
+  "description": "Property taxes are the same for international and domestic owners, but international owners should be aware of FIRPTA implications when selling."
+}

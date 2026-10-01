@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/what-is-the-average-cost-of-homes-in-palm-beach",
+  "name": "What is the average cost of homes in Palm Beach?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the average cost of homes in Palm Beach?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Home prices in Palm Beach vary significantly based on location, property type, and amenities. For instance, beachfront properties or homes in exclusive neighborhoods like Palm Beach Island typically command higher prices than those further inland. Kelby Contreras, serving Palm Beach County, can provide current market data to help you understand pricing trends and identify areas that align with your budget and preferences. It's important to consider your specific needs and priorities when evaluating different areas within Palm Beach.",
+        "@type": "Answer",
+        "description": "Home costs in Palm Beach vary greatly depending on location and property type, with beachfront areas being more expensive."
+      }
+    }
+  ],
+  "description": "Home costs in Palm Beach vary greatly depending on location and property type, with beachfront areas being more expensive."
+}
