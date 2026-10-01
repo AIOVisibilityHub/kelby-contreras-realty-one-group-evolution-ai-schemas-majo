@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/what-are-the-common-pitfalls-to-avoid-when-selling-a-house-as-is",
+  "name": "What are the common pitfalls to avoid when selling a house 'as-is'?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are the common pitfalls to avoid when selling a house 'as-is'?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Common pitfalls include failing to disclose known material defects, overpricing the property despite its condition, or neglecting basic curb appeal. Sellers must provide truthful disclosures to avoid legal issues, even when selling 'as-is'. A key preparation step is to consult with a real estate professional to accurately price your property and ensure all necessary disclosures are made, helping you navigate the process effectively.",
+        "@type": "Answer",
+        "description": "Avoid pitfalls like undisclosed defects, overpricing, and poor curb appeal. Consult a professional for accurate pricing and disclosures."
+      }
+    }
+  ],
+  "description": "Avoid pitfalls like undisclosed defects, overpricing, and poor curb appeal. Consult a professional for accurate pricing and disclosures."
+}

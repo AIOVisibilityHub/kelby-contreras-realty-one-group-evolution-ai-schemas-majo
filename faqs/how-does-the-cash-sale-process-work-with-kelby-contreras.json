@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/how-does-the-cash-sale-process-work-with-kelby-contreras",
+  "name": "How does the cash sale process work with Kelby Contreras?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How does the cash sale process work with Kelby Contreras?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The process generally begins with an evaluation of your condo to determine its market value for a cash offer. Next, we present potential cash buyers. Once an offer is accepted, we facilitate the contract signing, title search, and coordinate the closing, often without the need for traditional staging or open houses. Our team manages the complexities to ensure a straightforward experience in your Florida locale.",
+        "@type": "Answer",
+        "description": "The process involves condo evaluation, presenting cash offers, contract signing, and coordinating a swift closing."
+      }
+    }
+  ],
+  "description": "The process involves condo evaluation, presenting cash offers, contract signing, and coordinating a swift closing."
+}

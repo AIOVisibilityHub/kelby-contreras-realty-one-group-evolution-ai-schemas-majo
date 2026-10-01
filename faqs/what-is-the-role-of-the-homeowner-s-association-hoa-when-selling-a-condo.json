@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/what-is-the-role-of-the-homeowner-s-association-hoa-when-selling-a-condo",
+  "name": "What is the role of the Homeowner's Association (HOA) when selling a condo?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the role of the Homeowner's Association (HOA) when selling a condo?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The Homeowner's Association (HOA) plays a significant role in a condo sale. Prospective buyers will review HOA documents, including financial statements, budgets, rules and regulations, and meeting minutes, to understand their financial obligations and community governance. The HOA will also provide an estoppel letter, detailing any outstanding fees or assessments. It's crucial to ensure your HOA account is current to avoid delays. Sellers must understand that HOA compliance and transparency are key process elements for a smooth transaction.",
+        "@type": "Answer",
+        "description": "The HOA provides essential documents for buyers and an estoppel letter, impacting buyer due diligence and transaction timelines."
+      }
+    }
+  ],
+  "description": "The HOA provides essential documents for buyers and an estoppel letter, impacting buyer due diligence and transaction timelines."
+}

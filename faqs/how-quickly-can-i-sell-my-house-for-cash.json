@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/how-quickly-can-i-sell-my-house-for-cash",
+  "name": "How quickly can I sell my house for cash?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How quickly can I sell my house for cash?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A cash home sale can close significantly faster than traditional sales, often within 7 to 30 days. The exact timeline depends on factors like the buyer's offer, the speed of property inspections, and title company processes. Kelby Contreras - Realty ONE Group Evolution prioritizes efficient communication to help streamline these steps for clients in South Florida.",
+        "@type": "Answer",
+        "description": "Cash home sales can close in 7 to 30 days, depending on inspections and title. Your agent can help streamline the process."
+      }
+    }
+  ],
+  "description": "Cash home sales can close in 7 to 30 days, depending on inspections and title. Your agent can help streamline the process."
+}

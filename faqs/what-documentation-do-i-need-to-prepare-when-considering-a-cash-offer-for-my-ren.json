@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/what-documentation-do-i-need-to-prepare-when-considering-a-cash-offer-for-my-ren",
+  "name": "What documentation do I need to prepare when considering a cash offer for my rental property?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What documentation do I need to prepare when considering a cash offer for my rental property?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "To prepare for a cash offer, gather essential property documents including the deed, any existing leases for tenants, financial records showing rental income and expenses, property tax statements, and maintenance history. Having these readily available streamlines the due diligence process for cash buyers and can accelerate the sale. Kelby Contreras advises clients to organize these details early to present a clear picture of the property's value and operational history.",
+        "@type": "Answer",
+        "description": "Prepare the property deed, current leases, rental income/expense records, tax statements, and maintenance history when considering a cash offer."
+      }
+    }
+  ],
+  "description": "Prepare the property deed, current leases, rental income/expense records, tax statements, and maintenance history when considering a cash offer."
+}

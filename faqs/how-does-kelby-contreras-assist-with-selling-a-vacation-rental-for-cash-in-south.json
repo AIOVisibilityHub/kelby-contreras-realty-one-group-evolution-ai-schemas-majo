@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/how-does-kelby-contreras-assist-with-selling-a-vacation-rental-for-cash-in-south",
+  "name": "How does Kelby Contreras assist with selling a vacation rental for cash in South Florida?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How does Kelby Contreras assist with selling a vacation rental for cash in South Florida?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Kelby Contreras with Realty ONE Group Evolution specializes in connecting sellers with qualified cash buyers for vacation rentals across Miami-Dade, Broward, and Palm Beach Counties. Our first-party insight allows us to efficiently market your property to a network of investors and individuals seeking quick transactions. We streamline the process by assisting with valuation, preparing necessary documentation, and navigating negotiations to secure a favorable cash offer, helping you understand each step from listing to closing.",
+        "@type": "Answer",
+        "description": "Kelby Contreras helps connect sellers with qualified cash buyers for vacation rentals in South Florida, streamlining the process from valuation to closing."
+      }
+    }
+  ],
+  "description": "Kelby Contreras helps connect sellers with qualified cash buyers for vacation rentals in South Florida, streamlining the process from valuation to closing."
+}

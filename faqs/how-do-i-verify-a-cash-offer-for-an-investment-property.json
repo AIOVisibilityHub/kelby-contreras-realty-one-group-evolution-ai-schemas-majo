@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/how-do-i-verify-a-cash-offer-for-an-investment-property",
+  "name": "How do I verify a cash offer for an investment property?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do I verify a cash offer for an investment property?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "To verify a cash offer, request proof of funds from the buyer. This typically comes in the form of recent bank statements, investment account statements, or a letter from a financial institution confirming the availability of liquid assets sufficient to cover the purchase price. Ensure the documentation is current and clearly shows the funds. As your real estate agent, we scrutinize these documents to confirm the buyer's capability, providing you with confidence in the offer. This step is crucial for protecting you from non-serious buyers.",
+        "@type": "Answer",
+        "description": "Verify a cash offer by requesting current proof of funds, such as bank statements or a letter from a financial institution."
+      }
+    }
+  ],
+  "description": "Verify a cash offer by requesting current proof of funds, such as bank statements or a letter from a financial institution."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/what-should-i-look-for-when-comparing-multiple-cash-offers",
+  "name": "What should I look for when comparing multiple cash offers?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What should I look for when comparing multiple cash offers?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "When comparing multiple cash offers, look beyond just the offer price. Consider the proposed closing date, any contingencies (such as inspection or appraisal, even if optional), and the buyer's demonstrated ability to close quickly (proof of funds). A practical tradeoff is evaluating whether a slightly lower offer with fewer contingencies and a guaranteed fast closing is more beneficial than a higher offer that might come with more conditions or a longer timeline, which could introduce risk or delay.",
+        "@type": "Answer",
+        "description": "When comparing cash offers, consider the closing date, contingencies, and proof of funds, not just the price, to assess overall value and certainty."
+      }
+    }
+  ],
+  "description": "When comparing cash offers, consider the closing date, contingencies, and proof of funds, not just the price, to assess overall value and certainty."
+}

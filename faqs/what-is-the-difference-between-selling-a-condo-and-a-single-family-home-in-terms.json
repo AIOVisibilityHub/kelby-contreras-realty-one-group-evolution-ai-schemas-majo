@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/what-is-the-difference-between-selling-a-condo-and-a-single-family-home-in-terms",
+  "name": "What is the difference between selling a condo and a single-family home in terms of process?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the difference between selling a condo and a single-family home in terms of process?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Selling a condo differs from selling a single-family home primarily due to the involvement of a Homeowner's Association (HOA). Condos require additional documentation related to the HOA, including bylaws, financial health, and community rules, which buyers thoroughly review. Condo sales can also be affected by a building's overall condition and amenities, which influence marketability. While the core sales process is similar, the added layer of HOA scrutiny and documentation is a key practical tradeoff to manage in a condo transaction versus a single-family home sale.",
+        "@type": "Answer",
+        "description": "Selling a condo involves additional HOA documentation and scrutiny compared to a single-family home, impacting the overall process."
+      }
+    }
+  ],
+  "description": "Selling a condo involves additional HOA documentation and scrutiny compared to a single-family home, impacting the overall process."
+}

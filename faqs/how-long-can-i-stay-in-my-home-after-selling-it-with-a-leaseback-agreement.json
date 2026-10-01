@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/how-long-can-i-stay-in-my-home-after-selling-it-with-a-leaseback-agreement",
+  "name": "How long can I stay in my home after selling it with a leaseback agreement?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long can I stay in my home after selling it with a leaseback agreement?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The duration you can stay in your home after selling it via a leaseback arrangement is negotiable and specified in the lease agreement. This period can range from a few weeks to several months, depending on your needs and the buyer's willingness. Factors like market demand and the buyer's own occupancy plans can influence the negotiation. Our experience in the Miami-Dade and Broward County markets means we can advise on typical leaseback durations and help you negotiate favorable terms.",
+        "@type": "Answer",
+        "description": "The length of time you can stay in your home after a sale-leaseback is determined by the lease agreement, typically ranging from weeks to several months based on negotiation."
+      }
+    }
+  ],
+  "description": "The length of time you can stay in your home after a sale-leaseback is determined by the lease agreement, typically ranging from weeks to several months based o"
+}

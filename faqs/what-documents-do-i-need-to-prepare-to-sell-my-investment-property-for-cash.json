@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/what-documents-do-i-need-to-prepare-to-sell-my-investment-property-for-cash",
+  "name": "What documents do I need to prepare to sell my investment property for cash?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What documents do I need to prepare to sell my investment property for cash?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "To prepare for a cash sale of your investment property, you'll need standard property documents such as the deed, property survey, tax records, and any existing leases if the property is tenant-occupied. Additionally, prepare disclosures about the property's condition. Having these documents readily available can significantly expedite the closing process, as the buyer's due diligence team will likely request them promptly. Being prepared helps ensure a seamless transition and a quicker closing. Our team can guide you on compiling all necessary paperwork.",
+        "@type": "Answer",
+        "description": "Prepare the deed, survey, tax records, leases, and property disclosures to expedite a cash sale of your investment property."
+      }
+    }
+  ],
+  "description": "Prepare the deed, survey, tax records, leases, and property disclosures to expedite a cash sale of your investment property."
+}

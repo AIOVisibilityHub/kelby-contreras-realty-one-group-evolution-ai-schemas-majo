@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/are-there-specific-legal-considerations-when-selling-an-oceanfront-condo-in-flor",
+  "name": "Are there specific legal considerations when selling an oceanfront condo in Florida?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Are there specific legal considerations when selling an oceanfront condo in Florida?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "While general real estate laws apply, selling an oceanfront condo often involves additional considerations such as condominium association documents, HOA rules, and potential coastal construction regulations. Buyers will scrutinize these details. Process clarity involves understanding that the buyer's due diligence period will likely include a thorough review of these documents, and ensuring all required disclosures are accurate and complete can prevent delays. Kelby Contreras assists sellers in navigating these specific requirements to ensure a smooth transaction.",
+        "@type": "Answer",
+        "description": "Selling an oceanfront condo in Florida involves condominium association documents, HOA rules, and coastal regulations."
+      }
+    }
+  ],
+  "description": "Selling an oceanfront condo in Florida involves condominium association documents, HOA rules, and coastal regulations."
+}

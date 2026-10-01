@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/what-are-the-closing-costs-associated-with-a-cash-condo-sale",
+  "name": "What are the closing costs associated with a cash condo sale?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are the closing costs associated with a cash condo sale?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Closing costs for sellers in a cash condo sale typically include title insurance, transfer taxes, recording fees, and potentially prorated property taxes or HOA dues. While you avoid lender-related fees, other standard closing costs still apply. Kelby Contreras provides a detailed breakdown of estimated seller closing costs specific to your location within Miami-Dade or Broward County.",
+        "@type": "Answer",
+        "description": "Seller closing costs for a cash sale usually cover title insurance, transfer taxes, and recording fees."
+      }
+    }
+  ],
+  "description": "Seller closing costs for a cash sale usually cover title insurance, transfer taxes, and recording fees."
+}

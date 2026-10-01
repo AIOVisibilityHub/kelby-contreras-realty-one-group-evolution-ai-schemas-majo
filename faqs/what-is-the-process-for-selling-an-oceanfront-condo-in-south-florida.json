@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/what-is-the-process-for-selling-an-oceanfront-condo-in-south-florida",
+  "name": "What is the process for selling an oceanfront condo in South Florida?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the process for selling an oceanfront condo in South Florida?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The process generally involves several steps: initial consultation and property valuation, preparing your condo for market, professional photography and marketing, listing the property, managing showings, negotiating offers, and closing the sale. Kelby Contreras and Realty ONE Group Evolution can guide you through each stage, focusing on market trends in areas like Miami Beach or Fort Lauderdale Beach to strategically position your property for sale.",
+        "@type": "Answer",
+        "description": "The process involves valuation, preparation, marketing, listing, showings, negotiation, and closing."
+      }
+    }
+  ],
+  "description": "The process involves valuation, preparation, marketing, listing, showings, negotiation, and closing."
+}

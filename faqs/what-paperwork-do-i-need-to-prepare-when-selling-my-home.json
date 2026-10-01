@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/what-paperwork-do-i-need-to-prepare-when-selling-my-home",
+  "name": "What paperwork do I need to prepare when selling my home?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What paperwork do I need to prepare when selling my home?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Preparing necessary paperwork in advance can streamline your home sale. Key documents often include your property's deed, mortgage statements, homeowner's insurance policy, property survey, and any warranties or repair records. Additionally, sellers in Florida will need to complete disclosure forms regarding the property's condition. Organizing these documents beforehand is a crucial preparation step that can prevent delays during the closing process and ensure a transparent transaction for buyers.",
+        "@type": "Answer",
+        "description": "Prepare your property's deed, mortgage statements, insurance policy, survey, repair records, and disclosure forms to streamline your home sale."
+      }
+    }
+  ],
+  "description": "Prepare your property's deed, mortgage statements, insurance policy, survey, repair records, and disclosure forms to streamline your home sale."
+}

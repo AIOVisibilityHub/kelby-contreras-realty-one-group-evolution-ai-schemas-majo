@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/what-types-of-buyers-are-interested-in-as-is-properties",
+  "name": "What types of buyers are interested in 'as-is' properties?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What types of buyers are interested in 'as-is' properties?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Buyers interested in 'as-is' properties typically fall into a few categories: real estate investors, cash buyers, and individuals looking for a renovation project. Investors often seek properties they can purchase below market value, repair, and then resell or rent for profit. Cash buyers, who don't rely on traditional financing, can close quickly, which is appealing to sellers who want a fast sale without the delays sometimes associated with mortgages. Individuals looking for renovation projects are often handy or have a vision for custom improvements, willing to take on repairs in exchange for a lower purchase price and the opportunity to personalize the home to their taste.",
+        "@type": "Answer",
+        "description": "Investors, cash buyers, and individuals seeking renovation projects are typically interested in 'as-is' properties."
+      }
+    }
+  ],
+  "description": "Investors, cash buyers, and individuals seeking renovation projects are typically interested in 'as-is' properties."
+}

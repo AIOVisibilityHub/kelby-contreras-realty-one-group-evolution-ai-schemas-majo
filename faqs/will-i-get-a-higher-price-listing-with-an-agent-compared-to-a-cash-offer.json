@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/will-i-get-a-higher-price-listing-with-an-agent-compared-to-a-cash-offer",
+  "name": "Will I get a higher price listing with an agent compared to a cash offer?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Will I get a higher price listing with an agent compared to a cash offer?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Generally, listing with an agent on the open market aims to attract multiple buyers, potentially driving up the sale price through competition. Cash offers, while quick and convenient, often come in below market value because the buyer is taking on the risk and convenience factor. For properties in desirable areas like Aventura, an agent can often leverage market demand to achieve a superior price.",
+        "@type": "Answer",
+        "description": "Listing with an agent typically aims for a higher sale price due to market competition, while cash offers prioritize speed over top dollar."
+      }
+    }
+  ],
+  "description": "Listing with an agent typically aims for a higher sale price due to market competition, while cash offers prioritize speed over top dollar."
+}

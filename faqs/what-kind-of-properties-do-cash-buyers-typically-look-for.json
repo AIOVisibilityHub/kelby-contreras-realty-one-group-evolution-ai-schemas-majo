@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/what-kind-of-properties-do-cash-buyers-typically-look-for",
+  "name": "What kind of properties do cash buyers typically look for?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What kind of properties do cash buyers typically look for?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Cash buyers are often interested in a wide range of properties, especially those that might not qualify for traditional financing due to their condition. This includes homes needing significant repairs, properties with code violations, inherited estates, or those in pre-foreclosure. They look for opportunities to renovate and resell, or to add to an investment portfolio. An important decision factor for these buyers is the potential for appreciation or rental income in areas like Broward County, where investment activity is strong.",
+        "@type": "Answer",
+        "description": "Cash buyers often seek properties needing repairs, with code violations, or inherited estates that may not qualify for traditional financing, particularly in investment-heavy areas like Broward County."
+      }
+    }
+  ],
+  "description": "Cash buyers often seek properties needing repairs, with code violations, or inherited estates that may not qualify for traditional financing, particularly in in"
+}

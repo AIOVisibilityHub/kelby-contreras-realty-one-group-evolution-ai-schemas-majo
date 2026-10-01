@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/what-factors-should-i-consider-when-evaluating-multiple-cash-offers-for-my-renta",
+  "name": "What factors should I consider when evaluating multiple cash offers for my rental property?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What factors should I consider when evaluating multiple cash offers for my rental property?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "When evaluating multiple cash offers, consider not only the purchase price but also the proposed closing timeline, any contingencies (such as inspection periods), and the buyer's reputation or ability to perform. A higher offer with extensive contingencies or a long due diligence period might be less attractive than a slightly lower but firm offer with a quick close. Kelby Contreras and Realty ONE Group Evolution emphasize reviewing all terms to ensure the offer truly aligns with your selling objectives and minimizes potential risks.",
+        "@type": "Answer",
+        "description": "Evaluate multiple cash offers by considering purchase price, closing timeline, contingencies, and buyer's ability to perform, not just the highest bid."
+      }
+    }
+  ],
+  "description": "Evaluate multiple cash offers by considering purchase price, closing timeline, contingencies, and buyer's ability to perform, not just the highest bid."
+}

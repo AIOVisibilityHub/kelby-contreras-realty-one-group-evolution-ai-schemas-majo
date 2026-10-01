@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/can-i-negotiate-the-terms-of-the-leaseback-agreement",
+  "name": "Can I negotiate the terms of the leaseback agreement?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I negotiate the terms of the leaseback agreement?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, the terms of the leaseback agreement are fully negotiable between you and the buyer. This includes the monthly rental amount, the duration of the lease, responsibilities for utilities and maintenance, and any security deposit. The negotiation process is a critical part of ensuring the program aligns with your needs and the buyer's expectations. Careful consideration and preparation of your ideal terms can lead to a smoother agreement.",
+        "@type": "Answer",
+        "description": "Yes, all leaseback terms are negotiable, including rent, duration, and responsibilities, between you and the buyer."
+      }
+    }
+  ],
+  "description": "Yes, all leaseback terms are negotiable, including rent, duration, and responsibilities, between you and the buyer."
+}

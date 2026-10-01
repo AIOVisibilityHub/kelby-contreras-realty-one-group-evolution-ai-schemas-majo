@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/what-factors-can-delay-a-cash-home-sale-closing",
+  "name": "What factors can delay a cash home sale closing?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What factors can delay a cash home sale closing?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Even cash sales can experience delays due to issues like title defects (e.g., liens, clouded title), unpermitted work, or unexpected issues during the home inspection. Ensuring a clear title is paramount. Kelby Contreras - Realty ONE Group Evolution works proactively with title companies to identify and address potential hurdles early in the process for properties in South Florida.",
+        "@type": "Answer",
+        "description": "Title issues, unpermitted work, or inspection findings can delay a cash closing. A clear title is crucial."
+      }
+    }
+  ],
+  "description": "Title issues, unpermitted work, or inspection findings can delay a cash closing. A clear title is crucial."
+}

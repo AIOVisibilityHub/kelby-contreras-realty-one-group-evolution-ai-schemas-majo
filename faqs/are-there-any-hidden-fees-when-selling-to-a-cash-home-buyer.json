@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/are-there-any-hidden-fees-when-selling-to-a-cash-home-buyer",
+  "name": "Are there any hidden fees when selling to a cash home buyer?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Are there any hidden fees when selling to a cash home buyer?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Generally, selling to a cash home buyer often means fewer fees compared to a traditional sale. You typically avoid real estate agent commissions, which can be a significant saving. However, sellers are still responsible for standard closing costs such as title insurance, transfer taxes, and escrow fees. During your consultation, Kelby Contreras will clarify all potential costs associated with a cash sale in your specific area, ensuring transparency. Understanding these practical trade-offs upfront is essential, as the absence of agent commissions can offset a lower purchase price for many sellers seeking a streamlined transaction without unexpected expenses.",
+        "@type": "Answer",
+        "description": "While cash sales usually avoid agent commissions, sellers are still responsible for standard closing costs like title insurance and transfer taxes. Kelby Contreras will clarify all potential fees during the consultation."
+      }
+    }
+  ],
+  "description": "While cash sales usually avoid agent commissions, sellers are still responsible for standard closing costs like title insurance and transfer taxes. Kelby Contre"
+}

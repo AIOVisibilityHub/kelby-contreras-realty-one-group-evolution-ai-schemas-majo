@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/what-is-a-cash-home-buyer-consultation",
+  "name": "What is a cash home buyer consultation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is a cash home buyer consultation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A cash home buyer consultation is an initial meeting to discuss selling your home directly to a cash buyer, often an investor, without traditional financing. During this consultation, Kelby Contreras will assess your property's condition and market value in your specific area, such as Miami-Dade or Broward County, to determine if a cash offer aligns with your selling goals. This consultation helps sellers understand the potential benefits and drawbacks of a fast, all-cash transaction versus a conventional sale, providing clarity on the process and expected timeline. It's a key step to evaluate if this selling method is the right fit for your unique situation and property. The outcome helps sellers decide if the convenience of a quick sale outweighs the potential for a higher price through traditional market listing.",
+        "@type": "Answer",
+        "description": "A cash home buyer consultation is an initial meeting to discuss selling your home directly to a cash buyer, evaluating your property's value and suitability for a fast, all-cash transaction."
+      }
+    }
+  ],
+  "description": "A cash home buyer consultation is an initial meeting to discuss selling your home directly to a cash buyer, evaluating your property's value and suitability for"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/can-i-still-sell-my-home-traditionally-after-a-cash-buyer-consultation",
+  "name": "Can I still sell my home traditionally after a cash buyer consultation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I still sell my home traditionally after a cash buyer consultation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, a cash home buyer consultation does not obligate you to accept an offer or proceed with a cash sale. It serves as an informational meeting to explore one potential selling avenue. After discussing your options with Kelby Contreras, you are free to pursue a traditional listing on the market if that aligns better with your goals, such as aiming for a higher sale price. The consultation helps you weigh the practical tradeoffs: the speed and convenience of a cash offer versus the potential for a higher return through a conventional sale, which often involves marketing, showings, and potentially more contingencies. The decision factor is always yours to make based on your priorities.",
+        "@type": "Answer",
+        "description": "Yes, a cash home buyer consultation is informational and does not obligate you to sell. You can still choose to list your home traditionally on the market after exploring cash offer options."
+      }
+    }
+  ],
+  "description": "Yes, a cash home buyer consultation is informational and does not obligate you to sell. You can still choose to list your home traditionally on the market after"
+}

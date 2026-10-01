@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/how-quickly-can-a-cash-offer-close-a-home-sale",
+  "name": "How quickly can a cash offer close a home sale?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How quickly can a cash offer close a home sale?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Cash offers typically close much faster than financed offers, often within 7 to 14 days, compared to 30-60 days for mortgage-backed sales. This speed is primarily due to the absence of lender underwriting and appraisal processes. The exact timing can be affected by the buyer's readiness for inspection and title work, and the seller's timeline for moving. Preparation involves ensuring all necessary disclosures and title documents are ready to accommodate an expedited closing.",
+        "@type": "Answer",
+        "description": "Cash offers can close quickly, often within 7 to 14 days, as they bypass mortgage approval and appraisal processes."
+      }
+    }
+  ],
+  "description": "Cash offers can close quickly, often within 7 to 14 days, as they bypass mortgage approval and appraisal processes."
+}

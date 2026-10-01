@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/how-long-does-it-take-to-sell-a-home-with-a-cash-offer-versus-listing-with-an-ag",
+  "name": "How long does it take to sell a home with a cash offer versus listing with an agent?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does it take to sell a home with a cash offer versus listing with an agent?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Selling with a cash offer typically takes as little as 7-30 days to close, as it bypasses the financing and appraisal stages. Listing with an agent usually takes longer, often 30-60 days to secure a buyer, plus another 30-60 days for closing, depending on market conditions and buyer financing. The total timeline can vary significantly based on the specific market dynamics in regions like Palm Beach County.",
+        "@type": "Answer",
+        "description": "Cash offers close quickly, often in weeks; agent listings can take 2-4 months from market entry to closing."
+      }
+    }
+  ],
+  "description": "Cash offers close quickly, often in weeks; agent listings can take 2-4 months from market entry to closing."
+}

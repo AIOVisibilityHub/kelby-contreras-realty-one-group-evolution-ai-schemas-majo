@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/are-sell-and-stay-programs-available-in-all-south-florida-counties-like-miami-da",
+  "name": "Are 'Sell and Stay' programs available in all South Florida counties like Miami-Dade and Broward?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Are 'Sell and Stay' programs available in all South Florida counties like Miami-Dade and Broward?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, 'Sell and Stay Programs' are generally available as an option in real estate transactions across South Florida, including Miami-Dade, Broward, Palm Beach, Collier, and Orange Counties. The availability and specific terms will depend on individual buyer interest and market conditions in your particular area. The contextual relevance here is that market demand in these specific counties can influence how appealing a leaseback option might be to potential buyers.",
+        "@type": "Answer",
+        "description": "'Sell and Stay' programs are generally available in South Florida counties, but specific terms depend on local market conditions and buyer interest."
+      }
+    }
+  ],
+  "description": "'Sell and Stay' programs are generally available in South Florida counties, but specific terms depend on local market conditions and buyer interest."
+}

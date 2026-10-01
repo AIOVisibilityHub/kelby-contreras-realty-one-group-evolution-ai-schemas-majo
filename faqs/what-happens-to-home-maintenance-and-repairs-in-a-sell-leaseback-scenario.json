@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/what-happens-to-home-maintenance-and-repairs-in-a-sell-leaseback-scenario",
+  "name": "What happens to home maintenance and repairs in a sell-leaseback scenario?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What happens to home maintenance and repairs in a sell-leaseback scenario?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "In a sell-leaseback arrangement, the responsibility for home maintenance and repairs typically shifts from you, the former owner, to the new owner, the landlord. However, the lease agreement will clearly define what falls under the landlord's responsibility and what, if anything, remains the tenant's responsibility (e.g., minor upkeep). Understanding these terms thoroughly is a crucial preparation step to avoid future disputes and clarify who covers what before signing.",
+        "@type": "Answer",
+        "description": "Maintenance and repair responsibilities usually transfer to the new owner (landlord), but the lease agreement specifies all details."
+      }
+    }
+  ],
+  "description": "Maintenance and repair responsibilities usually transfer to the new owner (landlord), but the lease agreement specifies all details."
+}

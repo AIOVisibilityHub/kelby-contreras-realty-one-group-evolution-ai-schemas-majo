@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/are-cash-offers-always-as-is-transactions",
+  "name": "Are cash offers always 'as-is' transactions?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Are cash offers always 'as-is' transactions?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "No, a cash offer does not automatically mean the transaction is 'as-is,' although many cash buyers may prefer it. The terms of an 'as-is' sale, meaning the buyer accepts the property in its current condition with no repairs, must be explicitly stated in the purchase agreement. A practical tradeoff for sellers is that while an 'as-is' cash offer simplifies the sale by eliminating repair negotiations, it might also lead to a lower offer price compared to a cash offer with some inspection contingencies.",
+        "@type": "Answer",
+        "description": "Cash offers are not inherently 'as-is' sales; 'as-is' terms must be specified in the agreement, impacting potential negotiations for repairs."
+      }
+    }
+  ],
+  "description": "Cash offers are not inherently 'as-is' sales; 'as-is' terms must be specified in the agreement, impacting potential negotiations for repairs."
+}

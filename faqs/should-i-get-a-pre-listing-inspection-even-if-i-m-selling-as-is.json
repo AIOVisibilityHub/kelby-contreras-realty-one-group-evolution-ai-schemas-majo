@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/should-i-get-a-pre-listing-inspection-even-if-i-m-selling-as-is",
+  "name": "Should I get a pre-listing inspection even if I'm selling as-is?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Should I get a pre-listing inspection even if I'm selling as-is?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "While not strictly required, obtaining a pre-listing inspection when selling as-is can be highly beneficial. This preparation gives you a comprehensive understanding of your home's condition and any potential issues before buyers conduct their own inspections. Knowing these details upfront allows you to accurately complete seller disclosure forms and anticipate buyer concerns or negotiation points. It also helps in setting a realistic asking price, as you'll have an objective report of what a buyer might uncover. This proactive step can streamline the sale process by minimizing surprises during buyer inspections.",
+        "@type": "Answer",
+        "description": "A pre-listing inspection helps you understand your home's condition, complete disclosures, and set a realistic price, even when selling as-is."
+      }
+    }
+  ],
+  "description": "A pre-listing inspection helps you understand your home's condition, complete disclosures, and set a realistic price, even when selling as-is."
+}

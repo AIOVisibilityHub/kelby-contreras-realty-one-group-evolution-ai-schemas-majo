@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/can-i-get-a-cash-offer-for-a-vacant-home-that-has-code-violations-or-structural",
+  "name": "Can I get a cash offer for a vacant home that has code violations or structural issues?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I get a cash offer for a vacant home that has code violations or structural issues?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, many cash buyers are willing to purchase vacant homes with code violations or structural issues. Unlike traditional buyers who often rely on financing that requires the property to meet specific condition standards, cash investors are typically prepared to take on properties needing significant repairs. This is a practical tradeoff: you might accept a lower offer than a perfectly conditioned home, but you avoid the substantial expense and time required to bring the property up to code yourself. This flexibility makes cash offers an appealing option for distressed vacant properties.",
+        "@type": "Answer",
+        "description": "Yes, cash buyers often purchase vacant homes with code violations or structural issues, as they are prepared to handle the repairs themselves."
+      }
+    }
+  ],
+  "description": "Yes, cash buyers often purchase vacant homes with code violations or structural issues, as they are prepared to handle the repairs themselves."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/what-documentation-do-i-need-to-prepare-for-a-cash-sale-of-my-vacation-rental",
+  "name": "What documentation do I need to prepare for a cash sale of my vacation rental?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What documentation do I need to prepare for a cash sale of my vacation rental?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "When preparing for a cash sale, gather essential documents such as proof of ownership, existing leases or booking contracts, income and expense statements for the rental, and any HOA or condominium association documents. Having these items organized upfront can significantly expedite the due diligence period for the cash buyer. This preparation allows for a smoother process, particularly in a complex market like Collier County where vacation rental regulations might require specific disclosures.",
+        "@type": "Answer",
+        "description": "Prepare proof of ownership, rental contracts, income/expense statements, and HOA documents for a cash sale."
+      }
+    }
+  ],
+  "description": "Prepare proof of ownership, rental contracts, income/expense statements, and HOA documents for a cash sale."
+}

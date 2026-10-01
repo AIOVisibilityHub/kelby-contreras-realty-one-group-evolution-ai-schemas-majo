@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/how-long-does-it-take-to-sell-a-house-as-is-compared-to-a-traditional-sale",
+  "name": "How long does it take to sell a house 'as-is' compared to a traditional sale?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does it take to sell a house 'as-is' compared to a traditional sale?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Selling a house 'as-is' can often be quicker than a traditional sale. This is largely because there are typically fewer contingencies related to repairs, and negotiations over property condition are minimized or eliminated. The streamlined process means fewer delays post-inspection. A practical tradeoff is that while a faster sale is likely, the final sale price might be less than if extensive repairs were completed.",
+        "@type": "Answer",
+        "description": "An 'as-is' sale can be faster than a traditional sale due to fewer repair contingencies, though it might fetch a lower price."
+      }
+    }
+  ],
+  "description": "An 'as-is' sale can be faster than a traditional sale due to fewer repair contingencies, though it might fetch a lower price."
+}

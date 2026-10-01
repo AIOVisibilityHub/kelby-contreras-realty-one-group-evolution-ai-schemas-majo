@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/do-i-need-to-make-repairs-before-selling-my-condo-for-cash",
+  "name": "Do I need to make repairs before selling my condo for cash?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do I need to make repairs before selling my condo for cash?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Typically, you do not need to make repairs when selling a condo for cash, as cash buyers often purchase properties in their 'as-is' condition. This saves you time, money, and effort. However, disclosing any known issues is crucial for a transparent transaction. Kelby Contreras can advise on how the 'as-is' condition might impact offers in your specific market, like Collier County.",
+        "@type": "Answer",
+        "description": "No, cash buyers usually purchase condos 'as-is,' eliminating the need for pre-sale repairs."
+      }
+    }
+  ],
+  "description": "No, cash buyers usually purchase condos 'as-is,' eliminating the need for pre-sale repairs."
+}

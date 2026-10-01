@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/what-documentation-do-i-need-for-a-cash-sale-of-my-luxury-home",
+  "name": "What documentation do I need for a cash sale of my luxury home?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What documentation do I need for a cash sale of my luxury home?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "For a cash sale, you will typically need your property deed, recent utility bills, property tax statements, any existing surveys, homeowner's association documents (if applicable), and disclosures about the property's condition. While less paperwork is required than a financed sale, having these documents prepared in advance can significantly speed up the closing process. This preparation ensures a smooth transaction and prevents delays.",
+        "@type": "Answer",
+        "description": "You'll need your property deed, tax statements, HOA documents, and disclosures for a cash sale; preparing these accelerates closing."
+      }
+    }
+  ],
+  "description": "You'll need your property deed, tax statements, HOA documents, and disclosures for a cash sale; preparing these accelerates closing."
+}

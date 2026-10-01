@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/can-i-still-sell-my-home-and-rent-it-back-if-it-needs-repairs",
+  "name": "Can I still sell my home and rent it back if it needs repairs?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I still sell my home and rent it back if it needs repairs?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, it is possible to sell your home and rent it back even if it requires repairs, though the condition of the home can influence the sale price and the terms of the lease agreement. Investors may factor in the cost of necessary repairs when making an offer. A practical tradeoff might involve selling the home 'as-is' for a slightly lower price, avoiding the upfront cost and effort of renovations yourself, in exchange for immediate liquidity.",
+        "@type": "Answer",
+        "description": "Yes, you can, but the home's condition may affect the sale price and lease terms; investors factor in repair costs."
+      }
+    }
+  ],
+  "description": "Yes, you can, but the home's condition may affect the sale price and lease terms; investors factor in repair costs."
+}

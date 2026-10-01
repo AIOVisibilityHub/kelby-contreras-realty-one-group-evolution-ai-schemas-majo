@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/how-long-can-i-rent-back-my-home-after-selling-it-in-a-sale-leaseback",
+  "name": "How long can I rent back my home after selling it in a sale-leaseback?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long can I rent back my home after selling it in a sale-leaseback?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The rental period in a sale-leaseback agreement is determined during negotiations and can vary significantly. Some agreements offer short-term leases, while others provide options for longer-term tenancy, sometimes with renewal clauses. The length often depends on the buyer's investment strategy and your needs. It's crucial to understand the lease terms thoroughly, as a practical tradeoff might involve accepting a shorter lease for a higher sale price or a longer lease with specific conditions.",
+        "@type": "Answer",
+        "description": "Rental periods vary, from short to long-term, depending on the negotiated agreement between you and the buyer/investor."
+      }
+    }
+  ],
+  "description": "Rental periods vary, from short to long-term, depending on the negotiated agreement between you and the buyer/investor."
+}

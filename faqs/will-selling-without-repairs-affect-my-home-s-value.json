@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/will-selling-without-repairs-affect-my-home-s-value",
+  "name": "Will selling without repairs affect my home's value?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Will selling without repairs affect my home's value?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, selling a home without repairs will generally affect its market value. Buyers will factor in the cost of necessary repairs and updates, often discounting their offer to cover these expenses, plus a buffer for unforeseen issues. The practical tradeoff is that while you avoid upfront repair costs, you exchange that for a likely lower sale price. The degree of impact depends on the extent of repairs needed; minor cosmetic issues may have less impact than major structural or system failures. Your agent can help you understand realistic pricing expectations for an as-is sale in your specific Miami-Dade or Broward County neighborhood.",
+        "@type": "Answer",
+        "description": "Selling without repairs usually lowers your home's market value, as buyers will deduct repair costs from their offer."
+      }
+    }
+  ],
+  "description": "Selling without repairs usually lowers your home's market value, as buyers will deduct repair costs from their offer."
+}

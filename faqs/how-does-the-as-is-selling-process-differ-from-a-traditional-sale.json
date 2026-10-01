@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/how-does-the-as-is-selling-process-differ-from-a-traditional-sale",
+  "name": "How does the 'as-is' selling process differ from a traditional sale?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How does the 'as-is' selling process differ from a traditional sale?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The 'as-is' selling process primarily differs in the inspection and negotiation phases. While buyers can still conduct inspections, they typically cannot request repairs or credits based on the findings; the sale price is generally final. This streamlines negotiations and can lead to a quicker closing. For clients in Miami-Dade, Broward, Palm Beach, Collier, or Orange County, we guide you through this distinct process, focusing on proper pricing and buyer communication for a smooth transaction.",
+        "@type": "Answer",
+        "description": "The 'as-is' process means buyers usually can't request repairs after inspection, leading to faster negotiations and closing."
+      }
+    }
+  ],
+  "description": "The 'as-is' process means buyers usually can't request repairs after inspection, leading to faster negotiations and closing."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/what-due-diligence-do-cash-buyers-typically-perform-on-rental-properties-in-sout",
+  "name": "What due diligence do cash buyers typically perform on rental properties in South Florida?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What due diligence do cash buyers typically perform on rental properties in South Florida?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "In South Florida, cash buyers of rental properties typically perform due diligence that includes a thorough property inspection, review of financial records (rental income, expenses, leases), assessment of property taxes and insurance costs, and a title search. They also often research local market conditions and zoning regulations to understand potential appreciation or development opportunities. Given the diverse property types and regulations in areas like Miami, Fort Lauderdale, and West Palm Beach, buyers ensure the property aligns with their investment strategy. Kelby Contreras can help sellers anticipate common buyer concerns.",
+        "@type": "Answer",
+        "description": "Cash buyers in South Florida typically inspect the property, review financials, leases, taxes, insurance, and research local market conditions and zoning."
+      }
+    }
+  ],
+  "description": "Cash buyers in South Florida typically inspect the property, review financials, leases, taxes, insurance, and research local market conditions and zoning."
+}

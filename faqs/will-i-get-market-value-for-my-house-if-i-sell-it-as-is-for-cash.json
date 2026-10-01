@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/will-i-get-market-value-for-my-house-if-i-sell-it-as-is-for-cash",
+  "name": "Will I get market value for my house if I sell it as-is for cash?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Will I get market value for my house if I sell it as-is for cash?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Selling a house as-is for cash typically means you will receive an offer below what you might achieve on the open market after significant renovations. This is a practical tradeoff: cash buyers factor in the cost of repairs, holding costs, and their profit margin. However, you save on agent commissions, closing costs (often paid by the buyer), repair expenses, and the time associated with a traditional sale. The offer reflects the convenience, speed, and certainty of an 'as-is' cash transaction.",
+        "@type": "Answer",
+        "description": "You will likely receive an offer below the market value of a fully renovated home, as cash buyers factor in repair costs and their profit. However, you save on commissions, repairs, and gain speed."
+      }
+    }
+  ],
+  "description": "You will likely receive an offer below the market value of a fully renovated home, as cash buyers factor in repair costs and their profit. However, you save on"
+}

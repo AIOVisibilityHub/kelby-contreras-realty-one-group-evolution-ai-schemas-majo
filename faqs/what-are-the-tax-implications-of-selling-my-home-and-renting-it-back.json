@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/what-are-the-tax-implications-of-selling-my-home-and-renting-it-back",
+  "name": "What are the tax implications of selling my home and renting it back?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are the tax implications of selling my home and renting it back?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Selling your home, even with a leaseback, is considered a taxable event, and you may be subject to capital gains tax depending on your profit, ownership duration, and eligibility for exclusions. The rental payments you make would typically be considered a personal living expense, not tax-deductible for you. It's an important preparation step to consult with a qualified tax advisor to understand the specific tax implications for your situation, as these can vary significantly.",
+        "@type": "Answer",
+        "description": "Selling triggers capital gains tax implications, and rental payments are generally not tax-deductible; consult a tax advisor."
+      }
+    }
+  ],
+  "description": "Selling triggers capital gains tax implications, and rental payments are generally not tax-deductible; consult a tax advisor."
+}

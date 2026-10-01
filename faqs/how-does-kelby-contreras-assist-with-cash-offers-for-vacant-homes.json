@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/how-does-kelby-contreras-assist-with-cash-offers-for-vacant-homes",
+  "name": "How does Kelby Contreras assist with cash offers for vacant homes?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How does Kelby Contreras assist with cash offers for vacant homes?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "As a local real estate professional in Miami-Dade, Broward, Palm Beach, and Orange Counties, Kelby Contreras can facilitate cash offers for your vacant home by leveraging our network of pre-qualified cash buyers and investors. We streamline the process from initial inquiry to closing, providing expert guidance on market value and offer terms. Our first-party insight involves evaluating multiple cash offers to ensure you receive a fair price while managing all necessary paperwork to achieve a quick and hassle-free sale. We focus on finding solutions that best fit your specific timeline and property condition.",
+        "@type": "Answer",
+        "description": "Kelby Contreras helps sellers of vacant homes by connecting them with pre-qualified cash buyers and managing the entire process for a quick, hassle-free sale."
+      }
+    }
+  ],
+  "description": "Kelby Contreras helps sellers of vacant homes by connecting them with pre-qualified cash buyers and managing the entire process for a quick, hassle-free sale."
+}

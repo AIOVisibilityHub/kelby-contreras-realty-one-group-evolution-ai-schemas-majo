@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/how-do-i-choose-between-a-cash-offer-and-a-traditional-financed-offer-for-my-con",
+  "name": "How do I choose between a cash offer and a traditional financed offer for my condo?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do I choose between a cash offer and a traditional financed offer for my condo?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Choosing between a cash offer and a traditional financed offer involves weighing several factors. A cash offer typically provides faster closing and more certainty, but a financed offer might potentially yield a higher sale price. Consider your priorities: speed, maximum profit, or ease of process. Kelby Contreras helps compare these offers side-by-side, detailing the practical tradeoffs and benefits of each for your specific property in Florida.",
+        "@type": "Answer",
+        "description": "Consider speed, certainty, and potential sale price when choosing between cash and financed offers."
+      }
+    }
+  ],
+  "description": "Consider speed, certainty, and potential sale price when choosing between cash and financed offers."
+}

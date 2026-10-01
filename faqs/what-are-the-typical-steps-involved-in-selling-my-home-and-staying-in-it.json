@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/what-are-the-typical-steps-involved-in-selling-my-home-and-staying-in-it",
+  "name": "What are the typical steps involved in selling my home and staying in it?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are the typical steps involved in selling my home and staying in it?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The process generally involves listing your home for sale, negotiating a purchase agreement that includes a leaseback clause, and closing on the sale. After closing, you transition from owner to tenant and begin paying rent as agreed. Key steps during this process include determining your desired leaseback duration and rental terms before going to market. This preparation ensures that potential buyers are aware of the arrangement from the outset, streamlining negotiations.",
+        "@type": "Answer",
+        "description": "Steps include listing with a leaseback clause, negotiating the agreement, closing the sale, and then becoming a tenant."
+      }
+    }
+  ],
+  "description": "Steps include listing with a leaseback clause, negotiating the agreement, closing the sale, and then becoming a tenant."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/will-i-get-less-money-for-my-house-if-i-sell-it-as-is",
+  "name": "Will I get less money for my house if I sell it 'as-is'?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Will I get less money for my house if I sell it 'as-is'?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Generally, selling a house 'as-is' may result in a lower sale price compared to a fully renovated or well-maintained property. Buyers typically factor in the cost of necessary repairs and updates when making an offer. The practical tradeoff is that you often gain speed and convenience by avoiding renovation expenses and the time involved in managing repairs, which can offset a slightly lower sale price for some sellers.",
+        "@type": "Answer",
+        "description": "Selling 'as-is' often results in a lower sale price, as buyers account for repair costs, but offers a faster, more convenient sale."
+      }
+    }
+  ],
+  "description": "Selling 'as-is' often results in a lower sale price, as buyers account for repair costs, but offers a faster, more convenient sale."
+}

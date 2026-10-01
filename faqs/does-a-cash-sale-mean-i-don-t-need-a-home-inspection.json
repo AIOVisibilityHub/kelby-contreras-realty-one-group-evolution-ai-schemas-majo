@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/does-a-cash-sale-mean-i-don-t-need-a-home-inspection",
+  "name": "Does a cash sale mean I don't need a home inspection?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Does a cash sale mean I don't need a home inspection?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "While a cash buyer may opt for an 'as-is' purchase, an inspection is still commonly conducted to understand the property's condition. Even without financing, a cash buyer might negotiate repairs or a price reduction based on inspection findings. It's a key decision factor for both buyer and seller in setting terms.",
+        "@type": "Answer",
+        "description": "A cash sale often includes a home inspection, which can influence negotiations despite an 'as-is' purchase."
+      }
+    }
+  ],
+  "description": "A cash sale often includes a home inspection, which can influence negotiations despite an 'as-is' purchase."
+}

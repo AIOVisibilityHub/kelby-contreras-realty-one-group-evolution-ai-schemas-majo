@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/what-costs-are-involved-when-i-sell-my-home-and-stay-in-it",
+  "name": "What costs are involved when I sell my home and stay in it?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What costs are involved when I sell my home and stay in it?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "When selling your home and staying in it, you will typically be responsible for standard seller closing costs, which include real estate commissions, title insurance, and transfer taxes. During the leaseback period, you will pay rent to the new owner, and may still be responsible for utilities and certain maintenance costs, as specified in the lease agreement. It is important to compare these costs with traditional selling scenarios to understand the full financial picture.",
+        "@type": "Answer",
+        "description": "You'll pay standard seller closing costs and then rent during the leaseback, plus utilities and potentially maintenance."
+      }
+    }
+  ],
+  "description": "You'll pay standard seller closing costs and then rent during the leaseback, plus utilities and potentially maintenance."
+}

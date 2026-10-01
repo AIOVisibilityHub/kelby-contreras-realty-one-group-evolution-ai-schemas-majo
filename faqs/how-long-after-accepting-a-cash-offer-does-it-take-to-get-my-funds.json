@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/how-long-after-accepting-a-cash-offer-does-it-take-to-get-my-funds",
+  "name": "How long after accepting a cash offer does it take to get my funds?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long after accepting a cash offer does it take to get my funds?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Once the closing documents are signed and the deed is transferred, you typically receive your funds via wire transfer or cashier's check on the same day or within one to three business days. The efficiency of your title company and bank can affect the exact timing. Your agent can confirm the expected fund disbursement schedule.",
+        "@type": "Answer",
+        "description": "Funds are typically received on the same day or within one to three business days after closing, depending on the title company and bank."
+      }
+    }
+  ],
+  "description": "Funds are typically received on the same day or within one to three business days after closing, depending on the title company and bank."
+}

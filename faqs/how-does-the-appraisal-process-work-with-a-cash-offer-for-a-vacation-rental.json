@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/how-does-the-appraisal-process-work-with-a-cash-offer-for-a-vacation-rental",
+  "name": "How does the appraisal process work with a cash offer for a vacation rental?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How does the appraisal process work with a cash offer for a vacation rental?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "With a cash offer, an appraisal is generally not required by a lender, as there's no financing to secure. However, a buyer may still opt for an appraisal for their own informational purposes to confirm the property's market value. This is a practical tradeoff for the buyer, who takes on the risk of the property's value without a bank's assessment but gains flexibility in the transaction. In Florida, even without a lender, a buyer might choose to verify the market value of a vacation rental in areas like Orlando, where tourism significantly impacts property values.",
+        "@type": "Answer",
+        "description": "An appraisal isn't required by a lender for a cash offer, but a buyer may request one for informational purposes."
+      }
+    }
+  ],
+  "description": "An appraisal isn't required by a lender for a cash offer, but a buyer may request one for informational purposes."
+}

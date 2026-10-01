@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/what-is-a-sale-leaseback-arrangement-when-selling-my-home",
+  "name": "What is a 'sale-leaseback' arrangement when selling my home?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is a 'sale-leaseback' arrangement when selling my home?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A sale-leaseback allows you to sell your home to a new owner while simultaneously signing an agreement to rent it back from them. This arrangement is often used by sellers who need access to their home equity but aren't ready to move immediately, or who need additional time to find a new residence. It provides immediate capital from the sale and continuous residency, eliminating the need for a temporary move. Our team can help structure these agreements, ensuring the lease terms align with your post-sale plans.",
+        "@type": "Answer",
+        "description": "A sale-leaseback lets you sell your home and then rent it back from the new owner, providing cash from the sale while you continue living there."
+      }
+    }
+  ],
+  "description": "A sale-leaseback lets you sell your home and then rent it back from the new owner, providing cash from the sale while you continue living there."
+}

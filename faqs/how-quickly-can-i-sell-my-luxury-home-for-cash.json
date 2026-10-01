@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/how-quickly-can-i-sell-my-luxury-home-for-cash",
+  "name": "How quickly can I sell my luxury home for cash?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How quickly can I sell my luxury home for cash?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A cash sale can significantly accelerate the transaction timeline compared to traditional sales involving mortgage financing. While specific timelines depend on property condition and required due diligence, cash transactions often close in as little as two to three weeks. This is a practical tradeoff: you gain speed and certainty, often in exchange for potentially not achieving the absolute highest market price compared to a lengthy, traditional listing. Kelby Contreras - Realty ONE Group Evolution focuses on efficient closings, particularly beneficial for sellers in areas like Aventura or Boca Raton who need to liquidate assets promptly.",
+        "@type": "Answer",
+        "description": "Cash sales can close in 2-3 weeks, much faster than traditional sales. This speed is a practical tradeoff for other selling factors."
+      }
+    }
+  ],
+  "description": "Cash sales can close in 2-3 weeks, much faster than traditional sales. This speed is a practical tradeoff for other selling factors."
+}

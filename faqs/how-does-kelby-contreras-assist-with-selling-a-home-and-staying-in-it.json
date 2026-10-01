@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/how-does-kelby-contreras-assist-with-selling-a-home-and-staying-in-it",
+  "name": "How does Kelby Contreras assist with selling a home and staying in it?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How does Kelby Contreras assist with selling a home and staying in it?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Kelby Contreras and the Realty ONE Group Evolution team guide you through the entire process of selling your home while arranging to stay in it. This includes structuring a sale-leaseback or post-occupancy agreement, negotiating favorable lease terms, and coordinating closing dates. We leverage our market expertise in regions like Fort Lauderdale and Miami to connect you with suitable buyers and ensure the agreement protects your interests, managing the complexities for a smooth transition.",
+        "@type": "Answer",
+        "description": "We assist by structuring sale-leaseback or post-occupancy agreements, negotiating terms, and coordinating closing to allow you to sell your home and remain living in it."
+      }
+    }
+  ],
+  "description": "We assist by structuring sale-leaseback or post-occupancy agreements, negotiating terms, and coordinating closing to allow you to sell your home and remain livi"
+}

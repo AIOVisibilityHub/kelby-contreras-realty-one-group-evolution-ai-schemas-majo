@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/what-are-the-common-closing-costs-when-selling-a-condo-in-florida",
+  "name": "What are the common closing costs when selling a condo in Florida?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are the common closing costs when selling a condo in Florida?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Common closing costs for sellers in Florida typically include real estate commissions, title insurance (owner's policy), prorated property taxes and HOA fees, document stamps on the deed, and potentially a portion of the closing agent's fees. These costs can vary, often totaling a percentage of the sale price. Understanding these expenses upfront helps you budget and avoid surprises. Your agent can provide an estimated net sheet, detailing these costs for your specific transaction, which is a key part of financial preparation for your sale.",
+        "@type": "Answer",
+        "description": "Florida condo sellers typically pay commissions, title insurance, prorated taxes/HOA fees, and deed document stamps at closing."
+      }
+    }
+  ],
+  "description": "Florida condo sellers typically pay commissions, title insurance, prorated taxes/HOA fees, and deed document stamps at closing."
+}

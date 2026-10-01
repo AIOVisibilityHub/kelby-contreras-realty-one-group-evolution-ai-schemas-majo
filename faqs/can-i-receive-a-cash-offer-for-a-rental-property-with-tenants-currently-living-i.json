@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/can-i-receive-a-cash-offer-for-a-rental-property-with-tenants-currently-living-i",
+  "name": "Can I receive a cash offer for a rental property with tenants currently living in it?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I receive a cash offer for a rental property with tenants currently living in it?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, you can receive a cash offer for a rental property even if it has existing tenants. Cash buyers may be investors looking to maintain the property as a rental, appreciating the immediate income stream. However, the existing leases and tenant rights must be respected and disclosed, which can influence the buyer's offer or due diligence. Kelby Contreras guides sellers through the implications of existing leases during the sale process to ensure a smooth transition for both seller and buyer.",
+        "@type": "Answer",
+        "description": "Yes, rental properties with tenants can receive cash offers, but existing leases and tenant rights must be respected and disclosed."
+      }
+    }
+  ],
+  "description": "Yes, rental properties with tenants can receive cash offers, but existing leases and tenant rights must be respected and disclosed."
+}

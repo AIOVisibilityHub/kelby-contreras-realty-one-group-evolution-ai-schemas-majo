@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/what-due-diligence-should-a-cash-buyer-perform-on-a-condo",
+  "name": "What due diligence should a cash buyer perform on a condo?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What due diligence should a cash buyer perform on a condo?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Even with a cash offer, a buyer should perform thorough due diligence on a condo. This includes a comprehensive home inspection to assess the physical condition of the unit and common areas. Additionally, buyers should review the condominium association's financial statements, meeting minutes, and governing documents to understand the association's health, any upcoming assessments, and rules. In areas like Collier County, where some buildings may have unique features, understanding the association's reserves and maintenance history is particularly important to avoid future surprises.",
+        "@type": "Answer",
+        "description": "Cash buyers should conduct a home inspection and thoroughly review condominium association documents, including financials and governing rules, to understand the property's and association's health."
+      }
+    }
+  ],
+  "description": "Cash buyers should conduct a home inspection and thoroughly review condominium association documents, including financials and governing rules, to understand th"
+}

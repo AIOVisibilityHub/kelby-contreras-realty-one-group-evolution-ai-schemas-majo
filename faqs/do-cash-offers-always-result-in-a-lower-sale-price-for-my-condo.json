@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/do-cash-offers-always-result-in-a-lower-sale-price-for-my-condo",
+  "name": "Do cash offers always result in a lower sale price for my condo?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do cash offers always result in a lower sale price for my condo?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Not necessarily. While some cash buyers might seek a discount for the convenience and speed they offer, a cash offer doesn't automatically mean a lower price. The final sale price depends on market conditions, the condo's condition, demand, and how motivated the seller is. In competitive areas like Miami Beach or Fort Lauderdale, a strong cash offer close to or at market value can be very attractive to a seller who values a quick, certain closing over potentially a slightly higher financed offer that carries more risk.",
+        "@type": "Answer",
+        "description": "Cash offers don't always mean a lower price. The sale price depends on market conditions and seller priorities; a strong cash offer can be highly competitive."
+      }
+    }
+  ],
+  "description": "Cash offers don't always mean a lower price. The sale price depends on market conditions and seller priorities; a strong cash offer can be highly competitive."
+}

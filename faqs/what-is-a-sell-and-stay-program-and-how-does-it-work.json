@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/what-is-a-sell-and-stay-program-and-how-does-it-work",
+  "name": "What is a 'Sell and Stay Program' and how does it work?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is a 'Sell and Stay Program' and how does it work?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A 'Sell and Stay Program' allows you to sell your current home while remaining in it for an agreed-upon period after the sale closes. This is typically facilitated through a leaseback agreement, where you become a tenant in your former property. The program provides immediate access to your home equity without the need to rush into a new living situation. The duration of the leaseback is a practical tradeoff, balancing your need for continued occupancy with the buyer's desired move-in timeline.",
+        "@type": "Answer",
+        "description": "A 'Sell and Stay Program' allows you to sell your home and remain in it for a period via a leaseback agreement, providing equity access without immediate relocation."
+      }
+    }
+  ],
+  "description": "A 'Sell and Stay Program' allows you to sell your home and remain in it for a period via a leaseback agreement, providing equity access without immediate reloca"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/how-long-can-i-typically-stay-in-my-home-after-selling-it-through-this-program",
+  "name": "How long can I typically stay in my home after selling it through this program?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long can I typically stay in my home after selling it through this program?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The duration you can stay in your home after selling is highly negotiable and depends on the buyer's flexibility and your specific needs. Leaseback periods can range from a few weeks to several months, or even longer in some cases, often subject to state-specific tenancy laws. The practical tradeoff is that longer leaseback periods might limit your pool of potential buyers, as some buyers require immediate occupancy, impacting the timing of the sale.",
+        "@type": "Answer",
+        "description": "The leaseback duration is negotiable, typically from weeks to several months, and depends on buyer flexibility and your needs."
+      }
+    }
+  ],
+  "description": "The leaseback duration is negotiable, typically from weeks to several months, and depends on buyer flexibility and your needs."
+}

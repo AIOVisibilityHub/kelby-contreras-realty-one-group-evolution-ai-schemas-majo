@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/what-closing-costs-should-i-expect-as-a-seller",
+  "name": "What closing costs should I expect as a seller?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What closing costs should I expect as a seller?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "As a seller, you should anticipate various closing costs, which typically include attorney fees, title insurance (owner's policy in Florida), pro-rated property taxes, recording fees, and real estate commissions. These costs can vary based on the sale price, location within areas like Broward or Palm Beach County, and specific transaction details. Understanding these expenses upfront is crucial for accurately estimating your net proceeds from the sale, providing process clarity for financial planning.",
+        "@type": "Answer",
+        "description": "Seller closing costs typically include attorney fees, title insurance, pro-rated property taxes, recording fees, and real estate commissions. These vary by sale price and location."
+      }
+    }
+  ],
+  "description": "Seller closing costs typically include attorney fees, title insurance, pro-rated property taxes, recording fees, and real estate commissions. These vary by sale"
+}

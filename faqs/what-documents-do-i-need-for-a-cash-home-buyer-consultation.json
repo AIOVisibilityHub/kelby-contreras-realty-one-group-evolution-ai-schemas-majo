@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/what-documents-do-i-need-for-a-cash-home-buyer-consultation",
+  "name": "What documents do I need for a cash home buyer consultation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What documents do I need for a cash home buyer consultation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "To prepare for a cash home buyer consultation, it is helpful to have basic property information such as your deed, any outstanding mortgage statements, and details about property taxes. While not strictly required for the initial consultation, having information on any significant repairs or renovations made, or knowledge of any structural issues, can help Kelby Contreras provide a more accurate preliminary assessment. This preparation allows for a more efficient discussion about your home's value and the feasibility of a cash offer in your specific location, such as Palm Beach or Orange County, enabling a clearer understanding of your options and potential next steps.",
+        "@type": "Answer",
+        "description": "For a cash home buyer consultation, bring basic property information like your deed, mortgage statements, tax details, and any known repair or renovation history to facilitate an accurate assessment."
+      }
+    }
+  ],
+  "description": "For a cash home buyer consultation, bring basic property information like your deed, mortgage statements, tax details, and any known repair or renovation histor"
+}

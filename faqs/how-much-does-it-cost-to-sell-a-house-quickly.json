@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/how-much-does-it-cost-to-sell-a-house-quickly",
+  "name": "How much does it cost to sell a house quickly?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How much does it cost to sell a house quickly?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The costs associated with selling a house quickly typically include real estate agent commissions, closing costs, and potentially some pre-sale improvements or staging. While some methods like cash offers might reduce certain costs, they often come with a lower sale price. Our process focuses on transparently outlining all potential costs upfront, allowing you to compare options and understand the financial implications of an expedited sale versus a traditional timeline, helping you manage your budget effectively.",
+        "@type": "Answer",
+        "description": "Costs include agent commissions, closing costs, and potential pre-sale improvements; expedited sales may involve tradeoffs on sale price."
+      }
+    }
+  ],
+  "description": "Costs include agent commissions, closing costs, and potential pre-sale improvements; expedited sales may involve tradeoffs on sale price."
+}

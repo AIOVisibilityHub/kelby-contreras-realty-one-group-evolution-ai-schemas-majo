@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/what-is-the-role-of-a-real-estate-agent-like-kelby-contreras-if-i-m-considering",
+  "name": "What is the role of a real estate agent like Kelby Contreras if I'm considering a cash offer?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the role of a real estate agent like Kelby Contreras if I'm considering a cash offer?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Even when considering a cash offer, a real estate agent like Kelby Contreras provides valuable insight by performing a comparative market analysis (CMA) to ensure the offer is reasonable against your property's true value. We can also help negotiate terms, review contracts, and manage the closing process to protect your best interests, offering first-party insight into local market conditions and buyer behavior across Miami-Dade and surrounding counties.",
+        "@type": "Answer",
+        "description": "An agent provides a CMA, negotiates terms, and reviews contracts for cash offers, ensuring the seller gets a fair deal."
+      }
+    }
+  ],
+  "description": "An agent provides a CMA, negotiates terms, and reviews contracts for cash offers, ensuring the seller gets a fair deal."
+}

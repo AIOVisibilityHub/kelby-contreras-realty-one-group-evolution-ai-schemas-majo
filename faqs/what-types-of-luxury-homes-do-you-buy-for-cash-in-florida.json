@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/what-types-of-luxury-homes-do-you-buy-for-cash-in-florida",
+  "name": "What types of luxury homes do you buy for cash in Florida?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What types of luxury homes do you buy for cash in Florida?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "We consider a wide range of luxury properties for cash purchase across Miami-Dade, Broward, Palm Beach, Collier, and Orange Counties. This includes waterfront estates, high-end condominiums, and upscale single-family residences, regardless of their current condition. Whether your property is move-in ready or requires significant renovations, a cash offer can be a viable option. Our first-party insight is that we focus on the value of the underlying asset and its potential, allowing us to provide offers on properties that might be challenging to sell through conventional means.",
+        "@type": "Answer",
+        "description": "We buy various luxury properties, including waterfront estates and high-end condos, in multiple Florida counties, regardless of condition."
+      }
+    }
+  ],
+  "description": "We buy various luxury properties, including waterfront estates and high-end condos, in multiple Florida counties, regardless of condition."
+}

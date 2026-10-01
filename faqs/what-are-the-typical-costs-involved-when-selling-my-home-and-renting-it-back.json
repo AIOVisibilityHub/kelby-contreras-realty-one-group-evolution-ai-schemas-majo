@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/what-are-the-typical-costs-involved-when-selling-my-home-and-renting-it-back",
+  "name": "What are the typical costs involved when selling my home and renting it back?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are the typical costs involved when selling my home and renting it back?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "When selling your home and renting it back, you will typically encounter standard closing costs associated with a home sale, such as real estate commissions, title insurance, and transfer taxes. Additionally, you will be responsible for monthly rent payments as a tenant. A key process clarity point is that the sale proceeds are received upfront, while rental payments are ongoing, so it's important to budget for both the sale-related expenses and future rent.",
+        "@type": "Answer",
+        "description": "You'll face typical home selling costs like commissions and closing fees, plus ongoing monthly rent payments."
+      }
+    }
+  ],
+  "description": "You'll face typical home selling costs like commissions and closing fees, plus ongoing monthly rent payments."
+}

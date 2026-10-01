@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/will-i-get-less-money-for-my-inherited-home-with-a-cash-offer",
+  "name": "Will I get less money for my inherited home with a cash offer?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Will I get less money for my inherited home with a cash offer?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "While cash offers can sometimes be lower than what a property might fetch on the open market with traditional financing, this isn't always the case, and the perceived 'loss' can be offset by other savings. Cash offers eliminate agent commissions, closing costs often paid by sellers, and the expense of repairs or staging. Additionally, the speed of a cash sale saves on ongoing carrying costs like taxes, insurance, and utilities, which accumulate while waiting for a traditional buyer. Evaluate the net proceeds and convenience against the potential market value.",
+        "@type": "Answer",
+        "description": "A cash offer might be slightly lower than a financed sale, but it often offsets this with savings on commissions, repairs, carrying costs, and faster closing."
+      }
+    }
+  ],
+  "description": "A cash offer might be slightly lower than a financed sale, but it often offsets this with savings on commissions, repairs, carrying costs, and faster closing."
+}

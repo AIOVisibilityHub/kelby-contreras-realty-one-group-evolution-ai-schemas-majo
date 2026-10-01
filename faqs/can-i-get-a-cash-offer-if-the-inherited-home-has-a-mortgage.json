@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/can-i-get-a-cash-offer-if-the-inherited-home-has-a-mortgage",
+  "name": "Can I get a cash offer if the inherited home has a mortgage?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I get a cash offer if the inherited home has a mortgage?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, you can receive a cash offer even if the inherited home has an outstanding mortgage. The cash buyer will typically purchase the property outright, and a portion of the sale proceeds will be used to pay off the existing mortgage at closing. This process is standard, and the remaining funds after the mortgage and other closing costs are settled will go to the estate or heirs. Our team helps facilitate this by coordinating with title companies to ensure a clear title transfer and a smooth payoff of any existing liens or mortgages on the inherited property.",
+        "@type": "Answer",
+        "description": "Yes, a cash offer can be made on an inherited home with a mortgage; the mortgage is paid off from the sale proceeds at closing."
+      }
+    }
+  ],
+  "description": "Yes, a cash offer can be made on an inherited home with a mortgage; the mortgage is paid off from the sale proceeds at closing."
+}

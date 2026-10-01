@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/what-are-the-typical-closing-costs-when-selling-a-rental-property-for-cash",
+  "name": "What are the typical closing costs when selling a rental property for cash?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are the typical closing costs when selling a rental property for cash?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Even with a cash offer, sellers typically incur closing costs such as title insurance, transfer taxes, attorney fees, and real estate commissions. While buyers pay their own closing costs, the seller's expenses remain largely consistent whether the buyer pays with cash or secures financing, though some fees like lender-related charges are absent. Understanding these costs upfront helps in calculating the net proceeds from a sale. Kelby Contreras can provide an estimated breakdown of these costs based on your specific property's location within our service areas, like Palm Beach or Collier County.",
+        "@type": "Answer",
+        "description": "Sellers of rental properties still incur standard closing costs like title insurance, transfer taxes, and commissions, even with a cash offer."
+      }
+    }
+  ],
+  "description": "Sellers of rental properties still incur standard closing costs like title insurance, transfer taxes, and commissions, even with a cash offer."
+}

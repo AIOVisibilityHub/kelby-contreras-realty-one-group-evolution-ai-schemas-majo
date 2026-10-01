@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/will-i-get-less-money-if-i-sell-my-house-for-cash",
+  "name": "Will I get less money if I sell my house for cash?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Will I get less money if I sell my house for cash?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Often, cash offers may be slightly lower than what you might achieve through a traditional market listing because cash buyers typically seek to acquire properties at a discount to compensate for the speed, convenience, and assumption of potential repair costs. This is a practical tradeoff: you gain speed and avoid costs like repairs, staging, and agent commissions, but you might receive a lower purchase price than if you waited for a traditional buyer. Consider your priorities—speed versus potential profit—when evaluating a cash offer.",
+        "@type": "Answer",
+        "description": "Cash offers may be lower than traditional sales, balancing speed and convenience against a potentially higher market price."
+      }
+    }
+  ],
+  "description": "Cash offers may be lower than traditional sales, balancing speed and convenience against a potentially higher market price."
+}

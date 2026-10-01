@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/how-quickly-can-i-close-on-a-cash-condo-sale",
+  "name": "How quickly can I close on a cash condo sale?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How quickly can I close on a cash condo sale?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Cash condo sales can close much faster than traditional sales, often within 7 to 14 days, depending on the specifics of the transaction and property. The absence of loan processing times removes a significant bottleneck. Kelby Contreras facilitates efficient title searches and documentation, aiming to minimize delays in your specific Florida market.",
+        "@type": "Answer",
+        "description": "Cash sales can close rapidly, often within 7-14 days, as they bypass mortgage-related delays."
+      }
+    }
+  ],
+  "description": "Cash sales can close rapidly, often within 7-14 days, as they bypass mortgage-related delays."
+}

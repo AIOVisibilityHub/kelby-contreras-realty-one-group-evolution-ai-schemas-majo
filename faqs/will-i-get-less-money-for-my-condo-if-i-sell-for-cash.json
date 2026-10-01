@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/will-i-get-less-money-for-my-condo-if-i-sell-for-cash",
+  "name": "Will I get less money for my condo if I sell for cash?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Will I get less money for my condo if I sell for cash?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Not necessarily. While some cash buyers seek discounted prices for a quick sale, it's not a universal rule. The final price depends on market conditions, the condo's condition, and buyer motivation. The convenience and reduced holding costs of a cash sale can offset potential differences in price. Kelby Contreras helps evaluate offers to ensure you understand the full value proposition of a cash offer versus a financed one in your specific county.",
+        "@type": "Answer",
+        "description": "You don't always get less for a cash sale; the final price depends on market conditions and convenience."
+      }
+    }
+  ],
+  "description": "You don't always get less for a cash sale; the final price depends on market conditions and convenience."
+}

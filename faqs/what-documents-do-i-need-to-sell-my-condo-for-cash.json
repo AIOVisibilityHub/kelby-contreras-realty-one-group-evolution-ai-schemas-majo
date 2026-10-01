@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/what-documents-do-i-need-to-sell-my-condo-for-cash",
+  "name": "What documents do I need to sell my condo for cash?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What documents do I need to sell my condo for cash?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "To sell your condo for cash, you will typically need your deed, proof of clear title, HOA documents (declaration, bylaws, financial statements), and any existing leases if applicable. Having these ready in advance can expedite the process significantly. Kelby Contreras can guide you through gathering the necessary paperwork for a smooth transaction in areas like Palm Beach or Orange County.",
+        "@type": "Answer",
+        "description": "Required documents typically include your deed, clear title proof, and HOA documents."
+      }
+    }
+  ],
+  "description": "Required documents typically include your deed, clear title proof, and HOA documents."
+}

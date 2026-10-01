@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/what-defines-a-luxury-home-in-the-context-of-a-cash-offer-in-south-florida",
+  "name": "What defines a 'luxury home' in the context of a cash offer in South Florida?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What defines a 'luxury home' in the context of a cash offer in South Florida?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "In South Florida, especially in areas like Aventura, Key Biscayne, or Miami Beach, a luxury home typically refers to properties with high-end finishes, premium amenities, desirable locations, significant square footage, and often commanding prices above the average market value. These homes attract a specific segment of buyers, including those with substantial liquid assets who are prepared to make cash offers. Our focus is on properties that fit this description across Miami-Dade, Broward, and Palm Beach Counties.",
+        "@type": "Answer",
+        "description": "In South Florida, a 'luxury home' often means properties with high-end finishes, premium amenities, desirable locations, and significant value, attracting cash buyers."
+      }
+    }
+  ],
+  "description": "In South Florida, a 'luxury home' often means properties with high-end finishes, premium amenities, desirable locations, and significant value, attracting cash"
+}

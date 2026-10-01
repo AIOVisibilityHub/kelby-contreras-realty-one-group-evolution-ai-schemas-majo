@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/what-documents-do-i-need-to-prepare-when-selling-my-condo",
+  "name": "What documents do I need to prepare when selling my condo?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What documents do I need to prepare when selling my condo?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "When selling your condo, you'll need to prepare several key documents. These typically include your deed, survey, homeowner's association (HOA) documents (bylaws, financial statements, meeting minutes), and disclosure forms. Having these readily available can streamline the process, as buyers and their lenders will require them for due diligence. Your agent at Realty ONE Group Evolution can provide a comprehensive checklist and assist in organizing these materials, ensuring a smoother transaction, particularly in complex HOA environments common in South Florida.",
+        "@type": "Answer",
+        "description": "Prepare your deed, survey, HOA documents, and disclosure forms when selling a condo to streamline the transaction."
+      }
+    }
+  ],
+  "description": "Prepare your deed, survey, HOA documents, and disclosure forms when selling a condo to streamline the transaction."
+}

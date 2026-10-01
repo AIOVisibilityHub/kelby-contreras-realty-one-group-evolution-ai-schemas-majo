@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/how-does-a-sale-leaseback-impact-my-credit-score",
+  "name": "How does a sale-leaseback impact my credit score?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How does a sale-leaseback impact my credit score?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Selling your home in a sale-leaseback can impact your credit score, primarily if the proceeds are used to pay off existing debts like a mortgage, which can positively affect your debt-to-income ratio. However, you will no longer own an asset, and your financial profile changes from homeowner to renter. A decision factor here is considering your overall financial plan; while it can improve liquidity, it also changes your asset base, which lenders might view differently for future credit needs.",
+        "@type": "Answer",
+        "description": "A sale-leaseback can impact your credit by improving your debt-to-income ratio if a mortgage is paid off, but you will no longer own property."
+      }
+    }
+  ],
+  "description": "A sale-leaseback can impact your credit by improving your debt-to-income ratio if a mortgage is paid off, but you will no longer own property."
+}

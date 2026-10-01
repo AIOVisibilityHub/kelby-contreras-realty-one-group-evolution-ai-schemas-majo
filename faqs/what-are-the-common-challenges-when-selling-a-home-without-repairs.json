@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/what-are-the-common-challenges-when-selling-a-home-without-repairs",
+  "name": "What are the common challenges when selling a home without repairs?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are the common challenges when selling a home without repairs?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Selling a home without repairs often presents challenges related to buyer expectations and property value. Buyers typically factor in the cost of necessary repairs and renovations when making an offer, which can lead to lower bids than for a fully updated home. You might also encounter a smaller pool of potential buyers, as many prefer move-in ready properties. Disclosing all known material defects is legally required in Florida, and this transparency can sometimes deter buyers or lead to more extensive negotiations. It's crucial to prepare for these aspects and have a clear understanding of your property's condition to manage buyer expectations effectively.",
+        "@type": "Answer",
+        "description": "Challenges include lower offers and a smaller buyer pool, as buyers account for necessary repairs."
+      }
+    }
+  ],
+  "description": "Challenges include lower offers and a smaller buyer pool, as buyers account for necessary repairs."
+}

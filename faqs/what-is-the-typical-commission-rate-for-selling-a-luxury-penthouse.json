@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/what-is-the-typical-commission-rate-for-selling-a-luxury-penthouse",
+  "name": "What is the typical commission rate for selling a luxury penthouse?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the typical commission rate for selling a luxury penthouse?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Real estate commission rates for selling a luxury penthouse are typically negotiated between the seller and the listing agent, often ranging from 4% to 6% of the sale price, which is then usually split between the buyer's and seller's agents. This rate covers extensive marketing efforts, professional services, and expert negotiation required for high-value properties. Commission structures can be discussed and tailored during the initial consultation.",
+        "@type": "Answer",
+        "description": "Commission rates for selling a luxury penthouse typically range from 4% to 6% of the sale price, negotiable between the seller and agent. This covers comprehensive marketing and services."
+      }
+    }
+  ],
+  "description": "Commission rates for selling a luxury penthouse typically range from 4% to 6% of the sale price, negotiable between the seller and agent. This covers comprehens"
+}

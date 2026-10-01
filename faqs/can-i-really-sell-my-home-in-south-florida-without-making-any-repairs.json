@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/can-i-really-sell-my-home-in-south-florida-without-making-any-repairs",
+  "name": "Can I really sell my home in South Florida without making any repairs?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I really sell my home in South Florida without making any repairs?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, you can sell your home in South Florida without making any repairs, often referred to as selling",
+        "@type": "Answer",
+        "description": "Yes, you can sell your home in South Florida without making any repairs, but be aware of the potential trade-offs."
+      }
+    }
+  ],
+  "description": "Yes, you can sell your home in South Florida without making any repairs, but be aware of the potential trade-offs."
+}

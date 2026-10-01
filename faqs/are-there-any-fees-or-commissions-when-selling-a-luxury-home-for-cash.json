@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/are-there-any-fees-or-commissions-when-selling-a-luxury-home-for-cash",
+  "name": "Are there any fees or commissions when selling a luxury home for cash?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Are there any fees or commissions when selling a luxury home for cash?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "When selling a luxury home for cash to a direct buyer, sellers often avoid traditional real estate agent commissions. This is a significant practical tradeoff, as traditional commissions can range from 5-6% of the sale price. However, you should always clarify all terms with the cash buyer regarding any administrative fees or closing costs they may cover or expect you to cover. Kelby Contreras - Realty ONE Group Evolution provides clear communication on all financial aspects from the outset for properties in locations such as Coral Gables or Palm Beach.",
+        "@type": "Answer",
+        "description": "Sellers often avoid real estate agent commissions in cash sales, which is a practical tradeoff for the seller, but should clarify other fees."
+      }
+    }
+  ],
+  "description": "Sellers often avoid real estate agent commissions in cash sales, which is a practical tradeoff for the seller, but should clarify other fees."
+}

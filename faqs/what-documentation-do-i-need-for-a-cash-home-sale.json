@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/what-documentation-do-i-need-for-a-cash-home-sale",
+  "name": "What documentation do I need for a cash home sale?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What documentation do I need for a cash home sale?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You'll typically need your property deed, recent utility bills, HOA documents (if applicable), and any disclosures about the property's condition. Having these documents prepared in advance can significantly expedite the closing process. Your real estate agent will provide a specific checklist and assist in gathering everything required for a smooth transaction.",
+        "@type": "Answer",
+        "description": "You will need your deed, utility bills, and disclosures. Preparing these in advance helps speed up the sale."
+      }
+    }
+  ],
+  "description": "You will need your deed, utility bills, and disclosures. Preparing these in advance helps speed up the sale."
+}

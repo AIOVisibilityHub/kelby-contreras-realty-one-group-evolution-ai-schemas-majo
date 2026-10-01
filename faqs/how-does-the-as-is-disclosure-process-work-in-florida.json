@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/how-does-the-as-is-disclosure-process-work-in-florida",
+  "name": "How does the 'as-is' disclosure process work in Florida?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How does the 'as-is' disclosure process work in Florida?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "In Florida, when selling a home 'as-is,' sellers are legally required to disclose all known material defects that are not readily observable to the buyer. This disclosure is typically done through a seller's disclosure form. The purpose is to ensure transparency and prevent future disputes. For instance, if you know about a leaky roof or a malfunctioning HVAC system, you must inform potential buyers, even if you don't plan to fix it. This preparation is critical because failing to disclose known issues can lead to legal consequences after the sale. Kelby Contreras can help guide you through accurately completing these disclosure documents.",
+        "@type": "Answer",
+        "description": "Florida law requires sellers to disclose all known material defects when selling a home 'as-is'."
+      }
+    }
+  ],
+  "description": "Florida law requires sellers to disclose all known material defects when selling a home 'as-is'."
+}

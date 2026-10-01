@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/what-costs-are-involved-when-selling-an-oceanfront-condo",
+  "name": "What costs are involved when selling an oceanfront condo?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What costs are involved when selling an oceanfront condo?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Costs associated with selling an oceanfront condo can include real estate agent commissions, closing costs (such as title insurance fees, documentary stamp taxes, and escrow fees), potential repairs or staging, and any outstanding HOA fees or assessments. A practical tradeoff is weighing the cost of minor renovations or staging against a potentially higher sale price and faster transaction. Kelby Contreras can provide a detailed estimate of potential selling costs based on your specific property and market conditions in areas like Palm Beach or Delray Beach.",
+        "@type": "Answer",
+        "description": "Selling costs include agent commissions, closing costs, potential repairs, and HOA fees."
+      }
+    }
+  ],
+  "description": "Selling costs include agent commissions, closing costs, potential repairs, and HOA fees."
+}

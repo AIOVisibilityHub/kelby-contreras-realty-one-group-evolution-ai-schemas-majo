@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/what-types-of-properties-do-cash-home-buyers-purchase-in-miami-dade-county",
+  "name": "What types of properties do cash home buyers purchase in Miami-Dade County?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What types of properties do cash home buyers purchase in Miami-Dade County?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Cash home buyers in Miami-Dade County and surrounding areas often purchase a wide range of properties, including single-family homes, townhouses, and condos, particularly those in 'as-is' condition or needing significant repairs. They are often interested in properties that might be difficult to sell through traditional channels due to their condition or a seller's urgent timeline. Kelby Contreras works with various cash buyers who specialize in different types of properties and situations. During a consultation, we can determine if your specific property type and condition in Miami-Dade County aligns with the acquisition criteria of active cash buyers, providing you with tailored options.",
+        "@type": "Answer",
+        "description": "Cash home buyers in Miami-Dade County purchase various properties, especially those in 'as-is' condition or needing repairs. Kelby Contreras can assess if your property type fits their acquisition criteria."
+      }
+    }
+  ],
+  "description": "Cash home buyers in Miami-Dade County purchase various properties, especially those in 'as-is' condition or needing repairs. Kelby Contreras can assess if your"
+}

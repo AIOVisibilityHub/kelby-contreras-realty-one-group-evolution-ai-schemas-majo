@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/are-cash-offers-always-legitimate-and-how-can-i-verify-them",
+  "name": "Are cash offers always legitimate, and how can I verify them?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Are cash offers always legitimate, and how can I verify them?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Not all cash offers are from reputable buyers. To verify legitimacy, ensure the buyer can provide proof of funds, such as bank statements or a letter from a financial institution. Work with a trusted real estate professional who can vet potential buyers and contracts. Kelby Contreras and Realty ONE Group Evolution can help you identify genuine offers and protect your interests throughout the transaction process.",
+        "@type": "Answer",
+        "description": "Verify cash offers by requesting proof of funds; a real estate professional can help vet the buyer and contract."
+      }
+    }
+  ],
+  "description": "Verify cash offers by requesting proof of funds; a real estate professional can help vet the buyer and contract."
+}

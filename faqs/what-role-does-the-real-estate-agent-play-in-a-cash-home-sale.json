@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/what-role-does-the-real-estate-agent-play-in-a-cash-home-sale",
+  "name": "What role does the real estate agent play in a cash home sale?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What role does the real estate agent play in a cash home sale?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Your real estate agent, like Kelby Contreras, facilitates the entire process, from marketing your property to cash buyers, negotiating the offer, coordinating inspections, and overseeing the closing. They ensure all legal requirements are met and help navigate any issues that arise, ensuring a smooth and efficient transaction for sellers in Miami-Dade, Broward, Palm Beach, Collier, and Orange Counties.",
+        "@type": "Answer",
+        "description": "A real estate agent markets the property to cash buyers, negotiates, coordinates, and oversees the closing process."
+      }
+    }
+  ],
+  "description": "A real estate agent markets the property to cash buyers, negotiates, coordinates, and oversees the closing process."
+}

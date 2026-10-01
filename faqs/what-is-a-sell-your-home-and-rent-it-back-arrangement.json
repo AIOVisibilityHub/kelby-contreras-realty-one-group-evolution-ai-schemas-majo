@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/what-is-a-sell-your-home-and-rent-it-back-arrangement",
+  "name": "What is a 'Sell Your Home and Rent It Back' arrangement?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is a 'Sell Your Home and Rent It Back' arrangement?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A 'Sell Your Home and Rent It Back' arrangement, also known as a sale-leaseback, allows you to sell your property to an investor or company and then continue living in it as a tenant. This process provides immediate liquidity from the sale of your home while allowing you to avoid the disruption of moving. It's often considered by homeowners seeking financial flexibility without relocating, offering a practical tradeoff between ownership and tenancy.",
+        "@type": "Answer",
+        "description": "It's a process where you sell your home and then rent it back from the new owner, gaining immediate cash while staying in your current residence."
+      }
+    }
+  ],
+  "description": "It's a process where you sell your home and then rent it back from the new owner, gaining immediate cash while staying in your current residence."
+}

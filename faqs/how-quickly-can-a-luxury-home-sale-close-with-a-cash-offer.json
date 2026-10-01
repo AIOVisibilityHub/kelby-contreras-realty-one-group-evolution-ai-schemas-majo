@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/how-quickly-can-a-luxury-home-sale-close-with-a-cash-offer",
+  "name": "How quickly can a luxury home sale close with a cash offer?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How quickly can a luxury home sale close with a cash offer?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A cash offer can significantly expedite the closing timeline compared to a financed purchase. While a traditional mortgage-backed sale might take 30-60 days or more, a cash transaction could potentially close in as little as 7-14 days, depending on factors like title searches, inspections, and local county recording processes. The exact timing will depend on the readiness of all documents and the efficiency of the title company in Miami-Dade or Broward County, for example.",
+        "@type": "Answer",
+        "description": "Cash offers for luxury homes can close much faster, potentially in 7-14 days, as they bypass mortgage approval times."
+      }
+    }
+  ],
+  "description": "Cash offers for luxury homes can close much faster, potentially in 7-14 days, as they bypass mortgage approval times."
+}

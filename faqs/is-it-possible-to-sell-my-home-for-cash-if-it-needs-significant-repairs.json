@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/is-it-possible-to-sell-my-home-for-cash-if-it-needs-significant-repairs",
+  "name": "Is it possible to sell my home for cash if it needs significant repairs?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Is it possible to sell my home for cash if it needs significant repairs?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, many cash home buyers specialize in purchasing properties that require significant repairs or renovations. These buyers often factor the cost of repairs into their offer price. It's a practical tradeoff: you avoid renovation costs and time, but the offer may reflect the buyer's planned investment in the property.",
+        "@type": "Answer",
+        "description": "Many cash buyers purchase homes needing repairs, factoring renovation costs into their offer."
+      }
+    }
+  ],
+  "description": "Many cash buyers purchase homes needing repairs, factoring renovation costs into their offer."
+}

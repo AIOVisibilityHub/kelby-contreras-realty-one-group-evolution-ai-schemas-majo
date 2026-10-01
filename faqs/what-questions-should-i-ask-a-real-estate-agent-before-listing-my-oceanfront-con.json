@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/what-questions-should-i-ask-a-real-estate-agent-before-listing-my-oceanfront-con",
+  "name": "What questions should I ask a real estate agent before listing my oceanfront condo?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What questions should I ask a real estate agent before listing my oceanfront condo?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Before listing, ask potential agents about their experience selling oceanfront properties in your specific area, their proposed marketing strategy, and their understanding of local market conditions and buyer trends. As a first-party insight, Kelby Contreras welcomes questions about specific neighborhood expertise, such as in Surfside or Williams Island, and how our network and resources at Realty ONE Group Evolution can maximize exposure for your unique property. Understanding their approach to pricing and negotiation is also vital.",
+        "@type": "Answer",
+        "description": "Ask about an agent's experience with oceanfront properties, their marketing plan, and local market expertise."
+      }
+    }
+  ],
+  "description": "Ask about an agent's experience with oceanfront properties, their marketing plan, and local market expertise."
+}

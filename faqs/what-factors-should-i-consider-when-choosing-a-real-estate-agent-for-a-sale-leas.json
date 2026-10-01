@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/what-factors-should-i-consider-when-choosing-a-real-estate-agent-for-a-sale-leas",
+  "name": "What factors should I consider when choosing a real estate agent for a sale-leaseback?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What factors should I consider when choosing a real estate agent for a sale-leaseback?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "When choosing a real estate agent for a sale-leaseback, look for someone with experience in structuring these specific types of transactions and who understands the intricacies of both sale and lease agreements. Expertise in local market conditions, like those in Palm Beach or Collier County, is also critical for accurate pricing and negotiation. An agent who can clearly explain the process, anticipate potential issues, and advocate for your best interests during negotiations is essential for a smooth outcome.",
+        "@type": "Answer",
+        "description": "Choose an agent with experience in sale-leaseback transactions, strong local market knowledge, and the ability to negotiate effectively to protect your interests."
+      }
+    }
+  ],
+  "description": "Choose an agent with experience in sale-leaseback transactions, strong local market knowledge, and the ability to negotiate effectively to protect your interest"
+}

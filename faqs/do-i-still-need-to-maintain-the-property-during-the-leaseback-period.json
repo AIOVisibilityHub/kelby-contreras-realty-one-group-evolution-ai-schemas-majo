@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/do-i-still-need-to-maintain-the-property-during-the-leaseback-period",
+  "name": "Do I still need to maintain the property during the leaseback period?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do I still need to maintain the property during the leaseback period?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The leaseback agreement will detail maintenance responsibilities. Typically, as the tenant, you will be responsible for routine maintenance, such as keeping the property clean and handling minor repairs. The new owner, as the landlord, would usually be responsible for major structural repairs and system replacements. This division of responsibility should be clearly outlined in your agreement. Understanding these terms is part of the preparation needed before committing to the program.",
+        "@type": "Answer",
+        "description": "Typically, you are responsible for routine maintenance, while the new owner handles major repairs, as outlined in the lease agreement."
+      }
+    }
+  ],
+  "description": "Typically, you are responsible for routine maintenance, while the new owner handles major repairs, as outlined in the lease agreement."
+}

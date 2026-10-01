@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/what-costs-are-involved-when-selling-a-vacant-home-for-cash",
+  "name": "What costs are involved when selling a vacant home for cash?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What costs are involved when selling a vacant home for cash?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "When selling a vacant home for cash, typical costs can include transfer taxes, title insurance, prorated property taxes, and potentially agent commissions if you use one. However, some cash buyers offer to cover most or all closing costs, which can vary based on the specific agreement and local regulations in areas like Miami-Dade County. It's essential to clarify who is responsible for each closing expense in the offer. This process reduces the financial burden on the seller, especially compared to preparing a vacant home for a traditional sale.",
+        "@type": "Answer",
+        "description": "Costs for selling a vacant home for cash generally include transfer taxes and title insurance, though some cash buyers may cover these expenses."
+      }
+    }
+  ],
+  "description": "Costs for selling a vacant home for cash generally include transfer taxes and title insurance, though some cash buyers may cover these expenses."
+}

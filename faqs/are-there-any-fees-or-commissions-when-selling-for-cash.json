@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/are-there-any-fees-or-commissions-when-selling-for-cash",
+  "name": "Are there any fees or commissions when selling for cash?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Are there any fees or commissions when selling for cash?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "When selling directly to a cash buyer, you typically do not pay real estate agent commissions, as the buyer is often a direct investor. However, you will still be responsible for standard closing costs such as title insurance, transfer taxes, and other transactional fees, which vary by location. Understanding these costs upfront is part of the preparation needed to accurately assess the net proceeds from a cash offer.",
+        "@type": "Answer",
+        "description": "Direct cash sales typically avoid agent commissions but still involve standard closing costs like title insurance and transfer taxes."
+      }
+    }
+  ],
+  "description": "Direct cash sales typically avoid agent commissions but still involve standard closing costs like title insurance and transfer taxes."
+}

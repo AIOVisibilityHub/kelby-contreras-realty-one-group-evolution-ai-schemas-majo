@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/what-is-the-process-for-selling-my-condo-for-cash",
+  "name": "What is the process for selling my condo for cash?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the process for selling my condo for cash?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The process for selling your condo for cash typically begins with an offer review and negotiation, similar to a financed sale. Once terms are agreed upon, the buyer usually conducts inspections, and a title search is initiated. Crucially, the buyer will still need to obtain condominium association approval, which is a standard requirement for most condo sales in our service areas. The closing then proceeds once all contingencies, including association approval, are met and title is clear. We guide you through each step, ensuring all necessary documentation, like the condo declaration and bylaws, are readily available.",
+        "@type": "Answer",
+        "description": "Selling a condo for cash involves offer negotiation, inspections, title search, and crucially, condominium association approval before closing."
+      }
+    }
+  ],
+  "description": "Selling a condo for cash involves offer negotiation, inspections, title search, and crucially, condominium association approval before closing."
+}

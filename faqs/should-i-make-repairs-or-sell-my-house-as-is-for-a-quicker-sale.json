@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/should-i-make-repairs-or-sell-my-house-as-is-for-a-quicker-sale",
+  "name": "Should I make repairs or sell my house as-is for a quicker sale?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Should I make repairs or sell my house as-is for a quicker sale?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Selling a house as-is can expedite the process by eliminating time spent on renovations, but it often results in a lower selling price. Minor, cost-effective repairs, such as fresh paint or updated fixtures, can significantly improve a home's appeal and often lead to a faster sale at a better price. We recommend a consultation to weigh the potential return on investment for any repairs against the time saved by selling as-is, especially when considering the competitive markets in Broward and Palm Beach Counties.",
+        "@type": "Answer",
+        "description": "Selling as-is is faster but may yield a lower price; minor repairs can often accelerate a sale and increase value."
+      }
+    }
+  ],
+  "description": "Selling as-is is faster but may yield a lower price; minor repairs can often accelerate a sale and increase value."
+}

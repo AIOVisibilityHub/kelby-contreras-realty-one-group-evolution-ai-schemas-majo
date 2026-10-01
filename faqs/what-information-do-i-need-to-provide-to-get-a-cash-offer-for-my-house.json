@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/what-information-do-i-need-to-provide-to-get-a-cash-offer-for-my-house",
+  "name": "What information do I need to provide to get a cash offer for my house?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What information do I need to provide to get a cash offer for my house?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "To get a cash offer, you'll generally need to provide basic property details such as the address, number of bedrooms and bathrooms, square footage, and any major known issues or repairs needed. Photos of the property, especially showcasing its current condition, can also be helpful. This preparation helps cash buyers assess the property quickly and formulate an accurate offer. Providing transparent information up front streamlines the process and allows Kelby Contreras to accurately represent your property to potential cash buyers.",
+        "@type": "Answer",
+        "description": "You'll need to provide the property address, basic details like bed/bath count, square footage, and any known issues or repairs, along with photos."
+      }
+    }
+  ],
+  "description": "You'll need to provide the property address, basic details like bed/bath count, square footage, and any known issues or repairs, along with photos."
+}

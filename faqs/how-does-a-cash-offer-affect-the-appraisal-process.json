@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/how-does-a-cash-offer-affect-the-appraisal-process",
+  "name": "How does a cash offer affect the appraisal process?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How does a cash offer affect the appraisal process?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "With a cash offer, an appraisal is generally not a mandatory part of the transaction, as there's no lender requiring one to secure a loan. However, a buyer may still choose to order an appraisal for their own due diligence to ensure the property's value aligns with the offer price. A decision factor for buyers is whether to waive the appraisal contingency to make their offer more competitive, or to include it for added financial protection, understanding that waiving it can appeal more to sellers.",
+        "@type": "Answer",
+        "description": "An appraisal is typically not required for cash offers, but buyers may opt for one for due diligence."
+      }
+    }
+  ],
+  "description": "An appraisal is typically not required for cash offers, but buyers may opt for one for due diligence."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/do-i-need-an-inspection-for-an-investment-property-if-i-m-paying-cash",
+  "name": "Do I need an inspection for an investment property if I'm paying cash?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do I need an inspection for an investment property if I'm paying cash?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "While not legally required when paying cash, obtaining an inspection for an investment property is highly recommended. A thorough inspection can uncover hidden defects or costly repairs that might impact the property's value or future rental income. Waiving an inspection might make your offer more competitive, but it carries a higher risk. You gain speed in the transaction, but you trade off comprehensive due diligence. We advise our clients to carefully weigh the potential risks and benefits based on the property's condition and their investment strategy before deciding.",
+        "@type": "Answer",
+        "description": "An inspection is not legally required for a cash offer but is strongly recommended to identify potential issues and protect your investment."
+      }
+    }
+  ],
+  "description": "An inspection is not legally required for a cash offer but is strongly recommended to identify potential issues and protect your investment."
+}

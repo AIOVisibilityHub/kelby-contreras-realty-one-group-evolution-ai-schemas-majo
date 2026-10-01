@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/are-there-specific-legal-documents-or-disclosures-required-for-waterfront-proper",
+  "name": "Are there specific legal documents or disclosures required for waterfront properties in Palm Beach County?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Are there specific legal documents or disclosures required for waterfront properties in Palm Beach County?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "In Palm Beach County, like other Florida counties, specific disclosures are required for all property sales, and waterfront homes often have additional considerations. These can include disclosures related to flood zones, seawall conditions, dock permits, and any homeowner association rules pertaining to marine structures. The",
+        "@type": "Answer",
+        "description": "Waterfront homes in Palm Beach County require standard Florida disclosures plus additional ones for flood zones, seawalls, and docks. Your agent will guide you."
+      }
+    }
+  ],
+  "description": "Waterfront homes in Palm Beach County require standard Florida disclosures plus additional ones for flood zones, seawalls, and docks. Your agent will guide you."
+}

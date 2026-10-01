@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/what-does-selling-a-house-as-is-mean",
+  "name": "What does 'selling a house as-is' mean?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What does 'selling a house as-is' mean?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Selling a house 'as-is' means you are selling the property in its current condition, including any defects or repairs it may need. The buyer accepts the property with all its existing flaws, and the seller is generally not obligated to make repairs or offer credits for them. However, sellers are still legally required to disclose known material defects to potential buyers.",
+        "@type": "Answer",
+        "description": "Selling a house 'as-is' means the buyer accepts the property in its current condition with all its existing flaws, and the seller makes no repairs."
+      }
+    }
+  ],
+  "description": "Selling a house 'as-is' means the buyer accepts the property in its current condition with all its existing flaws, and the seller makes no repairs."
+}

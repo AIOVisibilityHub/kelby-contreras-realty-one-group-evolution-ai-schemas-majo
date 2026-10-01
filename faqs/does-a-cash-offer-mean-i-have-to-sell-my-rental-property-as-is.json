@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/does-a-cash-offer-mean-i-have-to-sell-my-rental-property-as-is",
+  "name": "Does a cash offer mean I have to sell my rental property 'as-is'?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Does a cash offer mean I have to sell my rental property 'as-is'?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Not necessarily. While many cash buyers prefer to purchase 'as-is' to simplify the process and potentially get a lower price, a cash offer does not automatically imply this condition. You can still negotiate terms regarding repairs or credits. The decision to sell 'as-is' depends on your property's condition, your timeline, and market demand. Kelby Contreras assists in structuring offers to protect client interests, helping you decide whether to address repairs or negotiate other terms.",
+        "@type": "Answer",
+        "description": "A cash offer doesn't automatically mean selling 'as-is'; you can still negotiate repairs or credits. The decision depends on property condition and market."
+      }
+    }
+  ],
+  "description": "A cash offer doesn't automatically mean selling 'as-is'; you can still negotiate repairs or credits. The decision depends on property condition and market."
+}

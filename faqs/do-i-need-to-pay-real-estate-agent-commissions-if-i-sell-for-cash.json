@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/do-i-need-to-pay-real-estate-agent-commissions-if-i-sell-for-cash",
+  "name": "Do I need to pay real estate agent commissions if I sell for cash?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do I need to pay real estate agent commissions if I sell for cash?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "When selling your house for cash to an investor, you typically do not pay real estate agent commissions. This is a significant advantage as it can save you 5-6% of the sale price. With Kelby Contreras, an agent at Realty ONE Group Evolution, you can explore options that may involve a direct cash buyer, where the buyer covers their own agent fees or operates without one, resulting in no commission cost to you. This is a practical tradeoff: you forego the broader market exposure of a traditional listing but save on commission expenses.",
+        "@type": "Answer",
+        "description": "No, if you sell your house directly to a cash investor, you typically avoid real estate agent commissions, saving you a percentage of the sale price."
+      }
+    }
+  ],
+  "description": "No, if you sell your house directly to a cash investor, you typically avoid real estate agent commissions, saving you a percentage of the sale price."
+}

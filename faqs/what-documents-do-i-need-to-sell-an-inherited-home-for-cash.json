@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/what-documents-do-i-need-to-sell-an-inherited-home-for-cash",
+  "name": "What documents do I need to sell an inherited home for cash?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What documents do I need to sell an inherited home for cash?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "To sell an inherited home for cash, you'll primarily need documents related to the property's ownership and the estate. Key items include the death certificate of the deceased, the will (if one exists), and probate court documents appointing you as the executor or personal representative. You'll also need the property deed, recent tax statements, and possibly outstanding mortgage information. Our team can guide you through gathering these specific documents and coordinating with a title company to ensure all necessary paperwork is in order for a smooth transaction, especially within Florida's probate system.",
+        "@type": "Answer",
+        "description": "You'll need the death certificate, will, probate documents, property deed, and tax statements to sell an inherited home for cash."
+      }
+    }
+  ],
+  "description": "You'll need the death certificate, will, probate documents, property deed, and tax statements to sell an inherited home for cash."
+}

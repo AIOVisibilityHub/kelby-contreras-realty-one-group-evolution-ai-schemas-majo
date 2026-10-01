@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/how-long-does-it-typically-take-to-sell-a-house-in-south-florida",
+  "name": "How long does it typically take to sell a house in South Florida?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does it typically take to sell a house in South Florida?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The time it takes to sell a house in South Florida can vary significantly based on factors like market conditions, location, pricing, and property condition. While some homes may receive offers quickly, others might take longer. On average, from listing to closing, a sale can take anywhere from 60 to 120 days. Your agent can provide a more accurate estimate based on current inventory, buyer demand in your specific area like Midtown/Wynwood or Doral, and the unique characteristics of your property.",
+        "@type": "Answer",
+        "description": "Selling a house in South Florida typically takes 60 to 120 days from listing to closing, but varies based on market conditions, location, and property specifics."
+      }
+    }
+  ],
+  "description": "Selling a house in South Florida typically takes 60 to 120 days from listing to closing, but varies based on market conditions, location, and property specifics"
+}

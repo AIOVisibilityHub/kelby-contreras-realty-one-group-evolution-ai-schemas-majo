@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/what-are-the-typical-costs-associated-with-selling-to-a-cash-buyer-versus-listin",
+  "name": "What are the typical costs associated with selling to a cash buyer versus listing with an agent?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are the typical costs associated with selling to a cash buyer versus listing with an agent?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "When selling to a cash buyer, costs are generally lower as you typically avoid agent commissions, closing costs are often negotiable, and repair expenses are usually not required. Listing with an agent involves commission fees for both buyer and seller agents, plus potential costs for staging, repairs, and marketing. A practical tradeoff is balancing the lower net proceeds of a cash sale against the higher gross sale price but greater associated costs of an agent-assisted sale.",
+        "@type": "Answer",
+        "description": "Cash sales generally have fewer costs like commissions and repairs, while agent listings incur commissions, marketing, and potential repair expenses."
+      }
+    }
+  ],
+  "description": "Cash sales generally have fewer costs like commissions and repairs, while agent listings incur commissions, marketing, and potential repair expenses."
+}

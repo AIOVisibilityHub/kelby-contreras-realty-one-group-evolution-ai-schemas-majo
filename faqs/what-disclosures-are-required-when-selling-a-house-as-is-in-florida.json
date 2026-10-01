@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/what-disclosures-are-required-when-selling-a-house-as-is-in-florida",
+  "name": "What disclosures are required when selling a house 'as-is' in Florida?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What disclosures are required when selling a house 'as-is' in Florida?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "In Florida, sellers are legally required to disclose all known material defects that could affect the value or desirability of the property, even when selling 'as-is'. This includes issues like structural problems, roof leaks, plumbing issues, or environmental hazards. An important preparation step is to gather any past inspection reports or repair records you have, as these can help inform your disclosure statement and demonstrate transparency to buyers.",
+        "@type": "Answer",
+        "description": "Florida sellers must disclose all known material defects, even for 'as-is' sales. Gather past inspection reports as preparation."
+      }
+    }
+  ],
+  "description": "Florida sellers must disclose all known material defects, even for 'as-is' sales. Gather past inspection reports as preparation."
+}

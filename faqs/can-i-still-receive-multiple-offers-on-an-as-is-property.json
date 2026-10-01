@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/can-i-still-receive-multiple-offers-on-an-as-is-property",
+  "name": "Can I still receive multiple offers on an 'as-is' property?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I still receive multiple offers on an 'as-is' property?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, it is possible to receive multiple offers on an 'as-is' property, especially in competitive markets or if the property is priced attractively. Even without a commitment to repairs, strong interest can lead to bidding situations. Our team at Realty ONE Group Evolution specializes in strategic pricing and marketing to attract a broad pool of potential buyers in areas like Miami-Dade and Broward County, aiming to maximize your options even with an 'as-is' sale.",
+        "@type": "Answer",
+        "description": "Yes, 'as-is' properties can receive multiple offers, particularly with competitive pricing and strong market conditions."
+      }
+    }
+  ],
+  "description": "Yes, 'as-is' properties can receive multiple offers, particularly with competitive pricing and strong market conditions."
+}

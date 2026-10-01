@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/will-i-get-a-fair-price-for-my-luxury-home-with-a-cash-offer",
+  "name": "Will I get a fair price for my luxury home with a cash offer?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Will I get a fair price for my luxury home with a cash offer?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Cash offers are typically competitive, reflecting current market conditions and the property's value. While they might not always match the highest potential price achieved through a prolonged traditional listing, the advantage lies in the certainty and speed of the transaction. The decision factor often comes down to your priorities: is a guaranteed, fast closing more valuable than potentially holding out for a slightly higher price with more uncertainty? We evaluate properties across our service areas, including Miami Beach and Fort Lauderdale, to provide transparent and justified cash offers.",
+        "@type": "Answer",
+        "description": "Cash offers are competitive, but the final price involves a decision factor between speed/certainty and potentially a higher traditional sale price."
+      }
+    }
+  ],
+  "description": "Cash offers are competitive, but the final price involves a decision factor between speed/certainty and potentially a higher traditional sale price."
+}

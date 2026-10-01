@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/how-quickly-can-a-cash-offer-close-on-a-vacation-rental",
+  "name": "How quickly can a cash offer close on a vacation rental?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How quickly can a cash offer close on a vacation rental?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Cash offers for vacation rentals can close significantly faster than financed deals, often within 7 to 14 days, depending on inspections, title searches, and other due diligence. The absence of lender approvals removes several common delays. When preparing for a sale in areas like Palm Beach or Orange County, having all property documentation, such as rental income history and HOA information, readily available can further streamline this expedited process.",
+        "@type": "Answer",
+        "description": "Cash offers can close quickly, often within 7-14 days, as they bypass lender approvals."
+      }
+    }
+  ],
+  "description": "Cash offers can close quickly, often within 7-14 days, as they bypass lender approvals."
+}

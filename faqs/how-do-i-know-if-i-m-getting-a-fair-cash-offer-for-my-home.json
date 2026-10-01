@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/how-do-i-know-if-i-m-getting-a-fair-cash-offer-for-my-home",
+  "name": "How do I know if I'm getting a fair cash offer for my home?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do I know if I'm getting a fair cash offer for my home?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "To assess if a cash offer is fair, compare it against recent comparable sales in your area, consider the condition of your home, and factor in the time and costs you save by not doing repairs or paying agent commissions. A local real estate professional can provide a comparative market analysis (CMA) to help you understand your property's value. Kelby Contreras can offer this insight based on extensive experience in areas like Broward County.",
+        "@type": "Answer",
+        "description": "Evaluate a cash offer by comparing it to local market values and factoring in saved time and costs; a local agent can provide a CMA."
+      }
+    }
+  ],
+  "description": "Evaluate a cash offer by comparing it to local market values and factoring in saved time and costs; a local agent can provide a CMA."
+}
