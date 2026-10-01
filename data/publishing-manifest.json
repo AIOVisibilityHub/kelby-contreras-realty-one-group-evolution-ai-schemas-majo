@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "generatedAt": "2026-10-01T21:59:27.959Z",
+  "generatedAt": "2026-10-01T22:03:46.998Z",
   "client": {
     "name": "Kelby Contreras - Realty ONE Group Evolution",
     "canonicalUrl": "https://realtyonegroupevolution.aiovisibility.net",
@@ -470,7 +470,7 @@
   },
   "package": {
     "totalFiles": 2912,
-    "totalBytes": 12490578,
+    "totalBytes": 12497197,
     "stats": {
       "qna": 0,
       "faqs": 2468,
@@ -15012,7 +15012,7 @@
       },
       {
         "path": "llms.txt",
-        "bytes": 13359,
+        "bytes": 14031,
         "purpose": "LLM hint"
       },
       {
@@ -15032,32 +15032,32 @@
       },
       {
         "path": "related-destinations.json",
-        "bytes": 1923,
+        "bytes": 3684,
         "purpose": "Cross-Destination Index (Related AI Data Sources)"
       },
       {
         "path": "ai-data.html",
-        "bytes": 1409327,
+        "bytes": 1410825,
         "purpose": "Master AI data index"
       },
       {
         "path": "llms-full.txt",
-        "bytes": 412792,
+        "bytes": 413464,
         "purpose": "Extended LLM context"
       },
       {
         "path": "llms-full.md",
-        "bytes": 412792,
+        "bytes": 413464,
         "purpose": "Extended LLM context (markdown)"
       },
       {
         "path": "full-context.md",
-        "bytes": 13273,
+        "bytes": 13945,
         "purpose": "Full markdown context"
       },
       {
         "path": "README.md",
-        "bytes": 492052,
+        "bytes": 492724,
         "purpose": "Repository README"
       },
       {
@@ -15077,6 +15077,20 @@
       "url": "https://github.com/AIOVisibilityHub/kelby-contreras-realty-one-group-evolution-ai-schemas-majo",
       "pagesUrl": "https://aiovisibilityhub.github.io/kelby-contreras-realty-one-group-evolution-ai-schemas-majo/",
       "repo": "AIOVisibilityHub/kelby-contreras-realty-one-group-evolution-ai-schemas-majo"
+    },
+    "gitlab": {
+      "url": "https://gitlab.com/aiovisibilityhub/kelby-contreras-realty-one-group-evolution-ai-schemas-rh3d",
+      "pagesUrl": "https://kelby-contreras-realty-one-group-evolution-ai-schemas-rh-7dd224.gitlab.io/"
+    },
+    "kaggle": {
+      "url": "https://www.kaggle.com/datasets/aiovisibilityhub/kelby-contreras-realty-one-group-evolution-ai-schemas"
+    },
+    "sourcehut": {
+      "url": "https://aiovisibilityhub.srht.site/",
+      "pagesUrl": "https://aiovisibilityhub.srht.site/"
+    },
+    "zenodo": {
+      "url": "https://zenodo.org/record/23091493"
     }
   }
 }
