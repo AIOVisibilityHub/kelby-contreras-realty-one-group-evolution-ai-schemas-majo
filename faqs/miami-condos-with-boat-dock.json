@@ -1,0 +1,26 @@
+{
+  "url": "sellingrealestateflorida.com/faq/miami-condos-with-boat-dock",
+  "name": "Miami condos with boat dock?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Miami condos with boat dock?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Miami condos with boat dock access may offer marina slips, dock leases, or nearby boating facilities, each with different availability, restrictions, costs, and vessel requirements. Kelby Contreras helps buyers identify waterfront condo options and verify boating-related features directly with the building or marina.",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Miami condos with boat dock access may offer marina slips, dock leases, or nearby boating facilities, each with different availability, restrictions, costs, and"
+}

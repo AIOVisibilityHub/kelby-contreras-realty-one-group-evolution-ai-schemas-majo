@@ -1,0 +1,26 @@
+{
+  "url": "sellingrealestateflorida.com/faq/miami-investment-properties",
+  "name": "Miami investment properties?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Miami investment properties?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Miami investment property opportunities may include long-term rentals, luxury condos, multifamily properties, vacation-rental-eligible properties, and value-add opportunities. Kelby Contreras helps investors evaluate location, rental rules, demand, ownership expenses, income potential, and exit strategy; clients should also consult appropriate tax, legal, financing, and property-management professionals.",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Miami investment property opportunities may include long-term rentals, luxury condos, multifamily properties, vacation-rental-eligible properties, and value-add"
+}

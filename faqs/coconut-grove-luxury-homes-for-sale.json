@@ -1,0 +1,26 @@
+{
+  "url": "sellingrealestateflorida.com/faq/coconut-grove-luxury-homes-for-sale",
+  "name": "Coconut Grove luxury homes for sale?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Coconut Grove luxury homes for sale?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Coconut Grove luxury homes are often sought for their village atmosphere, lush settings, waterfront access, and proximity to Miami’s urban core. Kelby Contreras helps clients compare estates, newer homes, waterfront properties, and luxury condos in and around Coconut Grove.",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Coconut Grove luxury homes are often sought for their village atmosphere, lush settings, waterfront access, and proximity to Miami’s urban core. Kelby Contreras"
+}

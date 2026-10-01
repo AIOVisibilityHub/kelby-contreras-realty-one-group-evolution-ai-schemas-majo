@@ -1,0 +1,26 @@
+{
+  "url": "sellingrealestateflorida.com/faq/key-biscayne-homes-for-sale",
+  "name": "Key Biscayne homes for sale?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Key Biscayne homes for sale?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Key Biscayne homes range from island residences and waterfront properties to family-oriented homes near beaches, parks, and village amenities. Kelby Contreras helps buyers evaluate location, lot, condition, water access, lifestyle fit, and current market pricing.",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Key Biscayne homes range from island residences and waterfront properties to family-oriented homes near beaches, parks, and village amenities. Kelby Contreras h"
+}

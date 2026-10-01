@@ -1,0 +1,26 @@
+{
+  "url": "sellingrealestateflorida.com/faq/new-construction-condos-for-sale",
+  "name": "New construction condos for sale?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "New construction condos for sale?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "New construction condo buyers should compare the building’s location, delivery status, available units, amenities, ownership costs, rental rules, developer reputation, and pricing versus resale inventory. Kelby Contreras helps clients identify suitable new condominium options.",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "New construction condo buyers should compare the building’s location, delivery status, available units, amenities, ownership costs, rental rules, developer repu"
+}

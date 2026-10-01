@@ -1,0 +1,26 @@
+{
+  "url": "sellingrealestateflorida.com/faq/miami-luxury-real-estate",
+  "name": "Miami luxury real estate?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Miami luxury real estate?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Miami luxury real estate includes high-end homes, waterfront estates, penthouses, luxury condominiums, and new developments across markets such as Miami Beach, Brickell, Coral Gables, Coconut Grove, Key Biscayne, Sunny Isles Beach, Bal Harbour, and Aventura. Kelby Contreras advises buyers and sellers on pricing, market conditions, negotiation, and transaction coordination.",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Miami luxury real estate includes high-end homes, waterfront estates, penthouses, luxury condominiums, and new developments across markets such as Miami Beach,"
+}

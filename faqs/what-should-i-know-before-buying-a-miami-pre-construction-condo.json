@@ -1,0 +1,26 @@
+{
+  "url": "sellingrealestateflorida.com/faq/what-should-i-know-before-buying-a-miami-pre-construction-condo",
+  "name": "What should I know before buying a Miami pre-construction condo?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What should I know before buying a Miami pre-construction condo?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Before buying a Miami preconstruction condo, review the developer’s track record, proposed completion timeline, deposit schedule, unit location and views, floor plan, building amenities, association fees, rental rules, insurance considerations, projected carrying costs, resale restrictions, and the purchase contract. Preconstruction pricing and delivery schedules can change, and buyers should have their attorney and other appropriate advisors review documents before signing. Kelby Contreras helps buyers compare developments, assess available inventory and pricing tiers, select suitable units, and coordinate the purchase process through closing.",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Before buying a Miami preconstruction condo, review the developer’s track record, proposed completion timeline, deposit schedule, unit location and views, floor"
+}

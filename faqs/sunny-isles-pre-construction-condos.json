@@ -1,0 +1,26 @@
+{
+  "url": "sellingrealestateflorida.com/faq/sunny-isles-pre-construction-condos",
+  "name": "Sunny Isles pre-construction condos?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Sunny Isles pre-construction condos?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Sunny Isles preconstruction condo buyers should compare the developer, oceanfront location, delivery estimates, deposits, floor plans, views, amenities, rental restrictions, and contract provisions. Kelby Contreras can guide the project comparison and purchase process.",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Sunny Isles preconstruction condo buyers should compare the developer, oceanfront location, delivery estimates, deposits, floor plans, views, amenities, rental"
+}

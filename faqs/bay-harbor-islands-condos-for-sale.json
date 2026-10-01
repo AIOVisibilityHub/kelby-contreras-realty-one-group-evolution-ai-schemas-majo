@@ -1,0 +1,26 @@
+{
+  "url": "sellingrealestateflorida.com/faq/bay-harbor-islands-condos-for-sale",
+  "name": "Bay Harbor Islands condos for sale?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Bay Harbor Islands condos for sale?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Bay Harbor Islands condo buyers can explore boutique luxury buildings, waterfront residences, and newer developments near Bal Harbour and Miami Beach. Kelby Contreras helps compare inventory by location, water views, amenities, building quality, association costs, and ownership objectives.",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Bay Harbor Islands condo buyers can explore boutique luxury buildings, waterfront residences, and newer developments near Bal Harbour and Miami Beach. Kelby Con"
+}

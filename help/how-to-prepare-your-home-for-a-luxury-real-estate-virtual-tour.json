@@ -1,0 +1,203 @@
+{
+  "name": "How to Prepare Your Home for a Luxury Real Estate Virtual Tour",
+  "step": [
+    {
+      "name": "Step 1: Deep Clean and Declutter Thoroughly",
+      "text": "Before any virtual tour capture begins, your luxury home needs to be impeccably clean and completely decluttered. This means shining all surfaces, vacuuming, mopping, and wiping down everything. Remove all personal items like family photos, excessive decor, and anything that isn't essential to showcasing the home's features, ensuring a pristine and neutral canvas for viewers.",
+      "@type": "HowToStep",
+      "position": 1
+    },
+    {
+      "name": "Step 2: Stage the Property Thoughtfully",
+      "text": "Staging is critical for a luxury virtual tour; it helps potential buyers envision themselves living in the space. Arrange furniture to maximize flow and highlight architectural features. If professional staging isn't an option, ensure your existing furnishings are clean, in excellent condition, and strategically placed to create inviting vignettes and a sense of spaciousness.",
+      "@type": "HowToStep",
+      "position": 2
+    },
+    {
+      "name": "Step 3: Optimize Lighting and Ambiance",
+      "text": "Natural light is your best friend. Open all blinds, curtains, and drapes to let in as much sunlight as possible. Turn on every light fixture in the house – overheads, lamps, under-cabinet lighting – to ensure consistent, bright illumination throughout. This prevents dark corners and creates a warm, welcoming atmosphere in every shot.",
+      "@type": "HowToStep",
+      "position": 3
+    },
+    {
+      "name": "Step 4: Remove All Moving Objects and Pets",
+      "text": "For the duration of the capture, ensure there are no pets, people, or any moving objects present. This includes cars visible through windows. Even a slight movement can cause blurriness or stitching errors in panoramic shots or 3D models. The goal is a static, perfectly captured environment.",
+      "@type": "HowToStep",
+      "position": 4
+    },
+    {
+      "name": "Step 5: Confirm MLS and Distribution Requirements",
+      "text": "Before the tour is finalized, it's smart to confirm the specific requirements of the Multiple Listing Service (MLS) and any other listing portals where your property will be featured. Different platforms have varying rules for tour links, embeds, and media formats. Having this information upfront helps your professional ensure your tour is compliant and displays correctly everywhere it needs to be seen.",
+      "@type": "HowToStep",
+      "position": 5
+    },
+    {
+      "name": "Step 6: Plan for Post-Capture Review",
+      "text": "After the initial capture, you'll want to review the edited files and the complete tour experience. Check it on both desktop and mobile devices for quality, completeness, smooth navigation, and accurate labeling. This quality control step ensures everything looks perfect before publishing. If you're selling a luxury property in Miami-Dade, Broward, or Palm Beach County, Kelby Contreras can guide you through preparing your home for an outstanding virtual presentation.",
+      "@type": "HowToStep",
+      "position": 6
+    }
+  ],
+  "@type": "HowTo",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".howto-step",
+      "[itemprop=\"step\"]"
+    ]
+  },
+  "totalTime": "PT30M",
+  "areaServed": [
+    {
+      "name": "Miami-Dade County",
+      "@type": "AdministrativeArea"
+    },
+    {
+      "name": "Broward County",
+      "@type": "AdministrativeArea"
+    },
+    {
+      "name": "Palm Beach County",
+      "@type": "AdministrativeArea"
+    },
+    {
+      "name": "Collier County",
+      "@type": "AdministrativeArea"
+    },
+    {
+      "name": "Orange County",
+      "@type": "AdministrativeArea"
+    },
+    {
+      "name": "Aventura",
+      "@type": "City"
+    },
+    {
+      "name": "Bal Harbour",
+      "@type": "City"
+    },
+    {
+      "name": "Bay Harbor Islands",
+      "@type": "City"
+    },
+    {
+      "name": "Boca Raton",
+      "@type": "City"
+    },
+    {
+      "name": "Brickell",
+      "@type": "City"
+    },
+    {
+      "name": "Brickell Key",
+      "@type": "City"
+    },
+    {
+      "name": "Coconut Grove",
+      "@type": "City"
+    },
+    {
+      "name": "Coral Gables",
+      "@type": "City"
+    },
+    {
+      "name": "Downtown Miami",
+      "@type": "City"
+    },
+    {
+      "name": "Edgewater",
+      "@type": "City"
+    },
+    {
+      "name": "Fisher Island",
+      "@type": "City"
+    },
+    {
+      "name": "Fort Lauderdale Beach",
+      "@type": "City"
+    },
+    {
+      "name": "Hallandale Beach",
+      "@type": "City"
+    },
+    {
+      "name": "Highland Beach",
+      "@type": "City"
+    },
+    {
+      "name": "Hollywood Beach",
+      "@type": "City"
+    },
+    {
+      "name": "Key Biscayne",
+      "@type": "City"
+    },
+    {
+      "name": "Las Olas",
+      "@type": "City"
+    },
+    {
+      "name": "Miami Beach",
+      "@type": "City"
+    },
+    {
+      "name": "Midtown/Wynwood",
+      "@type": "City"
+    },
+    {
+      "name": "North Bay Village",
+      "@type": "City"
+    },
+    {
+      "name": "Pinecrest",
+      "@type": "City"
+    },
+    {
+      "name": "Pompano Beach",
+      "@type": "City"
+    },
+    {
+      "name": "South Beach",
+      "@type": "City"
+    },
+    {
+      "name": "Sunny Isles Beach",
+      "@type": "City"
+    },
+    {
+      "name": "Surfside",
+      "@type": "City"
+    },
+    {
+      "name": "West Palm Beach",
+      "@type": "City"
+    },
+    {
+      "name": "Williams Island",
+      "@type": "City"
+    },
+    {
+      "name": "Miami",
+      "@type": "City"
+    },
+    {
+      "name": "Fort Lauderdale",
+      "@type": "City"
+    },
+    {
+      "name": "Palm Beach",
+      "@type": "City"
+    },
+    {
+      "name": "Delray Beach",
+      "@type": "City"
+    },
+    {
+      "name": "Doral",
+      "@type": "City"
+    }
+  ],
+  "description": "Before any virtual tour capture begins, your luxury home needs to be impeccably clean and completely decluttered. This means shining all surfaces, vacuuming, mopping, and wiping down everything. Remov"
+}

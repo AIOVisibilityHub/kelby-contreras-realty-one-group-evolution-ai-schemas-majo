@@ -1,0 +1,26 @@
+{
+  "url": "sellingrealestateflorida.com/faq/surfside-oceanfront-condos",
+  "name": "Surfside oceanfront condos?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Surfside oceanfront condos?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Surfside oceanfront condo buyers should examine direct beach access, view protection, building age and condition, amenities, association financials, assessments, insurance, and resale potential. Kelby Contreras assists with a property-specific comparison and purchase strategy.",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Surfside oceanfront condo buyers should examine direct beach access, view protection, building age and condition, amenities, association financials, assessments"
+}

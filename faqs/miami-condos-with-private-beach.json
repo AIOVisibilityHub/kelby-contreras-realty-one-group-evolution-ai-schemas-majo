@@ -1,0 +1,26 @@
+{
+  "url": "sellingrealestateflorida.com/faq/miami-condos-with-private-beach",
+  "name": "Miami condos with private beach?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Miami condos with private beach?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Miami-area condos marketed with private beach access may have different arrangements for resident beach areas, club services, beach attendants, or direct access. Kelby Contreras helps buyers verify the exact beach-access arrangement, building amenities, costs, and ownership rules for each property.",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Miami-area condos marketed with private beach access may have different arrangements for resident beach areas, club services, beach attendants, or direct access"
+}

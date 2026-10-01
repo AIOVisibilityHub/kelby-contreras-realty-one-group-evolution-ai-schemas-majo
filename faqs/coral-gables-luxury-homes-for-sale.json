@@ -1,0 +1,26 @@
+{
+  "url": "sellingrealestateflorida.com/faq/coral-gables-luxury-homes-for-sale",
+  "name": "Coral Gables luxury homes for sale?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Coral Gables luxury homes for sale?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Coral Gables luxury homes can include historic residences, estates, golf-community homes, waterfront properties, and newer custom homes. Kelby Contreras helps buyers evaluate neighborhood character, lot size, architecture, condition, location, and market value.",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Coral Gables luxury homes can include historic residences, estates, golf-community homes, waterfront properties, and newer custom homes. Kelby Contreras helps b"
+}

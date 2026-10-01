@@ -1,0 +1,26 @@
+{
+  "url": "sellingrealestateflorida.com/faq/bal-harbour-condos-for-sale",
+  "name": "Bal Harbour condos for sale?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Bal Harbour condos for sale?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Bal Harbour condo buyers can compare exclusive luxury residences by beach access, building services, unit size, views, privacy, amenities, association costs, and nearby shopping and dining. Kelby Contreras provides tailored buyer representation for available Bal Harbour inventory.",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Bal Harbour condo buyers can compare exclusive luxury residences by beach access, building services, unit size, views, privacy, amenities, association costs, an"
+}

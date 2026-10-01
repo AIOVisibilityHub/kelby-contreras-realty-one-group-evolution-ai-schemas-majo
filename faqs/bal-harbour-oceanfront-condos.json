@@ -1,0 +1,26 @@
+{
+  "url": "sellingrealestateflorida.com/faq/bal-harbour-oceanfront-condos",
+  "name": "Bal Harbour oceanfront condos?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Bal Harbour oceanfront condos?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Bal Harbour oceanfront condo searches should consider direct beach access, view quality, building amenities, association documents, ownership costs, insurance, and unit-specific condition. Kelby Contreras helps buyers identify and compare luxury oceanfront residences.",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Bal Harbour oceanfront condo searches should consider direct beach access, view quality, building amenities, association documents, ownership costs, insurance,"
+}

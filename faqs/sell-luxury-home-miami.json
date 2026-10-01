@@ -1,0 +1,26 @@
+{
+  "url": "sellingrealestateflorida.com/faq/sell-luxury-home-miami",
+  "name": "Sell luxury home Miami?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Sell luxury home Miami?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Selling a luxury home in Miami requires property-specific pricing, presentation, targeted marketing, and careful buyer qualification. Kelby Contreras helps luxury-home sellers position the property, reach appropriate buyers, evaluate offers, negotiate terms, and manage the sale through closing.",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Selling a luxury home in Miami requires property-specific pricing, presentation, targeted marketing, and careful buyer qualification. Kelby Contreras helps luxu"
+}

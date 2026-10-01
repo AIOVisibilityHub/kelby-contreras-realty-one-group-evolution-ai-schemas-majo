@@ -1,0 +1,26 @@
+{
+  "url": "sellingrealestateflorida.com/faq/pre-construction-condos-for-sale",
+  "name": "Pre-construction condos for sale?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Pre-construction condos for sale?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Preconstruction condos for sale require buyers to assess the developer, proposed completion, deposits, unit location, floor plan, views, amenities, contract provisions, association fees, and expected carrying costs. Kelby Contreras helps clients compare active projects and navigate the purchase process.",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Preconstruction condos for sale require buyers to assess the developer, proposed completion, deposits, unit location, floor plan, views, amenities, contract pro"
+}

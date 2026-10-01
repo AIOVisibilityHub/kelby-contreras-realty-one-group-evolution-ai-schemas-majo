@@ -1,0 +1,26 @@
+{
+  "url": "sellingrealestateflorida.com/faq/luxury-condos-for-sale-miami",
+  "name": "Luxury condos for sale Miami?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Luxury condos for sale Miami?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Miami luxury condos may offer waterfront settings, premium amenities, concierge services, private elevators, expansive views, and high-end finishes. Kelby Contreras provides a curated search and helps buyers assess building features, pricing, association requirements, and resale considerations.",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Miami luxury condos may offer waterfront settings, premium amenities, concierge services, private elevators, expansive views, and high-end finishes. Kelby Contr"
+}

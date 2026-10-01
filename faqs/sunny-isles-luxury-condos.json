@@ -1,0 +1,26 @@
+{
+  "url": "sellingrealestateflorida.com/faq/sunny-isles-luxury-condos",
+  "name": "Sunny Isles luxury condos?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Sunny Isles luxury condos?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Sunny Isles luxury condos are often selected for beachfront living, full-service buildings, expansive water views, and high-end amenities. Kelby Contreras helps clients identify suitable buildings and evaluate unit quality, pricing, fees, and purchase terms.",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Sunny Isles luxury condos are often selected for beachfront living, full-service buildings, expansive water views, and high-end amenities. Kelby Contreras helps"
+}

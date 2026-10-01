@@ -1,0 +1,26 @@
+{
+  "url": "sellingrealestateflorida.com/faq/miami-new-construction-condos",
+  "name": "Miami new construction condos?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Miami new construction condos?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Miami new construction condos include recently completed residences and developments nearing delivery. Kelby Contreras helps buyers compare available inventory, building amenities, ownership costs, financing or cash-purchase timing, and the value of completed versus preconstruction options.",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Miami new construction condos include recently completed residences and developments nearing delivery. Kelby Contreras helps buyers compare available inventory,"
+}

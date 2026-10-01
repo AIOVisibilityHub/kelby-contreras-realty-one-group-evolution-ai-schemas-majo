@@ -1,0 +1,26 @@
+{
+  "url": "sellingrealestateflorida.com/faq/condos-for-sale-miami",
+  "name": "Condos for sale Miami?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Condos for sale Miami?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Miami condo options vary widely by neighborhood, building age, amenities, association rules, views, parking, rental policies, and ownership costs. Kelby Contreras helps buyers compare available condos and evaluate the building-level details that affect both lifestyle and long-term ownership.",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Miami condo options vary widely by neighborhood, building age, amenities, association rules, views, parking, rental policies, and ownership costs. Kelby Contrer"
+}

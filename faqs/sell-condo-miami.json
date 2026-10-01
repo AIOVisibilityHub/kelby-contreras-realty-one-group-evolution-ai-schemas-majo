@@ -1,0 +1,26 @@
+{
+  "url": "sellingrealestateflorida.com/faq/sell-condo-miami",
+  "name": "Sell condo Miami?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Sell condo Miami?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "To sell a Miami condo, evaluate recent sales and competing listings in the same building and nearby market, then prepare association documents, disclosures, fee information, assessments, and rental rules. Kelby Contreras helps condo sellers price, market, negotiate, and coordinate the transaction.",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "To sell a Miami condo, evaluate recent sales and competing listings in the same building and nearby market, then prepare association documents, disclosures, fee"
+}

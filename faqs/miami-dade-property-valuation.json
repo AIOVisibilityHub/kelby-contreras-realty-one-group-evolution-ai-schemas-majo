@@ -1,0 +1,26 @@
+{
+  "url": "sellingrealestateflorida.com/faq/miami-dade-property-valuation",
+  "name": "Miami-Dade property valuation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Miami-Dade property valuation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Miami-Dade property valuation is most useful when it is based on recent comparable transactions and a close review of the home or condo’s features, condition, location, and current competition. Kelby Contreras provides seller valuation consultations for residential and luxury properties.",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Miami-Dade property valuation is most useful when it is based on recent comparable transactions and a close review of the home or condo’s features, condition, l"
+}

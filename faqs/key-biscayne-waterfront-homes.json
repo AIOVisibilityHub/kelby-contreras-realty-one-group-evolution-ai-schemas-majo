@@ -1,0 +1,26 @@
+{
+  "url": "sellingrealestateflorida.com/faq/key-biscayne-waterfront-homes",
+  "name": "Key Biscayne waterfront homes?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Key Biscayne waterfront homes?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Key Biscayne waterfront home buyers should evaluate water access, dockage, bridge clearance where relevant, seawall condition, views, flood and insurance considerations, and the home’s location on the island. Kelby Contreras helps compare current waterfront opportunities and coordinate a strategic purchase.",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Key Biscayne waterfront home buyers should evaluate water access, dockage, bridge clearance where relevant, seawall condition, views, flood and insurance consid"
+}

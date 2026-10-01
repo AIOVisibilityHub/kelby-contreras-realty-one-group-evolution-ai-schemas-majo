@@ -1,0 +1,26 @@
+{
+  "url": "sellingrealestateflorida.com/faq/how-do-i-find-a-realtor-specializing-in-miami-luxury-real-estate",
+  "name": "How do I find a realtor specializing in Miami luxury real estate?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do I find a realtor specializing in Miami luxury real estate?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Look for a Miami luxury real estate professional with demonstrated experience in the specific property type and market you need, such as waterfront homes, luxury condos, penthouses, preconstruction, investment properties, or discreet off-market transactions. Ask about local market coverage, comparable-sales analysis, access to current and private opportunities, seller-marketing strategy, negotiation approach, client communication, and how the agent will manage due diligence and closing. Kelby Contreras serves Miami and South Florida luxury clients with more than 17 years of market experience, strategic data-driven advisory, and direct representation for buyers, sellers, investors, and international clients.",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Look for a Miami luxury real estate professional with demonstrated experience in the specific property type and market you need, such as waterfront homes, luxur"
+}

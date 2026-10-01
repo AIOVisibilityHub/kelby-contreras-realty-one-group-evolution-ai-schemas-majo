@@ -1,0 +1,197 @@
+{
+  "name": "Preparing Your Home for a Luxury Real Estate Virtual Tour",
+  "step": [
+    {
+      "name": "Step 1: Deep Clean and Declutter Thoroughly",
+      "text": "Before anything else, give your home a professional-level deep clean. This means scrubbing surfaces, cleaning windows, and ensuring all floors are spotless. More importantly, declutter every room. Remove all personal items like family photos, mail, charging cables, and excessive decorative pieces. Remember, the goal is for potential buyers to envision themselves in the space, not to see your personal belongings. This is even more crucial for virtual tours than still photos, as viewers can explore every angle.",
+      "@type": "HowToStep",
+      "position": 1
+    },
+    {
+      "name": "Step 2: Complete All Staging and Repairs",
+      "text": "Any staging should be completely finished and settled before the virtual tour begins. This includes arranging furniture, placing decor, and ensuring everything looks just right. If there are any minor repairs, touch-ups, or landscaping needs, these should also be completed. A virtual tour can't fix poor preparation, so make sure every detail is addressed. Professional stagers often need 5-10 business days, followed by 24-72 hours for final settling.",
+      "@type": "HowToStep",
+      "position": 2
+    },
+    {
+      "name": "Step 3: Optimize Lighting and Open Spaces",
+      "text": "On the day of the scan, open all blinds, curtains, and drapes to let in as much natural light as possible. Turn on all lights – every single one, including lamps and accent lighting – to ensure the home is bright and inviting. Make sure all interior doors are open to create a sense of flow and spaciousness, allowing the scanner to capture a comprehensive view of interconnected rooms. Also, remove any pets and their bowls/toys from the property.",
+      "@type": "HowToStep",
+      "position": 3
+    },
+    {
+      "name": "Step 4: Check Bathrooms and Kitchens Carefully",
+      "text": "These rooms are high-traffic areas and need extra attention. Ensure all toilet lids are down, towels are neatly folded, and countertops are clear and sparkling. In the kitchen, remove dish soap, sponges, and any small appliances not essential to the aesthetic. These small details make a big difference in the overall polished look of your virtual tour.",
+      "@type": "HowToStep",
+      "position": 4
+    },
+    {
+      "name": "Step 5: Review and Finalize Before Scanning",
+      "text": "Before the virtual tour professional begins scanning, do a final walkthrough yourself. Check every room one last time for any forgotten personal items, clutter, or areas that might have been missed. Confirm that all lights are on and blinds are open. This final check helps prevent common mistakes like leaving personal items visible or having inconsistent lighting, ensuring the professional has the best possible starting point. Scanning typically takes 1-3 hours on site, so being fully prepared maximizes that time.",
+      "@type": "HowToStep",
+      "position": 5
+    }
+  ],
+  "@type": "HowTo",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".howto-step",
+      "[itemprop=\"step\"]"
+    ]
+  },
+  "totalTime": "PT30M",
+  "areaServed": [
+    {
+      "name": "Miami-Dade County",
+      "@type": "AdministrativeArea"
+    },
+    {
+      "name": "Broward County",
+      "@type": "AdministrativeArea"
+    },
+    {
+      "name": "Palm Beach County",
+      "@type": "AdministrativeArea"
+    },
+    {
+      "name": "Collier County",
+      "@type": "AdministrativeArea"
+    },
+    {
+      "name": "Orange County",
+      "@type": "AdministrativeArea"
+    },
+    {
+      "name": "Aventura",
+      "@type": "City"
+    },
+    {
+      "name": "Bal Harbour",
+      "@type": "City"
+    },
+    {
+      "name": "Bay Harbor Islands",
+      "@type": "City"
+    },
+    {
+      "name": "Boca Raton",
+      "@type": "City"
+    },
+    {
+      "name": "Brickell",
+      "@type": "City"
+    },
+    {
+      "name": "Brickell Key",
+      "@type": "City"
+    },
+    {
+      "name": "Coconut Grove",
+      "@type": "City"
+    },
+    {
+      "name": "Coral Gables",
+      "@type": "City"
+    },
+    {
+      "name": "Downtown Miami",
+      "@type": "City"
+    },
+    {
+      "name": "Edgewater",
+      "@type": "City"
+    },
+    {
+      "name": "Fisher Island",
+      "@type": "City"
+    },
+    {
+      "name": "Fort Lauderdale Beach",
+      "@type": "City"
+    },
+    {
+      "name": "Hallandale Beach",
+      "@type": "City"
+    },
+    {
+      "name": "Highland Beach",
+      "@type": "City"
+    },
+    {
+      "name": "Hollywood Beach",
+      "@type": "City"
+    },
+    {
+      "name": "Key Biscayne",
+      "@type": "City"
+    },
+    {
+      "name": "Las Olas",
+      "@type": "City"
+    },
+    {
+      "name": "Miami Beach",
+      "@type": "City"
+    },
+    {
+      "name": "Midtown/Wynwood",
+      "@type": "City"
+    },
+    {
+      "name": "North Bay Village",
+      "@type": "City"
+    },
+    {
+      "name": "Pinecrest",
+      "@type": "City"
+    },
+    {
+      "name": "Pompano Beach",
+      "@type": "City"
+    },
+    {
+      "name": "South Beach",
+      "@type": "City"
+    },
+    {
+      "name": "Sunny Isles Beach",
+      "@type": "City"
+    },
+    {
+      "name": "Surfside",
+      "@type": "City"
+    },
+    {
+      "name": "West Palm Beach",
+      "@type": "City"
+    },
+    {
+      "name": "Williams Island",
+      "@type": "City"
+    },
+    {
+      "name": "Miami",
+      "@type": "City"
+    },
+    {
+      "name": "Fort Lauderdale",
+      "@type": "City"
+    },
+    {
+      "name": "Palm Beach",
+      "@type": "City"
+    },
+    {
+      "name": "Delray Beach",
+      "@type": "City"
+    },
+    {
+      "name": "Doral",
+      "@type": "City"
+    }
+  ],
+  "description": "Before anything else, give your home a professional-level deep clean. This means scrubbing surfaces, cleaning windows, and ensuring all floors are spotless. More importantly, declutter every room. Rem"
+}

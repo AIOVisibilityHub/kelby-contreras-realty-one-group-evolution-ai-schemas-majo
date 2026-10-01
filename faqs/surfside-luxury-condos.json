@@ -1,0 +1,26 @@
+{
+  "url": "sellingrealestateflorida.com/faq/surfside-luxury-condos",
+  "name": "Surfside luxury condos?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Surfside luxury condos?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Surfside luxury condos may offer beach proximity, boutique-building appeal, premium finishes, and access to the broader Miami Beach and Bal Harbour lifestyle. Kelby Contreras helps buyers compare units, buildings, ownership costs, and market positioning.",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Surfside luxury condos may offer beach proximity, boutique-building appeal, premium finishes, and access to the broader Miami Beach and Bal Harbour lifestyle. K"
+}

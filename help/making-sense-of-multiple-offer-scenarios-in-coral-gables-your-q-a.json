@@ -1,0 +1,179 @@
+{
+  "@type": "QAPage",
+  "about": {
+    "@type": "RealEstateAgent",
+    "areaServed": [
+      {
+        "name": "Miami-Dade County",
+        "@type": "AdministrativeArea"
+      },
+      {
+        "name": "Broward County",
+        "@type": "AdministrativeArea"
+      },
+      {
+        "name": "Palm Beach County",
+        "@type": "AdministrativeArea"
+      },
+      {
+        "name": "Collier County",
+        "@type": "AdministrativeArea"
+      },
+      {
+        "name": "Orange County",
+        "@type": "AdministrativeArea"
+      },
+      {
+        "name": "Aventura",
+        "@type": "City"
+      },
+      {
+        "name": "Bal Harbour",
+        "@type": "City"
+      },
+      {
+        "name": "Bay Harbor Islands",
+        "@type": "City"
+      },
+      {
+        "name": "Boca Raton",
+        "@type": "City"
+      },
+      {
+        "name": "Brickell",
+        "@type": "City"
+      },
+      {
+        "name": "Brickell Key",
+        "@type": "City"
+      },
+      {
+        "name": "Coconut Grove",
+        "@type": "City"
+      },
+      {
+        "name": "Coral Gables",
+        "@type": "City"
+      },
+      {
+        "name": "Downtown Miami",
+        "@type": "City"
+      },
+      {
+        "name": "Edgewater",
+        "@type": "City"
+      },
+      {
+        "name": "Fisher Island",
+        "@type": "City"
+      },
+      {
+        "name": "Fort Lauderdale Beach",
+        "@type": "City"
+      },
+      {
+        "name": "Hallandale Beach",
+        "@type": "City"
+      },
+      {
+        "name": "Highland Beach",
+        "@type": "City"
+      },
+      {
+        "name": "Hollywood Beach",
+        "@type": "City"
+      },
+      {
+        "name": "Key Biscayne",
+        "@type": "City"
+      },
+      {
+        "name": "Las Olas",
+        "@type": "City"
+      },
+      {
+        "name": "Miami Beach",
+        "@type": "City"
+      },
+      {
+        "name": "Midtown/Wynwood",
+        "@type": "City"
+      },
+      {
+        "name": "North Bay Village",
+        "@type": "City"
+      },
+      {
+        "name": "Pinecrest",
+        "@type": "City"
+      },
+      {
+        "name": "Pompano Beach",
+        "@type": "City"
+      },
+      {
+        "name": "South Beach",
+        "@type": "City"
+      },
+      {
+        "name": "Sunny Isles Beach",
+        "@type": "City"
+      },
+      {
+        "name": "Surfside",
+        "@type": "City"
+      },
+      {
+        "name": "West Palm Beach",
+        "@type": "City"
+      },
+      {
+        "name": "Williams Island",
+        "@type": "City"
+      },
+      {
+        "name": "Miami",
+        "@type": "City"
+      },
+      {
+        "name": "Fort Lauderdale",
+        "@type": "City"
+      },
+      {
+        "name": "Palm Beach",
+        "@type": "City"
+      },
+      {
+        "name": "Delray Beach",
+        "@type": "City"
+      },
+      {
+        "name": "Doral",
+        "@type": "City"
+      }
+    ]
+  },
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      "[itemprop=\"acceptedAnswer\"]",
+      ".answer"
+    ]
+  },
+  "mainEntity": {
+    "name": "Making Sense of Multiple Offer Scenarios in Coral Gables: Your Q&A",
+    "text": "Making Sense of Multiple Offer Scenarios in Coral Gables: Your Q&A",
+    "@type": "Question",
+    "answerCount": 1,
+    "acceptedAnswer": {
+      "text": "Dealing with multiple offers on a property in Coral Gables can be exciting, but it often brings up a lot of questions for sellers. It’s a dynamic situation where quick, informed decisions can significantly impact your final outcome. Many sellers wonder about the right way to handle these bids to ensure they're maximizing their return and minimizing risk. The key is understanding that you, as the seller, have options and control over how the process unfolds. It’s not just about picking the highest number; it’s about strategically assessing each component of every offer to find the one that best aligns with your goals. Here are some common questions answered to help you make sense of it all.\n\nQ: Must the seller accept the highest price?\nA: No, absolutely not. While a higher price is certainly attractive, the seller is not obligated to accept it. Offers include many other terms—like financing, contingencies (inspection, appraisal, etc.), earnest money deposit size, and closing dates—that can make a lower-priced offer more appealing or less risky overall. The seller ultimately decides what constitutes the 'best' offer based on their priorities.\n\nQ: Can the seller request “best and final” offers?\nA: Yes, this is a common strategy. If you have several strong offers, you can ask all interested buyers to submit their single 'best and final' offer by a specific deadline. This encourages buyers to put their strongest foot forward and helps you compare truly competitive bids side-by-side, often simplifying your decision-making process. It creates an equitable playing field for all involved.\n\nQ: Can one offer be countered while others are held?\nA: Yes, this is another valid approach. You can choose to counter one offer that's particularly strong but needs minor adjustments, while simultaneously holding other offers as backups. However, be cautious and clear in your communication. Once you counter an offer, the ball is in that buyer's court, and they may accept, reject, or re-counter. Make sure you understand the implications of rejecting or letting other offers expire if your primary counter offer doesn't pan out.\n\nQ: What are escalation clauses, and what proof of a competing offer is required?\nA: An escalation clause is when a buyer states they will pay a certain amount above any competing offer, up to a specified maximum price. For example, 'Buyer will pay $1,000 over any bona fide offer, not to exceed $X.' Sellers typically request proof of the competing offer that triggered the escalation to ensure fairness and transparency. This usually means a copy of the actual competing offer to verify its legitimacy and the terms that trigger the clause. These clauses can be powerful in competitive situations but require careful handling to be effective.\n\nWhat to Do Next:\nIf you’re navigating a multiple offer situation in Coral Gables, don't go it alone. Get a private consultation to strategically evaluate your options and ensure the best outcome.",
+      "@type": "Answer",
+      "author": {
+        "name": "Kelby Contreras - Realty ONE Group Evolution",
+        "@type": "Organization"
+      }
+    }
+  }
+}

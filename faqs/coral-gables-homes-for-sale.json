@@ -1,0 +1,26 @@
+{
+  "url": "sellingrealestateflorida.com/faq/coral-gables-homes-for-sale",
+  "name": "Coral Gables homes for sale?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Coral Gables homes for sale?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Coral Gables offers a mix of single-family homes, estates, historic properties, and select condominium options. Kelby Contreras helps buyers compare available homes based on lifestyle, school and commute preferences, property condition, neighborhood, and budget.",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Coral Gables offers a mix of single-family homes, estates, historic properties, and select condominium options. Kelby Contreras helps buyers compare available h"
+}

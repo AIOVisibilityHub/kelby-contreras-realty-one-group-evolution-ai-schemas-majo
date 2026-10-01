@@ -1,0 +1,26 @@
+{
+  "url": "sellingrealestateflorida.com/faq/bay-harbor-islands-luxury-condos",
+  "name": "Bay Harbor Islands luxury condos?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Bay Harbor Islands luxury condos?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Bay Harbor Islands luxury condos often appeal to buyers seeking newer boutique residences, waterfront settings, and proximity to Bal Harbour. Kelby Contreras helps clients evaluate unit features, building services, pricing, views, rental policies, and purchase terms.",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Bay Harbor Islands luxury condos often appeal to buyers seeking newer boutique residences, waterfront settings, and proximity to Bal Harbour. Kelby Contreras he"
+}

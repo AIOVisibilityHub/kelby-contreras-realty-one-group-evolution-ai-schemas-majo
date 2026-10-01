@@ -1,0 +1,26 @@
+{
+  "url": "sellingrealestateflorida.com/faq/miami-condos-with-ocean-views",
+  "name": "Miami condos with ocean views?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Miami condos with ocean views?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Miami condos with ocean views vary by neighborhood, elevation, orientation, view corridor, building location, and whether the view is protected or subject to future development. Kelby Contreras helps buyers identify suitable residences and compare view quality, building amenities, and ownership costs.",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Miami condos with ocean views vary by neighborhood, elevation, orientation, view corridor, building location, and whether the view is protected or subject to fu"
+}

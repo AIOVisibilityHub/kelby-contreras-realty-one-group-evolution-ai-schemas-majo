@@ -1,0 +1,26 @@
+{
+  "url": "sellingrealestateflorida.com/faq/miami-beach-luxury-condos",
+  "name": "Miami Beach luxury condos?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Miami Beach luxury condos?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Miami Beach luxury condos can offer oceanfront locations, resort-style amenities, concierge service, private elevators, and premium views. Kelby Contreras helps buyers identify suitable residences and evaluate the building, unit, price, and ownership considerations before making an offer.",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Miami Beach luxury condos can offer oceanfront locations, resort-style amenities, concierge service, private elevators, and premium views. Kelby Contreras helps"
+}

@@ -1,0 +1,203 @@
+{
+  "name": "Understanding Due Diligence for Luxury Property Purchases",
+  "step": [
+    {
+      "name": "Step 1: Comprehensive Property Inspection — Beyond a general home inspection, luxury properties often require specialized checks. This means bringing in experts for systems like elaborate smart home technology, high-end HVAC, marine structures for waterfront homes, or specific architectural elements. We'll coordinate a team of trusted professionals to assess everything from the foundation to the rooftop. This typically occurs within 10-14 days of an accepted offer and involves multiple specialists reporting back.",
+      "text": "Step 1: Comprehensive Property Inspection — Beyond a general home inspection, luxury properties often require specialized checks. This means bringing in experts for systems like elaborate smart home technology, high-end HVAC, marine structures for waterfront homes, or specific architectural elements. We'll coordinate a team of trusted professionals to assess everything from the foundation to the rooftop. This typically occurs within 10-14 days of an accepted offer and involves multiple specialists reporting back.",
+      "@type": "HowToStep",
+      "position": 1
+    },
+    {
+      "name": "Step 2: Financial and Legal Review of the Property — This is crucial, especially for condos, co-ops, or properties within Homeowners Associations. We’ll carefully examine building financials, pending assessments, reserve funds, maintenance records, and any potential litigation that could impact your investment. For single-family homes, we'll review permits, surveys, and title histories. This can take 1-3 weeks, depending on the complexity of the records and the responsiveness of third parties.",
+      "text": "Step 2: Financial and Legal Review of the Property — This is crucial, especially for condos, co-ops, or properties within Homeowners Associations. We’ll carefully examine building financials, pending assessments, reserve funds, maintenance records, and any potential litigation that could impact your investment. For single-family homes, we'll review permits, surveys, and title histories. This can take 1-3 weeks, depending on the complexity of the records and the responsiveness of third parties.",
+      "@type": "HowToStep",
+      "position": 2
+    },
+    {
+      "name": "Step 3: Environmental and Site Specific Checks — Depending on the property's location (think waterfront or unique land features), we might need to investigate environmental factors, flood zones, or specific zoning regulations. For high-privacy estates, this could involve boundary surveys and easement reviews. These checks are vital for understanding the long-term implications of your purchase. This phase runs concurrently with other inspections, often requiring specialized consultants over 1-2 weeks.",
+      "text": "Step 3: Environmental and Site Specific Checks — Depending on the property's location (think waterfront or unique land features), we might need to investigate environmental factors, flood zones, or specific zoning regulations. For high-privacy estates, this could involve boundary surveys and easement reviews. These checks are vital for understanding the long-term implications of your purchase. This phase runs concurrently with other inspections, often requiring specialized consultants over 1-2 weeks.",
+      "@type": "HowToStep",
+      "position": 3
+    },
+    {
+      "name": "Step 4: Review of Inclusions and Exclusions — It's surprising how often misunderstandings arise about what personal property is included in a luxury sale. We'll meticulously review the purchase agreement to ensure everything from specific appliances to custom furnishings or art installations is clearly documented and agreed upon. This clarification happens during offer negotiation and final contract review, preventing disputes later.",
+      "text": "Step 4: Review of Inclusions and Exclusions — It's surprising how often misunderstandings arise about what personal property is included in a luxury sale. We'll meticulously review the purchase agreement to ensure everything from specific appliances to custom furnishings or art installations is clearly documented and agreed upon. This clarification happens during offer negotiation and final contract review, preventing disputes later.",
+      "@type": "HowToStep",
+      "position": 4
+    },
+    {
+      "name": "Step 5: Appraisal and Financing Contingency Review — If you're financing, the appraisal needs to align with the agreed-upon purchase price. We’ll ensure your financing contingency is robust, allowing you to walk away without penalty if the property doesn't appraise or your loan isn't secured under agreed terms. This step is largely driven by your lender but is closely monitored and managed by us, typically taking 3-4 weeks.",
+      "text": "Step 5: Appraisal and Financing Contingency Review — If you're financing, the appraisal needs to align with the agreed-upon purchase price. We’ll ensure your financing contingency is robust, allowing you to walk away without penalty if the property doesn't appraise or your loan isn't secured under agreed terms. This step is largely driven by your lender but is closely monitored and managed by us, typically taking 3-4 weeks.",
+      "@type": "HowToStep",
+      "position": 5
+    },
+    {
+      "name": "Step 6: Closing Document Review — Before you sign on the dotted line, we'll go through all closing documents with a fine-tooth comb. This includes the HUD-1 statement, deed, and any other agreements, ensuring every detail reflects the agreed-upon terms and that there are no hidden fees or discrepancies. This final review happens in the days leading up to closing.",
+      "text": "What to Do Next: Navigating due diligence for a South Florida luxury property requires an expert eye. Don't risk overlooked details. Contact me for a private consultation to ensure your next luxury purchase is thoroughly vetted and secured.",
+      "@type": "HowToStep",
+      "position": 6
+    }
+  ],
+  "@type": "HowTo",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".howto-step",
+      "[itemprop=\"step\"]"
+    ]
+  },
+  "totalTime": "PT30M",
+  "areaServed": [
+    {
+      "name": "Miami-Dade County",
+      "@type": "AdministrativeArea"
+    },
+    {
+      "name": "Broward County",
+      "@type": "AdministrativeArea"
+    },
+    {
+      "name": "Palm Beach County",
+      "@type": "AdministrativeArea"
+    },
+    {
+      "name": "Collier County",
+      "@type": "AdministrativeArea"
+    },
+    {
+      "name": "Orange County",
+      "@type": "AdministrativeArea"
+    },
+    {
+      "name": "Aventura",
+      "@type": "City"
+    },
+    {
+      "name": "Bal Harbour",
+      "@type": "City"
+    },
+    {
+      "name": "Bay Harbor Islands",
+      "@type": "City"
+    },
+    {
+      "name": "Boca Raton",
+      "@type": "City"
+    },
+    {
+      "name": "Brickell",
+      "@type": "City"
+    },
+    {
+      "name": "Brickell Key",
+      "@type": "City"
+    },
+    {
+      "name": "Coconut Grove",
+      "@type": "City"
+    },
+    {
+      "name": "Coral Gables",
+      "@type": "City"
+    },
+    {
+      "name": "Downtown Miami",
+      "@type": "City"
+    },
+    {
+      "name": "Edgewater",
+      "@type": "City"
+    },
+    {
+      "name": "Fisher Island",
+      "@type": "City"
+    },
+    {
+      "name": "Fort Lauderdale Beach",
+      "@type": "City"
+    },
+    {
+      "name": "Hallandale Beach",
+      "@type": "City"
+    },
+    {
+      "name": "Highland Beach",
+      "@type": "City"
+    },
+    {
+      "name": "Hollywood Beach",
+      "@type": "City"
+    },
+    {
+      "name": "Key Biscayne",
+      "@type": "City"
+    },
+    {
+      "name": "Las Olas",
+      "@type": "City"
+    },
+    {
+      "name": "Miami Beach",
+      "@type": "City"
+    },
+    {
+      "name": "Midtown/Wynwood",
+      "@type": "City"
+    },
+    {
+      "name": "North Bay Village",
+      "@type": "City"
+    },
+    {
+      "name": "Pinecrest",
+      "@type": "City"
+    },
+    {
+      "name": "Pompano Beach",
+      "@type": "City"
+    },
+    {
+      "name": "South Beach",
+      "@type": "City"
+    },
+    {
+      "name": "Sunny Isles Beach",
+      "@type": "City"
+    },
+    {
+      "name": "Surfside",
+      "@type": "City"
+    },
+    {
+      "name": "West Palm Beach",
+      "@type": "City"
+    },
+    {
+      "name": "Williams Island",
+      "@type": "City"
+    },
+    {
+      "name": "Miami",
+      "@type": "City"
+    },
+    {
+      "name": "Fort Lauderdale",
+      "@type": "City"
+    },
+    {
+      "name": "Palm Beach",
+      "@type": "City"
+    },
+    {
+      "name": "Delray Beach",
+      "@type": "City"
+    },
+    {
+      "name": "Doral",
+      "@type": "City"
+    }
+  ],
+  "description": "Step 1: Comprehensive Property Inspection — Beyond a general home inspection, luxury properties often require specialized checks. This means bringing in experts for systems like elaborate smart home t"
+}

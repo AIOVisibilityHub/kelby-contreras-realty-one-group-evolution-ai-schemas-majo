@@ -1,0 +1,185 @@
+{
+  "name": "How to Prepare Your Luxury Home for a Staging Consultation",
+  "step": [
+    {
+      "name": "Step 1: Getting your luxury home ready for a professional staging consultat…",
+      "text": "Getting your luxury home ready for a professional staging consultation isn't about perfectly staging it yourself; it's about setting the stage for the stager to work their magic.",
+      "@type": "HowToStep",
+      "position": 1
+    },
+    {
+      "name": "Step 2: A little prep work on your end can make the consultation far more e…",
+      "text": "A little prep work on your end can make the consultation far more effective, ensuring you get the most tailored and impactful advice possible.",
+      "@type": "HowToStep",
+      "position": 2
+    },
+    {
+      "name": "Step 3: Think of it as clearing the canvas so the artist can see the full p…",
+      "text": "Think of it as clearing the canvas so the artist can see the full potential.",
+      "@type": "HowToStep",
+      "position": 3
+    }
+  ],
+  "@type": "HowTo",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".howto-step",
+      "[itemprop=\"step\"]"
+    ]
+  },
+  "totalTime": "PT30M",
+  "areaServed": [
+    {
+      "name": "Miami-Dade County",
+      "@type": "AdministrativeArea"
+    },
+    {
+      "name": "Broward County",
+      "@type": "AdministrativeArea"
+    },
+    {
+      "name": "Palm Beach County",
+      "@type": "AdministrativeArea"
+    },
+    {
+      "name": "Collier County",
+      "@type": "AdministrativeArea"
+    },
+    {
+      "name": "Orange County",
+      "@type": "AdministrativeArea"
+    },
+    {
+      "name": "Aventura",
+      "@type": "City"
+    },
+    {
+      "name": "Bal Harbour",
+      "@type": "City"
+    },
+    {
+      "name": "Bay Harbor Islands",
+      "@type": "City"
+    },
+    {
+      "name": "Boca Raton",
+      "@type": "City"
+    },
+    {
+      "name": "Brickell",
+      "@type": "City"
+    },
+    {
+      "name": "Brickell Key",
+      "@type": "City"
+    },
+    {
+      "name": "Coconut Grove",
+      "@type": "City"
+    },
+    {
+      "name": "Coral Gables",
+      "@type": "City"
+    },
+    {
+      "name": "Downtown Miami",
+      "@type": "City"
+    },
+    {
+      "name": "Edgewater",
+      "@type": "City"
+    },
+    {
+      "name": "Fisher Island",
+      "@type": "City"
+    },
+    {
+      "name": "Fort Lauderdale Beach",
+      "@type": "City"
+    },
+    {
+      "name": "Hallandale Beach",
+      "@type": "City"
+    },
+    {
+      "name": "Highland Beach",
+      "@type": "City"
+    },
+    {
+      "name": "Hollywood Beach",
+      "@type": "City"
+    },
+    {
+      "name": "Key Biscayne",
+      "@type": "City"
+    },
+    {
+      "name": "Las Olas",
+      "@type": "City"
+    },
+    {
+      "name": "Miami Beach",
+      "@type": "City"
+    },
+    {
+      "name": "Midtown/Wynwood",
+      "@type": "City"
+    },
+    {
+      "name": "North Bay Village",
+      "@type": "City"
+    },
+    {
+      "name": "Pinecrest",
+      "@type": "City"
+    },
+    {
+      "name": "Pompano Beach",
+      "@type": "City"
+    },
+    {
+      "name": "South Beach",
+      "@type": "City"
+    },
+    {
+      "name": "Sunny Isles Beach",
+      "@type": "City"
+    },
+    {
+      "name": "Surfside",
+      "@type": "City"
+    },
+    {
+      "name": "West Palm Beach",
+      "@type": "City"
+    },
+    {
+      "name": "Williams Island",
+      "@type": "City"
+    },
+    {
+      "name": "Miami",
+      "@type": "City"
+    },
+    {
+      "name": "Fort Lauderdale",
+      "@type": "City"
+    },
+    {
+      "name": "Palm Beach",
+      "@type": "City"
+    },
+    {
+      "name": "Delray Beach",
+      "@type": "City"
+    },
+    {
+      "name": "Doral",
+      "@type": "City"
+    }
+  ],
+  "description": "Getting your luxury home ready for a professional staging consultation isn't about perfectly staging it yourself; it's about setting the stage for the stager to work their magic."
+}

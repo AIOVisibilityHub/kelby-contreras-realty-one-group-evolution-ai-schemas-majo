@@ -1,0 +1,26 @@
+{
+  "url": "sellingrealestateflorida.com/faq/aventura-new-construction-condos",
+  "name": "Aventura new construction condos?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Aventura new construction condos?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Aventura new construction condo options should be compared by developer, completion stage, floor plan, views, amenities, price, deposits, association fees, and rental rules. Kelby Contreras can help buyers identify and evaluate available new-development inventory.",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Aventura new construction condo options should be compared by developer, completion stage, floor plan, views, amenities, price, deposits, association fees, and"
+}

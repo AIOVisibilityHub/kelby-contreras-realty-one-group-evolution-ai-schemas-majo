@@ -1,0 +1,26 @@
+{
+  "url": "sellingrealestateflorida.com/faq/miami-dade-home-value",
+  "name": "Miami-Dade home value?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Miami-Dade home value?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A Miami-Dade home value estimate should reflect the property’s specific municipality or neighborhood, type, size, condition, improvements, lot, views, active listings, and recent sales. Kelby Contreras offers private valuation guidance using current local market data.",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "A Miami-Dade home value estimate should reflect the property’s specific municipality or neighborhood, type, size, condition, improvements, lot, views, active li"
+}

@@ -1,0 +1,197 @@
+{
+  "name": "What to Expect During the Luxury Property Listing Process",
+  "step": [
+    {
+      "name": "Step 1: Property Assessment and Strategic Pricing",
+      "text": "This is where we really dig into your property's unique features, location, and market position. Kelby conducts a comparative market analysis and develops a hyper-accurate pricing strategy. This initial phase helps set the stage, making sure we're aligned on the property's value and how it fits into the broader South Florida luxury market. It’s all about getting that value just right for discerning buyers and investors.",
+      "@type": "HowToStep",
+      "position": 1
+    },
+    {
+      "name": "Step 2: Preparation, Staging, and Repairs",
+      "text": "Before any cameras come out, your property needs to shine. This step might involve deep cleaning, minor repairs, landscaping enhancements, and professional staging. Staging for a luxury property isn't just about furniture; it's about creating an aspirational lifestyle. This crucial preparation phase can take approximately 2–3 weeks, with staging alone potentially requiring 5–10 business days to ensure everything is perfect. A professional will coordinate all these vendors for you.",
+      "@type": "HowToStep",
+      "position": 2
+    },
+    {
+      "name": "Step 3: Professional Photography, Video, and Floor Plans",
+      "text": "This is where your property truly comes alive. High-quality visuals are non-negotiable for luxury listings. Expect several hours on-site for professional photography, which often includes architectural shots, drone imagery for sweeping views, and twilight photography for that special ambiance. Detailed floor plans and video production, sometimes including virtual tours, are also created. Post-production can involve exposure blending and color grading, making sure every image is flawless. This step typically follows staging, ensuring the property is pristine.",
+      "@type": "HowToStep",
+      "position": 3
+    },
+    {
+      "name": "Step 4: Crafting the Listing Copy and Syndication",
+      "text": "With stunning visuals in hand, we focus on compelling copywriting that tells your property's story. This isn't just a list of features; it's a narrative that resonates with luxury buyers. The listing is then published and strategically syndicated across targeted platforms. This isn't just about broad reach; it’s about getting your property in front of the specific high-net-worth individuals, investors, and developers Kelby works with, including pre-screened buyer outreach.",
+      "@type": "HowToStep",
+      "position": 4
+    },
+    {
+      "name": "Step 5: Launch Promotion and Ongoing Performance Review",
+      "text": "Once live, your listing gets a focused launch promotion to generate initial buzz. Beyond the launch, it’s about continuous monitoring and optimization. Kelby provides end-to-end support, from the first consultation through closing, including offer evaluation and skilled negotiation. You'll receive responsive communication and updates on how your listing is performing, with adjustments made as needed to ensure maximum exposure and buyer interest.",
+      "@type": "HowToStep",
+      "position": 5
+    }
+  ],
+  "@type": "HowTo",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".howto-step",
+      "[itemprop=\"step\"]"
+    ]
+  },
+  "totalTime": "PT30M",
+  "areaServed": [
+    {
+      "name": "Miami-Dade County",
+      "@type": "AdministrativeArea"
+    },
+    {
+      "name": "Broward County",
+      "@type": "AdministrativeArea"
+    },
+    {
+      "name": "Palm Beach County",
+      "@type": "AdministrativeArea"
+    },
+    {
+      "name": "Collier County",
+      "@type": "AdministrativeArea"
+    },
+    {
+      "name": "Orange County",
+      "@type": "AdministrativeArea"
+    },
+    {
+      "name": "Aventura",
+      "@type": "City"
+    },
+    {
+      "name": "Bal Harbour",
+      "@type": "City"
+    },
+    {
+      "name": "Bay Harbor Islands",
+      "@type": "City"
+    },
+    {
+      "name": "Boca Raton",
+      "@type": "City"
+    },
+    {
+      "name": "Brickell",
+      "@type": "City"
+    },
+    {
+      "name": "Brickell Key",
+      "@type": "City"
+    },
+    {
+      "name": "Coconut Grove",
+      "@type": "City"
+    },
+    {
+      "name": "Coral Gables",
+      "@type": "City"
+    },
+    {
+      "name": "Downtown Miami",
+      "@type": "City"
+    },
+    {
+      "name": "Edgewater",
+      "@type": "City"
+    },
+    {
+      "name": "Fisher Island",
+      "@type": "City"
+    },
+    {
+      "name": "Fort Lauderdale Beach",
+      "@type": "City"
+    },
+    {
+      "name": "Hallandale Beach",
+      "@type": "City"
+    },
+    {
+      "name": "Highland Beach",
+      "@type": "City"
+    },
+    {
+      "name": "Hollywood Beach",
+      "@type": "City"
+    },
+    {
+      "name": "Key Biscayne",
+      "@type": "City"
+    },
+    {
+      "name": "Las Olas",
+      "@type": "City"
+    },
+    {
+      "name": "Miami Beach",
+      "@type": "City"
+    },
+    {
+      "name": "Midtown/Wynwood",
+      "@type": "City"
+    },
+    {
+      "name": "North Bay Village",
+      "@type": "City"
+    },
+    {
+      "name": "Pinecrest",
+      "@type": "City"
+    },
+    {
+      "name": "Pompano Beach",
+      "@type": "City"
+    },
+    {
+      "name": "South Beach",
+      "@type": "City"
+    },
+    {
+      "name": "Sunny Isles Beach",
+      "@type": "City"
+    },
+    {
+      "name": "Surfside",
+      "@type": "City"
+    },
+    {
+      "name": "West Palm Beach",
+      "@type": "City"
+    },
+    {
+      "name": "Williams Island",
+      "@type": "City"
+    },
+    {
+      "name": "Miami",
+      "@type": "City"
+    },
+    {
+      "name": "Fort Lauderdale",
+      "@type": "City"
+    },
+    {
+      "name": "Palm Beach",
+      "@type": "City"
+    },
+    {
+      "name": "Delray Beach",
+      "@type": "City"
+    },
+    {
+      "name": "Doral",
+      "@type": "City"
+    }
+  ],
+  "description": "This is where we really dig into your property's unique features, location, and market position. Kelby conducts a comparative market analysis and develops a hyper-accurate pricing strategy. This initi"
+}

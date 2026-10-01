@@ -1,0 +1,26 @@
+{
+  "url": "sellingrealestateflorida.com/faq/what-are-the-best-neighborhoods-for-luxury-real-estate-in-miami",
+  "name": "What are the best neighborhoods for luxury real estate in Miami?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are the best neighborhoods for luxury real estate in Miami?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Popular Miami luxury markets include Miami Beach, Brickell, Downtown Miami, Coral Gables, Coconut Grove, Key Biscayne, Sunny Isles Beach, Bal Harbour, Aventura, Bay Harbor Islands, Surfside, Edgewater, and the Design District. Each offers a different mix of waterfront access, walkability, architecture, condominium living, estate homes, school considerations, boating access, dining, privacy, and investment potential. Kelby Contreras helps clients narrow the search based on lifestyle requirements, property goals, budget, commuting needs, and preferred ownership experience.",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Popular Miami luxury markets include Miami Beach, Brickell, Downtown Miami, Coral Gables, Coconut Grove, Key Biscayne, Sunny Isles Beach, Bal Harbour, Aventura,"
+}

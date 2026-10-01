@@ -1,0 +1,197 @@
+{
+  "name": "Finding Off-Market Luxury Homes in South Florida",
+  "step": [
+    {
+      "name": "Step 1: Define Your Criteria",
+      "text": "Before diving into the off-market world, clearly outline your ideal property's features, location (Miami-Dade, Broward, Palm Beach counties, or specific areas like Aventura, Boca Raton, Key Biscayne), budget, and timeline. This clarity helps your agent target the right opportunities. Kelby helps clients clarify priorities to ensure a focused search.",
+      "@type": "HowToStep",
+      "position": 1
+    },
+    {
+      "name": "Step 2: Engage a Specialist Agent",
+      "text": "This is perhaps the most crucial step. Off-market opportunities are often shared within an agent's exclusive network. You need a specialist with deep local connections and a reputation for handling discreet transactions. Kelby Contreras, a Florida Luxury Real Estate Specialist with Realty ONE Group Evolution, is known for accessing private and off-market opportunities through his extensive network and 17 years of experience.",
+      "@type": "HowToStep",
+      "position": 2
+    },
+    {
+      "name": "Step 3: Access Private Opportunities",
+      "text": "Your agent will leverage their network to identify properties that match your criteria but aren't publicly listed. This could be through direct contacts with other agents, high-net-worth individuals, or even developers looking for quiet sales. They'll present these options to you, often with preliminary information and, if available, private showings.",
+      "@type": "HowToStep",
+      "position": 3
+    },
+    {
+      "name": "Step 4: Evaluate and Assess Discreetly",
+      "text": "Once an off-market property piques your interest, your agent will help you evaluate its value, potential risks, and alignment with your goals. The assessment process is often handled with utmost discretion, respecting the seller's privacy. You'll analyze market conditions and pricing, similar to a traditional sale but in a more controlled environment.",
+      "@type": "HowToStep",
+      "position": 4
+    },
+    {
+      "name": "Step 5: Negotiate and Secure",
+      "text": "If you decide to move forward, your agent will prepare and negotiate an offer, often with fewer competing bids. They'll coordinate inspections, due diligence, and work towards a confidential closing. Kelby's focus on skilled negotiation and end-to-end support is particularly valuable in these types of transactions. Finding an off-market luxury home can be a rewarding process, offering unique properties and a tailored buying experience. To begin your search for an exclusive South Florida property, contact Kelby Contreras. He’s ready to provide the personal representation and access to opportunities you need.",
+      "@type": "HowToStep",
+      "position": 5
+    }
+  ],
+  "@type": "HowTo",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".howto-step",
+      "[itemprop=\"step\"]"
+    ]
+  },
+  "totalTime": "PT30M",
+  "areaServed": [
+    {
+      "name": "Miami-Dade County",
+      "@type": "AdministrativeArea"
+    },
+    {
+      "name": "Broward County",
+      "@type": "AdministrativeArea"
+    },
+    {
+      "name": "Palm Beach County",
+      "@type": "AdministrativeArea"
+    },
+    {
+      "name": "Collier County",
+      "@type": "AdministrativeArea"
+    },
+    {
+      "name": "Orange County",
+      "@type": "AdministrativeArea"
+    },
+    {
+      "name": "Aventura",
+      "@type": "City"
+    },
+    {
+      "name": "Bal Harbour",
+      "@type": "City"
+    },
+    {
+      "name": "Bay Harbor Islands",
+      "@type": "City"
+    },
+    {
+      "name": "Boca Raton",
+      "@type": "City"
+    },
+    {
+      "name": "Brickell",
+      "@type": "City"
+    },
+    {
+      "name": "Brickell Key",
+      "@type": "City"
+    },
+    {
+      "name": "Coconut Grove",
+      "@type": "City"
+    },
+    {
+      "name": "Coral Gables",
+      "@type": "City"
+    },
+    {
+      "name": "Downtown Miami",
+      "@type": "City"
+    },
+    {
+      "name": "Edgewater",
+      "@type": "City"
+    },
+    {
+      "name": "Fisher Island",
+      "@type": "City"
+    },
+    {
+      "name": "Fort Lauderdale Beach",
+      "@type": "City"
+    },
+    {
+      "name": "Hallandale Beach",
+      "@type": "City"
+    },
+    {
+      "name": "Highland Beach",
+      "@type": "City"
+    },
+    {
+      "name": "Hollywood Beach",
+      "@type": "City"
+    },
+    {
+      "name": "Key Biscayne",
+      "@type": "City"
+    },
+    {
+      "name": "Las Olas",
+      "@type": "City"
+    },
+    {
+      "name": "Miami Beach",
+      "@type": "City"
+    },
+    {
+      "name": "Midtown/Wynwood",
+      "@type": "City"
+    },
+    {
+      "name": "North Bay Village",
+      "@type": "City"
+    },
+    {
+      "name": "Pinecrest",
+      "@type": "City"
+    },
+    {
+      "name": "Pompano Beach",
+      "@type": "City"
+    },
+    {
+      "name": "South Beach",
+      "@type": "City"
+    },
+    {
+      "name": "Sunny Isles Beach",
+      "@type": "City"
+    },
+    {
+      "name": "Surfside",
+      "@type": "City"
+    },
+    {
+      "name": "West Palm Beach",
+      "@type": "City"
+    },
+    {
+      "name": "Williams Island",
+      "@type": "City"
+    },
+    {
+      "name": "Miami",
+      "@type": "City"
+    },
+    {
+      "name": "Fort Lauderdale",
+      "@type": "City"
+    },
+    {
+      "name": "Palm Beach",
+      "@type": "City"
+    },
+    {
+      "name": "Delray Beach",
+      "@type": "City"
+    },
+    {
+      "name": "Doral",
+      "@type": "City"
+    }
+  ],
+  "description": "Before diving into the off-market world, clearly outline your ideal property's features, location (Miami-Dade, Broward, Palm Beach counties, or specific areas like Aventura, Boca Raton, Key Biscayne),"
+}

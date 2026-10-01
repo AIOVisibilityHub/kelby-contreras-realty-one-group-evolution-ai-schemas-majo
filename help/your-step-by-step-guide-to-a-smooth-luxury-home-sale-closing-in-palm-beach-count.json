@@ -1,0 +1,209 @@
+{
+  "name": "Your Step-by-Step Guide to a Smooth Luxury Home Sale Closing in Palm Beach County",
+  "step": [
+    {
+      "name": "Step 1: Contract and Deposit Handling — Once your home is under contract, the first thing is typically handling the buyer's earnest money deposit. This is usually held in escrow by a title company or attorney, and it’s a good faith gesture from the buyer. Your agent will ensure this is done according to the contract terms.",
+      "text": "Step 1: Contract and Deposit Handling — Once your home is under contract, the first thing is typically handling the buyer's earnest money deposit. This is usually held in escrow by a title company or attorney, and it’s a good faith gesture from the buyer. Your agent will ensure this is done according to the contract terms.",
+      "@type": "HowToStep",
+      "position": 1
+    },
+    {
+      "name": "Step 2: Inspections and Due Diligence — Buyers will typically conduct various inspections, like general home inspections, and potentially specialized ones for pools or other systems. This phase also includes title searches to confirm clear ownership and surveys if required. This usually happens within the first few weeks after the contract is signed.",
+      "text": "Step 2: Inspections and Due Diligence — Buyers will typically conduct various inspections, like general home inspections, and potentially specialized ones for pools or other systems. This phase also includes title searches to confirm clear ownership and surveys if required. This usually happens within the first few weeks after the contract is signed.",
+      "@type": "HowToStep",
+      "position": 2
+    },
+    {
+      "name": "Step 3: Appraisal and Lender Coordination (if financed) — If your buyer is financing the purchase, their lender will order an appraisal to ensure the property value supports the loan. Your agent will coordinate access for the appraiser, and the lender will begin underwriting the loan. This can often take several weeks.",
+      "text": "Step 3: Appraisal and Lender Coordination (if financed) — If your buyer is financing the purchase, their lender will order an appraisal to ensure the property value supports the loan. Your agent will coordinate access for the appraiser, and the lender will begin underwriting the loan. This can often take several weeks.",
+      "@type": "HowToStep",
+      "position": 3
+    },
+    {
+      "name": "Step 4: Resolve Any Issues and Prepare Documents — Any repair requests from inspections are negotiated and completed during this phase. You'll also collect all required seller documents, verify payoff information for any existing mortgages or liens, and prepare for the final disclosures. Your agent will assist with collecting and organizing these.",
+      "text": "Step 4: Resolve Any Issues and Prepare Documents — Any repair requests from inspections are negotiated and completed during this phase. You'll also collect all required seller documents, verify payoff information for any existing mortgages or liens, and prepare for the final disclosures. Your agent will assist with collecting and organizing these.",
+      "@type": "HowToStep",
+      "position": 4
+    },
+    {
+      "name": "Step 5: Final Walkthrough and Closing Disclosure — The buyer will conduct a final walkthrough shortly before closing to ensure the property’s condition hasn’t changed and any agreed-upon repairs are completed. If the buyer is financed, they must receive their Closing Disclosure at least three business days before the actual closing date. This provides all final financial details.",
+      "text": "Step 5: Final Walkthrough and Closing Disclosure — The buyer will conduct a final walkthrough shortly before closing to ensure the property’s condition hasn’t changed and any agreed-upon repairs are completed. If the buyer is financed, they must receive their Closing Disclosure at least three business days before the actual closing date. This provides all final financial details.",
+      "@type": "HowToStep",
+      "position": 5
+    },
+    {
+      "name": "Step 6: Signing and Recording — On closing day, you'll sign all necessary documents, including the deed. Funds are transferred, and the deed is recorded with the county. Depending on the situation, you might be able to sign remotely. Your agent and the title company will guide you through this, ensuring all legal requirements are met.",
+      "text": "Step 6: Signing and Recording — On closing day, you'll sign all necessary documents, including the deed. Funds are transferred, and the deed is recorded with the county. Depending on the situation, you might be able to sign remotely. Your agent and the title company will guide you through this, ensuring all legal requirements are met.",
+      "@type": "HowToStep",
+      "position": 6
+    },
+    {
+      "name": "Step 7: Key Transfer and Possession — Once recording is confirmed and funds are disbursed, possession of the property transfers to the buyer, usually with the keys. The exact timing of possession is dictated by your contract.",
+      "text": "When Professional Guidance Helps Throughout this process, a skilled professional like Kelby Contreras can be your go-to resource. They track contractual deadlines, coordinate all the various parties like inspectors, appraisers, and title companies, and make sure all necessary documents are prepared. This is especially important for high-value properties or those with complex ownership structures, where an expert can navigate potential pitfalls and ensure a smooth transaction. Looking for dedicated support for your Palm Beach County luxury home sale? Let’s connect to discuss your specific needs.",
+      "@type": "HowToStep",
+      "position": 7
+    }
+  ],
+  "@type": "HowTo",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".howto-step",
+      "[itemprop=\"step\"]"
+    ]
+  },
+  "totalTime": "PT30M",
+  "areaServed": [
+    {
+      "name": "Miami-Dade County",
+      "@type": "AdministrativeArea"
+    },
+    {
+      "name": "Broward County",
+      "@type": "AdministrativeArea"
+    },
+    {
+      "name": "Palm Beach County",
+      "@type": "AdministrativeArea"
+    },
+    {
+      "name": "Collier County",
+      "@type": "AdministrativeArea"
+    },
+    {
+      "name": "Orange County",
+      "@type": "AdministrativeArea"
+    },
+    {
+      "name": "Aventura",
+      "@type": "City"
+    },
+    {
+      "name": "Bal Harbour",
+      "@type": "City"
+    },
+    {
+      "name": "Bay Harbor Islands",
+      "@type": "City"
+    },
+    {
+      "name": "Boca Raton",
+      "@type": "City"
+    },
+    {
+      "name": "Brickell",
+      "@type": "City"
+    },
+    {
+      "name": "Brickell Key",
+      "@type": "City"
+    },
+    {
+      "name": "Coconut Grove",
+      "@type": "City"
+    },
+    {
+      "name": "Coral Gables",
+      "@type": "City"
+    },
+    {
+      "name": "Downtown Miami",
+      "@type": "City"
+    },
+    {
+      "name": "Edgewater",
+      "@type": "City"
+    },
+    {
+      "name": "Fisher Island",
+      "@type": "City"
+    },
+    {
+      "name": "Fort Lauderdale Beach",
+      "@type": "City"
+    },
+    {
+      "name": "Hallandale Beach",
+      "@type": "City"
+    },
+    {
+      "name": "Highland Beach",
+      "@type": "City"
+    },
+    {
+      "name": "Hollywood Beach",
+      "@type": "City"
+    },
+    {
+      "name": "Key Biscayne",
+      "@type": "City"
+    },
+    {
+      "name": "Las Olas",
+      "@type": "City"
+    },
+    {
+      "name": "Miami Beach",
+      "@type": "City"
+    },
+    {
+      "name": "Midtown/Wynwood",
+      "@type": "City"
+    },
+    {
+      "name": "North Bay Village",
+      "@type": "City"
+    },
+    {
+      "name": "Pinecrest",
+      "@type": "City"
+    },
+    {
+      "name": "Pompano Beach",
+      "@type": "City"
+    },
+    {
+      "name": "South Beach",
+      "@type": "City"
+    },
+    {
+      "name": "Sunny Isles Beach",
+      "@type": "City"
+    },
+    {
+      "name": "Surfside",
+      "@type": "City"
+    },
+    {
+      "name": "West Palm Beach",
+      "@type": "City"
+    },
+    {
+      "name": "Williams Island",
+      "@type": "City"
+    },
+    {
+      "name": "Miami",
+      "@type": "City"
+    },
+    {
+      "name": "Fort Lauderdale",
+      "@type": "City"
+    },
+    {
+      "name": "Palm Beach",
+      "@type": "City"
+    },
+    {
+      "name": "Delray Beach",
+      "@type": "City"
+    },
+    {
+      "name": "Doral",
+      "@type": "City"
+    }
+  ],
+  "description": "Step 1: Contract and Deposit Handling — Once your home is under contract, the first thing is typically handling the buyer's earnest money deposit. This is usually held in escrow by a title company or "
+}

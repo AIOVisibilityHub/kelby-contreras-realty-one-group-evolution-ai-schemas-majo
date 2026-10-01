@@ -1,0 +1,26 @@
+{
+  "url": "sellingrealestateflorida.com/faq/listing-agent-miami",
+  "name": "Listing agent Miami?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Listing agent Miami?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A Miami listing agent should provide a clear valuation, pricing strategy, property preparation plan, marketing approach, buyer qualification process, offer review, negotiation, and communication throughout the transaction. Kelby Contreras represents sellers of luxury homes, condos, waterfront properties, investment properties, and other South Florida real estate.",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "A Miami listing agent should provide a clear valuation, pricing strategy, property preparation plan, marketing approach, buyer qualification process, offer revi"
+}

@@ -1,0 +1,26 @@
+{
+  "url": "sellingrealestateflorida.com/faq/aventura-condos-for-sale",
+  "name": "Aventura condos for sale?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Aventura condos for sale?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Aventura condos offer a broad range of waterfront, golf-course, and high-rise options. Kelby Contreras helps buyers compare buildings, amenities, views, association costs, rental policies, location, and available inventory.",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Aventura condos offer a broad range of waterfront, golf-course, and high-rise options. Kelby Contreras helps buyers compare buildings, amenities, views, associa"
+}

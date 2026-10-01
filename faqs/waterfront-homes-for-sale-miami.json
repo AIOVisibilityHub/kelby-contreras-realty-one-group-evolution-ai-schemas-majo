@@ -1,0 +1,26 @@
+{
+  "url": "sellingrealestateflorida.com/faq/waterfront-homes-for-sale-miami",
+  "name": "Waterfront homes for sale Miami?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Waterfront homes for sale Miami?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Waterfront homes in Miami can differ significantly in water access, dockage, bridge clearance, flood exposure, seawall condition, insurance needs, and neighborhood lifestyle. Kelby Contreras helps buyers compare waterfront opportunities and identify the property details that matter for their intended use.",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Waterfront homes in Miami can differ significantly in water access, dockage, bridge clearance, flood exposure, seawall condition, insurance needs, and neighborh"
+}

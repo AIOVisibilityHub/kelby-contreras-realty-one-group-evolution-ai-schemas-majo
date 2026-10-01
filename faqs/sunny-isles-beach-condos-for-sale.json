@@ -1,0 +1,26 @@
+{
+  "url": "sellingrealestateflorida.com/faq/sunny-isles-beach-condos-for-sale",
+  "name": "Sunny Isles Beach condos for sale?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Sunny Isles Beach condos for sale?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Sunny Isles Beach condos range from beachfront residences to luxury high-rise homes. Kelby Contreras helps buyers compare available units by ocean access, view corridor, building amenities, association requirements, rental policies, and ownership costs.",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Sunny Isles Beach condos range from beachfront residences to luxury high-rise homes. Kelby Contreras helps buyers compare available units by ocean access, view"
+}

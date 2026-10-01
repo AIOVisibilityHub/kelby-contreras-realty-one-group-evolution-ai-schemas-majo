@@ -1,0 +1,197 @@
+{
+  "name": "Understanding the Timeline for Selling a Luxury Property in South Florida",
+  "step": [
+    {
+      "name": "Step 1: Initial Consultation and Strategy (1-2 weeks)",
+      "text": "This phase involves meeting with your specialist, like Kelby Contreras, to assess your property, discuss your goals, review market conditions, and define a comprehensive listing strategy. This is where pricing, positioning, and marketing plans are established.",
+      "@type": "HowToStep",
+      "position": 1
+    },
+    {
+      "name": "Step 2: Property Preparation and Documentation (3-6 weeks)",
+      "text": "This is often the longest phase. It includes gathering all necessary disclosures, permits, and property records, coordinating any advisable repairs or staging, and arranging for professional photography, videography, drone footage, and 3D tours. The quality of these assets is crucial for attracting discerning buyers.",
+      "@type": "HowToStep",
+      "position": 2
+    },
+    {
+      "name": "Step 3: Marketing Launch and Buyer Outreach (Varies)",
+      "text": "Once your property is pristine and all marketing materials are ready, it's launched across targeted luxury channels, including the MLS and private networks. This phase involves controlled previews, showings with pre-screened buyers, and continuous feedback evaluation. This phase can take anywhere from a few weeks to several months, depending on market conditions and property uniqueness.",
+      "@type": "HowToStep",
+      "position": 3
+    },
+    {
+      "name": "Step 4: Offer Negotiation and Due Diligence (1-3 weeks)",
+      "text": "Upon receiving offers, your agent will negotiate terms on your behalf. Once an offer is accepted, the due diligence period begins, where the buyer conducts inspections and appraisals. This time frame can vary based on the complexity of the property and any issues that arise.",
+      "@type": "HowToStep",
+      "position": 4
+    },
+    {
+      "name": "Step 5: Closing Coordination (2-6 weeks)",
+      "text": "The final stage involves coordinating with title companies, lenders, and other parties to ensure all conditions are met for closing. This includes reviewing closing documents and ensuring a smooth transfer of ownership. Cash deals often close faster than financed transactions. This timeline gives you a general idea, but your specific property and market conditions can influence each step. Working with an experienced specialist like Kelby Contreras ensures every phase is managed with expertise. Let's discuss a personalized timeline for your luxury property.",
+      "@type": "HowToStep",
+      "position": 5
+    }
+  ],
+  "@type": "HowTo",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".howto-step",
+      "[itemprop=\"step\"]"
+    ]
+  },
+  "totalTime": "PT30M",
+  "areaServed": [
+    {
+      "name": "Miami-Dade County",
+      "@type": "AdministrativeArea"
+    },
+    {
+      "name": "Broward County",
+      "@type": "AdministrativeArea"
+    },
+    {
+      "name": "Palm Beach County",
+      "@type": "AdministrativeArea"
+    },
+    {
+      "name": "Collier County",
+      "@type": "AdministrativeArea"
+    },
+    {
+      "name": "Orange County",
+      "@type": "AdministrativeArea"
+    },
+    {
+      "name": "Aventura",
+      "@type": "City"
+    },
+    {
+      "name": "Bal Harbour",
+      "@type": "City"
+    },
+    {
+      "name": "Bay Harbor Islands",
+      "@type": "City"
+    },
+    {
+      "name": "Boca Raton",
+      "@type": "City"
+    },
+    {
+      "name": "Brickell",
+      "@type": "City"
+    },
+    {
+      "name": "Brickell Key",
+      "@type": "City"
+    },
+    {
+      "name": "Coconut Grove",
+      "@type": "City"
+    },
+    {
+      "name": "Coral Gables",
+      "@type": "City"
+    },
+    {
+      "name": "Downtown Miami",
+      "@type": "City"
+    },
+    {
+      "name": "Edgewater",
+      "@type": "City"
+    },
+    {
+      "name": "Fisher Island",
+      "@type": "City"
+    },
+    {
+      "name": "Fort Lauderdale Beach",
+      "@type": "City"
+    },
+    {
+      "name": "Hallandale Beach",
+      "@type": "City"
+    },
+    {
+      "name": "Highland Beach",
+      "@type": "City"
+    },
+    {
+      "name": "Hollywood Beach",
+      "@type": "City"
+    },
+    {
+      "name": "Key Biscayne",
+      "@type": "City"
+    },
+    {
+      "name": "Las Olas",
+      "@type": "City"
+    },
+    {
+      "name": "Miami Beach",
+      "@type": "City"
+    },
+    {
+      "name": "Midtown/Wynwood",
+      "@type": "City"
+    },
+    {
+      "name": "North Bay Village",
+      "@type": "City"
+    },
+    {
+      "name": "Pinecrest",
+      "@type": "City"
+    },
+    {
+      "name": "Pompano Beach",
+      "@type": "City"
+    },
+    {
+      "name": "South Beach",
+      "@type": "City"
+    },
+    {
+      "name": "Sunny Isles Beach",
+      "@type": "City"
+    },
+    {
+      "name": "Surfside",
+      "@type": "City"
+    },
+    {
+      "name": "West Palm Beach",
+      "@type": "City"
+    },
+    {
+      "name": "Williams Island",
+      "@type": "City"
+    },
+    {
+      "name": "Miami",
+      "@type": "City"
+    },
+    {
+      "name": "Fort Lauderdale",
+      "@type": "City"
+    },
+    {
+      "name": "Palm Beach",
+      "@type": "City"
+    },
+    {
+      "name": "Delray Beach",
+      "@type": "City"
+    },
+    {
+      "name": "Doral",
+      "@type": "City"
+    }
+  ],
+  "description": "This phase involves meeting with your specialist, like Kelby Contreras, to assess your property, discuss your goals, review market conditions, and define a comprehensive listing strategy. This is wher"
+}

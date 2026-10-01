@@ -1,0 +1,26 @@
+{
+  "url": "sellingrealestateflorida.com/faq/sell-my-house-miami-dade",
+  "name": "Sell my house Miami-Dade?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Sell my house Miami-Dade?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Kelby Contreras serves Miami-Dade sellers with a sale plan built around property valuation, local market positioning, strategic pricing, marketing, buyer outreach, negotiation, and closing coordination. The right approach depends on the home’s neighborhood, condition, price range, and seller timeline.",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Kelby Contreras serves Miami-Dade sellers with a sale plan built around property valuation, local market positioning, strategic pricing, marketing, buyer outrea"
+}

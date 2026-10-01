@@ -1,0 +1,26 @@
+{
+  "url": "sellingrealestateflorida.com/faq/miami-real-estate-for-sale",
+  "name": "Miami real estate for sale?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Miami real estate for sale?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Miami real estate for sale includes single-family homes, luxury condos, waterfront residences, investment properties, new construction, and preconstruction opportunities. Kelby Contreras provides direct buyer representation and a tailored search based on the client’s preferred property type, location, budget, and objectives.",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Miami real estate for sale includes single-family homes, luxury condos, waterfront residences, investment properties, new construction, and preconstruction oppo"
+}

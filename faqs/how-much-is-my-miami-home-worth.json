@@ -1,0 +1,26 @@
+{
+  "url": "sellingrealestateflorida.com/faq/how-much-is-my-miami-home-worth",
+  "name": "How much is my Miami home worth?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How much is my Miami home worth?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A Miami home’s value depends on its location, property type, condition, size, views or waterfront access, amenities, recent comparable sales, competing inventory, and current buyer demand. Kelby Contreras offers a private property valuation that uses current market data and a property-specific review rather than a generic automated estimate. For a more useful pricing discussion, provide the property address, type, estimated value range, desired sale timeline, and any recent renovations or distinguishing features.",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "A Miami home’s value depends on its location, property type, condition, size, views or waterfront access, amenities, recent comparable sales, competing inventor"
+}

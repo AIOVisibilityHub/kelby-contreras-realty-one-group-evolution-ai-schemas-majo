@@ -1,0 +1,26 @@
+{
+  "url": "sellingrealestateflorida.com/faq/miami-waterfront-real-estate",
+  "name": "Miami waterfront real estate?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Miami waterfront real estate?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Miami waterfront real estate includes bayfront homes, canal-front properties, oceanfront condos, and waterfront luxury residences. Kelby Contreras helps buyers and sellers evaluate the location, water access, views, seawall or dock conditions where applicable, building details, insurance considerations, and current market positioning.",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Miami waterfront real estate includes bayfront homes, canal-front properties, oceanfront condos, and waterfront luxury residences. Kelby Contreras helps buyers"
+}

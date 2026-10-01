@@ -1,0 +1,26 @@
+{
+  "url": "sellingrealestateflorida.com/faq/condos-under-1-million-miami",
+  "name": "Condos under $1 million Miami?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Condos under $1 million Miami?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Miami condos under $1 million vary by neighborhood, building age, unit size, views, monthly fees, rental rules, and condition. Kelby Contreras can create a current search based on your preferred Miami areas, budget, bedrooms, lifestyle needs, and investment objectives.",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Miami condos under $1 million vary by neighborhood, building age, unit size, views, monthly fees, rental rules, and condition. Kelby Contreras can create a curr"
+}

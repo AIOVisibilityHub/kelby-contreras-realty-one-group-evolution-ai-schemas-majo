@@ -1,0 +1,26 @@
+{
+  "url": "sellingrealestateflorida.com/faq/how-do-i-sell-a-luxury-condo-in-miami",
+  "name": "How do I sell a luxury condo in Miami?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do I sell a luxury condo in Miami?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Selling a luxury condo in Miami starts with a property-specific valuation, a review of current competing listings and recent comparable sales, and a pricing strategy matched to the building, view, floor level, amenities, HOA requirements, and buyer pool. Kelby Contreras helps owners position and market luxury condos and penthouses, reach qualified buyers through targeted and confidential marketing when appropriate, evaluate offers, negotiate terms, and coordinate due diligence and closing. Sellers should also prepare key building documents, association information, assessments, rental restrictions, and relevant disclosures early in the process.",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Selling a luxury condo in Miami starts with a property-specific valuation, a review of current competing listings and recent comparable sales, and a pricing str"
+}

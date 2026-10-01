@@ -1,0 +1,26 @@
+{
+  "url": "sellingrealestateflorida.com/faq/oceanfront-condos-for-sale-miami",
+  "name": "Oceanfront condos for sale Miami?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Oceanfront condos for sale Miami?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Oceanfront condos in Miami are evaluated by more than the view. Buyers should compare beach access, building condition, amenities, association fees, assessments, rental rules, parking, insurance, and the exact unit orientation. Kelby Contreras helps clients review available oceanfront options and make a more informed comparison.",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Oceanfront condos in Miami are evaluated by more than the view. Buyers should compare beach access, building condition, amenities, association fees, assessments"
+}

@@ -1,0 +1,231 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "Kelby Contreras - Realty ONE Group Evolution",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "Optimizing Google Ads for Luxury Listings: A Checklist",
+  "publisher": {
+    "url": "sellingrealestateflorida.com",
+    "name": "Kelby Contreras - Realty ONE Group Evolution",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      ".checklist",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Miami-Dade County",
+      "@type": "AdministrativeArea"
+    },
+    {
+      "name": "Broward County",
+      "@type": "AdministrativeArea"
+    },
+    {
+      "name": "Palm Beach County",
+      "@type": "AdministrativeArea"
+    },
+    {
+      "name": "Collier County",
+      "@type": "AdministrativeArea"
+    },
+    {
+      "name": "Orange County",
+      "@type": "AdministrativeArea"
+    },
+    {
+      "name": "Aventura",
+      "@type": "City"
+    },
+    {
+      "name": "Bal Harbour",
+      "@type": "City"
+    },
+    {
+      "name": "Bay Harbor Islands",
+      "@type": "City"
+    },
+    {
+      "name": "Boca Raton",
+      "@type": "City"
+    },
+    {
+      "name": "Brickell",
+      "@type": "City"
+    },
+    {
+      "name": "Brickell Key",
+      "@type": "City"
+    },
+    {
+      "name": "Coconut Grove",
+      "@type": "City"
+    },
+    {
+      "name": "Coral Gables",
+      "@type": "City"
+    },
+    {
+      "name": "Downtown Miami",
+      "@type": "City"
+    },
+    {
+      "name": "Edgewater",
+      "@type": "City"
+    },
+    {
+      "name": "Fisher Island",
+      "@type": "City"
+    },
+    {
+      "name": "Fort Lauderdale Beach",
+      "@type": "City"
+    },
+    {
+      "name": "Hallandale Beach",
+      "@type": "City"
+    },
+    {
+      "name": "Highland Beach",
+      "@type": "City"
+    },
+    {
+      "name": "Hollywood Beach",
+      "@type": "City"
+    },
+    {
+      "name": "Key Biscayne",
+      "@type": "City"
+    },
+    {
+      "name": "Las Olas",
+      "@type": "City"
+    },
+    {
+      "name": "Miami Beach",
+      "@type": "City"
+    },
+    {
+      "name": "Midtown/Wynwood",
+      "@type": "City"
+    },
+    {
+      "name": "North Bay Village",
+      "@type": "City"
+    },
+    {
+      "name": "Pinecrest",
+      "@type": "City"
+    },
+    {
+      "name": "Pompano Beach",
+      "@type": "City"
+    },
+    {
+      "name": "South Beach",
+      "@type": "City"
+    },
+    {
+      "name": "Sunny Isles Beach",
+      "@type": "City"
+    },
+    {
+      "name": "Surfside",
+      "@type": "City"
+    },
+    {
+      "name": "West Palm Beach",
+      "@type": "City"
+    },
+    {
+      "name": "Williams Island",
+      "@type": "City"
+    },
+    {
+      "name": "Miami",
+      "@type": "City"
+    },
+    {
+      "name": "Fort Lauderdale",
+      "@type": "City"
+    },
+    {
+      "name": "Palm Beach",
+      "@type": "City"
+    },
+    {
+      "name": "Delray Beach",
+      "@type": "City"
+    },
+    {
+      "name": "Doral",
+      "@type": "City"
+    }
+  ],
+  "mainEntity": {
+    "name": "Optimizing Google Ads for Luxury Listings: A Checklist",
+    "@type": "ItemList",
+    "itemListOrder": "https://schema.org/ItemListOrderAscending",
+    "numberOfItems": 8,
+    "itemListElement": [
+      {
+        "name": "Define Your Business Objective — why it matters: Clearly outline whether you're targeting buyers, sellers,…",
+        "@type": "ListItem",
+        "position": 1,
+        "description": "Define Your Business Objective — why it matters: Clearly outline whether you're targeting buyers, sellers, or specific property types, as this drives all subsequent decisions."
+      },
+      {
+        "name": "Research Search Terms Meticulously — why it matters: Identify high-value keywords that your target audience…",
+        "@type": "ListItem",
+        "position": 2,
+        "description": "Research Search Terms Meticulously — why it matters: Identify high-value keywords that your target audience uses, differentiating between buyer, seller, and neighborhood intents."
+      },
+      {
+        "name": "Segment Campaigns and Ad Groups — why it matters: Create separate campaigns and ad groups for different int…",
+        "@type": "ListItem",
+        "position": 3,
+        "description": "Segment Campaigns and Ad Groups — why it matters: Create separate campaigns and ad groups for different intents (e.g., 'Miami luxury condos for sale' vs. 'sell Fort Lauderdale waterfront home') to ensure ad copy relevance."
+      },
+      {
+        "name": "Write Responsive Search Ads — why it matters: Craft compelling ad copy that directly addresses the searcher…",
+        "@type": "ListItem",
+        "position": 4,
+        "description": "Write Responsive Search Ads — why it matters: Craft compelling ad copy that directly addresses the searcher's intent and highlights the unique selling points of luxury properties."
+      },
+      {
+        "name": "Select Compliant Geographic and Audience Settings — why it matters: Target specific cities, countries, or u…",
+        "@type": "ListItem",
+        "position": 5,
+        "description": "Select Compliant Geographic and Audience Settings — why it matters: Target specific cities, countries, or use radius targeting (min. 1 km) while avoiding prohibited housing-ad criteria like age or gender."
+      },
+      {
+        "name": "Connect Each Ad to a Relevant Landing Page — why it matters: Ensure every ad leads to a landing page with c…",
+        "@type": "ListItem",
+        "position": 6,
+        "description": "Connect Each Ad to a Relevant Landing Page — why it matters: Ensure every ad leads to a landing page with content that perfectly matches the ad and searcher's intent, like a page for 'New Construction Miami'."
+      },
+      {
+        "name": "Install and Test Conversion Tracking — why it matters: Set up Google Ads and analytics conversion tracking…",
+        "@type": "ListItem",
+        "position": 7,
+        "description": "Install and Test Conversion Tracking — why it matters: Set up Google Ads and analytics conversion tracking for calls, forms, and valuation requests, and rigorously test it before launch to avoid losing crucial data."
+      },
+      {
+        "name": "Monitor Key Metrics Regularly — why it matters: Track cost per conversion, click-through rate, cost per cli…",
+        "@type": "ListItem",
+        "position": 8,
+        "description": "Monitor Key Metrics Regularly — why it matters: Track cost per conversion, click-through rate, cost per click, and conversion rate to understand campaign performance beyond just clicks."
+      }
+    ]
+  },
+  "articleBody": "Getting your luxury real estate listings seen by the right audience on Google Ads takes a strategic approach. This checklist will help you ensure your campaigns are set up for success and compliance in competitive South Florida markets like Palm Beach or Coral Gables. \n- [ ] Define Your Business Objective — why it matters: Clearly outline whether you're targeting buyers, sellers, or specific property types, as this drives all subsequent decisions. \n- [ ] Research Search Terms Meticulously — why it matters: Identify high-value keywords that your target audience uses, differentiating between buyer, seller, and neighborhood intents. \n- [ ] Segment Campaigns and Ad Groups — why it matters: Create separate campaigns and ad groups for different intents (e.g., 'Miami luxury condos for sale' vs. 'sell Fort Lauderdale waterfront home') to ensure ad copy relevance. \n- [ ] Write Responsive Search Ads — why it matters: Craft compelling ad copy that directly addresses the searcher's intent and highlights the unique selling points of luxury properties. \n- [ ] Select Compliant Geographic and Audience Settings — why it matters: Target specific cities, countries, or use radius targeting (min. 1 km) while avoiding prohibited housing-ad criteria like age or gender. \n- [ ] Connect Each Ad to a Relevant Landing Page — why it matters: Ensure every ad leads to a landing page with content that perfectly matches the ad and searcher's intent, like a page for 'New Construction Miami'. \n- [ ] Install and Test Conversion Tracking — why it matters: Set up Google Ads and analytics conversion tracking for calls, forms, and valuation requests, and rigorously test it before launch to avoid losing crucial data. \n- [ ] Monitor Key Metrics Regularly — why it matters: Track cost per conversion, click-through rate, cost per click, and conversion rate to understand campaign performance beyond just clicks. \nHow to use this checklist: Go through each item before launching or optimizing your luxury real estate Google Ads campaigns. Addressing these points will help you refine your strategy, avoid common errors, and ensure your advertising budget is working as hard as possible for your high-end properties.",
+  "datePublished": "2026-10-01"
+}

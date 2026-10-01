@@ -1,0 +1,26 @@
+{
+  "url": "sellingrealestateflorida.com/faq/miami-home-valuation",
+  "name": "Miami home valuation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Miami home valuation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A Miami home valuation should account for recent local sales, active competing listings, condition, improvements, lot size, views, waterfront characteristics, and current buyer demand. Kelby Contreras provides seller consultations designed to help owners understand a realistic pricing range and sale strategy.",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "A Miami home valuation should account for recent local sales, active competing listings, condition, improvements, lot size, views, waterfront characteristics, a"
+}

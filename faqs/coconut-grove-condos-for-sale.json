@@ -1,0 +1,26 @@
+{
+  "url": "sellingrealestateflorida.com/faq/coconut-grove-condos-for-sale",
+  "name": "Coconut Grove condos for sale?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Coconut Grove condos for sale?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Coconut Grove condo buyers can compare boutique buildings, luxury towers, bayfront residences, and village-adjacent options. Kelby Contreras helps evaluate views, building amenities, monthly costs, walkability, rental rules, and available inventory.",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Coconut Grove condo buyers can compare boutique buildings, luxury towers, bayfront residences, and village-adjacent options. Kelby Contreras helps evaluate view"
+}

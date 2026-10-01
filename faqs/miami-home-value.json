@@ -1,0 +1,26 @@
+{
+  "url": "sellingrealestateflorida.com/faq/miami-home-value",
+  "name": "Miami home value?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Miami home value?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Miami home value depends on location, property type, condition, size, lot, views, waterfront access, amenities, recent comparable sales, competing listings, and buyer demand. Kelby Contreras offers a private valuation based on current market data and the property’s specific features.",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Miami home value depends on location, property type, condition, size, lot, views, waterfront access, amenities, recent comparable sales, competing listings, and"
+}

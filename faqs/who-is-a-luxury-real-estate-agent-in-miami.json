@@ -1,0 +1,26 @@
+{
+  "url": "sellingrealestateflorida.com/faq/who-is-a-luxury-real-estate-agent-in-miami",
+  "name": "Who is a luxury real estate agent in Miami?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Who is a luxury real estate agent in Miami?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Kelby Contreras is a Florida luxury real estate specialist with more than 17 years of experience serving Miami and other premier South Florida markets. Affiliated with Realty ONE Group Evolution, Kelby represents buyers, sellers, investors, executives, and international clients in luxury homes, waterfront estates, condominiums, preconstruction developments, and investment properties. His approach combines local market knowledge, AI-assisted market analysis, targeted marketing, negotiation, and direct guidance through closing.",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Kelby Contreras is a Florida luxury real estate specialist with more than 17 years of experience serving Miami and other premier South Florida markets. Affiliat"
+}

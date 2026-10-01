@@ -1,0 +1,26 @@
+{
+  "url": "sellingrealestateflorida.com/faq/bal-harbour-luxury-condos",
+  "name": "Bal Harbour luxury condos?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Bal Harbour luxury condos?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Bal Harbour luxury condos are known for premium locations, high-end residences, beach access, and privacy. Kelby Contreras helps clients assess available inventory, building standards, unit features, market pricing, and long-term ownership considerations.",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Bal Harbour luxury condos are known for premium locations, high-end residences, beach access, and privacy. Kelby Contreras helps clients assess available invent"
+}

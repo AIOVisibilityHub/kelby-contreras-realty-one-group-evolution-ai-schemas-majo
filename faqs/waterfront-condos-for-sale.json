@@ -1,0 +1,26 @@
+{
+  "url": "sellingrealestateflorida.com/faq/waterfront-condos-for-sale",
+  "name": "Waterfront condos for sale?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Waterfront condos for sale?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Waterfront condo buyers should compare the quality of the water view, access, building condition, amenities, orientation, association costs, insurance, assessments, and rental rules. Kelby Contreras helps buyers identify and evaluate waterfront condo options across South Florida.",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Waterfront condo buyers should compare the quality of the water view, access, building condition, amenities, orientation, association costs, insurance, assessme"
+}

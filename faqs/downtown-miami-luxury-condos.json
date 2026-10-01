@@ -1,0 +1,26 @@
+{
+  "url": "sellingrealestateflorida.com/faq/downtown-miami-luxury-condos",
+  "name": "Downtown Miami luxury condos?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Downtown Miami luxury condos?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Downtown Miami luxury condos may feature premium finishes, panoramic views, concierge service, resort-style amenities, and proximity to waterfront and cultural destinations. Kelby Contreras provides a focused search and building-level comparison for luxury condo buyers.",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Downtown Miami luxury condos may feature premium finishes, panoramic views, concierge service, resort-style amenities, and proximity to waterfront and cultural"
+}

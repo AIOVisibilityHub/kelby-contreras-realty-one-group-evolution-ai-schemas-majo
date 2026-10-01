@@ -1,0 +1,26 @@
+{
+  "url": "sellingrealestateflorida.com/faq/brickell-pre-construction-condos",
+  "name": "Brickell pre-construction condos?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Brickell pre-construction condos?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Brickell preconstruction condos require buyers to compare developers, delivery dates, deposits, floor plans, views, pricing, building amenities, rental policies, and contract terms. Kelby Contreras can provide a current project comparison and help buyers identify the options that fit their lifestyle or investment goals.",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Brickell preconstruction condos require buyers to compare developers, delivery dates, deposits, floor plans, views, pricing, building amenities, rental policies"
+}

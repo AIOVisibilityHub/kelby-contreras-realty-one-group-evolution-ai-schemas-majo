@@ -1,0 +1,26 @@
+{
+  "url": "sellingrealestateflorida.com/faq/aventura-pre-construction-condos",
+  "name": "Aventura pre-construction condos?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Aventura pre-construction condos?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Aventura preconstruction condo purchases require due diligence on the development, developer, contract, deposit schedule, delivery expectations, unit selection, projected costs, and ownership rules. Kelby Contreras helps clients compare projects and navigate the purchase process.",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Aventura preconstruction condo purchases require due diligence on the development, developer, contract, deposit schedule, delivery expectations, unit selection,"
+}

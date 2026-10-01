@@ -1,0 +1,203 @@
+{
+  "name": "Connecting with International Buyers for Your Florida Property",
+  "step": [
+    {
+      "name": "Step 1: Identify Target Countries and Buyer Segments — Start by pinpointing which countries are most likely to have buyers interested in your specific South Florida luxury property. Understand what types of properties and price ranges these buyers are looking for.",
+      "text": "Step 1: Identify Target Countries and Buyer Segments — Start by pinpointing which countries are most likely to have buyers interested in your specific South Florida luxury property. Understand what types of properties and price ranges these buyers are looking for.",
+      "@type": "HowToStep",
+      "position": 1
+    },
+    {
+      "name": "Step 2: Research and Prioritize Partner Firms — Don't just randomly connect. Research and prioritize qualified partner firms, including international agents, brokers, wealth advisors, or relocation specialists. Look for those with a proven track record in your target markets.",
+      "text": "Step 2: Research and Prioritize Partner Firms — Don't just randomly connect. Research and prioritize qualified partner firms, including international agents, brokers, wealth advisors, or relocation specialists. Look for those with a proven track record in your target markets.",
+      "@type": "HowToStep",
+      "position": 2
+    },
+    {
+      "name": "Step 3: Document Partner Details and Establish Channels — For each potential partner, document their market specialty, contact details, and service area. Set up clear communication channels to ensure smooth information exchange and quick responses.",
+      "text": "Step 3: Document Partner Details and Establish Channels — For each potential partner, document their market specialty, contact details, and service area. Set up clear communication channels to ensure smooth information exchange and quick responses.",
+      "@type": "HowToStep",
+      "position": 3
+    },
+    {
+      "name": "Step 4: Formalize Referral Procedures and Materials — Agree on clear referral procedures and define who owns the client relationship. Provide localized, detailed listing materials and clear qualification criteria for buyers, so partners know exactly what you need.",
+      "text": "Step 4: Formalize Referral Procedures and Materials — Agree on clear referral procedures and define who owns the client relationship. Provide localized, detailed listing materials and clear qualification criteria for buyers, so partners know exactly what you need.",
+      "@type": "HowToStep",
+      "position": 4
+    },
+    {
+      "name": "Step 5: Exchange and Track Referrals Diligently — Actively exchange referrals and diligently track every introduction, response, showing, offer, and outcome. This helps ensure accountability and helps you refine your network over time.",
+      "text": "Step 5: Exchange and Track Referrals Diligently — Actively exchange referrals and diligently track every introduction, response, showing, offer, and outcome. This helps ensure accountability and helps you refine your network over time.",
+      "@type": "HowToStep",
+      "position": 5
+    },
+    {
+      "name": "Step 6: Regularly Review Partner Performance — Don't set it and forget it. Periodically review your partners' performance to ensure they're consistently delivering qualified leads and providing the necessary support for your international buyers.",
+      "text": "This structured approach will help you build a powerful international network to find the perfect buyer for your Florida luxury home. What to Do Next: If you're looking to build or enhance your international buyer network to sell your South Florida property, reach out to Kelby Contreras for expert advice and connections.",
+      "@type": "HowToStep",
+      "position": 6
+    }
+  ],
+  "@type": "HowTo",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".howto-step",
+      "[itemprop=\"step\"]"
+    ]
+  },
+  "totalTime": "PT30M",
+  "areaServed": [
+    {
+      "name": "Miami-Dade County",
+      "@type": "AdministrativeArea"
+    },
+    {
+      "name": "Broward County",
+      "@type": "AdministrativeArea"
+    },
+    {
+      "name": "Palm Beach County",
+      "@type": "AdministrativeArea"
+    },
+    {
+      "name": "Collier County",
+      "@type": "AdministrativeArea"
+    },
+    {
+      "name": "Orange County",
+      "@type": "AdministrativeArea"
+    },
+    {
+      "name": "Aventura",
+      "@type": "City"
+    },
+    {
+      "name": "Bal Harbour",
+      "@type": "City"
+    },
+    {
+      "name": "Bay Harbor Islands",
+      "@type": "City"
+    },
+    {
+      "name": "Boca Raton",
+      "@type": "City"
+    },
+    {
+      "name": "Brickell",
+      "@type": "City"
+    },
+    {
+      "name": "Brickell Key",
+      "@type": "City"
+    },
+    {
+      "name": "Coconut Grove",
+      "@type": "City"
+    },
+    {
+      "name": "Coral Gables",
+      "@type": "City"
+    },
+    {
+      "name": "Downtown Miami",
+      "@type": "City"
+    },
+    {
+      "name": "Edgewater",
+      "@type": "City"
+    },
+    {
+      "name": "Fisher Island",
+      "@type": "City"
+    },
+    {
+      "name": "Fort Lauderdale Beach",
+      "@type": "City"
+    },
+    {
+      "name": "Hallandale Beach",
+      "@type": "City"
+    },
+    {
+      "name": "Highland Beach",
+      "@type": "City"
+    },
+    {
+      "name": "Hollywood Beach",
+      "@type": "City"
+    },
+    {
+      "name": "Key Biscayne",
+      "@type": "City"
+    },
+    {
+      "name": "Las Olas",
+      "@type": "City"
+    },
+    {
+      "name": "Miami Beach",
+      "@type": "City"
+    },
+    {
+      "name": "Midtown/Wynwood",
+      "@type": "City"
+    },
+    {
+      "name": "North Bay Village",
+      "@type": "City"
+    },
+    {
+      "name": "Pinecrest",
+      "@type": "City"
+    },
+    {
+      "name": "Pompano Beach",
+      "@type": "City"
+    },
+    {
+      "name": "South Beach",
+      "@type": "City"
+    },
+    {
+      "name": "Sunny Isles Beach",
+      "@type": "City"
+    },
+    {
+      "name": "Surfside",
+      "@type": "City"
+    },
+    {
+      "name": "West Palm Beach",
+      "@type": "City"
+    },
+    {
+      "name": "Williams Island",
+      "@type": "City"
+    },
+    {
+      "name": "Miami",
+      "@type": "City"
+    },
+    {
+      "name": "Fort Lauderdale",
+      "@type": "City"
+    },
+    {
+      "name": "Palm Beach",
+      "@type": "City"
+    },
+    {
+      "name": "Delray Beach",
+      "@type": "City"
+    },
+    {
+      "name": "Doral",
+      "@type": "City"
+    }
+  ],
+  "description": "Step 1: Identify Target Countries and Buyer Segments — Start by pinpointing which countries are most likely to have buyers interested in your specific South Florida luxury property. Understand what ty"
+}

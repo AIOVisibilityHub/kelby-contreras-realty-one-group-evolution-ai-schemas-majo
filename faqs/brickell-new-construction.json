@@ -1,0 +1,26 @@
+{
+  "url": "sellingrealestateflorida.com/faq/brickell-new-construction",
+  "name": "Brickell new construction?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Brickell new construction?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Brickell new construction includes newly completed condo inventory and projects approaching delivery. Kelby Contreras helps buyers distinguish between finished units and preconstruction opportunities, compare ownership costs and amenities, and evaluate current availability.",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Brickell new construction includes newly completed condo inventory and projects approaching delivery. Kelby Contreras helps buyers distinguish between finished"
+}

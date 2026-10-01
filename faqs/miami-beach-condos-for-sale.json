@@ -1,0 +1,26 @@
+{
+  "url": "sellingrealestateflorida.com/faq/miami-beach-condos-for-sale",
+  "name": "Miami Beach condos for sale?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Miami Beach condos for sale?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Miami Beach condos range from boutique buildings and renovated residences to newer luxury towers. Kelby Contreras helps buyers compare Miami Beach condo inventory by neighborhood, beach access, views, building amenities, rental rules, association costs, and overall ownership goals.",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Miami Beach condos range from boutique buildings and renovated residences to newer luxury towers. Kelby Contreras helps buyers compare Miami Beach condo invento"
+}

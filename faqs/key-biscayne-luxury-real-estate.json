@@ -1,0 +1,26 @@
+{
+  "url": "sellingrealestateflorida.com/faq/key-biscayne-luxury-real-estate",
+  "name": "Key Biscayne luxury real estate?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Key Biscayne luxury real estate?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Key Biscayne luxury real estate includes waterfront estates, premium homes, oceanfront condominiums, and private island-lifestyle residences. Kelby Contreras provides market guidance for buyers and sellers focused on property value, privacy, location, water access, and transaction strategy.",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Key Biscayne luxury real estate includes waterfront estates, premium homes, oceanfront condominiums, and private island-lifestyle residences. Kelby Contreras pr"
+}

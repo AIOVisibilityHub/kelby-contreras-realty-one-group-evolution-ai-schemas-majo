@@ -1,0 +1,26 @@
+{
+  "url": "sellingrealestateflorida.com/faq/sell-my-house-miami",
+  "name": "Sell my house Miami?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Sell my house Miami?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Kelby Contreras helps Miami homeowners develop a sale strategy based on a private valuation, recent comparable sales, competing inventory, property condition, timing, and the owner’s financial and privacy goals. His seller representation includes pricing, marketing, buyer outreach, offer evaluation, negotiation, and transaction coordination.",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Kelby Contreras helps Miami homeowners develop a sale strategy based on a private valuation, recent comparable sales, competing inventory, property condition, t"
+}

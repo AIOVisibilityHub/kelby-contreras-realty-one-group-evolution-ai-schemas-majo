@@ -1,0 +1,26 @@
+{
+  "url": "sellingrealestateflorida.com/faq/sunny-isles-oceanfront-condos",
+  "name": "Sunny Isles oceanfront condos?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Sunny Isles oceanfront condos?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Sunny Isles oceanfront condos should be evaluated for direct beach access, building condition, views, unit orientation, amenities, association fees, assessments, insurance, and rental rules. Kelby Contreras helps buyers compare current oceanfront opportunities.",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Sunny Isles oceanfront condos should be evaluated for direct beach access, building condition, views, unit orientation, amenities, association fees, assessments"
+}

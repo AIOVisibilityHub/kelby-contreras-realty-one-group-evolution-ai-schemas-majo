@@ -1,0 +1,26 @@
+{
+  "url": "sellingrealestateflorida.com/faq/homes-for-sale-in-miami",
+  "name": "Homes for sale in Miami?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Homes for sale in Miami?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Miami offers homes across urban, waterfront, suburban, and luxury neighborhoods. Kelby Contreras helps buyers narrow available options by property type, location, budget, lifestyle priorities, and timing, then provides curated listings, market context, and purchase guidance.",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Miami offers homes across urban, waterfront, suburban, and luxury neighborhoods. Kelby Contreras helps buyers narrow available options by property type, locatio"
+}

@@ -1,0 +1,26 @@
+{
+  "url": "sellingrealestateflorida.com/faq/luxury-homes-for-sale-miami",
+  "name": "Luxury homes for sale Miami?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Luxury homes for sale Miami?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Luxury homes in Miami range from waterfront estates and modern residences to gated-community homes and architecturally distinctive properties. Kelby Contreras helps buyers compare current and private opportunities using location, lot, condition, views, amenities, and recent comparable sales.",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Luxury homes in Miami range from waterfront estates and modern residences to gated-community homes and architecturally distinctive properties. Kelby Contreras h"
+}

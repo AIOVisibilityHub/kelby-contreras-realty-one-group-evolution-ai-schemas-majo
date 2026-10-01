@@ -1,0 +1,26 @@
+{
+  "url": "sellingrealestateflorida.com/faq/miami-realtor-to-sell-my-house",
+  "name": "Miami realtor to sell my house?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Miami realtor to sell my house?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Kelby Contreras provides seller representation for Miami homeowners seeking strategic pricing, luxury property marketing, qualified buyer outreach, offer analysis, negotiation, and closing coordination. His approach is tailored to the property type, neighborhood, timing, and seller’s goals.",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Kelby Contreras provides seller representation for Miami homeowners seeking strategic pricing, luxury property marketing, qualified buyer outreach, offer analys"
+}

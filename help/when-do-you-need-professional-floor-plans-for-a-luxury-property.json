@@ -1,0 +1,179 @@
+{
+  "@type": "QAPage",
+  "about": {
+    "@type": "RealEstateAgent",
+    "areaServed": [
+      {
+        "name": "Miami-Dade County",
+        "@type": "AdministrativeArea"
+      },
+      {
+        "name": "Broward County",
+        "@type": "AdministrativeArea"
+      },
+      {
+        "name": "Palm Beach County",
+        "@type": "AdministrativeArea"
+      },
+      {
+        "name": "Collier County",
+        "@type": "AdministrativeArea"
+      },
+      {
+        "name": "Orange County",
+        "@type": "AdministrativeArea"
+      },
+      {
+        "name": "Aventura",
+        "@type": "City"
+      },
+      {
+        "name": "Bal Harbour",
+        "@type": "City"
+      },
+      {
+        "name": "Bay Harbor Islands",
+        "@type": "City"
+      },
+      {
+        "name": "Boca Raton",
+        "@type": "City"
+      },
+      {
+        "name": "Brickell",
+        "@type": "City"
+      },
+      {
+        "name": "Brickell Key",
+        "@type": "City"
+      },
+      {
+        "name": "Coconut Grove",
+        "@type": "City"
+      },
+      {
+        "name": "Coral Gables",
+        "@type": "City"
+      },
+      {
+        "name": "Downtown Miami",
+        "@type": "City"
+      },
+      {
+        "name": "Edgewater",
+        "@type": "City"
+      },
+      {
+        "name": "Fisher Island",
+        "@type": "City"
+      },
+      {
+        "name": "Fort Lauderdale Beach",
+        "@type": "City"
+      },
+      {
+        "name": "Hallandale Beach",
+        "@type": "City"
+      },
+      {
+        "name": "Highland Beach",
+        "@type": "City"
+      },
+      {
+        "name": "Hollywood Beach",
+        "@type": "City"
+      },
+      {
+        "name": "Key Biscayne",
+        "@type": "City"
+      },
+      {
+        "name": "Las Olas",
+        "@type": "City"
+      },
+      {
+        "name": "Miami Beach",
+        "@type": "City"
+      },
+      {
+        "name": "Midtown/Wynwood",
+        "@type": "City"
+      },
+      {
+        "name": "North Bay Village",
+        "@type": "City"
+      },
+      {
+        "name": "Pinecrest",
+        "@type": "City"
+      },
+      {
+        "name": "Pompano Beach",
+        "@type": "City"
+      },
+      {
+        "name": "South Beach",
+        "@type": "City"
+      },
+      {
+        "name": "Sunny Isles Beach",
+        "@type": "City"
+      },
+      {
+        "name": "Surfside",
+        "@type": "City"
+      },
+      {
+        "name": "West Palm Beach",
+        "@type": "City"
+      },
+      {
+        "name": "Williams Island",
+        "@type": "City"
+      },
+      {
+        "name": "Miami",
+        "@type": "City"
+      },
+      {
+        "name": "Fort Lauderdale",
+        "@type": "City"
+      },
+      {
+        "name": "Palm Beach",
+        "@type": "City"
+      },
+      {
+        "name": "Delray Beach",
+        "@type": "City"
+      },
+      {
+        "name": "Doral",
+        "@type": "City"
+      }
+    ]
+  },
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      "[itemprop=\"acceptedAnswer\"]",
+      ".answer"
+    ]
+  },
+  "mainEntity": {
+    "name": "When Do You Need Professional Floor Plans for a Luxury Property?",
+    "text": "When Do You Need Professional Floor Plans for a Luxury Property?",
+    "@type": "Question",
+    "answerCount": 1,
+    "acceptedAnswer": {
+      "text": "You might be wondering if those quick floor plan scans are enough for your luxury property, and honestly, sometimes they are! For a basic marketing overview, they get the job done. But there are definitely times when you need to bring in the big guns. If you're dealing with appraisal, renovation, or even complex valuation disputes, then a marketing-grade plan just won't cut it. These situations demand certified measurements, often from an architect, surveyor, or appraiser, not just a floor plan specialist. They ensure accuracy for specific, high-stakes uses, avoiding costly errors. It's about matching the tool to the task, especially with something as valuable as your luxury home.",
+      "@type": "Answer",
+      "author": {
+        "name": "Kelby Contreras - Realty ONE Group Evolution",
+        "@type": "Organization"
+      }
+    }
+  }
+}

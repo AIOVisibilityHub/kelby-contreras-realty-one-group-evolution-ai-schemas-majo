@@ -1,0 +1,26 @@
+{
+  "url": "sellingrealestateflorida.com/faq/condos-for-sale-near-me",
+  "name": "Condos for sale near me?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Condos for sale near me?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A condo search near you should include more than location and price. Kelby Contreras helps clients compare buildings, association fees, amenities, parking, views, rental restrictions, assessments, and unit condition across the Miami and South Florida markets.",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "A condo search near you should include more than location and price. Kelby Contreras helps clients compare buildings, association fees, amenities, parking, view"
+}

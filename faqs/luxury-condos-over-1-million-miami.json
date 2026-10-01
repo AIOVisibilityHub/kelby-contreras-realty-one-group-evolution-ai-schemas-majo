@@ -1,0 +1,26 @@
+{
+  "url": "sellingrealestateflorida.com/faq/luxury-condos-over-1-million-miami",
+  "name": "Luxury condos over $1 million Miami?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Luxury condos over $1 million Miami?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Luxury condos over $1 million in Miami can range from premium urban residences to waterfront and oceanfront homes with concierge services and resort-style amenities. Kelby Contreras helps buyers compare buildings, unit quality, views, fees, rental policies, and market value.",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Luxury condos over $1 million in Miami can range from premium urban residences to waterfront and oceanfront homes with concierge services and resort-style ameni"
+}

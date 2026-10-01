@@ -1,0 +1,26 @@
+{
+  "url": "sellingrealestateflorida.com/faq/downtown-miami-new-construction",
+  "name": "Downtown Miami new construction?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Downtown Miami new construction?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Downtown Miami new construction opportunities can include new condo towers, recently delivered residences, and future development inventory. Kelby Contreras helps buyers compare delivery timing, floor plans, pricing, amenities, and the tradeoffs between new and established buildings.",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Downtown Miami new construction opportunities can include new condo towers, recently delivered residences, and future development inventory. Kelby Contreras hel"
+}

@@ -1,0 +1,26 @@
+{
+  "url": "sellingrealestateflorida.com/faq/brickell-luxury-condos-for-sale",
+  "name": "Brickell luxury condos for sale?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Brickell luxury condos for sale?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Brickell luxury condos include premium high-rise residences with elevated finishes, concierge services, amenities, and skyline or water views. Kelby Contreras helps clients evaluate building quality, unit position, pricing, monthly costs, available inventory, and resale considerations.",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Brickell luxury condos include premium high-rise residences with elevated finishes, concierge services, amenities, and skyline or water views. Kelby Contreras h"
+}

@@ -1,0 +1,26 @@
+{
+  "url": "sellingrealestateflorida.com/faq/surfside-condos-for-sale",
+  "name": "Surfside condos for sale?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Surfside condos for sale?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Surfside condo buyers can compare beachfront and near-beach residences by location, building condition, amenities, views, association requirements, fees, and lifestyle fit. Kelby Contreras helps clients review current condo opportunities in Surfside.",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Surfside condo buyers can compare beachfront and near-beach residences by location, building condition, amenities, views, association requirements, fees, and li"
+}

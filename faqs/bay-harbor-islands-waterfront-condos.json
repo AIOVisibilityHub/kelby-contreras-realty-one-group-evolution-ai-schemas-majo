@@ -1,0 +1,26 @@
+{
+  "url": "sellingrealestateflorida.com/faq/bay-harbor-islands-waterfront-condos",
+  "name": "Bay Harbor Islands waterfront condos?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Bay Harbor Islands waterfront condos?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Bay Harbor Islands waterfront condo searches should account for water orientation, view, dockage or boating access where applicable, building amenities, association fees, insurance, and unit condition. Kelby Contreras can provide a tailored comparison of current waterfront options.",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Bay Harbor Islands waterfront condo searches should account for water orientation, view, dockage or boating access where applicable, building amenities, associa"
+}

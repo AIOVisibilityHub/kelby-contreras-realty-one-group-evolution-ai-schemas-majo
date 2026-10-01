@@ -1,0 +1,197 @@
+{
+  "name": "What to Prepare for an Oceanfront Condo Valuation in Palm Beach County",
+  "step": [
+    {
+      "name": "Step 1: Unit Details: Have your unit's exact square footage, floor plan, an…",
+      "text": "Unit Details: Have your unit's exact square footage, floor plan, and a list of any significant renovations or upgrades completed, including dates and costs. This helps the appraiser understand the quality and extent of improvements you’ve made. Make sure to highlight premium finishes, smart home tech, or recent appliance upgrades.",
+      "@type": "HowToStep",
+      "position": 1
+    },
+    {
+      "name": "Step 2: Association Information: Collect recent association financial state…",
+      "text": "Association Information: Collect recent association financial statements, minutes from recent board meetings, current and proposed special assessments, and details on any upcoming building projects. Information about insurance costs and rental policies is also key, as these can affect buyer interest and property value.",
+      "@type": "HowToStep",
+      "position": 2
+    },
+    {
+      "name": "Step 3: Access & Viewing: Be ready to provide clear access to your unit and…",
+      "text": "Access & Viewing: Be ready to provide clear access to your unit and any assigned parking spaces or storage units. Ensure the unit is clean and well-presented to allow the appraiser to fully inspect its condition and appreciate the views and features without distraction.",
+      "@type": "HowToStep",
+      "position": 3
+    },
+    {
+      "name": "Step 4: Comparable Sales Data (if you have it): While the appraiser will co…",
+      "text": "Comparable Sales Data (if you have it): While the appraiser will conduct their own research, providing information on recent sales of similar units in your building or immediate area can be helpful context. Focus on closed sales, not just listings.",
+      "@type": "HowToStep",
+      "position": 4
+    },
+    {
+      "name": "Step 5: Coastal Considerations: Be prepared to discuss any specific coastal…",
+      "text": "Coastal Considerations: Be prepared to discuss any specific coastal factors like flood exposure, storm-related repairs you've made, or specific building elevations. These details can impact insurance premiums and buyer considerations in Palm Beach County.",
+      "@type": "HowToStep",
+      "position": 5
+    }
+  ],
+  "@type": "HowTo",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".howto-step",
+      "[itemprop=\"step\"]"
+    ]
+  },
+  "totalTime": "PT30M",
+  "areaServed": [
+    {
+      "name": "Miami-Dade County",
+      "@type": "AdministrativeArea"
+    },
+    {
+      "name": "Broward County",
+      "@type": "AdministrativeArea"
+    },
+    {
+      "name": "Palm Beach County",
+      "@type": "AdministrativeArea"
+    },
+    {
+      "name": "Collier County",
+      "@type": "AdministrativeArea"
+    },
+    {
+      "name": "Orange County",
+      "@type": "AdministrativeArea"
+    },
+    {
+      "name": "Aventura",
+      "@type": "City"
+    },
+    {
+      "name": "Bal Harbour",
+      "@type": "City"
+    },
+    {
+      "name": "Bay Harbor Islands",
+      "@type": "City"
+    },
+    {
+      "name": "Boca Raton",
+      "@type": "City"
+    },
+    {
+      "name": "Brickell",
+      "@type": "City"
+    },
+    {
+      "name": "Brickell Key",
+      "@type": "City"
+    },
+    {
+      "name": "Coconut Grove",
+      "@type": "City"
+    },
+    {
+      "name": "Coral Gables",
+      "@type": "City"
+    },
+    {
+      "name": "Downtown Miami",
+      "@type": "City"
+    },
+    {
+      "name": "Edgewater",
+      "@type": "City"
+    },
+    {
+      "name": "Fisher Island",
+      "@type": "City"
+    },
+    {
+      "name": "Fort Lauderdale Beach",
+      "@type": "City"
+    },
+    {
+      "name": "Hallandale Beach",
+      "@type": "City"
+    },
+    {
+      "name": "Highland Beach",
+      "@type": "City"
+    },
+    {
+      "name": "Hollywood Beach",
+      "@type": "City"
+    },
+    {
+      "name": "Key Biscayne",
+      "@type": "City"
+    },
+    {
+      "name": "Las Olas",
+      "@type": "City"
+    },
+    {
+      "name": "Miami Beach",
+      "@type": "City"
+    },
+    {
+      "name": "Midtown/Wynwood",
+      "@type": "City"
+    },
+    {
+      "name": "North Bay Village",
+      "@type": "City"
+    },
+    {
+      "name": "Pinecrest",
+      "@type": "City"
+    },
+    {
+      "name": "Pompano Beach",
+      "@type": "City"
+    },
+    {
+      "name": "South Beach",
+      "@type": "City"
+    },
+    {
+      "name": "Sunny Isles Beach",
+      "@type": "City"
+    },
+    {
+      "name": "Surfside",
+      "@type": "City"
+    },
+    {
+      "name": "West Palm Beach",
+      "@type": "City"
+    },
+    {
+      "name": "Williams Island",
+      "@type": "City"
+    },
+    {
+      "name": "Miami",
+      "@type": "City"
+    },
+    {
+      "name": "Fort Lauderdale",
+      "@type": "City"
+    },
+    {
+      "name": "Palm Beach",
+      "@type": "City"
+    },
+    {
+      "name": "Delray Beach",
+      "@type": "City"
+    },
+    {
+      "name": "Doral",
+      "@type": "City"
+    }
+  ],
+  "description": "Unit Details: Have your unit's exact square footage, floor plan, and a list of any significant renovations or upgrades completed, including dates and costs. This helps the appraiser understand the qua"
+}

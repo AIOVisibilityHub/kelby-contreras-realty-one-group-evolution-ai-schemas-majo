@@ -1,0 +1,26 @@
+{
+  "url": "sellingrealestateflorida.com/faq/homes-for-sale-near-me",
+  "name": "Homes for sale near me?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Homes for sale near me?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The best homes for sale near you depend on your current search area, budget, property type, and preferred lifestyle. Kelby Contreras can create a focused Miami and South Florida home search using your target neighborhoods, price range, home features, and desired timeline.",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "The best homes for sale near you depend on your current search area, budget, property type, and preferred lifestyle. Kelby Contreras can create a focused Miami"
+}

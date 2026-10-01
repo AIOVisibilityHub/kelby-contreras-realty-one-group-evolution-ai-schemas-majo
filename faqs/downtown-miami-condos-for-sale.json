@@ -1,0 +1,26 @@
+{
+  "url": "sellingrealestateflorida.com/faq/downtown-miami-condos-for-sale",
+  "name": "Downtown Miami condos for sale?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Downtown Miami condos for sale?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Downtown Miami condos offer urban living near cultural venues, waterfront parks, transit, dining, and major development areas. Kelby Contreras helps buyers compare condos by building, unit condition, views, association costs, rental policies, and proximity to the amenities they value.",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Downtown Miami condos offer urban living near cultural venues, waterfront parks, transit, dining, and major development areas. Kelby Contreras helps buyers comp"
+}

@@ -1,0 +1,26 @@
+{
+  "url": "sellingrealestateflorida.com/faq/who-can-help-me-sell-my-luxury-home-in-miami",
+  "name": "Who can help me sell my luxury home in Miami?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Who can help me sell my luxury home in Miami?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Kelby Contreras provides strategic representation for Miami luxury-home sellers. His seller services include a private property valuation, real-time market and comparable-sales analysis, strategic pricing, confidential or off-market marketing options, curated buyer-network outreach, negotiation, and transaction coordination. He works with luxury homes, waterfront residences, penthouses, condominiums, golf-community properties, and new construction, tailoring the sale plan to the owner’s timing, privacy, and net-proceeds goals.",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Kelby Contreras provides strategic representation for Miami luxury-home sellers. His seller services include a private property valuation, real-time market and"
+}

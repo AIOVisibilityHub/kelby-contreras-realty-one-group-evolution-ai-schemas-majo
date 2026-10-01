@@ -1,0 +1,26 @@
+{
+  "url": "sellingrealestateflorida.com/faq/brickell-condos-for-sale",
+  "name": "Brickell condos for sale?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Brickell condos for sale?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Brickell condo buyers can compare high-rise residences by walkability, city or bay views, amenities, building age, association costs, rental rules, parking, and proximity to the financial district, dining, and transportation. Kelby Contreras provides a curated Brickell condo search and buyer guidance.",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Brickell condo buyers can compare high-rise residences by walkability, city or bay views, amenities, building age, association costs, rental rules, parking, and"
+}

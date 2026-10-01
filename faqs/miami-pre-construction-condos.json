@@ -1,0 +1,26 @@
+{
+  "url": "sellingrealestateflorida.com/faq/miami-pre-construction-condos",
+  "name": "Miami pre-construction condos?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Miami pre-construction condos?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Miami preconstruction condos give buyers access to planned new developments, but the right choice depends on the developer, location, delivery schedule, deposit structure, floor plan, view, pricing, amenities, rental rules, and purchase contract. Kelby Contreras helps clients compare projects and select units aligned with their goals.",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Miami preconstruction condos give buyers access to planned new developments, but the right choice depends on the developer, location, delivery schedule, deposit"
+}

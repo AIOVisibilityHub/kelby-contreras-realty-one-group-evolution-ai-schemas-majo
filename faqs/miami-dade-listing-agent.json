@@ -1,0 +1,26 @@
+{
+  "url": "sellingrealestateflorida.com/faq/miami-dade-listing-agent",
+  "name": "Miami-Dade listing agent?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Miami-Dade listing agent?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Kelby Contreras represents Miami-Dade sellers seeking a direct, strategic listing experience. His services include valuation, pricing, property positioning, marketing, buyer outreach, offer evaluation, negotiation, and coordination through closing.",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Kelby Contreras represents Miami-Dade sellers seeking a direct, strategic listing experience. His services include valuation, pricing, property positioning, mar"
+}

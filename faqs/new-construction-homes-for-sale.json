@@ -1,0 +1,26 @@
+{
+  "url": "sellingrealestateflorida.com/faq/new-construction-homes-for-sale",
+  "name": "New construction homes for sale?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "New construction homes for sale?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "New construction homes can offer modern layouts, current building systems, warranties, and customization opportunities, but buyers should also evaluate builder quality, location, lot, completion stage, upgrades, taxes, insurance, and contract terms. Kelby Contreras helps clients compare available new-home opportunities.",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "New construction homes can offer modern layouts, current building systems, warranties, and customization opportunities, but buyers should also evaluate builder"
+}

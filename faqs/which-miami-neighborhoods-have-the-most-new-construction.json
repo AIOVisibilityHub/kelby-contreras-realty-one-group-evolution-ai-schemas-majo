@@ -1,0 +1,26 @@
+{
+  "url": "sellingrealestateflorida.com/faq/which-miami-neighborhoods-have-the-most-new-construction",
+  "name": "Which Miami neighborhoods have the most new construction?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Which Miami neighborhoods have the most new construction?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "New construction activity is commonly concentrated in Miami’s urban and coastal condominium markets, including Brickell, Downtown Miami, Edgewater, Midtown/Wynwood, the Design District area, Miami Beach, Sunny Isles Beach, Aventura, Bay Harbor Islands, and other parts of greater Miami. Development inventory changes frequently by project, delivery date, and price point. Kelby Contreras can provide a current, curated comparison of active and upcoming luxury developments based on a buyer’s preferred area, timeline, budget, property type, and investment or lifestyle goals.",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "New construction activity is commonly concentrated in Miami’s urban and coastal condominium markets, including Brickell, Downtown Miami, Edgewater, Midtown/Wynw"
+}

@@ -1,0 +1,26 @@
+{
+  "url": "sellingrealestateflorida.com/faq/aventura-luxury-condos",
+  "name": "Aventura luxury condos?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Aventura luxury condos?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Aventura luxury condos may offer full-service amenities, water or golf views, larger floor plans, and proximity to shopping, dining, and recreational destinations. Kelby Contreras provides buyer representation and building-by-building comparison support.",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Aventura luxury condos may offer full-service amenities, water or golf views, larger floor plans, and proximity to shopping, dining, and recreational destinatio"
+}

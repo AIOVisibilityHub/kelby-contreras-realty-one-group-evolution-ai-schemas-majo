@@ -1,0 +1,26 @@
+{
+  "url": "sellingrealestateflorida.com/faq/miami-luxury-listing-agent",
+  "name": "Miami luxury listing agent?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Miami luxury listing agent?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Kelby Contreras is a Florida luxury real estate specialist serving Miami and South Florida sellers. He provides private valuation, strategic pricing, premium property positioning, targeted and confidential marketing options, qualified buyer outreach, negotiation, and closing coordination for luxury residences.",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Kelby Contreras is a Florida luxury real estate specialist serving Miami and South Florida sellers. He provides private valuation, strategic pricing, premium pr"
+}

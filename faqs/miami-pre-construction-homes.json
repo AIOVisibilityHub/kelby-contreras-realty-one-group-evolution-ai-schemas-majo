@@ -1,0 +1,26 @@
+{
+  "url": "sellingrealestateflorida.com/faq/miami-pre-construction-homes",
+  "name": "Miami pre-construction homes?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Miami pre-construction homes?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Miami preconstruction home opportunities may include new luxury residences, custom-build opportunities, and planned communities. Buyers should evaluate the builder or developer, lot, design, construction timeline, allowances, contract terms, and total carrying costs. Kelby Contreras can help identify and compare suitable new-home opportunities.",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Miami preconstruction home opportunities may include new luxury residences, custom-build opportunities, and planned communities. Buyers should evaluate the buil"
+}
