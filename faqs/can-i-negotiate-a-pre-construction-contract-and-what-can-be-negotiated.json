@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/can-i-negotiate-a-pre-construction-contract-and-what-can-be-negotiated",
+  "name": "Can I negotiate a pre-construction contract, and what can be negotiated?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I negotiate a pre-construction contract, and what can be negotiated?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, pre-construction contracts are often negotiable, although the extent can vary based on the developer, demand, and market conditions. Common negotiable items include upgrade allowances, closing cost contributions, specific appliance packages, and sometimes even minor floor plan adjustments. Critical terms like penalty clauses for construction delays or the release of deposit funds can also be discussed. We assist in identifying realistic negotiation points and leverage our experience with local developers in areas like Fort Lauderdale Beach and Sunny Isles Beach to advocate for favorable terms on your behalf, maximizing your contractual benefits.",
+        "@type": "Answer",
+        "description": "Pre-construction contracts are negotiable; common items include upgrades, closing costs, and specific features. We help identify realistic points and negotiate favorable terms with local developers."
+      }
+    }
+  ],
+  "description": "Pre-construction contracts are negotiable; common items include upgrades, closing costs, and specific features. We help identify realistic points and negotiate"
+}

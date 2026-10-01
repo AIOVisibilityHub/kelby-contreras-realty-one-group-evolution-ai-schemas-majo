@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/how-long-does-it-take-for-a-pre-construction-condo-to-be-completed",
+  "name": "How long does it take for a pre-construction condo to be completed?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does it take for a pre-construction condo to be completed?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The completion timeline for a pre-construction condo can vary significantly, typically ranging from two to five years, or sometimes longer, depending on the project's scale, developer, and unforeseen delays. Buyers should review the projected completion date in the purchase agreement and understand that these dates are estimates, subject to change due to construction challenges, permitting, or supply chain issues.",
+        "@type": "Answer",
+        "description": "Completion can take 2-5 years or more, varying by project size and developer. Projected dates are estimates and can change."
+      }
+    }
+  ],
+  "description": "Completion can take 2-5 years or more, varying by project size and developer. Projected dates are estimates and can change."
+}

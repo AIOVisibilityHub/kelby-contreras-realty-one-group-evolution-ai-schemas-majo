@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/are-there-specific-legal-or-tax-implications-for-pre-construction-resales-in-flo",
+  "name": "Are there specific legal or tax implications for pre-construction resales in Florida?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Are there specific legal or tax implications for pre-construction resales in Florida?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Pre-construction resales can have tax implications, primarily related to capital gains on the profit made from the sale. It's generally advisable to consult with a tax professional regarding your specific situation, as tax laws can be complex and vary based on individual circumstances and residency. While Kelby Contreras provides real estate guidance, they do not offer legal or tax advice. Buyers should be prepared to discuss potential tax liabilities stemming from an assignment sale or a resale after closing.",
+        "@type": "Answer",
+        "description": "Pre-construction resales can incur capital gains taxes on profits; consult a tax professional for specific advice, as real estate agents cannot provide legal or tax guidance."
+      }
+    }
+  ],
+  "description": "Pre-construction resales can incur capital gains taxes on profits; consult a tax professional for specific advice, as real estate agents cannot provide legal or"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/how-does-the-payment-schedule-typically-work-for-pre-construction-properties",
+  "name": "How does the payment schedule typically work for pre-construction properties?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How does the payment schedule typically work for pre-construction properties?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The payment schedule for pre-construction properties typically involves an initial deposit upon signing the purchase agreement, followed by a series of staged payments linked to construction milestones. These milestones can include the commencement of construction, completion of the foundation, topping off, and final completion. The total deposit required before closing usually ranges from 20% to 50% of the purchase price. Understanding these specific payment dates is crucial for financial planning throughout the development period.",
+        "@type": "Answer",
+        "description": "Payment schedules usually involve an initial deposit, then staged payments tied to construction milestones, totaling 20-50% before closing."
+      }
+    }
+  ],
+  "description": "Payment schedules usually involve an initial deposit, then staged payments tied to construction milestones, totaling 20-50% before closing."
+}

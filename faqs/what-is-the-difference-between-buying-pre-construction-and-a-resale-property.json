@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/what-is-the-difference-between-buying-pre-construction-and-a-resale-property",
+  "name": "What is the difference between buying pre-construction and a resale property?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the difference between buying pre-construction and a resale property?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Buying pre-construction involves purchasing a property before it's built, often with staged payments and the potential for appreciation by completion. You're investing in a future asset based on plans. In contrast, a resale property is an existing home that has been previously owned and is available for immediate occupancy or rental. Resales offer a tangible asset to evaluate, but typically require a larger down payment upfront. Your choice depends on your risk tolerance, desired timeline, and investment goals.",
+        "@type": "Answer",
+        "description": "Pre-construction is buying before build with staged payments and future appreciation. Resale is an existing, immediate-occupancy property needing a larger down payment."
+      }
+    }
+  ],
+  "description": "Pre-construction is buying before build with staged payments and future appreciation. Resale is an existing, immediate-occupancy property needing a larger down"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/can-pre-construction-deposit-schedules-be-negotiated",
+  "name": "Can pre-construction deposit schedules be negotiated?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can pre-construction deposit schedules be negotiated?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Negotiating pre-construction deposit schedules is sometimes possible, especially in slower markets or for specific units, but it's not always guaranteed. Developers may be open to minor adjustments in payment timing rather than reducing the total deposit amount. A real estate agent like Kelby Contreras can leverage their experience and relationships with developers in areas like Sunny Isles Beach or Coral Gables to explore potential flexibility on your behalf, which is a practical tradeoff to consider.",
+        "@type": "Answer",
+        "description": "Negotiating pre-construction deposit schedules is sometimes possible, particularly for timing adjustments, but not guaranteed."
+      }
+    }
+  ],
+  "description": "Negotiating pre-construction deposit schedules is sometimes possible, particularly for timing adjustments, but not guaranteed."
+}

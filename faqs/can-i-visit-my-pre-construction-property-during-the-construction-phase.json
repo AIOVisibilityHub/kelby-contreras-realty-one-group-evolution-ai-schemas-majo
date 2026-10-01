@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/can-i-visit-my-pre-construction-property-during-the-construction-phase",
+  "name": "Can I visit my pre-construction property during the construction phase?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I visit my pre-construction property during the construction phase?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Access to pre-construction properties during the construction phase is typically restricted for safety and liability reasons. Developers usually have specific protocols for site visits, often at designated milestones or by appointment, guided by site managers. Unauthorized visits are generally not permitted. Kelby Contreras advises clients to respect these safety guidelines and inquire about official viewing opportunities as they arise.",
+        "@type": "Answer",
+        "description": "Access during construction is usually restricted for safety; developers may offer guided visits at specific milestones."
+      }
+    }
+  ],
+  "description": "Access during construction is usually restricted for safety; developers may offer guided visits at specific milestones."
+}

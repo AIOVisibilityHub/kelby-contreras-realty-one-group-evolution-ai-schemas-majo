@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/how-does-the-permitting-process-impact-pre-construction-delivery-timelines",
+  "name": "How does the permitting process impact pre-construction delivery timelines?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How does the permitting process impact pre-construction delivery timelines?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The permitting process significantly impacts pre-construction delivery timelines, as various approvals from local government agencies (e.g., city, county building departments) are required before and during construction. Delays can arise from incomplete applications, reviews, or changes in building codes in specific jurisdictions such as Collier County or Palm Beach County. These administrative steps must be completed sequentially, affecting overall project duration.",
+        "@type": "Answer",
+        "description": "Permitting significantly impacts timelines due to local government approvals and potential delays from reviews or code changes."
+      }
+    }
+  ],
+  "description": "Permitting significantly impacts timelines due to local government approvals and potential delays from reviews or code changes."
+}

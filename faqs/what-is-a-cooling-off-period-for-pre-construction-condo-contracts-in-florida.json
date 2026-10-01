@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/what-is-a-cooling-off-period-for-pre-construction-condo-contracts-in-florida",
+  "name": "What is a 'cooling-off period' for pre-construction condo contracts in Florida?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is a 'cooling-off period' for pre-construction condo contracts in Florida?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "In Florida, purchasers of residential condominiums typically have a 15-day rescission period, often referred to as a 'cooling-off period,' for new construction contracts from the date they receive the developer's public offering statement. This period allows buyers to review all documents and terms, and to cancel the contract without penalty. This is a crucial window for due diligence, including legal review and financial assessment.",
+        "@type": "Answer",
+        "description": "Florida law generally grants a 15-day rescission period for new construction condo contracts after receiving the developer's public offering statement."
+      }
+    }
+  ],
+  "description": "Florida law generally grants a 15-day rescission period for new construction condo contracts after receiving the developer's public offering statement."
+}

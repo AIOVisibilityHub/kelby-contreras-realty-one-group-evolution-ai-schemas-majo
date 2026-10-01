@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/what-happens-if-i-miss-a-deposit-payment-on-a-pre-construction-property",
+  "name": "What happens if I miss a deposit payment on a pre-construction property?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What happens if I miss a deposit payment on a pre-construction property?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Missing a deposit payment on a pre-construction property typically results in a breach of contract. Depending on the terms, the developer may have the right to terminate your purchase agreement and retain previous deposits as liquidated damages. It is crucial to manage your finances carefully and communicate immediately with your agent if you anticipate any difficulties. Kelby Contreras advises clients to monitor these schedules closely to avoid potential financial losses in the Miami, Fort Lauderdale, and Palm Beach markets.",
+        "@type": "Answer",
+        "description": "Missing a pre-construction deposit payment can lead to contract termination and loss of previous deposits."
+      }
+    }
+  ],
+  "description": "Missing a pre-construction deposit payment can lead to contract termination and loss of previous deposits."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/what-documents-do-i-need-for-a-pre-construction-assignment-sale",
+  "name": "What documents do I need for a pre-construction assignment sale?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What documents do I need for a pre-construction assignment sale?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "For a pre-construction assignment sale, you will need the original Agreement of Purchase and Sale, any amendments to that agreement, and a separate Assignment Agreement. You may also need financial documentation for the developer's approval. For sellers (assignors), having a clear record of deposits paid is crucial. Kelby Contreras can guide you through gathering and preparing all necessary documentation, ensuring compliance with developer requirements and facilitating a smooth transaction.",
+        "@type": "Answer",
+        "description": "You'll need the original Agreement of Purchase and Sale, all amendments, the Assignment Agreement, and potentially financial documents for developer approval."
+      }
+    }
+  ],
+  "description": "You'll need the original Agreement of Purchase and Sale, all amendments, the Assignment Agreement, and potentially financial documents for developer approval."
+}

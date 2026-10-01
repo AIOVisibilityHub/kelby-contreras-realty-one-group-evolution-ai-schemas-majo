@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/should-i-consider-future-resale-when-selecting-a-floor-plan",
+  "name": "Should I consider future resale when selecting a floor plan?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Should I consider future resale when selecting a floor plan?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, absolutely, you should consider future resale when selecting a pre-construction floor plan. While your new home should meet your current needs, choosing a floor plan with broad appeal can be a significant decision factor for future marketability. Common preferences in the South Florida market often include open-concept living, ample natural light, functional outdoor spaces, and a good bedroom/bathroom count balance. Highly customized or unusual layouts might limit your buyer pool later on. Kelby Contreras leverages experience in Miami-Dade, Broward, Palm Beach, and Collier counties to advise on floor plan elements that consistently attract buyers and retain value.",
+        "@type": "Answer",
+        "description": "Yes, consider future resale when selecting a floor plan; widely appealing layouts often enhance marketability and value."
+      }
+    }
+  ],
+  "description": "Yes, consider future resale when selecting a floor plan; widely appealing layouts often enhance marketability and value."
+}

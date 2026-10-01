@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/what-are-the-risks-associated-with-an-assignment-sale",
+  "name": "What are the risks associated with an assignment sale?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are the risks associated with an assignment sale?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Risks in an assignment sale can include unexpected closing costs, potential delays in construction, or difficulties in securing financing. The original developer's consent is often required, and they may impose fees or restrictions. Additionally, market conditions can shift, affecting the property's value. Kelby Contreras provides guidance on identifying and mitigating these risks, offering insights into common developer requirements and market trends in the South Florida region.",
+        "@type": "Answer",
+        "description": "Risks include unexpected costs, construction delays, financing challenges, and developer restrictions, requiring careful review of the original contract and market conditions."
+      }
+    }
+  ],
+  "description": "Risks include unexpected costs, construction delays, financing challenges, and developer restrictions, requiring careful review of the original contract and mar"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/when-do-i-need-to-finalize-my-pre-construction-floor-plan",
+  "name": "When do I need to finalize my pre-construction floor plan?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When do I need to finalize my pre-construction floor plan?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You typically need to finalize your pre-construction floor plan relatively early in the purchasing process, usually shortly after signing the initial contract or reservation agreement. The exact timing can vary by builder and development stage, but it's often within a few weeks of the initial commitment. Delaying this decision can impact construction timelines and may limit available options, as some builders proceed with permits based on initial selections. Kelby Contreras helps clients understand each builder's specific deadlines to ensure a smooth process.",
+        "@type": "Answer",
+        "description": "Finalizing your pre-construction floor plan typically occurs early in the purchasing process, shortly after signing the initial contract."
+      }
+    }
+  ],
+  "description": "Finalizing your pre-construction floor plan typically occurs early in the purchasing process, shortly after signing the initial contract."
+}

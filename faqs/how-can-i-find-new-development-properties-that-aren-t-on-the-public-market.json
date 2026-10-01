@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/how-can-i-find-new-development-properties-that-aren-t-on-the-public-market",
+  "name": "How can I find new development properties that aren't on the public market?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How can I find new development properties that aren't on the public market?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "To find new development properties not yet on the public market, working with an experienced real estate agent specializing in new construction is key. Kelby Contreras leverages established relationships with developers across Miami-Dade, Broward, Palm Beach, and Collier Counties to gain early access to these listings. This often involves being on a priority list or having direct channels to developer sales teams, which a general search on public sites would not provide. The advantage is getting insights into upcoming projects and pre-construction opportunities.",
+        "@type": "Answer",
+        "description": "Working with a real estate agent like Kelby Contreras who specializes in new construction can provide access to off-market development properties through established developer relationships."
+      }
+    }
+  ],
+  "description": "Working with a real estate agent like Kelby Contreras who specializes in new construction can provide access to off-market development properties through establ"
+}

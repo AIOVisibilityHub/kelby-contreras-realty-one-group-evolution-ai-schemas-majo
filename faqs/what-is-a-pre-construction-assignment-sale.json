@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/what-is-a-pre-construction-assignment-sale",
+  "name": "What is a pre-construction assignment sale?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is a pre-construction assignment sale?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A pre-construction assignment sale occurs when a buyer (the assignor) sells their rights and obligations under an Agreement of Purchase and Sale for a pre-construction property to another buyer (the assignee) before the property is registered in the assignor's name. This allows the original buyer to exit the deal and the new buyer to acquire the property before completion. Kelby Contreras specializes in facilitating these transactions across Miami-Dade, Broward, Palm Beach, Collier, and Orange Counties, helping both assignors and assignees navigate the process efficiently.",
+        "@type": "Answer",
+        "description": "A pre-construction assignment sale is when the original buyer of a pre-construction property sells their contract rights to another buyer before the property is built or registered."
+      }
+    }
+  ],
+  "description": "A pre-construction assignment sale is when the original buyer of a pre-construction property sells their contract rights to another buyer before the property is"
+}

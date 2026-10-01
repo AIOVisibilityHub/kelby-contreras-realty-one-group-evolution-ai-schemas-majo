@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/what-documents-should-i-prepare-before-a-pre-construction-closing",
+  "name": "What documents should I prepare before a pre-construction closing?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What documents should I prepare before a pre-construction closing?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Before a pre-construction closing, you should prepare financial documents such as bank statements, pay stubs, tax returns, and any loan pre-approval letters. You'll also need identification. It's important to have all requested paperwork ready to avoid delays, especially since builders often have strict deadlines. Your real estate agent will guide you on the specific documentation required by the lender and the builder, which can sometimes include proof of funds for cash purchases common in markets like Miami Beach.",
+        "@type": "Answer",
+        "description": "Prepare financial documents, identification, and loan pre-approval letters to ensure a smooth pre-construction closing process."
+      }
+    }
+  ],
+  "description": "Prepare financial documents, identification, and loan pre-approval letters to ensure a smooth pre-construction closing process."
+}

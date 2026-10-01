@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/what-are-the-closing-costs-associated-with-a-pre-construction-condo-purchase",
+  "name": "What are the closing costs associated with a pre-construction condo purchase?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are the closing costs associated with a pre-construction condo purchase?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Closing costs for a pre-construction condo can include developer fees, transfer taxes, title insurance, and legal fees. These costs are often higher than those for resale properties because developers frequently pass on various impact fees and utility connection charges to the buyer. A key preparation step is to budget an additional 3-5% of the purchase price, or sometimes more, for these expenses. Understanding these specific costs upfront, which can vary by jurisdiction and developer, is vital for accurate financial planning, especially in diverse areas like Broward and Palm Beach Counties.",
+        "@type": "Answer",
+        "description": "Pre-construction closing costs, including developer and transfer fees, are typically 3-5% or more of the purchase price. Budgeting for these higher-than-resale costs is a crucial preparation step."
+      }
+    }
+  ],
+  "description": "Pre-construction closing costs, including developer and transfer fees, are typically 3-5% or more of the purchase price. Budgeting for these higher-than-resale"
+}

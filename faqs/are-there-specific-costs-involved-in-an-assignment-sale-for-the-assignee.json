@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/are-there-specific-costs-involved-in-an-assignment-sale-for-the-assignee",
+  "name": "Are there specific costs involved in an assignment sale for the assignee?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Are there specific costs involved in an assignment sale for the assignee?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "As an assignee, you will typically be responsible for the remaining deposit payments to the developer, the assignment fee paid to the assignor, and standard closing costs such as land transfer tax, development charges, and legal fees. Some developers may also charge an assignment fee. Understanding these costs upfront is critical. Kelby Contreras provides a clear breakdown of potential expenses, including any applicable developer fees in areas like Aventura or Brickell, ensuring you have a complete financial picture.",
+        "@type": "Answer",
+        "description": "Assignees pay remaining deposits, the assignment fee to the assignor, and standard closing costs including land transfer tax, development charges, and legal fees."
+      }
+    }
+  ],
+  "description": "Assignees pay remaining deposits, the assignment fee to the assignor, and standard closing costs including land transfer tax, development charges, and legal fee"
+}

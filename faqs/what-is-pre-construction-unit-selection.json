@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/what-is-pre-construction-unit-selection",
+  "name": "What is pre-construction unit selection?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is pre-construction unit selection?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Pre-construction unit selection is the process where a buyer chooses a specific unit within a new development before it is fully built. This typically occurs after a reservation agreement and prior to the final contract signing. Buyers select their desired floor plan, floor level, and specific location within the building, often with the opportunity to customize finishes and upgrades. Understanding the developer's timeline and available options early on can significantly impact the final choice and potential for appreciation.",
+        "@type": "Answer",
+        "description": "Pre-construction unit selection involves choosing a specific unit, floor plan, and finishes in a new development before construction is complete."
+      }
+    }
+  ],
+  "description": "Pre-construction unit selection involves choosing a specific unit, floor plan, and finishes in a new development before construction is complete."
+}

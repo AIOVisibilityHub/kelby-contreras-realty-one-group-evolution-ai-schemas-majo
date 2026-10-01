@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/how-do-i-stay-informed-about-the-progress-of-my-pre-construction-property",
+  "name": "How do I stay informed about the progress of my pre-construction property?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do I stay informed about the progress of my pre-construction property?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Developers typically provide updates through various channels, including newsletters, dedicated buyer portals, or periodic construction progress reports. It's important to understand the developer's communication process outlined in your contract. Kelby Contreras can assist by clarifying these communication protocols and helping clients navigate the information flow from developers in regions like Miami-Dade and Broward counties.",
+        "@type": "Answer",
+        "description": "Stay informed through developer newsletters, portals, or reports, as outlined in your contract; Kelby Contreras can help clarify these processes."
+      }
+    }
+  ],
+  "description": "Stay informed through developer newsletters, portals, or reports, as outlined in your contract; Kelby Contreras can help clarify these processes."
+}

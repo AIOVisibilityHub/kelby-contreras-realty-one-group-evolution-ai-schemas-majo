@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/what-documents-will-i-need-for-pre-construction-unit-selection",
+  "name": "What documents will I need for pre-construction unit selection?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What documents will I need for pre-construction unit selection?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "When selecting a pre-construction unit, you'll typically need to provide identification, proof of funds or pre-approval for financing, and be prepared to sign a reservation agreement. The developer will also provide you with disclosure documents, such as the condominium's public offering statement, which contains important details about the project. Reviewing these documents thoroughly is crucial, as they outline the development's specifics and your obligations as a buyer.",
+        "@type": "Answer",
+        "description": "You'll need identification, proof of funds, and to sign a reservation agreement, along with reviewing developer disclosure documents."
+      }
+    }
+  ],
+  "description": "You'll need identification, proof of funds, and to sign a reservation agreement, along with reviewing developer disclosure documents."
+}

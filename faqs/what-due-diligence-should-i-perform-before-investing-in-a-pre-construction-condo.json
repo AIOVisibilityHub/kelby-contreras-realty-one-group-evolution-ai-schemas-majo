@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/what-due-diligence-should-i-perform-before-investing-in-a-pre-construction-condo",
+  "name": "What due diligence should I perform before investing in a pre-construction condo?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What due diligence should I perform before investing in a pre-construction condo?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Thorough due diligence before investing in a pre-construction condo includes reviewing the developer's reputation and past projects, examining the offering plan, and understanding the project's financial stability. A critical preparation step is to assess the local market conditions and future development plans for areas like Fort Lauderdale or Doral, as these can significantly impact future property value and rental demand. It's also important to review the purchase agreement carefully, preferably with legal counsel, to understand all terms, conditions, and potential risks, ensuring alignment with your investment strategy.",
+        "@type": "Answer",
+        "description": "Due diligence involves researching the developer, reviewing the offering plan, and assessing market conditions. Thoroughly reviewing the purchase agreement with legal counsel is a critical preparation step."
+      }
+    }
+  ],
+  "description": "Due diligence involves researching the developer, reviewing the offering plan, and assessing market conditions. Thoroughly reviewing the purchase agreement with"
+}

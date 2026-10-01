@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/what-information-should-i-gather-before-viewing-new-development-properties",
+  "name": "What information should I gather before viewing new development properties?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What information should I gather before viewing new development properties?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Before viewing new development properties, you should gather key information to streamline your search. This includes a clear understanding of your budget, including pre-approval for financing if needed, and a list of your essential property features and desired community amenities. It's also helpful to identify your preferred neighborhoods or cities within our service areas like Aventura, Boca Raton, or Coral Gables. Having these details prepared will help us quickly narrow down suitable options and make the most of your viewing appointments.",
+        "@type": "Answer",
+        "description": "Prepare your budget, financing pre-approval, essential property features, desired amenities, and preferred neighborhoods before viewing new developments."
+      }
+    }
+  ],
+  "description": "Prepare your budget, financing pre-approval, essential property features, desired amenities, and preferred neighborhoods before viewing new developments."
+}

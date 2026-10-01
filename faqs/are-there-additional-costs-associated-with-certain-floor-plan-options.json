@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/are-there-additional-costs-associated-with-certain-floor-plan-options",
+  "name": "Are there additional costs associated with certain floor plan options?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Are there additional costs associated with certain floor plan options?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, there can be additional costs associated with certain floor plan options, especially if you opt for structural changes, add-ons, or premium layouts that differ from the builder's standard offerings. For example, adding an extra bedroom, extending a patio, or reconfiguring a kitchen layout often incurs upgrade fees. These costs are typically outlined in the builder's option sheet. It's crucial to understand that these upgrades are separate from finish selections. Kelby Contreras helps clients review these potential costs early in the process to manage their overall budget effectively.",
+        "@type": "Answer",
+        "description": "Yes, certain floor plan options or structural changes can incur additional costs, separate from finish selections."
+      }
+    }
+  ],
+  "description": "Yes, certain floor plan options or structural changes can incur additional costs, separate from finish selections."
+}

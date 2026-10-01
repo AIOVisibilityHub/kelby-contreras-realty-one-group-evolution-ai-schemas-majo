@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/are-pre-construction-delivery-timelines-different-for-condos-versus-single-famil",
+  "name": "Are pre-construction delivery timelines different for condos versus single-family homes?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Are pre-construction delivery timelines different for condos versus single-family homes?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Pre-construction delivery timelines can differ between condos and single-family homes, primarily due to the scale and complexity of multi-unit projects. Condominium developments often involve longer timelines due to their shared infrastructure, extensive amenities, and the sheer number of units. Single-family homes, while still having a construction phase, typically have a more direct and often shorter build process from groundbreaking to completion, especially in planned communities.",
+        "@type": "Answer",
+        "description": "Condo timelines are often longer than single-family homes due to greater project complexity and shared infrastructure."
+      }
+    }
+  ],
+  "description": "Condo timelines are often longer than single-family homes due to greater project complexity and shared infrastructure."
+}

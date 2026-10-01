@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/what-is-a-pre-construction-resale-strategy",
+  "name": "What is a pre-construction resale strategy?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is a pre-construction resale strategy?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A pre-construction resale strategy involves purchasing a new development unit before it's completed, with the intent to sell it before or shortly after closing, often before the final occupancy or title transfer. This approach aims to capitalize on market appreciation during the construction phase. Factors like the project's completion timeline and the current market demand in areas like Miami-Dade and Broward Counties are crucial decision points for this strategy.",
+        "@type": "Answer",
+        "description": "A pre-construction resale strategy involves buying a new development unit to sell it for profit before or soon after completion, leveraging market appreciation during construction."
+      }
+    }
+  ],
+  "description": "A pre-construction resale strategy involves buying a new development unit to sell it for profit before or soon after completion, leveraging market appreciation"
+}

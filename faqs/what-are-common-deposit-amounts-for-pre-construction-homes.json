@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/what-are-common-deposit-amounts-for-pre-construction-homes",
+  "name": "What are common deposit amounts for pre-construction homes?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are common deposit amounts for pre-construction homes?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Common deposit amounts for pre-construction homes vary but generally range from 20% to 50% of the total purchase price, spread across multiple payments. The initial deposit can be 10-20%, with subsequent payments of 5-10% at different construction stages or set times. This range can depend on the developer, project, and market conditions in specific locations like Miami Beach or Fort Lauderdale. Kelby Contreras can provide insight into typical ranges for different project types.",
+        "@type": "Answer",
+        "description": "Pre-construction deposit amounts commonly range from 20% to 50% of the purchase price, paid in installments."
+      }
+    }
+  ],
+  "description": "Pre-construction deposit amounts commonly range from 20% to 50% of the purchase price, paid in installments."
+}

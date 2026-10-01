@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/why-use-kelby-contreras-for-an-assignment-sale-in-south-florida",
+  "name": "Why use Kelby Contreras for an assignment sale in South Florida?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Why use Kelby Contreras for an assignment sale in South Florida?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Kelby Contreras offers specialized expertise in pre-construction assignment sales across Miami-Dade, Broward, Palm Beach, Collier, and Orange Counties. Our team provides comprehensive market analysis, skilled negotiation, and meticulous contract review to protect your interests. We understand the nuances of developer agreements and local market dynamics in areas from Aventura to West Palm Beach, streamlining a complex process for both assignors and assignees. Our deep regional knowledge helps clients navigate these transactions with confidence.",
+        "@type": "Answer",
+        "description": "Kelby Contreras offers specialized expertise in South Florida assignment sales, providing market analysis, negotiation, and contract review across multiple counties, navigating complex developer agreements and local dynamics."
+      }
+    }
+  ],
+  "description": "Kelby Contreras offers specialized expertise in South Florida assignment sales, providing market analysis, negotiation, and contract review across multiple coun"
+}

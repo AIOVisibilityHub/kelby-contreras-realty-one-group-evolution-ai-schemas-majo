@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/what-permits-and-approvals-should-i-confirm-are-in-place-when-comparing-pre-cons",
+  "name": "What permits and approvals should I confirm are in place when comparing pre-construction projects?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What permits and approvals should I confirm are in place when comparing pre-construction projects?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "When comparing pre-construction projects, it's prudent to confirm that the developer has secured necessary zoning approvals and key construction permits. While real estate professionals typically assist with this due diligence, understanding the process clarity of how these approvals are obtained provides assurance. This ensures the project adheres to local regulations and is likely to proceed as planned. For properties in coastal areas like Fort Lauderdale Beach or Key Biscayne, additional environmental or coastal construction permits may be particularly relevant and worth verifying.",
+        "@type": "Answer",
+        "description": "Confirm developers have secured necessary zoning and construction permits. This ensures regulatory compliance and project viability, especially for specific local regulations in coastal areas."
+      }
+    }
+  ],
+  "description": "Confirm developers have secured necessary zoning and construction permits. This ensures regulatory compliance and project viability, especially for specific loc"
+}

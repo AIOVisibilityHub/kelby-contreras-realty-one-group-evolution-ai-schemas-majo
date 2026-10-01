@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/can-i-back-out-of-a-pre-construction-purchase-agreement-and-what-are-the-consequ",
+  "name": "Can I back out of a pre-construction purchase agreement, and what are the consequences?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I back out of a pre-construction purchase agreement, and what are the consequences?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The ability to back out of a pre-construction purchase agreement and the associated consequences depend heavily on the terms outlined in your specific contract. Most pre-construction contracts include clauses regarding buyer default, which typically result in the forfeiture of your deposits. However, some contracts may have contingencies that allow for cancellation under specific circumstances, such as financing falling through or significant construction delays. Reviewing these terms with an attorney is crucial, as the financial implications can be substantial.",
+        "@type": "Answer",
+        "description": "Backing out of a pre-construction agreement usually means forfeiting deposits, but specific terms depend on your contract."
+      }
+    }
+  ],
+  "description": "Backing out of a pre-construction agreement usually means forfeiting deposits, but specific terms depend on your contract."
+}

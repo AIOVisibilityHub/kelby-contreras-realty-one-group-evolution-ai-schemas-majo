@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/how-long-does-it-take-to-close-on-a-new-construction-property-once-i-ve-made-a-r",
+  "name": "How long does it take to close on a new construction property once I've made a reservation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does it take to close on a new construction property once I've made a reservation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The closing timeline for a new construction property, once you've made a reservation, can vary significantly depending on the project's stage and developer. For pre-construction, it could be 12 to 36 months or more until completion and closing. For properties already under construction, the timeline might be shorter, perhaps 3 to 12 months. It's essential to understand the developer's estimated completion date and any potential delays. We help track these timelines and keep you informed throughout the build process until the final closing.",
+        "@type": "Answer",
+        "description": "Closing on new construction can take 3 to over 36 months, depending on the project stage; pre-construction takes longer."
+      }
+    }
+  ],
+  "description": "Closing on new construction can take 3 to over 36 months, depending on the project stage; pre-construction takes longer."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/can-i-customize-a-pre-construction-unit",
+  "name": "Can I customize a pre-construction unit?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I customize a pre-construction unit?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The ability to customize a pre-construction unit varies significantly by developer and project stage. Early buyers might have options to select finishes, flooring, or upgrade appliance packages from a pre-approved list. As construction progresses, customization options typically become limited or unavailable. It's important to clarify the extent of customization possibilities and any associated costs with the sales team before committing. Some luxury developments in areas like Miami Beach or Bal Harbour may offer more extensive personalization options.",
+        "@type": "Answer",
+        "description": "Customization options vary by developer and project stage; early buyers might select finishes or upgrades from a list. Inquire about possibilities and costs upfront."
+      }
+    }
+  ],
+  "description": "Customization options vary by developer and project stage; early buyers might select finishes or upgrades from a list. Inquire about possibilities and costs upf"
+}

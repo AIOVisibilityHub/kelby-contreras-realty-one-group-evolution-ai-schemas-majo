@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/can-i-get-financing-for-a-pre-construction-assignment-purchase",
+  "name": "Can I get financing for a pre-construction assignment purchase?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I get financing for a pre-construction assignment purchase?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Securing financing for a pre-construction assignment purchase can be more complex than for a completed property. Lenders typically prefer to finance the final purchase of a completed home, not the assignment contract itself. The assignee will need to qualify for a mortgage based on the property's final closing value at the time of occupancy. It is advisable to consult with a mortgage broker specializing in new construction to understand your options early in the process. Kelby Contreras can connect you with experienced professionals in the South Florida market.",
+        "@type": "Answer",
+        "description": "Financing an assignment is complex; lenders usually finance the final purchase, not the contract itself, so consult a mortgage broker specializing in new construction."
+      }
+    }
+  ],
+  "description": "Financing an assignment is complex; lenders usually finance the final purchase, not the contract itself, so consult a mortgage broker specializing in new constr"
+}

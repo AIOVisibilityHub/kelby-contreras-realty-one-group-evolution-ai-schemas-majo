@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/what-are-the-financial-requirements-for-engaging-in-a-pre-construction-resale",
+  "name": "What are the financial requirements for engaging in a pre-construction resale?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are the financial requirements for engaging in a pre-construction resale?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Financial requirements for pre-construction resale typically include a series of deposit payments to the developer, usually ranging from 10% to 30% of the purchase price, spread out over the construction period. These funds are locked in until the assignment or sale. It's important to prepare for potential closing costs if the unit is not assigned before title transfer. Clients often need to consider their liquidity and access to capital throughout the multi-year development timeline.",
+        "@type": "Answer",
+        "description": "Pre-construction resales require substantial deposits to the developer, typically 10-30% of the purchase price, spread over the construction period, plus potential closing costs if not assigned."
+      }
+    }
+  ],
+  "description": "Pre-construction resales require substantial deposits to the developer, typically 10-30% of the purchase price, spread over the construction period, plus potent"
+}

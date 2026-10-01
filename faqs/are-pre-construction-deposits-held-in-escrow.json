@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/are-pre-construction-deposits-held-in-escrow",
+  "name": "Are pre-construction deposits held in escrow?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Are pre-construction deposits held in escrow?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, in Florida, pre-construction deposits are typically required to be held in an escrow account, often by the developer's attorney or a title company. This protects your funds by ensuring they are not released to the developer until certain conditions are met, such as construction milestones or closing. This escrow requirement provides a layer of security for buyers, and Kelby Contreras always verifies these details for clients acquiring properties throughout Miami-Dade, Broward, Palm Beach, and Orange Counties.",
+        "@type": "Answer",
+        "description": "In Florida, pre-construction deposits are typically held in an escrow account to protect buyer funds until specific conditions are met."
+      }
+    }
+  ],
+  "description": "In Florida, pre-construction deposits are typically held in an escrow account to protect buyer funds until specific conditions are met."
+}

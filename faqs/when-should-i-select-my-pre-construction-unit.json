@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/when-should-i-select-my-pre-construction-unit",
+  "name": "When should I select my pre-construction unit?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When should I select my pre-construction unit?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You typically select your pre-construction unit during the initial sales phase of a development, often after placing a reservation and before the formal contract is issued. Acting early can provide access to the widest selection of units, views, and floor plans, which tend to sell out quickly, especially in high-demand areas like Miami-Dade and Broward Counties. Waiting too long may limit your choices to less desirable units or those with fewer customization options.",
+        "@type": "Answer",
+        "description": "Unit selection usually happens early in the sales phase, after reservation and before contracting, to secure preferred units and options."
+      }
+    }
+  ],
+  "description": "Unit selection usually happens early in the sales phase, after reservation and before contracting, to secure preferred units and options."
+}

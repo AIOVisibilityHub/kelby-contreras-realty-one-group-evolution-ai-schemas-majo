@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/what-factors-should-i-consider-when-choosing-a-pre-construction-floor-plan",
+  "name": "What factors should I consider when choosing a pre-construction floor plan?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What factors should I consider when choosing a pre-construction floor plan?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "When choosing a pre-construction floor plan, consider your lifestyle, family size, future needs, and how you intend to use each space. Think about bedroom count, bathroom layouts, kitchen size, open-concept versus traditional layouts, and outdoor living areas. A practical tradeoff to consider is balancing your current needs with potential future changes, as some layouts offer more flexibility for adaptation over time. For example, a home office may be crucial now, but a convertible space could serve as a guest room later. Kelby Contreras advises clients on popular design trends and functional layouts observed in the South Florida market.",
+        "@type": "Answer",
+        "description": "Consider your lifestyle, family size, future needs, and space utilization, balancing current preferences with future adaptability when selecting a floor plan."
+      }
+    }
+  ],
+  "description": "Consider your lifestyle, family size, future needs, and space utilization, balancing current preferences with future adaptability when selecting a floor plan."
+}

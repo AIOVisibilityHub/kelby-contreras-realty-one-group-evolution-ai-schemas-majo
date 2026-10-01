@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/what-is-a-pre-construction-investment-property",
+  "name": "What is a pre-construction investment property?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is a pre-construction investment property?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A pre-construction investment property is real estate purchased before or during its development, prior to completion. Investors buy these properties based on plans and renderings, often at a lower price than completed units. The primary investment strategy involves capitalizing on potential appreciation as the development progresses and the market matures. As Kelby Contreras operates in dynamic markets like Miami-Dade and Broward County, pre-construction opportunities often arise in new developments seeking early investors.",
+        "@type": "Answer",
+        "description": "A pre-construction investment property is real estate purchased before or during its development, prior to completion, based on plans and renderings."
+      }
+    }
+  ],
+  "description": "A pre-construction investment property is real estate purchased before or during its development, prior to completion, based on plans and renderings."
+}

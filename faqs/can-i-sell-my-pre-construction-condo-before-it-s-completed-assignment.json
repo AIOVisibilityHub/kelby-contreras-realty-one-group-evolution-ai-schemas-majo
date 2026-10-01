@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/can-i-sell-my-pre-construction-condo-before-it-s-completed-assignment",
+  "name": "Can I sell my pre-construction condo before it's completed? (Assignment)",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I sell my pre-construction condo before it's completed? (Assignment)",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, selling a pre-construction condo before completion, known as an assignment, is often possible, but it depends heavily on the developer's policies. Many developers allow assignments, sometimes with a fee or specific restrictions, while others may prohibit it entirely until a certain stage of construction or even after closing. This presents a practical tradeoff: an assignment can allow you to realize profits without finalizing the purchase, but it also means navigating developer-specific rules and potentially facing additional costs. Reviewing the assignment clause in the purchase agreement is a critical step.",
+        "@type": "Answer",
+        "description": "Selling a pre-construction condo before completion (assignment) is often possible, but depends on developer policies and may incur fees or restrictions. Understanding these terms is crucial before proceeding."
+      }
+    }
+  ],
+  "description": "Selling a pre-construction condo before completion (assignment) is often possible, but depends on developer policies and may incur fees or restrictions. Underst"
+}

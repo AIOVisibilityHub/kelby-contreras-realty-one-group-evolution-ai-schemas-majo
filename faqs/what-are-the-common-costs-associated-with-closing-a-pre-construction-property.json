@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/what-are-the-common-costs-associated-with-closing-a-pre-construction-property",
+  "name": "What are the common costs associated with closing a pre-construction property?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are the common costs associated with closing a pre-construction property?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Common costs associated with closing a pre-construction property include a down payment, closing costs (such as title insurance, appraisal fees, and lender fees), and potentially additional builder fees or upgrades. It's crucial to understand that these costs can vary based on the specific developer, location, and the terms negotiated in your purchase agreement. We advise clients to budget for approximately 2-5% of the purchase price for closing costs, in addition to their down payment, when buying in areas like Aventura or Boca Raton.",
+        "@type": "Answer",
+        "description": "Closing costs for pre-construction typically include a down payment, standard closing fees, and potential builder-specific charges."
+      }
+    }
+  ],
+  "description": "Closing costs for pre-construction typically include a down payment, standard closing fees, and potential builder-specific charges."
+}

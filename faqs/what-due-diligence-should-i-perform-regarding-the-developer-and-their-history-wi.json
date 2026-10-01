@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/what-due-diligence-should-i-perform-regarding-the-developer-and-their-history-wi",
+  "name": "What due diligence should I perform regarding the developer and their history with promised views?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What due diligence should I perform regarding the developer and their history with promised views?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "When considering a pre-construction purchase, performing due diligence on the developer is key. Research their previous projects, especially in areas like Palm Beach or Coral Gables, to assess their track record for delivering promised views and overall project quality. Look for reviews, visit completed properties if possible, and verify their financial stability. A real estate agent specializing in new construction can often provide insights into a developer's reputation and past performance.",
+        "@type": "Answer",
+        "description": "Perform due diligence on the developer by researching their past projects and reputation to ensure they have a history of delivering promised views and quality."
+      }
+    }
+  ],
+  "description": "Perform due diligence on the developer by researching their past projects and reputation to ensure they have a history of delivering promised views and quality."
+}

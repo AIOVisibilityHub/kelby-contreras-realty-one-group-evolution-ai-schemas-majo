@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/what-are-the-typical-deposit-structures-for-pre-construction-condos-in-south-flo",
+  "name": "What are the typical deposit structures for pre-construction condos in South Florida?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are the typical deposit structures for pre-construction condos in South Florida?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Deposit structures for pre-construction condos in South Florida usually involve a series of payments spread across the construction timeline. Typically, developers require an initial deposit (often 10-20% of the purchase price), followed by additional payments at specific construction milestones, such as groundbreaking, completion of the foundation, or reaching a certain floor. A practical tradeoff to consider is that while these phased payments can make initial entry more accessible, they tie up capital over an extended period. Understanding the specific payment schedule is crucial, as it varies by developer and project.",
+        "@type": "Answer",
+        "description": "Deposit structures in South Florida usually involve phased payments, starting with an initial deposit and continuing at construction milestones. This spreads out the financial commitment but ties up capital over a longer term."
+      }
+    }
+  ],
+  "description": "Deposit structures in South Florida usually involve phased payments, starting with an initial deposit and continuing at construction milestones. This spreads ou"
+}

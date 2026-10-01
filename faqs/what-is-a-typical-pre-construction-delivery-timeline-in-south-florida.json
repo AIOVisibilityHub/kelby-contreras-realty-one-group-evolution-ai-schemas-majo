@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/what-is-a-typical-pre-construction-delivery-timeline-in-south-florida",
+  "name": "What is a typical pre-construction delivery timeline in South Florida?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is a typical pre-construction delivery timeline in South Florida?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Pre-construction delivery timelines in South Florida can vary significantly, generally ranging from 18 to 36 months, though some luxury developments may take longer. Factors influencing this include the project's size, complexity, regulatory approvals in specific counties like Miami-Dade or Broward, and any unforeseen construction delays. Understanding these potential variations helps in setting realistic expectations for your property's completion.",
+        "@type": "Answer",
+        "description": "Pre-construction delivery timelines in South Florida typically range from 18 to 36 months, influenced by project complexity and local approvals."
+      }
+    }
+  ],
+  "description": "Pre-construction delivery timelines in South Florida typically range from 18 to 36 months, influenced by project complexity and local approvals."
+}

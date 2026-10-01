@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/how-can-i-assess-potential-view-obstructions-for-a-pre-construction-unit",
+  "name": "How can I assess potential view obstructions for a pre-construction unit?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How can I assess potential view obstructions for a pre-construction unit?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "To assess potential view obstructions for a pre-construction unit, review the developer's master plan for the entire project and surrounding parcels, if available. Research local zoning and development plans for adjacent properties. For locations such as Aventura or Brickell, understanding the density and height restrictions of neighboring developments is crucial. A real estate professional can assist in gathering this information and understanding long-term development impacts.",
+        "@type": "Answer",
+        "description": "Assess potential view obstructions by reviewing the developer's master plan and local zoning for adjacent properties, especially in dense urban areas."
+      }
+    }
+  ],
+  "description": "Assess potential view obstructions by reviewing the developer's master plan and local zoning for adjacent properties, especially in dense urban areas."
+}

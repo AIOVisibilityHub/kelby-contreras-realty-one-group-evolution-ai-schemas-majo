@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/what-happens-after-i-select-my-pre-construction-unit",
+  "name": "What happens after I select my pre-construction unit?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What happens after I select my pre-construction unit?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "After selecting your unit, you will typically proceed to sign the formal purchase contract with the developer, often following a specified rescission period during which you can review the documents and potentially withdraw your offer without penalty. Deposits will be structured according to a payment schedule as construction progresses. Our role continues in guiding you through each contractual milestone, ensuring you meet deadlines and understand the ongoing communication from the developer.",
+        "@type": "Answer",
+        "description": "After selection, you sign the purchase contract, adhere to a deposit schedule, and follow the development's contractual milestones."
+      }
+    }
+  ],
+  "description": "After selection, you sign the purchase contract, adhere to a deposit schedule, and follow the development's contractual milestones."
+}

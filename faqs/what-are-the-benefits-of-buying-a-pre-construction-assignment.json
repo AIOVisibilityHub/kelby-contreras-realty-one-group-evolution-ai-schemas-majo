@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/what-are-the-benefits-of-buying-a-pre-construction-assignment",
+  "name": "What are the benefits of buying a pre-construction assignment?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are the benefits of buying a pre-construction assignment?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Buying a pre-construction assignment can offer several benefits, such as securing a property at a potentially lower price than current market rates, or gaining access to projects that are otherwise sold out. It also allows you to purchase a new build without waiting for the full construction period. However, it's crucial to understand the original Agreement of Purchase and Sale, as the assignee inherits all its terms. Kelby Contreras assists buyers in understanding these inherited conditions to make informed decisions.",
+        "@type": "Answer",
+        "description": "Benefits include potential price savings, access to sold-out projects, and acquiring a new build sooner, but you inherit the original contract terms."
+      }
+    }
+  ],
+  "description": "Benefits include potential price savings, access to sold-out projects, and acquiring a new build sooner, but you inherit the original contract terms."
+}

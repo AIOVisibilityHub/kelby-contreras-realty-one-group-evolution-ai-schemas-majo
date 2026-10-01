@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/are-there-different-types-of-deposit-structures-for-pre-construction-properties",
+  "name": "Are there different types of deposit structures for pre-construction properties?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Are there different types of deposit structures for pre-construction properties?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, deposit structures can vary. Some developers use a fixed percentage at key construction milestones (e.g., foundation, top-off), while others might require fixed amounts at specific calendar dates. Some premium developments, particularly in high-demand areas like Fisher Island or Brickell Key, may require higher initial deposits or more frequent payments. Understanding these variations is a key decision factor when comparing different pre-construction opportunities.",
+        "@type": "Answer",
+        "description": "Deposit structures can vary, with some tied to construction milestones and others to specific calendar dates."
+      }
+    }
+  ],
+  "description": "Deposit structures can vary, with some tied to construction milestones and others to specific calendar dates."
+}

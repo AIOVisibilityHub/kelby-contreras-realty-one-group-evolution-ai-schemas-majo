@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/what-is-a-pre-construction-condo-and-how-does-it-differ-from-a-resale-condo",
+  "name": "What is a pre-construction condo, and how does it differ from a resale condo?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is a pre-construction condo, and how does it differ from a resale condo?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A pre-construction condo is a unit purchased before or during its construction, typically from a developer. This differs from a resale condo, which is a unit that has already been built, owned, and previously occupied. One key practical tradeoff for investors is that pre-construction often allows for lower initial deposits spread over time, but requires patience as the property takes time to build and deliver. In contrast, resale condos offer immediate occupancy and established rental income potential, but require a larger upfront investment.",
+        "@type": "Answer",
+        "description": "A pre-construction condo is bought before or during construction from a developer, while a resale condo has been previously owned and occupied. Pre-construction offers phased payments and future value potential, but requires a longer waiting period."
+      }
+    }
+  ],
+  "description": "A pre-construction condo is bought before or during construction from a developer, while a resale condo has been previously owned and occupied. Pre-construction"
+}

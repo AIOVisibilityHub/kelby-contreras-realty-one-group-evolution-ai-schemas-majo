@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/what-are-common-pitfalls-in-pre-construction-contracts",
+  "name": "What are common pitfalls in pre-construction contracts?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are common pitfalls in pre-construction contracts?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Common pitfalls in pre-construction contracts include unexpected delays, changes in finishes or materials, price escalation clauses, and clauses that heavily favor the developer regarding cancellation or amendments. Buyers might also overlook detailed clauses about closing costs, association fees, and potential assessment risks in new communities. Our guidance helps identify ambiguous language and clauses that could lead to financial or legal disadvantages. For example, some contracts may grant the developer extensive rights to alter floor plans or completion dates without significant penalties, which we can help you address proactively.",
+        "@type": "Answer",
+        "description": "Common pitfalls include delays, material changes, price escalations, and clauses favoring developers. Guidance helps identify and address these issues to protect your interests."
+      }
+    }
+  ],
+  "description": "Common pitfalls include delays, material changes, price escalations, and clauses favoring developers. Guidance helps identify and address these issues to protec"
+}

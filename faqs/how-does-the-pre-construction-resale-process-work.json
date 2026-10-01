@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/how-does-the-pre-construction-resale-process-work",
+  "name": "How does the pre-construction resale process work?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How does the pre-construction resale process work?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The process typically starts with signing a purchase agreement and providing a deposit for a unit in a new development. As construction progresses, the value may increase. The goal is to assign the contract to another buyer before closing, or sell the property shortly after taking possession. Kelby Contreras guides clients through understanding the developer's assignment policies, which can vary significantly and affect the feasibility and profitability of this strategy in regions like Palm Beach and Orange County.",
+        "@type": "Answer",
+        "description": "The process involves buying a new development unit, depositing funds, and then assigning the contract or selling the unit shortly after completion, guided by developer policies."
+      }
+    }
+  ],
+  "description": "The process involves buying a new development unit, depositing funds, and then assigning the contract or selling the unit shortly after completion, guided by de"
+}

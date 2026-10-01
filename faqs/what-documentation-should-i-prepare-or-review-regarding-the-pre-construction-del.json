@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/what-documentation-should-i-prepare-or-review-regarding-the-pre-construction-del",
+  "name": "What documentation should I prepare or review regarding the pre-construction delivery timeline?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What documentation should I prepare or review regarding the pre-construction delivery timeline?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You should thoroughly review the purchase agreement, particularly sections detailing the estimated completion date, delay clauses, and conditions for extension or termination. Pay attention to the developer's guarantees, if any, and payment schedules tied to construction milestones. Gathering all communications from the developer regarding progress is also beneficial for future reference.",
+        "@type": "Answer",
+        "description": "Review the purchase agreement for completion dates, delay clauses, and payment schedules, and keep all developer communications."
+      }
+    }
+  ],
+  "description": "Review the purchase agreement for completion dates, delay clauses, and payment schedules, and keep all developer communications."
+}

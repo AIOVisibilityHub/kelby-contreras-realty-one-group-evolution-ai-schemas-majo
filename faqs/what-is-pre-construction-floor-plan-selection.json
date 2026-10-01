@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/what-is-pre-construction-floor-plan-selection",
+  "name": "What is pre-construction floor plan selection?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is pre-construction floor plan selection?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Pre-construction floor plan selection is the process where a buyer chooses the layout and design of their future home before it is built. This typically occurs early in the new construction purchasing process, often shortly after signing a reservation agreement or contract. Your choices here can significantly influence the home's functionality and resale value, making it crucial to consider your lifestyle needs and future plans. Kelby Contreras assists clients in navigating these options, providing insights into layouts popular in Miami-Dade and Broward counties.",
+        "@type": "Answer",
+        "description": "Pre-construction floor plan selection involves choosing your home's layout and design before construction begins, impacting functionality and resale value."
+      }
+    }
+  ],
+  "description": "Pre-construction floor plan selection involves choosing your home's layout and design before construction begins, impacting functionality and resale value."
+}

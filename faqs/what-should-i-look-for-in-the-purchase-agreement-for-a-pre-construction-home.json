@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/what-should-i-look-for-in-the-purchase-agreement-for-a-pre-construction-home",
+  "name": "What should I look for in the purchase agreement for a pre-construction home?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What should I look for in the purchase agreement for a pre-construction home?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "When reviewing a pre-construction purchase agreement, you should pay close attention to the construction timeline, deposit schedule, cancellation clauses, warranty details, and what's included in the base price versus upgrades. It's crucial to understand any escalation clauses for material costs and the exact specifications of your chosen finishes. This is a complex legal document, and seeking legal counsel is highly recommended. Understanding these details upfront can prevent costly surprises and ensure your expectations align with the builder's commitments, a critical preparation step.",
+        "@type": "Answer",
+        "description": "Key elements in a pre-construction purchase agreement include timeline, deposits, cancellation terms, warranty, and included finishes."
+      }
+    }
+  ],
+  "description": "Key elements in a pre-construction purchase agreement include timeline, deposits, cancellation terms, warranty, and included finishes."
+}

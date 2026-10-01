@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/how-do-unexpected-construction-delays-affect-my-pre-construction-delivery-date",
+  "name": "How do unexpected construction delays affect my pre-construction delivery date?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do unexpected construction delays affect my pre-construction delivery date?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Unexpected construction delays can push back your pre-construction delivery date. Common causes include supply chain issues, labor shortages, adverse weather conditions, or changes in building regulations. Developers usually have clauses in contracts addressing these delays, so it's crucial to review the purchase agreement carefully. Kelby Contreras helps clients understand these contractual terms and potential impacts on their closing schedule.",
+        "@type": "Answer",
+        "description": "Unexpected delays from supply chain, weather, or labor can extend delivery dates, making contract review essential."
+      }
+    }
+  ],
+  "description": "Unexpected delays from supply chain, weather, or labor can extend delivery dates, making contract review essential."
+}

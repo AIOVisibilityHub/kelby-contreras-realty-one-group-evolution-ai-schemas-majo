@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/how-does-the-assignment-process-work-with-a-real-estate-agent",
+  "name": "How does the assignment process work with a real estate agent?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How does the assignment process work with a real estate agent?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "When working with Kelby Contreras for an assignment sale, the process typically begins with an assessment of the original Agreement of Purchase and Sale and the property's current market value. For assignors, we market the assignment opportunity to potential assignees. For assignees, we identify suitable assignments and review all contractual terms. The next steps involve obtaining developer consent, negotiating the assignment agreement, and managing the legal and financial aspects through closing, ensuring a smooth transition.",
+        "@type": "Answer",
+        "description": "The process involves assessing the original contract, marketing the assignment, negotiating terms, obtaining developer consent, and managing the legal and financial aspects through closing."
+      }
+    }
+  ],
+  "description": "The process involves assessing the original contract, marketing the assignment, negotiating terms, obtaining developer consent, and managing the legal and finan"
+}

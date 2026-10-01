@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/what-is-pre-construction-view-selection",
+  "name": "What is pre-construction view selection?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is pre-construction view selection?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Pre-construction view selection refers to the process where buyers choose a specific unit within a new development based on its future view, before construction is completed. This decision often involves reviewing floor plans, site maps, and sometimes virtual renderings to visualize the outlook from different units. Factors like floor height, direction, and surrounding developments influence the view and the unit's value.",
+        "@type": "Answer",
+        "description": "Pre-construction view selection is choosing a unit in a new development based on its future view before construction is complete."
+      }
+    }
+  ],
+  "description": "Pre-construction view selection is choosing a unit in a new development based on its future view before construction is complete."
+}

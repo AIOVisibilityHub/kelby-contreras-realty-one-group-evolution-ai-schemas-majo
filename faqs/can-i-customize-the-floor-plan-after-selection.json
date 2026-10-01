@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/can-i-customize-the-floor-plan-after-selection",
+  "name": "Can I customize the floor plan after selection?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I customize the floor plan after selection?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The extent to which you can customize a floor plan after the initial selection depends heavily on the builder's policies and the construction stage. Generally, major structural changes are difficult or impossible once construction is underway and permits are filed. Minor modifications, such as moving non-load-bearing walls or changing room functions, might be possible early on but often incur additional costs and require builder approval. It's a practical tradeoff: the earlier you make decisions, the more flexibility you typically have, but late changes can be expensive and cause delays. Kelby Contreras can clarify specific builder customization policies upfront.",
+        "@type": "Answer",
+        "description": "Customization after initial selection is limited and depends on the builder and construction stage; major changes are usually not possible."
+      }
+    }
+  ],
+  "description": "Customization after initial selection is limited and depends on the builder and construction stage; major changes are usually not possible."
+}

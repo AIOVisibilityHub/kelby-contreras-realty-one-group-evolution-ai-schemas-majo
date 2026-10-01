@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/what-paperwork-is-involved-in-pre-construction-floor-plan-selection",
+  "name": "What paperwork is involved in pre-construction floor plan selection?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What paperwork is involved in pre-construction floor plan selection?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The paperwork involved in pre-construction floor plan selection typically includes an addendum to your purchase agreement specifically detailing the chosen floor plan, any structural modifications, and associated upgrade costs. You will sign off on the architectural drawings, ensuring they reflect your final selections. This document becomes a critical part of your overall contract with the builder. For process clarity, it's important to understand that these signed documents serve as the builder's blueprint for construction, so accuracy is paramount. Kelby Contreras assists clients in reviewing all documentation to ensure accuracy and understanding before final signatures.",
+        "@type": "Answer",
+        "description": "Paperwork includes an addendum to the purchase agreement detailing the chosen floor plan, structural modifications, and associated costs, which you'll sign off on."
+      }
+    }
+  ],
+  "description": "Paperwork includes an addendum to the purchase agreement detailing the chosen floor plan, structural modifications, and associated costs, which you'll sign off"
+}

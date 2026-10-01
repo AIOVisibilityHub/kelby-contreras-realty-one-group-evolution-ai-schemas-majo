@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/what-are-the-common-pitfalls-when-comparing-pre-construction-projects",
+  "name": "What are the common pitfalls when comparing pre-construction projects?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are the common pitfalls when comparing pre-construction projects?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Common pitfalls in pre-construction comparison include overlooking hidden fees, misinterpreting floor plans, and underestimating potential delays. Buyers often focus on initial pricing but neglect to compare HOA fees, special assessments, and closing costs, which can vary significantly. A key preparation step is to meticulously review all disclosure documents and ask specific questions about potential changes to unit layouts or amenity offerings. Our first-party insight involves guiding you through these complex documents to identify potential discrepancies early.",
+        "@type": "Answer",
+        "description": "Common pitfalls include hidden fees, floor plan misinterpretation, and underestimating delays. It's crucial to review all disclosure documents and inquire about potential changes to avoid surprises."
+      }
+    }
+  ],
+  "description": "Common pitfalls include hidden fees, floor plan misinterpretation, and underestimating delays. It's crucial to review all disclosure documents and inquire about"
+}

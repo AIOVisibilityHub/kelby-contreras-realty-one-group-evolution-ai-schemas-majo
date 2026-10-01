@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/what-are-closing-costs-for-a-pre-construction-condo",
+  "name": "What are closing costs for a pre-construction condo?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are closing costs for a pre-construction condo?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Closing costs for pre-construction condos in Florida can include standard fees like title insurance, recording fees, and attorney fees, but often also involve additional developer-specific fees. These may include impact fees, utility connection charges, and a capital contribution to the condominium association. Buyers should budget for these costs, which can sometimes be 3-5% of the purchase price, and review them carefully with their agent.",
+        "@type": "Answer",
+        "description": "Closing costs for pre-construction condos in Florida include standard fees plus additional developer charges like impact and utility connection fees."
+      }
+    }
+  ],
+  "description": "Closing costs for pre-construction condos in Florida include standard fees plus additional developer charges like impact and utility connection fees."
+}

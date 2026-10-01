@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/what-should-i-consider-when-comparing-new-construction-versus-resale-homes",
+  "name": "What should I consider when comparing new construction versus resale homes?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What should I consider when comparing new construction versus resale homes?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "When comparing new construction versus resale homes, consider several factors. New construction often features modern layouts, energy-efficient appliances, and brand-new systems, reducing immediate maintenance concerns. Resale homes might offer more established neighborhoods, mature landscaping, and potentially lower price per square foot or negotiable pricing. A practical tradeoff is that new construction typically has longer closing periods due to build times, while resale homes offer quicker occupancy. Your choice depends on your priorities regarding move-in readiness, customization, and long-term maintenance needs.",
+        "@type": "Answer",
+        "description": "New construction offers modern features and lower initial maintenance but longer waits; resale offers established areas and quicker move-ins."
+      }
+    }
+  ],
+  "description": "New construction offers modern features and lower initial maintenance but longer waits; resale offers established areas and quicker move-ins."
+}

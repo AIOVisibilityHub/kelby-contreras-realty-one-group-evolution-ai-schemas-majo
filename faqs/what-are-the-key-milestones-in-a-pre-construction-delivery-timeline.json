@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/what-are-the-key-milestones-in-a-pre-construction-delivery-timeline",
+  "name": "What are the key milestones in a pre-construction delivery timeline?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are the key milestones in a pre-construction delivery timeline?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Key milestones in a pre-construction delivery timeline typically include ground-breaking, foundation completion, topping off (structural completion), exterior facade work, interior finishing, and final inspections for occupancy permits. Each milestone signals progress and often corresponds with scheduled payment installments. Tracking these stages helps buyers monitor the project's advancement.",
+        "@type": "Answer",
+        "description": "Key milestones include ground-breaking, topping off, exterior, interior, and final inspections, often tied to payment schedules."
+      }
+    }
+  ],
+  "description": "Key milestones include ground-breaking, topping off, exterior, interior, and final inspections, often tied to payment schedules."
+}

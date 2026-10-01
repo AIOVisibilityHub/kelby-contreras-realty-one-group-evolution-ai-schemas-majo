@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/when-is-the-final-deposit-usually-due-for-a-pre-construction-property",
+  "name": "When is the final deposit usually due for a pre-construction property?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When is the final deposit usually due for a pre-construction property?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The final deposit for a pre-construction property is typically due either shortly before closing or at the time of closing. This payment usually brings the total deposit amount to the agreed-upon percentage of the purchase price, with the remaining balance covered by your mortgage. This is a critical timing aspect to coordinate with your lender and agent to ensure a smooth transition to ownership, especially in competitive markets like Miami-Dade and Broward County.",
+        "@type": "Answer",
+        "description": "The final pre-construction deposit is generally due near or at the time of closing the property."
+      }
+    }
+  ],
+  "description": "The final pre-construction deposit is generally due near or at the time of closing the property."
+}

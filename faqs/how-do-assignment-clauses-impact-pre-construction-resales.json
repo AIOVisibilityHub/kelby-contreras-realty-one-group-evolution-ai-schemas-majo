@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/how-do-assignment-clauses-impact-pre-construction-resales",
+  "name": "How do assignment clauses impact pre-construction resales?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do assignment clauses impact pre-construction resales?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Assignment clauses in the purchase agreement dictate whether and how a buyer can transfer their contract to another party before closing. Some developers prohibit assignments, while others permit them with fees and restrictions. This clause is a critical decision factor, as it directly affects your ability to execute a resale strategy without taking title to the property. Reviewing the developer's specific assignment terms with Kelby Contreras is a crucial preparation step to ensure the strategy aligns with the contract.",
+        "@type": "Answer",
+        "description": "Assignment clauses define if and how a buyer can transfer a pre-construction contract; they are a critical decision factor, and reviewing them is essential for a successful resale strategy."
+      }
+    }
+  ],
+  "description": "Assignment clauses define if and how a buyer can transfer a pre-construction contract; they are a critical decision factor, and reviewing them is essential for"
+}

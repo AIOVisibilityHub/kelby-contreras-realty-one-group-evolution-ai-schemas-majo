@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/what-questions-should-i-ask-about-a-pre-construction-deposit-schedule-before-sig",
+  "name": "What questions should I ask about a pre-construction deposit schedule before signing a contract?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What questions should I ask about a pre-construction deposit schedule before signing a contract?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Before signing a contract, you should ask for a clear breakdown of all payment amounts and their exact due dates or triggers. Inquire about any penalties for late payments, options for rescheduling if unforeseen circumstances arise, and the specific terms regarding deposit refunds if the project faces delays or cancellation. Kelby Contreras helps clients gather and compare these crucial details to ensure full understanding of the financial commitment for properties across South Florida.",
+        "@type": "Answer",
+        "description": "Ask for payment breakdowns, due dates, late payment penalties, rescheduling options, and refund terms before signing."
+      }
+    }
+  ],
+  "description": "Ask for payment breakdowns, due dates, late payment penalties, rescheduling options, and refund terms before signing."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/what-happens-if-the-developer-significantly-misses-the-estimated-delivery-date",
+  "name": "What happens if the developer significantly misses the estimated delivery date?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What happens if the developer significantly misses the estimated delivery date?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "If a developer significantly misses the estimated delivery date, the terms outlined in your purchase agreement will dictate the available recourse. Contracts often include clauses regarding extended delays, which might offer options such as compensation or, in some cases, the right to terminate the contract and receive a refund. It's crucial to review these specific provisions with your real estate advisor.",
+        "@type": "Answer",
+        "description": "Significant delays are governed by your purchase agreement, potentially offering compensation or contract termination rights."
+      }
+    }
+  ],
+  "description": "Significant delays are governed by your purchase agreement, potentially offering compensation or contract termination rights."
+}

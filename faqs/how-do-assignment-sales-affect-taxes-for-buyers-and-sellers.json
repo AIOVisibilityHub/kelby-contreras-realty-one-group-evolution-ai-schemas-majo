@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/how-do-assignment-sales-affect-taxes-for-buyers-and-sellers",
+  "name": "How do assignment sales affect taxes for buyers and sellers?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do assignment sales affect taxes for buyers and sellers?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The tax implications of an assignment sale can vary depending on individual circumstances and whether the property is intended as a primary residence or an investment. For assignors, any profit made on the assignment may be subject to capital gains tax. For assignees, the final purchase price used for land transfer tax will be based on the original purchase price plus the assignment fee. It's essential to consult with a qualified tax professional regarding your specific situation, as tax laws can be nuanced. Kelby Contreras always recommends seeking independent tax advice.",
+        "@type": "Answer",
+        "description": "Tax implications vary: assignors may face capital gains tax on profits, while assignees pay land transfer tax based on the total purchase price, so consult a tax professional."
+      }
+    }
+  ],
+  "description": "Tax implications vary: assignors may face capital gains tax on profits, while assignees pay land transfer tax based on the total purchase price, so consult a ta"
+}

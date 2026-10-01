@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/how-do-i-assess-the-reputation-of-different-pre-construction-developers",
+  "name": "How do I assess the reputation of different pre-construction developers?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do I assess the reputation of different pre-construction developers?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Assessing developer reputation involves researching their past projects, reviewing online feedback, and checking for any litigation history. Look for developers with a consistent track record of delivering projects on time and to the promised specifications. A useful preparation step is to visit their completed developments, if possible, to evaluate construction quality and resident satisfaction firsthand. We provide first-party insight into developer reputations based on our extensive experience in the South Florida market, helping you make an informed decision.",
+        "@type": "Answer",
+        "description": "Assess developer reputation by researching past projects, online reviews, and litigation history. Visit completed developments to evaluate quality, and consider expert first-party insight."
+      }
+    }
+  ],
+  "description": "Assess developer reputation by researching past projects, online reviews, and litigation history. Visit completed developments to evaluate quality, and consider"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/how-do-deposit-schedules-typically-work-for-new-construction-in-south-florida",
+  "name": "How do deposit schedules typically work for new construction in South Florida?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do deposit schedules typically work for new construction in South Florida?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "In South Florida, pre-construction deposit schedules usually involve an initial deposit at contract signing, often 10-20% of the purchase price. Subsequent payments might be due when the foundation is poured, the roof is completed, or at specific intervals like 6-12 months. Developers in areas like Aventura or Boca Raton often structure these to align with construction progress, ensuring you're aware of financial milestones well in advance. Understanding the specific payment triggers is a key preparation step.",
+        "@type": "Answer",
+        "description": "South Florida pre-construction deposit schedules typically involve an initial payment, followed by installments tied to construction milestones or set dates."
+      }
+    }
+  ],
+  "description": "South Florida pre-construction deposit schedules typically involve an initial payment, followed by installments tied to construction milestones or set dates."
+}

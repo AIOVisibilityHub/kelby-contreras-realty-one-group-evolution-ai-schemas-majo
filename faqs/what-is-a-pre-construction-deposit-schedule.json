@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/what-is-a-pre-construction-deposit-schedule",
+  "name": "What is a pre-construction deposit schedule?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is a pre-construction deposit schedule?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A pre-construction deposit schedule outlines the payments a buyer makes to a developer for a new property before its completion. These payments are typically staggered, with an initial deposit followed by several installments tied to construction milestones or specific dates. Understanding this schedule is crucial as it dictates your financial commitment over time, and Kelby Contreras can help clarify how these schedules impact your budgeting for properties in areas like Miami-Dade or Broward County.",
+        "@type": "Answer",
+        "description": "A pre-construction deposit schedule details the staged payments a buyer makes to a developer before a new property is built."
+      }
+    }
+  ],
+  "description": "A pre-construction deposit schedule details the staged payments a buyer makes to a developer before a new property is built."
+}

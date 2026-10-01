@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/what-is-the-typical-process-for-selecting-a-floor-plan-for-a-pre-construction-ho",
+  "name": "What is the typical process for selecting a floor plan for a pre-construction home?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the typical process for selecting a floor plan for a pre-construction home?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The typical process for selecting a pre-construction floor plan begins after you've reserved or contracted a unit. You'll usually meet with a builder's design consultant or sales representative to review available floor plans, often presented as architectural drawings and sometimes 3D renderings. You'll then make your selections and any initial structural modifications. The process concludes with signing off on the chosen plan, which then becomes part of your purchase agreement. Understanding this process clearly from the start is part of the Process Clarity additive angle, as it helps align expectations for subsequent steps like material and finish selections. Kelby Contreras guides clients through each step, ensuring all details are understood.",
+        "@type": "Answer",
+        "description": "The process involves reviewing available floor plans with a builder's representative, making selections, and signing off on the chosen plan."
+      }
+    }
+  ],
+  "description": "The process involves reviewing available floor plans with a builder's representative, making selections, and signing off on the chosen plan."
+}

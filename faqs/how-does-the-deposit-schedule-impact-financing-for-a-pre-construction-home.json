@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/how-does-the-deposit-schedule-impact-financing-for-a-pre-construction-home",
+  "name": "How does the deposit schedule impact financing for a pre-construction home?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How does the deposit schedule impact financing for a pre-construction home?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The deposit schedule directly impacts your upfront financial planning as these payments are made out-of-pocket before mortgage financing typically begins. Lenders assess your ability to cover these deposits in addition to qualifying you for the final mortgage amount. It's essential to have clear funds available for each deposit stage, as mortgage approval is usually finalized closer to the property's completion. This preparation ensures you're ready for both early and late-stage financial commitments.",
+        "@type": "Answer",
+        "description": "Deposit schedules dictate your upfront out-of-pocket payments before mortgage financing begins, impacting your immediate financial planning."
+      }
+    }
+  ],
+  "description": "Deposit schedules dictate your upfront out-of-pocket payments before mortgage financing begins, impacting your immediate financial planning."
+}
