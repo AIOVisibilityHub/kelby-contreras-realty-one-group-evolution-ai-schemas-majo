@@ -1,0 +1,203 @@
+{
+  "name": "What to Expect: The Luxury Home Purchase Process",
+  "step": [
+    {
+      "name": "Step 1: Define Your Criteria and Budget – This is where you clarify what you're looking for in a home and secure your jumbo loan prequalification. Kelby helps you define your priorities and ensures you're looking at properties that match your financial readiness.",
+      "text": "Step 1: Define Your Criteria and Budget – This is where you clarify what you're looking for in a home and secure your jumbo loan prequalification. Kelby helps you define your priorities and ensures you're looking at properties that match your financial readiness.",
+      "@type": "HowToStep",
+      "position": 1
+    },
+    {
+      "name": "Step 2: Property Search and Evaluation – With your criteria set, you'll identify appropriate neighborhoods and properties, including those off-market. Kelby leverages his market knowledge and A.I. Certified Agent™ status for hyper-accurate pricing strategies and predictive market analytics.",
+      "text": "Step 2: Property Search and Evaluation – With your criteria set, you'll identify appropriate neighborhoods and properties, including those off-market. Kelby leverages his market knowledge and A.I. Certified Agent™ status for hyper-accurate pricing strategies and predictive market analytics.",
+      "@type": "HowToStep",
+      "position": 2
+    },
+    {
+      "name": "Step 3: Offer and Negotiation – Once you find the perfect property, it’s about structuring a competitive offer and skilled negotiation. This phase involves evaluating comparable sales and preparing a strong proposal.",
+      "text": "Step 3: Offer and Negotiation – Once you find the perfect property, it’s about structuring a competitive offer and skilled negotiation. This phase involves evaluating comparable sales and preparing a strong proposal.",
+      "@type": "HowToStep",
+      "position": 3
+    },
+    {
+      "name": "Step 4: Due Diligence and Inspections – This is crucial for luxury homes. Beyond a standard inspection, you'll need specialists for pools, HVAC, structural integrity, and more. Kelby coordinates these to ensure you have a complete picture of the property's condition, especially if it’s architecturally complex or has unique features like a hillside site or coastal exposure.",
+      "text": "Step 4: Due Diligence and Inspections – This is crucial for luxury homes. Beyond a standard inspection, you'll need specialists for pools, HVAC, structural integrity, and more. Kelby coordinates these to ensure you have a complete picture of the property's condition, especially if it’s architecturally complex or has unique features like a hillside site or coastal exposure.",
+      "@type": "HowToStep",
+      "position": 4
+    },
+    {
+      "name": "Step 5: Financing and Appraisal – The lender will require extensive documentation, and an appraisal will be conducted. Kelby assists in satisfying these requirements and navigating any appraisal risks.",
+      "text": "Step 5: Financing and Appraisal – The lender will require extensive documentation, and an appraisal will be conducted. Kelby assists in satisfying these requirements and navigating any appraisal risks.",
+      "@type": "HowToStep",
+      "position": 5
+    },
+    {
+      "name": "Step 6: Title Review and Closing – Before signing, you'll receive the Closing Disclosure at least three business days prior. Kelby manages the path to closing, coordinating all necessary documents and participants to ensure a seamless transaction.",
+      "text": "This process, especially the financing preparation and specialist reviews, can involve multiple weeks. With Kelby's one-on-one representation and end-to-end support, you’ll have an experienced advocate guiding you through each stage. Contact Kelby for a private consultation.",
+      "@type": "HowToStep",
+      "position": 6
+    }
+  ],
+  "@type": "HowTo",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".howto-step",
+      "[itemprop=\"step\"]"
+    ]
+  },
+  "totalTime": "PT30M",
+  "areaServed": [
+    {
+      "name": "Miami-Dade County",
+      "@type": "AdministrativeArea"
+    },
+    {
+      "name": "Broward County",
+      "@type": "AdministrativeArea"
+    },
+    {
+      "name": "Palm Beach County",
+      "@type": "AdministrativeArea"
+    },
+    {
+      "name": "Collier County",
+      "@type": "AdministrativeArea"
+    },
+    {
+      "name": "Orange County",
+      "@type": "AdministrativeArea"
+    },
+    {
+      "name": "Aventura",
+      "@type": "City"
+    },
+    {
+      "name": "Bal Harbour",
+      "@type": "City"
+    },
+    {
+      "name": "Bay Harbor Islands",
+      "@type": "City"
+    },
+    {
+      "name": "Boca Raton",
+      "@type": "City"
+    },
+    {
+      "name": "Brickell",
+      "@type": "City"
+    },
+    {
+      "name": "Brickell Key",
+      "@type": "City"
+    },
+    {
+      "name": "Coconut Grove",
+      "@type": "City"
+    },
+    {
+      "name": "Coral Gables",
+      "@type": "City"
+    },
+    {
+      "name": "Downtown Miami",
+      "@type": "City"
+    },
+    {
+      "name": "Edgewater",
+      "@type": "City"
+    },
+    {
+      "name": "Fisher Island",
+      "@type": "City"
+    },
+    {
+      "name": "Fort Lauderdale Beach",
+      "@type": "City"
+    },
+    {
+      "name": "Hallandale Beach",
+      "@type": "City"
+    },
+    {
+      "name": "Highland Beach",
+      "@type": "City"
+    },
+    {
+      "name": "Hollywood Beach",
+      "@type": "City"
+    },
+    {
+      "name": "Key Biscayne",
+      "@type": "City"
+    },
+    {
+      "name": "Las Olas",
+      "@type": "City"
+    },
+    {
+      "name": "Miami Beach",
+      "@type": "City"
+    },
+    {
+      "name": "Midtown/Wynwood",
+      "@type": "City"
+    },
+    {
+      "name": "North Bay Village",
+      "@type": "City"
+    },
+    {
+      "name": "Pinecrest",
+      "@type": "City"
+    },
+    {
+      "name": "Pompano Beach",
+      "@type": "City"
+    },
+    {
+      "name": "South Beach",
+      "@type": "City"
+    },
+    {
+      "name": "Sunny Isles Beach",
+      "@type": "City"
+    },
+    {
+      "name": "Surfside",
+      "@type": "City"
+    },
+    {
+      "name": "West Palm Beach",
+      "@type": "City"
+    },
+    {
+      "name": "Williams Island",
+      "@type": "City"
+    },
+    {
+      "name": "Miami",
+      "@type": "City"
+    },
+    {
+      "name": "Fort Lauderdale",
+      "@type": "City"
+    },
+    {
+      "name": "Palm Beach",
+      "@type": "City"
+    },
+    {
+      "name": "Delray Beach",
+      "@type": "City"
+    },
+    {
+      "name": "Doral",
+      "@type": "City"
+    }
+  ],
+  "description": "Step 1: Define Your Criteria and Budget – This is where you clarify what you're looking for in a home and secure your jumbo loan prequalification. Kelby helps you define your priorities and ensures yo"
+}

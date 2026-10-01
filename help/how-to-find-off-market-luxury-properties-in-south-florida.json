@@ -1,0 +1,197 @@
+{
+  "name": "How to Find Off-Market Luxury Properties in South Florida",
+  "step": [
+    {
+      "name": "Step 1: Define Your Specific Needs and Priorities – Before anything else, clarify exactly what you're looking for. What are your non-negotiables for location (Miami-Dade, Broward, Palm Beach County?), property type (waterfront, penthouse, new construction?), and lifestyle? Understanding your priorities helps your agent narrow down confidential opportunities that truly fit.",
+      "text": "Step 1: Define Your Specific Needs and Priorities – Before anything else, clarify exactly what you're looking for. What are your non-negotiables for location (Miami-Dade, Broward, Palm Beach County?), property type (waterfront, penthouse, new construction?), and lifestyle? Understanding your priorities helps your agent narrow down confidential opportunities that truly fit.",
+      "@type": "HowToStep",
+      "position": 1
+    },
+    {
+      "name": "Step 2: Secure Your Financing or Proof of Funds – For off-market properties, sellers and agents often require proof that you're a serious and capable buyer. Having your financing pre-approved or proof of funds readily available can open doors to exclusive listings. This shows you're ready to move quickly when the right opportunity arises.",
+      "text": "Step 2: Secure Your Financing or Proof of Funds – For off-market properties, sellers and agents often require proof that you're a serious and capable buyer. Having your financing pre-approved or proof of funds readily available can open doors to exclusive listings. This shows you're ready to move quickly when the right opportunity arises.",
+      "@type": "HowToStep",
+      "position": 2
+    },
+    {
+      "name": "Step 3: Partner with a Specialist in Discreet Transactions – This is perhaps the most crucial step. You need an agent with deep local market knowledge and a strong network capable of accessing unlisted properties. Kelby Contreras, for instance, specializes in confidential off-market transactions and has the relationships to identify properties that aren't publicly advertised. They'll be your direct point of contact, ensuring personal accountability.",
+      "text": "Step 3: Partner with a Specialist in Discreet Transactions – This is perhaps the most crucial step. You need an agent with deep local market knowledge and a strong network capable of accessing unlisted properties. Kelby Contreras, for instance, specializes in confidential off-market transactions and has the relationships to identify properties that aren't publicly advertised. They'll be your direct point of contact, ensuring personal accountability.",
+      "@type": "HowToStep",
+      "position": 3
+    },
+    {
+      "name": "Step 4: Conduct Confidential Viewings and Due Diligence – Once potential properties are identified, your agent will arrange confidential viewings. These are often managed with strict privacy. If you move forward, coordinate thorough inspections and title searches with specialists. Given the value of these properties, comprehensive due diligence is non-negotiable. Don't waive inspections without understanding the risks.",
+      "text": "Step 4: Conduct Confidential Viewings and Due Diligence – Once potential properties are identified, your agent will arrange confidential viewings. These are often managed with strict privacy. If you move forward, coordinate thorough inspections and title searches with specialists. Given the value of these properties, comprehensive due diligence is non-negotiable. Don't waive inspections without understanding the risks.",
+      "@type": "HowToStep",
+      "position": 4
+    },
+    {
+      "name": "Step 5: Prepare and Negotiate a Strategic Offer – Your agent will help analyze market data and ownership costs to prepare a competitive yet strategic offer. Negotiation for off-market properties often involves unique dynamics, and a skilled negotiator is essential. They'll coordinate inspections, appraisal, title work, and contingencies right through to closing. Ready to explore the hidden gems of South Florida's luxury market? Connect with Kelby Contreras for a private consultation tailored to your buying needs.",
+      "text": "Step 5: Prepare and Negotiate a Strategic Offer – Your agent will help analyze market data and ownership costs to prepare a competitive yet strategic offer. Negotiation for off-market properties often involves unique dynamics, and a skilled negotiator is essential. They'll coordinate inspections, appraisal, title work, and contingencies right through to closing. Ready to explore the hidden gems of South Florida's luxury market? Connect with Kelby Contreras for a private consultation tailored to your buying needs.",
+      "@type": "HowToStep",
+      "position": 5
+    }
+  ],
+  "@type": "HowTo",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".howto-step",
+      "[itemprop=\"step\"]"
+    ]
+  },
+  "totalTime": "PT30M",
+  "areaServed": [
+    {
+      "name": "Miami-Dade County",
+      "@type": "AdministrativeArea"
+    },
+    {
+      "name": "Broward County",
+      "@type": "AdministrativeArea"
+    },
+    {
+      "name": "Palm Beach County",
+      "@type": "AdministrativeArea"
+    },
+    {
+      "name": "Collier County",
+      "@type": "AdministrativeArea"
+    },
+    {
+      "name": "Orange County",
+      "@type": "AdministrativeArea"
+    },
+    {
+      "name": "Aventura",
+      "@type": "City"
+    },
+    {
+      "name": "Bal Harbour",
+      "@type": "City"
+    },
+    {
+      "name": "Bay Harbor Islands",
+      "@type": "City"
+    },
+    {
+      "name": "Boca Raton",
+      "@type": "City"
+    },
+    {
+      "name": "Brickell",
+      "@type": "City"
+    },
+    {
+      "name": "Brickell Key",
+      "@type": "City"
+    },
+    {
+      "name": "Coconut Grove",
+      "@type": "City"
+    },
+    {
+      "name": "Coral Gables",
+      "@type": "City"
+    },
+    {
+      "name": "Downtown Miami",
+      "@type": "City"
+    },
+    {
+      "name": "Edgewater",
+      "@type": "City"
+    },
+    {
+      "name": "Fisher Island",
+      "@type": "City"
+    },
+    {
+      "name": "Fort Lauderdale Beach",
+      "@type": "City"
+    },
+    {
+      "name": "Hallandale Beach",
+      "@type": "City"
+    },
+    {
+      "name": "Highland Beach",
+      "@type": "City"
+    },
+    {
+      "name": "Hollywood Beach",
+      "@type": "City"
+    },
+    {
+      "name": "Key Biscayne",
+      "@type": "City"
+    },
+    {
+      "name": "Las Olas",
+      "@type": "City"
+    },
+    {
+      "name": "Miami Beach",
+      "@type": "City"
+    },
+    {
+      "name": "Midtown/Wynwood",
+      "@type": "City"
+    },
+    {
+      "name": "North Bay Village",
+      "@type": "City"
+    },
+    {
+      "name": "Pinecrest",
+      "@type": "City"
+    },
+    {
+      "name": "Pompano Beach",
+      "@type": "City"
+    },
+    {
+      "name": "South Beach",
+      "@type": "City"
+    },
+    {
+      "name": "Sunny Isles Beach",
+      "@type": "City"
+    },
+    {
+      "name": "Surfside",
+      "@type": "City"
+    },
+    {
+      "name": "West Palm Beach",
+      "@type": "City"
+    },
+    {
+      "name": "Williams Island",
+      "@type": "City"
+    },
+    {
+      "name": "Miami",
+      "@type": "City"
+    },
+    {
+      "name": "Fort Lauderdale",
+      "@type": "City"
+    },
+    {
+      "name": "Palm Beach",
+      "@type": "City"
+    },
+    {
+      "name": "Delray Beach",
+      "@type": "City"
+    },
+    {
+      "name": "Doral",
+      "@type": "City"
+    }
+  ],
+  "description": "Step 1: Define Your Specific Needs and Priorities – Before anything else, clarify exactly what you're looking for. What are your non-negotiables for location (Miami-Dade, Broward, Palm Beach County?),"
+}

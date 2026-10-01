@@ -1,0 +1,203 @@
+{
+  "name": "How to Prepare Your Luxury Property for Virtual Tour Capture",
+  "step": [
+    {
+      "name": "Step 1: Declutter and Depersonalize — Clear away all personal items, excess decor, and everyday clutter. This includes family photos, mail, charging cables, and anything that might make the space feel less open or less appealing to a wide audience. The goal is for buyers to envision themselves living there, not you.",
+      "text": "Step 1: Declutter and Depersonalize — Clear away all personal items, excess decor, and everyday clutter. This includes family photos, mail, charging cables, and anything that might make the space feel less open or less appealing to a wide audience. The goal is for buyers to envision themselves living there, not you.",
+      "@type": "HowToStep",
+      "position": 1
+    },
+    {
+      "name": "Step 2: Deep Clean Every Surface — Every corner, surface, and window should sparkle. Dust, smudges, and dirt are easily picked up by high-resolution cameras. Pay special attention to kitchens and bathrooms, ensuring counters are clear, appliances gleam, and mirrors are spotless.",
+      "text": "Step 2: Deep Clean Every Surface — Every corner, surface, and window should sparkle. Dust, smudges, and dirt are easily picked up by high-resolution cameras. Pay special attention to kitchens and bathrooms, ensuring counters are clear, appliances gleam, and mirrors are spotless.",
+      "@type": "HowToStep",
+      "position": 2
+    },
+    {
+      "name": "Step 3: Stage for Success — Arrange furniture thoughtfully to optimize traffic flow and highlight key features. Fluff pillows, straighten rugs, and ensure all art is hung evenly. Professional staging can make a huge difference, making rooms feel inviting and elegant.",
+      "text": "Step 3: Stage for Success — Arrange furniture thoughtfully to optimize traffic flow and highlight key features. Fluff pillows, straighten rugs, and ensure all art is hung evenly. Professional staging can make a huge difference, making rooms feel inviting and elegant.",
+      "@type": "HowToStep",
+      "position": 3
+    },
+    {
+      "name": "Step 4: Optimize Lighting — Turn on all lights, including lamps, and open all blinds and curtains to maximize natural light. Ensure lightbulbs are consistent in color temperature throughout the home to avoid uneven lighting. Good lighting makes spaces feel larger and more welcoming.",
+      "text": "Step 4: Optimize Lighting — Turn on all lights, including lamps, and open all blinds and curtains to maximize natural light. Ensure lightbulbs are consistent in color temperature throughout the home to avoid uneven lighting. Good lighting makes spaces feel larger and more welcoming.",
+      "@type": "HowToStep",
+      "position": 4
+    },
+    {
+      "name": "Step 5: Secure Pets and Valuables — Ensure all pets are out of the house during the capture appointment. Secure any valuables or sensitive documents. You want the capture process to be smooth and uninterrupted, and privacy is paramount in luxury listings.",
+      "text": "Step 5: Secure Pets and Valuables — Ensure all pets are out of the house during the capture appointment. Secure any valuables or sensitive documents. You want the capture process to be smooth and uninterrupted, and privacy is paramount in luxury listings.",
+      "@type": "HowToStep",
+      "position": 5
+    },
+    {
+      "name": "Step 6: Address Exterior Spaces — Don't forget the outside! Mow the lawn, trim hedges, clear pathways, and remove any garden tools or toys. Exterior shots are often part of a comprehensive virtual tour, especially for properties with significant outdoor living areas.",
+      "text": "By following these steps, you're not just preparing for a photoshoot; you're crafting an irresistible first impression. This careful preparation guarantees that your luxury property's virtual tour truly stands out and captivates discerning buyers. If you're ready to get your property perfectly positioned, let's talk about enhancing your listing's virtual presence.",
+      "@type": "HowToStep",
+      "position": 6
+    }
+  ],
+  "@type": "HowTo",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".howto-step",
+      "[itemprop=\"step\"]"
+    ]
+  },
+  "totalTime": "PT30M",
+  "areaServed": [
+    {
+      "name": "Miami-Dade County",
+      "@type": "AdministrativeArea"
+    },
+    {
+      "name": "Broward County",
+      "@type": "AdministrativeArea"
+    },
+    {
+      "name": "Palm Beach County",
+      "@type": "AdministrativeArea"
+    },
+    {
+      "name": "Collier County",
+      "@type": "AdministrativeArea"
+    },
+    {
+      "name": "Orange County",
+      "@type": "AdministrativeArea"
+    },
+    {
+      "name": "Aventura",
+      "@type": "City"
+    },
+    {
+      "name": "Bal Harbour",
+      "@type": "City"
+    },
+    {
+      "name": "Bay Harbor Islands",
+      "@type": "City"
+    },
+    {
+      "name": "Boca Raton",
+      "@type": "City"
+    },
+    {
+      "name": "Brickell",
+      "@type": "City"
+    },
+    {
+      "name": "Brickell Key",
+      "@type": "City"
+    },
+    {
+      "name": "Coconut Grove",
+      "@type": "City"
+    },
+    {
+      "name": "Coral Gables",
+      "@type": "City"
+    },
+    {
+      "name": "Downtown Miami",
+      "@type": "City"
+    },
+    {
+      "name": "Edgewater",
+      "@type": "City"
+    },
+    {
+      "name": "Fisher Island",
+      "@type": "City"
+    },
+    {
+      "name": "Fort Lauderdale Beach",
+      "@type": "City"
+    },
+    {
+      "name": "Hallandale Beach",
+      "@type": "City"
+    },
+    {
+      "name": "Highland Beach",
+      "@type": "City"
+    },
+    {
+      "name": "Hollywood Beach",
+      "@type": "City"
+    },
+    {
+      "name": "Key Biscayne",
+      "@type": "City"
+    },
+    {
+      "name": "Las Olas",
+      "@type": "City"
+    },
+    {
+      "name": "Miami Beach",
+      "@type": "City"
+    },
+    {
+      "name": "Midtown/Wynwood",
+      "@type": "City"
+    },
+    {
+      "name": "North Bay Village",
+      "@type": "City"
+    },
+    {
+      "name": "Pinecrest",
+      "@type": "City"
+    },
+    {
+      "name": "Pompano Beach",
+      "@type": "City"
+    },
+    {
+      "name": "South Beach",
+      "@type": "City"
+    },
+    {
+      "name": "Sunny Isles Beach",
+      "@type": "City"
+    },
+    {
+      "name": "Surfside",
+      "@type": "City"
+    },
+    {
+      "name": "West Palm Beach",
+      "@type": "City"
+    },
+    {
+      "name": "Williams Island",
+      "@type": "City"
+    },
+    {
+      "name": "Miami",
+      "@type": "City"
+    },
+    {
+      "name": "Fort Lauderdale",
+      "@type": "City"
+    },
+    {
+      "name": "Palm Beach",
+      "@type": "City"
+    },
+    {
+      "name": "Delray Beach",
+      "@type": "City"
+    },
+    {
+      "name": "Doral",
+      "@type": "City"
+    }
+  ],
+  "description": "Step 1: Declutter and Depersonalize — Clear away all personal items, excess decor, and everyday clutter. This includes family photos, mail, charging cables, and anything that might make the space feel"
+}

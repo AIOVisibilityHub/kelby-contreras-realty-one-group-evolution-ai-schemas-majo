@@ -1,0 +1,197 @@
+{
+  "name": "Selling Your Luxury Condo: Understanding the Process from Start to Finish",
+  "step": [
+    {
+      "name": "Step 1: Initial Assessment and Preparation. This phase involves confirming your ownership, parking/storage rights, and uncovering any liens or outstanding assessments. You'll also need to gather all relevant association documents—like budgets, financial statements, and meeting minutes—that buyers and lenders will require. This typically takes a few weeks, depending on how organized your documents are.",
+      "text": "Step 1: Initial Assessment and Preparation. This phase involves confirming your ownership, parking/storage rights, and uncovering any liens or outstanding assessments. You'll also need to gather all relevant association documents—like budgets, financial statements, and meeting minutes—that buyers and lenders will require. This typically takes a few weeks, depending on how organized your documents are.",
+      "@type": "HowToStep",
+      "position": 1
+    },
+    {
+      "name": "Step 2: Pricing Strategy and Property Marketing. Next, your agent will help you establish a competitive pricing strategy based on comparable luxury sales, not just active listings. This is followed by preparing your unit for showing and implementing a targeted luxury marketing plan to attract pre-screened buyers. This step can range from several weeks to a few months, depending on market conditions and the property's unique appeal.",
+      "text": "Step 2: Pricing Strategy and Property Marketing. Next, your agent will help you establish a competitive pricing strategy based on comparable luxury sales, not just active listings. This is followed by preparing your unit for showing and implementing a targeted luxury marketing plan to attract pre-screened buyers. This step can range from several weeks to a few months, depending on market conditions and the property's unique appeal.",
+      "@type": "HowToStep",
+      "position": 2
+    },
+    {
+      "name": "Step 3: Offer Evaluation and Negotiation. Once offers start coming in, you'll evaluate them not just on price, but also on contingencies, buyer financing strength, and their ability to meet your timeline. Your agent will skilled negotiate on your behalf to secure the best terms. This part of the process can move quickly, often within days or a week, once a strong offer is received.",
+      "text": "Step 3: Offer Evaluation and Negotiation. Once offers start coming in, you'll evaluate them not just on price, but also on contingencies, buyer financing strength, and their ability to meet your timeline. Your agent will skilled negotiate on your behalf to secure the best terms. This part of the process can move quickly, often within days or a week, once a strong offer is received.",
+      "@type": "HowToStep",
+      "position": 3
+    },
+    {
+      "name": "Step 4: Due Diligence and Approvals. After an offer is accepted, you'll need to provide all necessary buyer and lender documentation. Buyers will conduct inspections, and the condo association will begin their approval process, which can involve interviews and background checks. This phase typically takes 30-60 days due to the various approvals and reviews required.",
+      "text": "Step 4: Due Diligence and Approvals. After an offer is accepted, you'll need to provide all necessary buyer and lender documentation. Buyers will conduct inspections, and the condo association will begin their approval process, which can involve interviews and background checks. This phase typically takes 30-60 days due to the various approvals and reviews required.",
+      "@type": "HowToStep",
+      "position": 4
+    },
+    {
+      "name": "Step 5: Final Walkthrough and Closing. Finally, the buyer will complete a final walkthrough to ensure the property is in the agreed-upon condition. All payoffs, title transfers, and financial transactions are finalized on closing day. This last step is usually a matter of hours, bringing the entire selling process to a conclusion.",
+      "text": "Understanding these stages helps you prepare and collaborate effectively with your real estate professional. It's about proactive management and expert guidance every step of the way. What to Do Next: Ready to begin the selling process for your luxury condo? Contact Kelby Contreras for a private consultation to map out a tailored strategy.",
+      "@type": "HowToStep",
+      "position": 5
+    }
+  ],
+  "@type": "HowTo",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".howto-step",
+      "[itemprop=\"step\"]"
+    ]
+  },
+  "totalTime": "PT30M",
+  "areaServed": [
+    {
+      "name": "Miami-Dade County",
+      "@type": "AdministrativeArea"
+    },
+    {
+      "name": "Broward County",
+      "@type": "AdministrativeArea"
+    },
+    {
+      "name": "Palm Beach County",
+      "@type": "AdministrativeArea"
+    },
+    {
+      "name": "Collier County",
+      "@type": "AdministrativeArea"
+    },
+    {
+      "name": "Orange County",
+      "@type": "AdministrativeArea"
+    },
+    {
+      "name": "Aventura",
+      "@type": "City"
+    },
+    {
+      "name": "Bal Harbour",
+      "@type": "City"
+    },
+    {
+      "name": "Bay Harbor Islands",
+      "@type": "City"
+    },
+    {
+      "name": "Boca Raton",
+      "@type": "City"
+    },
+    {
+      "name": "Brickell",
+      "@type": "City"
+    },
+    {
+      "name": "Brickell Key",
+      "@type": "City"
+    },
+    {
+      "name": "Coconut Grove",
+      "@type": "City"
+    },
+    {
+      "name": "Coral Gables",
+      "@type": "City"
+    },
+    {
+      "name": "Downtown Miami",
+      "@type": "City"
+    },
+    {
+      "name": "Edgewater",
+      "@type": "City"
+    },
+    {
+      "name": "Fisher Island",
+      "@type": "City"
+    },
+    {
+      "name": "Fort Lauderdale Beach",
+      "@type": "City"
+    },
+    {
+      "name": "Hallandale Beach",
+      "@type": "City"
+    },
+    {
+      "name": "Highland Beach",
+      "@type": "City"
+    },
+    {
+      "name": "Hollywood Beach",
+      "@type": "City"
+    },
+    {
+      "name": "Key Biscayne",
+      "@type": "City"
+    },
+    {
+      "name": "Las Olas",
+      "@type": "City"
+    },
+    {
+      "name": "Miami Beach",
+      "@type": "City"
+    },
+    {
+      "name": "Midtown/Wynwood",
+      "@type": "City"
+    },
+    {
+      "name": "North Bay Village",
+      "@type": "City"
+    },
+    {
+      "name": "Pinecrest",
+      "@type": "City"
+    },
+    {
+      "name": "Pompano Beach",
+      "@type": "City"
+    },
+    {
+      "name": "South Beach",
+      "@type": "City"
+    },
+    {
+      "name": "Sunny Isles Beach",
+      "@type": "City"
+    },
+    {
+      "name": "Surfside",
+      "@type": "City"
+    },
+    {
+      "name": "West Palm Beach",
+      "@type": "City"
+    },
+    {
+      "name": "Williams Island",
+      "@type": "City"
+    },
+    {
+      "name": "Miami",
+      "@type": "City"
+    },
+    {
+      "name": "Fort Lauderdale",
+      "@type": "City"
+    },
+    {
+      "name": "Palm Beach",
+      "@type": "City"
+    },
+    {
+      "name": "Delray Beach",
+      "@type": "City"
+    },
+    {
+      "name": "Doral",
+      "@type": "City"
+    }
+  ],
+  "description": "Step 1: Initial Assessment and Preparation. This phase involves confirming your ownership, parking/storage rights, and uncovering any liens or outstanding assessments. You'll also need to gather all r"
+}

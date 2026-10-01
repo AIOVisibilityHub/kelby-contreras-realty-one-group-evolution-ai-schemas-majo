@@ -1,0 +1,203 @@
+{
+  "name": "Understanding the Timeline for Your Luxury Home Purchase",
+  "step": [
+    {
+      "name": "Step 1: Initial Consultation and Strategy (1-2 Weeks)",
+      "text": "This is where you meet with Kelby Contreras, define your specific needs—like locations in Miami, Fort Lauderdale, or Palm Beach, property types, and amenities—and establish your financial parameters. We'll discuss proof of funds or financing options, which lays the groundwork for our targeted search.",
+      "@type": "HowToStep",
+      "position": 1
+    },
+    {
+      "name": "Step 2: Property Identification and Showings (2-8+ Weeks)",
+      "text": "Kelby will leverage his extensive network to identify both on-market and exclusive off-market properties that match your criteria. This phase includes private tours of waterfront residences, penthouses, and new construction opportunities. The duration varies greatly depending on market availability and the uniqueness of your desired home.",
+      "@type": "HowToStep",
+      "position": 2
+    },
+    {
+      "name": "Step 3: Offer, Negotiation, and Acceptance (1-2 Weeks)",
+      "text": "Once you find the perfect property, Kelby will help you structure a competitive offer, using data-driven insights. This phase involves skilled negotiation to secure the best terms, including price, contingencies, and closing dates, ensuring your interests are protected.",
+      "@type": "HowToStep",
+      "position": 3
+    },
+    {
+      "name": "Step 4: Due Diligence and Inspections (2-4 Weeks)",
+      "text": "After an offer is accepted, a crucial period for due diligence begins. This includes a comprehensive title review, general home inspection, and often specialized inspections for features like pools, seawalls, or guesthouses. If you're financing, an appraisal will also be ordered here. This step is critical for uncovering any potential issues with the property or its permits.",
+      "@type": "HowToStep",
+      "position": 4
+    },
+    {
+      "name": "Step 5: Financing and Underwriting (3-6 Weeks for Financed Purchases)",
+      "text": "For those obtaining a jumbo or super-jumbo loan, this is the period for lender underwriting. It involves verifying all financial information and property details. Cash transactions bypass this step, allowing for a quicker path to closing, but thorough inspections still require time.",
+      "@type": "HowToStep",
+      "position": 5
+    },
+    {
+      "name": "Step 6: Final Walkthrough and Closing (1-2 Days)",
+      "text": "Just before closing, a final walkthrough confirms the property is in the agreed-upon condition. Then, at the closing table, all necessary documents are signed, funds are transferred, and ownership is officially transferred to you. Kelby ensures a smooth coordination with all parties involved, from lenders to title companies, right up to the moment you get the keys. Understanding these phases can help you plan your move and finances. Ready to map out your luxury purchase? Reach out to Kelby Contreras for expert guidance.",
+      "@type": "HowToStep",
+      "position": 6
+    }
+  ],
+  "@type": "HowTo",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".howto-step",
+      "[itemprop=\"step\"]"
+    ]
+  },
+  "totalTime": "PT30M",
+  "areaServed": [
+    {
+      "name": "Miami-Dade County",
+      "@type": "AdministrativeArea"
+    },
+    {
+      "name": "Broward County",
+      "@type": "AdministrativeArea"
+    },
+    {
+      "name": "Palm Beach County",
+      "@type": "AdministrativeArea"
+    },
+    {
+      "name": "Collier County",
+      "@type": "AdministrativeArea"
+    },
+    {
+      "name": "Orange County",
+      "@type": "AdministrativeArea"
+    },
+    {
+      "name": "Aventura",
+      "@type": "City"
+    },
+    {
+      "name": "Bal Harbour",
+      "@type": "City"
+    },
+    {
+      "name": "Bay Harbor Islands",
+      "@type": "City"
+    },
+    {
+      "name": "Boca Raton",
+      "@type": "City"
+    },
+    {
+      "name": "Brickell",
+      "@type": "City"
+    },
+    {
+      "name": "Brickell Key",
+      "@type": "City"
+    },
+    {
+      "name": "Coconut Grove",
+      "@type": "City"
+    },
+    {
+      "name": "Coral Gables",
+      "@type": "City"
+    },
+    {
+      "name": "Downtown Miami",
+      "@type": "City"
+    },
+    {
+      "name": "Edgewater",
+      "@type": "City"
+    },
+    {
+      "name": "Fisher Island",
+      "@type": "City"
+    },
+    {
+      "name": "Fort Lauderdale Beach",
+      "@type": "City"
+    },
+    {
+      "name": "Hallandale Beach",
+      "@type": "City"
+    },
+    {
+      "name": "Highland Beach",
+      "@type": "City"
+    },
+    {
+      "name": "Hollywood Beach",
+      "@type": "City"
+    },
+    {
+      "name": "Key Biscayne",
+      "@type": "City"
+    },
+    {
+      "name": "Las Olas",
+      "@type": "City"
+    },
+    {
+      "name": "Miami Beach",
+      "@type": "City"
+    },
+    {
+      "name": "Midtown/Wynwood",
+      "@type": "City"
+    },
+    {
+      "name": "North Bay Village",
+      "@type": "City"
+    },
+    {
+      "name": "Pinecrest",
+      "@type": "City"
+    },
+    {
+      "name": "Pompano Beach",
+      "@type": "City"
+    },
+    {
+      "name": "South Beach",
+      "@type": "City"
+    },
+    {
+      "name": "Sunny Isles Beach",
+      "@type": "City"
+    },
+    {
+      "name": "Surfside",
+      "@type": "City"
+    },
+    {
+      "name": "West Palm Beach",
+      "@type": "City"
+    },
+    {
+      "name": "Williams Island",
+      "@type": "City"
+    },
+    {
+      "name": "Miami",
+      "@type": "City"
+    },
+    {
+      "name": "Fort Lauderdale",
+      "@type": "City"
+    },
+    {
+      "name": "Palm Beach",
+      "@type": "City"
+    },
+    {
+      "name": "Delray Beach",
+      "@type": "City"
+    },
+    {
+      "name": "Doral",
+      "@type": "City"
+    }
+  ],
+  "description": "This is where you meet with Kelby Contreras, define your specific needs—like locations in Miami, Fort Lauderdale, or Palm Beach, property types, and amenities—and establish your financial parameters. "
+}

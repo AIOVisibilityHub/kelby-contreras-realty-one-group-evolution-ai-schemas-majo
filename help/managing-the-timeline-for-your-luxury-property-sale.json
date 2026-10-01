@@ -1,0 +1,197 @@
+{
+  "name": "Managing the Timeline for Your Luxury Property Sale",
+  "step": [
+    {
+      "name": "Step 1: Initial Consultation and Strategy Development",
+      "text": "This first phase involves meeting with your luxury real estate specialist to establish your property's positioning, set a pricing strategy, and decide on the marketing approach (public vs. private). It's also when you'll start gathering essential documents like surveys, permits, and maintenance records. This can take anywhere from a few days to a couple of weeks, depending on the property's uniqueness and your readiness. Your agent will help conduct a detailed comparative market analysis.",
+      "@type": "HowToStep",
+      "position": 1
+    },
+    {
+      "name": "Step 2: Property Preparation and Marketing Launch",
+      "text": "Once the strategy is set, focus on getting your property market-ready. This often includes minor repairs, staging, and professional photography and videography. After preparation, your property officially launches onto the market, whether through an exclusive off-market presentation or a broad public listing. This phase's duration varies greatly; preparation might take 1-3 weeks, and active marketing could range from several weeks to a few months, depending on market conditions and price.",
+      "@type": "HowToStep",
+      "position": 2
+    },
+    {
+      "name": "Step 3: Offer Evaluation and Negotiation",
+      "text": "As offers come in, you'll work with your agent to qualify and compare them, focusing not just on price but also on the buyer's financing strength, contingencies, and certainty of closing. Skilled negotiation is crucial here to achieve the best terms. This phase can be quick, sometimes just a few days, or extend longer if there are multiple offers or complex counter-negotiations. Your agent will ensure you're evaluating every aspect of each offer.",
+      "@type": "HowToStep",
+      "position": 3
+    },
+    {
+      "name": "Step 4: Due Diligence and Contingency Period",
+      "text": "Once an offer is accepted, the property enters the due diligence period, where the buyer conducts inspections, appraisals, and secures financing. This is often the most time-sensitive phase, with inspections typically occurring within 7-10 days and financed transactions often taking 30-45 days to close after contract execution. Sellers can reduce delays by having all property information, like permit records and specialist reports, prepared in advance.",
+      "@type": "HowToStep",
+      "position": 4
+    },
+    {
+      "name": "Step 5: Final Financing, Closing Document Review, and Walkthrough",
+      "text": "As closing approaches, the buyer finalizes their financing, and both parties review all closing documents. If the buyer is using mortgage financing, they must receive the Closing Disclosure at least three business days before closing. A final walkthrough is conducted just before closing to ensure the property condition is as agreed. This final stage usually takes a few days, culminating in the official transfer of ownership. Coordinating with lenders, title companies, and attorneys is key for a smooth finish. What to Do Next For expert guidance on managing your luxury property sale timeline in South Florida, schedule a private consultation with Kelby Contreras.",
+      "@type": "HowToStep",
+      "position": 5
+    }
+  ],
+  "@type": "HowTo",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".howto-step",
+      "[itemprop=\"step\"]"
+    ]
+  },
+  "totalTime": "PT30M",
+  "areaServed": [
+    {
+      "name": "Miami-Dade County",
+      "@type": "AdministrativeArea"
+    },
+    {
+      "name": "Broward County",
+      "@type": "AdministrativeArea"
+    },
+    {
+      "name": "Palm Beach County",
+      "@type": "AdministrativeArea"
+    },
+    {
+      "name": "Collier County",
+      "@type": "AdministrativeArea"
+    },
+    {
+      "name": "Orange County",
+      "@type": "AdministrativeArea"
+    },
+    {
+      "name": "Aventura",
+      "@type": "City"
+    },
+    {
+      "name": "Bal Harbour",
+      "@type": "City"
+    },
+    {
+      "name": "Bay Harbor Islands",
+      "@type": "City"
+    },
+    {
+      "name": "Boca Raton",
+      "@type": "City"
+    },
+    {
+      "name": "Brickell",
+      "@type": "City"
+    },
+    {
+      "name": "Brickell Key",
+      "@type": "City"
+    },
+    {
+      "name": "Coconut Grove",
+      "@type": "City"
+    },
+    {
+      "name": "Coral Gables",
+      "@type": "City"
+    },
+    {
+      "name": "Downtown Miami",
+      "@type": "City"
+    },
+    {
+      "name": "Edgewater",
+      "@type": "City"
+    },
+    {
+      "name": "Fisher Island",
+      "@type": "City"
+    },
+    {
+      "name": "Fort Lauderdale Beach",
+      "@type": "City"
+    },
+    {
+      "name": "Hallandale Beach",
+      "@type": "City"
+    },
+    {
+      "name": "Highland Beach",
+      "@type": "City"
+    },
+    {
+      "name": "Hollywood Beach",
+      "@type": "City"
+    },
+    {
+      "name": "Key Biscayne",
+      "@type": "City"
+    },
+    {
+      "name": "Las Olas",
+      "@type": "City"
+    },
+    {
+      "name": "Miami Beach",
+      "@type": "City"
+    },
+    {
+      "name": "Midtown/Wynwood",
+      "@type": "City"
+    },
+    {
+      "name": "North Bay Village",
+      "@type": "City"
+    },
+    {
+      "name": "Pinecrest",
+      "@type": "City"
+    },
+    {
+      "name": "Pompano Beach",
+      "@type": "City"
+    },
+    {
+      "name": "South Beach",
+      "@type": "City"
+    },
+    {
+      "name": "Sunny Isles Beach",
+      "@type": "City"
+    },
+    {
+      "name": "Surfside",
+      "@type": "City"
+    },
+    {
+      "name": "West Palm Beach",
+      "@type": "City"
+    },
+    {
+      "name": "Williams Island",
+      "@type": "City"
+    },
+    {
+      "name": "Miami",
+      "@type": "City"
+    },
+    {
+      "name": "Fort Lauderdale",
+      "@type": "City"
+    },
+    {
+      "name": "Palm Beach",
+      "@type": "City"
+    },
+    {
+      "name": "Delray Beach",
+      "@type": "City"
+    },
+    {
+      "name": "Doral",
+      "@type": "City"
+    }
+  ],
+  "description": "This first phase involves meeting with your luxury real estate specialist to establish your property's positioning, set a pricing strategy, and decide on the marketing approach (public vs. private). I"
+}

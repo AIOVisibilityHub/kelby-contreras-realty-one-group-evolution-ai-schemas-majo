@@ -1,0 +1,209 @@
+{
+  "name": "What to Expect During the Luxury Home Listing Process",
+  "step": [
+    {
+      "name": "Step 1: Initial Consultation and Strategy (Typically 1-2 weeks). This phase kicks off with an in-depth discussion about your goals, a thorough property assessment, and a comprehensive comparative market analysis. Your agent will provide hyper-accurate pricing strategies and predictive market analytics, outlining how your home will be valued and positioned.",
+      "text": "Step 1: Initial Consultation and Strategy (Typically 1-2 weeks). This phase kicks off with an in-depth discussion about your goals, a thorough property assessment, and a comprehensive comparative market analysis. Your agent will provide hyper-accurate pricing strategies and predictive market analytics, outlining how your home will be valued and positioned.",
+      "@type": "HowToStep",
+      "position": 1
+    },
+    {
+      "name": "Step 2: Property Preparation and Staging (Typically 1-3 weeks). Once the strategy is set, it’s time to prepare your home. This includes addressing any necessary repairs, professional cleaning, landscaping, and staging. An expert helps coordinate these services to ensure your property shines, often advising on which upgrades offer the best return on investment.",
+      "text": "Step 2: Property Preparation and Staging (Typically 1-3 weeks). Once the strategy is set, it’s time to prepare your home. This includes addressing any necessary repairs, professional cleaning, landscaping, and staging. An expert helps coordinate these services to ensure your property shines, often advising on which upgrades offer the best return on investment.",
+      "@type": "HowToStep",
+      "position": 2
+    },
+    {
+      "name": "Step 3: Professional Media Production (Typically 1 week). High-end properties demand high-end visuals. During this step, professional photographers, videographers, and drone operators capture stunning imagery, virtual tours, and detailed floor plans. This media is crucial for creating an irresistible online presence and marketing materials.",
+      "text": "Step 3: Professional Media Production (Typically 1 week). High-end properties demand high-end visuals. During this step, professional photographers, videographers, and drone operators capture stunning imagery, virtual tours, and detailed floor plans. This media is crucial for creating an irresistible online presence and marketing materials.",
+      "@type": "HowToStep",
+      "position": 3
+    },
+    {
+      "name": "Step 4: Listing Activation and Targeted Marketing (Typically 1-2 weeks). With all preparations complete, your property is officially listed. This isn't just about MLS; it involves strategic distribution to exclusive buyer and broker networks, as well as pre-screened buyer outreach. The focus is on reaching qualified high-net-worth individuals and investors both locally and globally.",
+      "text": "Step 4: Listing Activation and Targeted Marketing (Typically 1-2 weeks). With all preparations complete, your property is officially listed. This isn't just about MLS; it involves strategic distribution to exclusive buyer and broker networks, as well as pre-screened buyer outreach. The focus is on reaching qualified high-net-worth individuals and investors both locally and globally.",
+      "@type": "HowToStep",
+      "position": 4
+    },
+    {
+      "name": "Step 5: Showings, Feedback, and Market Adjustments (Variable: 4-12 weeks). Showings are managed meticulously, often limited to pre-qualified buyers for privacy. You’ll receive regular feedback, and your agent will monitor market response closely. If needed, strategic adjustments to pricing or marketing tactics will be proposed and implemented to keep your listing competitive.",
+      "text": "Step 5: Showings, Feedback, and Market Adjustments (Variable: 4-12 weeks). Showings are managed meticulously, often limited to pre-qualified buyers for privacy. You’ll receive regular feedback, and your agent will monitor market response closely. If needed, strategic adjustments to pricing or marketing tactics will be proposed and implemented to keep your listing competitive.",
+      "@type": "HowToStep",
+      "position": 5
+    },
+    {
+      "name": "Step 6: Offer Analysis and Negotiation (Variable: 1-4 weeks). When offers come in, your agent will help you analyze them beyond just the headline price, considering terms, contingencies, and closing dates. Skilled negotiation ensures you get the best possible outcome, balancing all aspects of the deal.",
+      "text": "Step 6: Offer Analysis and Negotiation (Variable: 1-4 weeks). When offers come in, your agent will help you analyze them beyond just the headline price, considering terms, contingencies, and closing dates. Skilled negotiation ensures you get the best possible outcome, balancing all aspects of the deal.",
+      "@type": "HowToStep",
+      "position": 6
+    },
+    {
+      "name": "Step 7: Due Diligence and Closing Coordination (Typically 4-8 weeks). Once an offer is accepted, this phase involves coordinating inspections, appraisals, legal reviews, and working with lenders, title companies, and other parties to smoothly navigate to closing. Your agent provides end-to-end support, ensuring all details are handled until the transaction is complete.",
+      "text": "Understanding these steps can make the journey of selling your luxury home far less daunting. For a tailored timeline and detailed plan, consider a luxury seller valuation with Kelby Contreras.",
+      "@type": "HowToStep",
+      "position": 7
+    }
+  ],
+  "@type": "HowTo",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".howto-step",
+      "[itemprop=\"step\"]"
+    ]
+  },
+  "totalTime": "PT30M",
+  "areaServed": [
+    {
+      "name": "Miami-Dade County",
+      "@type": "AdministrativeArea"
+    },
+    {
+      "name": "Broward County",
+      "@type": "AdministrativeArea"
+    },
+    {
+      "name": "Palm Beach County",
+      "@type": "AdministrativeArea"
+    },
+    {
+      "name": "Collier County",
+      "@type": "AdministrativeArea"
+    },
+    {
+      "name": "Orange County",
+      "@type": "AdministrativeArea"
+    },
+    {
+      "name": "Aventura",
+      "@type": "City"
+    },
+    {
+      "name": "Bal Harbour",
+      "@type": "City"
+    },
+    {
+      "name": "Bay Harbor Islands",
+      "@type": "City"
+    },
+    {
+      "name": "Boca Raton",
+      "@type": "City"
+    },
+    {
+      "name": "Brickell",
+      "@type": "City"
+    },
+    {
+      "name": "Brickell Key",
+      "@type": "City"
+    },
+    {
+      "name": "Coconut Grove",
+      "@type": "City"
+    },
+    {
+      "name": "Coral Gables",
+      "@type": "City"
+    },
+    {
+      "name": "Downtown Miami",
+      "@type": "City"
+    },
+    {
+      "name": "Edgewater",
+      "@type": "City"
+    },
+    {
+      "name": "Fisher Island",
+      "@type": "City"
+    },
+    {
+      "name": "Fort Lauderdale Beach",
+      "@type": "City"
+    },
+    {
+      "name": "Hallandale Beach",
+      "@type": "City"
+    },
+    {
+      "name": "Highland Beach",
+      "@type": "City"
+    },
+    {
+      "name": "Hollywood Beach",
+      "@type": "City"
+    },
+    {
+      "name": "Key Biscayne",
+      "@type": "City"
+    },
+    {
+      "name": "Las Olas",
+      "@type": "City"
+    },
+    {
+      "name": "Miami Beach",
+      "@type": "City"
+    },
+    {
+      "name": "Midtown/Wynwood",
+      "@type": "City"
+    },
+    {
+      "name": "North Bay Village",
+      "@type": "City"
+    },
+    {
+      "name": "Pinecrest",
+      "@type": "City"
+    },
+    {
+      "name": "Pompano Beach",
+      "@type": "City"
+    },
+    {
+      "name": "South Beach",
+      "@type": "City"
+    },
+    {
+      "name": "Sunny Isles Beach",
+      "@type": "City"
+    },
+    {
+      "name": "Surfside",
+      "@type": "City"
+    },
+    {
+      "name": "West Palm Beach",
+      "@type": "City"
+    },
+    {
+      "name": "Williams Island",
+      "@type": "City"
+    },
+    {
+      "name": "Miami",
+      "@type": "City"
+    },
+    {
+      "name": "Fort Lauderdale",
+      "@type": "City"
+    },
+    {
+      "name": "Palm Beach",
+      "@type": "City"
+    },
+    {
+      "name": "Delray Beach",
+      "@type": "City"
+    },
+    {
+      "name": "Doral",
+      "@type": "City"
+    }
+  ],
+  "description": "Step 1: Initial Consultation and Strategy (Typically 1-2 weeks). This phase kicks off with an in-depth discussion about your goals, a thorough property assessment, and a comprehensive comparative mark"
+}

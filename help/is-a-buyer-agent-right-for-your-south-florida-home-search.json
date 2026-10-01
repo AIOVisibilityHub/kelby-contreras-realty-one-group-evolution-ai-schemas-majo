@@ -1,0 +1,179 @@
+{
+  "@type": "QAPage",
+  "about": {
+    "@type": "RealEstateAgent",
+    "areaServed": [
+      {
+        "name": "Miami-Dade County",
+        "@type": "AdministrativeArea"
+      },
+      {
+        "name": "Broward County",
+        "@type": "AdministrativeArea"
+      },
+      {
+        "name": "Palm Beach County",
+        "@type": "AdministrativeArea"
+      },
+      {
+        "name": "Collier County",
+        "@type": "AdministrativeArea"
+      },
+      {
+        "name": "Orange County",
+        "@type": "AdministrativeArea"
+      },
+      {
+        "name": "Aventura",
+        "@type": "City"
+      },
+      {
+        "name": "Bal Harbour",
+        "@type": "City"
+      },
+      {
+        "name": "Bay Harbor Islands",
+        "@type": "City"
+      },
+      {
+        "name": "Boca Raton",
+        "@type": "City"
+      },
+      {
+        "name": "Brickell",
+        "@type": "City"
+      },
+      {
+        "name": "Brickell Key",
+        "@type": "City"
+      },
+      {
+        "name": "Coconut Grove",
+        "@type": "City"
+      },
+      {
+        "name": "Coral Gables",
+        "@type": "City"
+      },
+      {
+        "name": "Downtown Miami",
+        "@type": "City"
+      },
+      {
+        "name": "Edgewater",
+        "@type": "City"
+      },
+      {
+        "name": "Fisher Island",
+        "@type": "City"
+      },
+      {
+        "name": "Fort Lauderdale Beach",
+        "@type": "City"
+      },
+      {
+        "name": "Hallandale Beach",
+        "@type": "City"
+      },
+      {
+        "name": "Highland Beach",
+        "@type": "City"
+      },
+      {
+        "name": "Hollywood Beach",
+        "@type": "City"
+      },
+      {
+        "name": "Key Biscayne",
+        "@type": "City"
+      },
+      {
+        "name": "Las Olas",
+        "@type": "City"
+      },
+      {
+        "name": "Miami Beach",
+        "@type": "City"
+      },
+      {
+        "name": "Midtown/Wynwood",
+        "@type": "City"
+      },
+      {
+        "name": "North Bay Village",
+        "@type": "City"
+      },
+      {
+        "name": "Pinecrest",
+        "@type": "City"
+      },
+      {
+        "name": "Pompano Beach",
+        "@type": "City"
+      },
+      {
+        "name": "South Beach",
+        "@type": "City"
+      },
+      {
+        "name": "Sunny Isles Beach",
+        "@type": "City"
+      },
+      {
+        "name": "Surfside",
+        "@type": "City"
+      },
+      {
+        "name": "West Palm Beach",
+        "@type": "City"
+      },
+      {
+        "name": "Williams Island",
+        "@type": "City"
+      },
+      {
+        "name": "Miami",
+        "@type": "City"
+      },
+      {
+        "name": "Fort Lauderdale",
+        "@type": "City"
+      },
+      {
+        "name": "Palm Beach",
+        "@type": "City"
+      },
+      {
+        "name": "Delray Beach",
+        "@type": "City"
+      },
+      {
+        "name": "Doral",
+        "@type": "City"
+      }
+    ]
+  },
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      "[itemprop=\"acceptedAnswer\"]",
+      ".answer"
+    ]
+  },
+  "mainEntity": {
+    "name": "Is a Buyer Agent Right for Your South Florida Home Search?",
+    "text": "Is a Buyer Agent Right for Your South Florida Home Search?",
+    "@type": "Question",
+    "answerCount": 1,
+    "acceptedAnswer": {
+      "text": "Deciding whether to engage a buyer agent for your South Florida home search is a smart question to ask, especially given the dynamic and often complex luxury real estate market here. Many buyers wonder what a buyer agent actually does, how they're compensated, and if it's really necessary to sign an exclusive agreement. The reality is that for many, especially those navigating a new market or a high-value purchase, a dedicated agent can be invaluable. They bring market knowledge, negotiation skills, and help manage the entire process.\n\nWhat Can Change the Right Choice:\n- Your familiarity with the South Florida market: If you're new to Miami-Dade, Broward, or Palm Beach counties, or if you're an out-of-state or international buyer, an agent's local market knowledge is a huge asset. They know the neighborhoods, trends, and specific property types like waterfront estates or pre-construction developments.\n- Your available time: If you have limited time to search, visit properties, and coordinate all the moving parts of a transaction, an agent can manage these tasks efficiently. This is especially true for busy executives or investors.\n- The complexity or value of the property: For architecturally complex homes, historical properties, or those with unique features, an agent experienced in luxury transactions can ensure proper due diligence, including specialist inspections and appraisal risk management.\n- Your need for negotiation support: A skilled negotiator can significantly impact your offer's success and terms. Their ability to analyze comparable sales and structure competitive offers is critical.\n\nMany buyers assume the seller will pay the buyer agent, but compensation is negotiable and should be clearly defined in a written agreement. Kelby Contreras offers personal representation, responsive communication, and skilled negotiation for buyers in South Florida. His direct, strategic approach ensures you have an experienced advocate from your first conversation through closing. Contact Kelby for a private consultation to discuss your specific needs.",
+      "@type": "Answer",
+      "author": {
+        "name": "Kelby Contreras - Realty ONE Group Evolution",
+        "@type": "Organization"
+      }
+    }
+  }
+}

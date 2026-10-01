@@ -1,0 +1,209 @@
+{
+  "name": "How to Get Your South Florida Luxury Home Ready for Sale",
+  "step": [
+    {
+      "name": "Step 1: Property Assessment and Documentation Review (1-2 Weeks)",
+      "text": "Before anything else, Kelby Contreras will conduct a thorough assessment of your property. We'll identify any potential issues that could arise during buyer due diligence, such as unpermitted additions or maintenance concerns. Gather all relevant documents like renovation permits, service records for major systems, and HOA/condo association documents. This proactive step helps prevent surprises later.",
+      "@type": "HowToStep",
+      "position": 1
+    },
+    {
+      "name": "Step 2: Pre-Listing Inspections and Repairs (2-4+ Weeks)",
+      "text": "Consider having a pre-listing inspection, especially for specialized features like pools, seawalls, or complex HVAC systems. Addressing any identified issues proactively, with licensed professionals, not only boosts buyer confidence but can also streamline negotiations. This applies whether your property is in Key Biscayne or Highland Beach.",
+      "@type": "HowToStep",
+      "position": 2
+    },
+    {
+      "name": "Step 3: Professional Staging and Photography (1-2 Weeks)",
+      "text": "Luxury buyers expect impeccable presentation. Invest in professional staging that highlights your home's best features and creates an aspirational lifestyle. Follow this with high-resolution photography, cinematic video tours, and possibly drone footage, showcasing your property's unique appeal and surroundings. This is crucial for online appeal.",
+      "@type": "HowToStep",
+      "position": 3
+    },
+    {
+      "name": "Step 4: Pricing Strategy and Market Positioning (1 Week)",
+      "text": "Kelby will work with you to develop a strategic pricing plan based on predictive market analytics and comparable sales data, not just emotional value. We'll decide whether a public launch or a more discreet, off-market approach through pre-screened buyer outreach is best, especially for unique properties or those seeking confidential sales.",
+      "@type": "HowToStep",
+      "position": 4
+    },
+    {
+      "name": "Step 5: Tailored Luxury Marketing Launch (Ongoing)",
+      "text": "This phase involves executing the marketing plan. For public listings, this includes syndication to high-net-worth buyer networks and luxury real estate platforms. For private listings, it involves targeted outreach to Kelby’s extensive network of qualified buyers, investors, and international clients, always maintaining discretion. This ensures your property reaches the right audience in areas like Sunny Isles Beach or Boca Raton.",
+      "@type": "HowToStep",
+      "position": 5
+    },
+    {
+      "name": "Step 6: Showings, Offers, and Negotiations (Varies)",
+      "text": "Your property will be presented through carefully managed, pre-qualified showings. Kelby will evaluate offers, provide skilled negotiation, and ensure all terms align with your goals, guiding you through the complexities of each proposal. He'll maintain responsive communication throughout.",
+      "@type": "HowToStep",
+      "position": 6
+    },
+    {
+      "name": "Step 7: Buyer Due Diligence and Closing Coordination (4-8 Weeks)",
+      "text": "Once an offer is accepted, Kelby will oversee the buyer's due diligence, appraisal, and title work. He coordinates with inspectors, lenders, and title professionals, proactively addressing any issues to keep the transaction on track for a smooth closing. His end-to-end support ensures all moving pieces are handled personally. Preparing your home effectively sets the stage for a successful sale. Ready to start? Schedule a luxury seller valuation with Kelby Contreras.",
+      "@type": "HowToStep",
+      "position": 7
+    }
+  ],
+  "@type": "HowTo",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".howto-step",
+      "[itemprop=\"step\"]"
+    ]
+  },
+  "totalTime": "PT30M",
+  "areaServed": [
+    {
+      "name": "Miami-Dade County",
+      "@type": "AdministrativeArea"
+    },
+    {
+      "name": "Broward County",
+      "@type": "AdministrativeArea"
+    },
+    {
+      "name": "Palm Beach County",
+      "@type": "AdministrativeArea"
+    },
+    {
+      "name": "Collier County",
+      "@type": "AdministrativeArea"
+    },
+    {
+      "name": "Orange County",
+      "@type": "AdministrativeArea"
+    },
+    {
+      "name": "Aventura",
+      "@type": "City"
+    },
+    {
+      "name": "Bal Harbour",
+      "@type": "City"
+    },
+    {
+      "name": "Bay Harbor Islands",
+      "@type": "City"
+    },
+    {
+      "name": "Boca Raton",
+      "@type": "City"
+    },
+    {
+      "name": "Brickell",
+      "@type": "City"
+    },
+    {
+      "name": "Brickell Key",
+      "@type": "City"
+    },
+    {
+      "name": "Coconut Grove",
+      "@type": "City"
+    },
+    {
+      "name": "Coral Gables",
+      "@type": "City"
+    },
+    {
+      "name": "Downtown Miami",
+      "@type": "City"
+    },
+    {
+      "name": "Edgewater",
+      "@type": "City"
+    },
+    {
+      "name": "Fisher Island",
+      "@type": "City"
+    },
+    {
+      "name": "Fort Lauderdale Beach",
+      "@type": "City"
+    },
+    {
+      "name": "Hallandale Beach",
+      "@type": "City"
+    },
+    {
+      "name": "Highland Beach",
+      "@type": "City"
+    },
+    {
+      "name": "Hollywood Beach",
+      "@type": "City"
+    },
+    {
+      "name": "Key Biscayne",
+      "@type": "City"
+    },
+    {
+      "name": "Las Olas",
+      "@type": "City"
+    },
+    {
+      "name": "Miami Beach",
+      "@type": "City"
+    },
+    {
+      "name": "Midtown/Wynwood",
+      "@type": "City"
+    },
+    {
+      "name": "North Bay Village",
+      "@type": "City"
+    },
+    {
+      "name": "Pinecrest",
+      "@type": "City"
+    },
+    {
+      "name": "Pompano Beach",
+      "@type": "City"
+    },
+    {
+      "name": "South Beach",
+      "@type": "City"
+    },
+    {
+      "name": "Sunny Isles Beach",
+      "@type": "City"
+    },
+    {
+      "name": "Surfside",
+      "@type": "City"
+    },
+    {
+      "name": "West Palm Beach",
+      "@type": "City"
+    },
+    {
+      "name": "Williams Island",
+      "@type": "City"
+    },
+    {
+      "name": "Miami",
+      "@type": "City"
+    },
+    {
+      "name": "Fort Lauderdale",
+      "@type": "City"
+    },
+    {
+      "name": "Palm Beach",
+      "@type": "City"
+    },
+    {
+      "name": "Delray Beach",
+      "@type": "City"
+    },
+    {
+      "name": "Doral",
+      "@type": "City"
+    }
+  ],
+  "description": "Before anything else, Kelby Contreras will conduct a thorough assessment of your property. We'll identify any potential issues that could arise during buyer due diligence, such as unpermitted addition"
+}

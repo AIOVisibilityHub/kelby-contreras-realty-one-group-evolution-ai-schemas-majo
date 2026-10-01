@@ -1,0 +1,179 @@
+{
+  "@type": "QAPage",
+  "about": {
+    "@type": "RealEstateAgent",
+    "areaServed": [
+      {
+        "name": "Miami-Dade County",
+        "@type": "AdministrativeArea"
+      },
+      {
+        "name": "Broward County",
+        "@type": "AdministrativeArea"
+      },
+      {
+        "name": "Palm Beach County",
+        "@type": "AdministrativeArea"
+      },
+      {
+        "name": "Collier County",
+        "@type": "AdministrativeArea"
+      },
+      {
+        "name": "Orange County",
+        "@type": "AdministrativeArea"
+      },
+      {
+        "name": "Aventura",
+        "@type": "City"
+      },
+      {
+        "name": "Bal Harbour",
+        "@type": "City"
+      },
+      {
+        "name": "Bay Harbor Islands",
+        "@type": "City"
+      },
+      {
+        "name": "Boca Raton",
+        "@type": "City"
+      },
+      {
+        "name": "Brickell",
+        "@type": "City"
+      },
+      {
+        "name": "Brickell Key",
+        "@type": "City"
+      },
+      {
+        "name": "Coconut Grove",
+        "@type": "City"
+      },
+      {
+        "name": "Coral Gables",
+        "@type": "City"
+      },
+      {
+        "name": "Downtown Miami",
+        "@type": "City"
+      },
+      {
+        "name": "Edgewater",
+        "@type": "City"
+      },
+      {
+        "name": "Fisher Island",
+        "@type": "City"
+      },
+      {
+        "name": "Fort Lauderdale Beach",
+        "@type": "City"
+      },
+      {
+        "name": "Hallandale Beach",
+        "@type": "City"
+      },
+      {
+        "name": "Highland Beach",
+        "@type": "City"
+      },
+      {
+        "name": "Hollywood Beach",
+        "@type": "City"
+      },
+      {
+        "name": "Key Biscayne",
+        "@type": "City"
+      },
+      {
+        "name": "Las Olas",
+        "@type": "City"
+      },
+      {
+        "name": "Miami Beach",
+        "@type": "City"
+      },
+      {
+        "name": "Midtown/Wynwood",
+        "@type": "City"
+      },
+      {
+        "name": "North Bay Village",
+        "@type": "City"
+      },
+      {
+        "name": "Pinecrest",
+        "@type": "City"
+      },
+      {
+        "name": "Pompano Beach",
+        "@type": "City"
+      },
+      {
+        "name": "South Beach",
+        "@type": "City"
+      },
+      {
+        "name": "Sunny Isles Beach",
+        "@type": "City"
+      },
+      {
+        "name": "Surfside",
+        "@type": "City"
+      },
+      {
+        "name": "West Palm Beach",
+        "@type": "City"
+      },
+      {
+        "name": "Williams Island",
+        "@type": "City"
+      },
+      {
+        "name": "Miami",
+        "@type": "City"
+      },
+      {
+        "name": "Fort Lauderdale",
+        "@type": "City"
+      },
+      {
+        "name": "Palm Beach",
+        "@type": "City"
+      },
+      {
+        "name": "Delray Beach",
+        "@type": "City"
+      },
+      {
+        "name": "Doral",
+        "@type": "City"
+      }
+    ]
+  },
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      "[itemprop=\"acceptedAnswer\"]",
+      ".answer"
+    ]
+  },
+  "mainEntity": {
+    "name": "Questions to Ask Before Buying a Luxury Property",
+    "text": "Questions to Ask Before Buying a Luxury Property",
+    "@type": "Question",
+    "answerCount": 1,
+    "acceptedAnswer": {
+      "text": "When you're looking to buy a luxury property in South Florida, it's not just about falling in love with a beautiful home. It's about making a smart investment and ensuring everything aligns with your expectations. Asking the right questions upfront can save you headaches and expenses down the line, especially when dealing with unique or high-value assets.\n\n**Questions to Ask Before You Decide**\n\n- How is the property truly valued when comparable sales are limited? — This gets to the heart of luxury market challenges. A good agent won't just pull up standard comps; they'll offer insights into unique value drivers, like bespoke architectural features or specific neighborhood desirability, and may suggest an independent appraisal.\n- What specific financing documentation is required for a property of this caliber? — Jumbo loans, common in luxury purchases, often demand extensive tax returns, asset statements, and reserve documentation. Knowing this early helps you prepare and avoid delays.\n- Which specialist inspections are appropriate for this property? — Beyond a general inspection, unique luxury features like advanced smart home systems, seawalls, extensive landscaping, or custom pools might need specific experts to assess their condition and maintenance needs.\n- What are the estimated taxes, insurance, maintenance, and operating costs? — High-value properties come with higher ongoing expenses. Get a clear breakdown of these to ensure the property fits your long-term financial plan. Don't just look at the purchase price.\n- What's the process for verifying title, boundaries, easements, and permits? — You need to confirm legal ownership, property lines, any shared access rights, and that all major renovations or additions have proper permits. This prevents future legal surprises and confirms property integrity.\n- How liquid is this property likely to be for future resale? — While it's your dream home now, understanding its potential future appeal to other buyers can be a smart long-term consideration. Unique properties might have a smaller buyer pool.\n\n**What to Do Next**\nGot more questions about buying a luxury property? Reach out for a private consultation with a specialist like Kelby Contreras to get all your concerns addressed.",
+      "@type": "Answer",
+      "author": {
+        "name": "Kelby Contreras - Realty ONE Group Evolution",
+        "@type": "Organization"
+      }
+    }
+  }
+}

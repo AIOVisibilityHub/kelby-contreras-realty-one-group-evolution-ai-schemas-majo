@@ -1,0 +1,197 @@
+{
+  "name": "Avoiding Common Pitfalls in Luxury Home Purchases",
+  "step": [
+    {
+      "name": "Step 1: [ ] Neglecting specialist inspections — For luxury properties, a st…",
+      "text": "[ ] Neglecting specialist inspections — For luxury properties, a standard home inspection often isn't enough. Consider specialists for structural integrity, roofing, HVAC, pools, seawalls (if waterfront), and any unique systems. This helps uncover hidden issues before they become your problem.",
+      "@type": "HowToStep",
+      "position": 1
+    },
+    {
+      "name": "Step 2: [ ] Underestimating financing complexity — Jumbo loans and high-net…",
+      "text": "[ ] Underestimating financing complexity — Jumbo loans and high-net-worth purchases often require more extensive documentation and longer processing times. Get pre-approved early and understand all lender requirements to avoid delays.",
+      "@type": "HowToStep",
+      "position": 2
+    },
+    {
+      "name": "Step 3: [ ] Skipping comprehensive document review — Always review surveys,…",
+      "text": "[ ] Skipping comprehensive document review — Always review surveys, easements, deed restrictions, and HOA documents thoroughly. These can impact your property rights, future renovations, and ongoing costs in communities like Aventura or Boca Raton.",
+      "@type": "HowToStep",
+      "position": 3
+    },
+    {
+      "name": "Step 4: [ ] Relying on limited comparable sales for valuation — High-end pr…",
+      "text": "[ ] Relying on limited comparable sales for valuation — High-end properties often have fewer direct comparables, making valuation more challenging. Don't assume an appraisal will be quick or straightforward; understand this can take time.",
+      "@type": "HowToStep",
+      "position": 4
+    },
+    {
+      "name": "Step 5: [ ] Overlooking insurance availability and costs — Especially for w…",
+      "text": "[ ] Overlooking insurance availability and costs — Especially for waterfront properties or those in flood zones, insurance can be complex and expensive. Verify availability and get quotes early to factor into your budget.",
+      "@type": "HowToStep",
+      "position": 5
+    }
+  ],
+  "@type": "HowTo",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".howto-step",
+      "[itemprop=\"step\"]"
+    ]
+  },
+  "totalTime": "PT30M",
+  "areaServed": [
+    {
+      "name": "Miami-Dade County",
+      "@type": "AdministrativeArea"
+    },
+    {
+      "name": "Broward County",
+      "@type": "AdministrativeArea"
+    },
+    {
+      "name": "Palm Beach County",
+      "@type": "AdministrativeArea"
+    },
+    {
+      "name": "Collier County",
+      "@type": "AdministrativeArea"
+    },
+    {
+      "name": "Orange County",
+      "@type": "AdministrativeArea"
+    },
+    {
+      "name": "Aventura",
+      "@type": "City"
+    },
+    {
+      "name": "Bal Harbour",
+      "@type": "City"
+    },
+    {
+      "name": "Bay Harbor Islands",
+      "@type": "City"
+    },
+    {
+      "name": "Boca Raton",
+      "@type": "City"
+    },
+    {
+      "name": "Brickell",
+      "@type": "City"
+    },
+    {
+      "name": "Brickell Key",
+      "@type": "City"
+    },
+    {
+      "name": "Coconut Grove",
+      "@type": "City"
+    },
+    {
+      "name": "Coral Gables",
+      "@type": "City"
+    },
+    {
+      "name": "Downtown Miami",
+      "@type": "City"
+    },
+    {
+      "name": "Edgewater",
+      "@type": "City"
+    },
+    {
+      "name": "Fisher Island",
+      "@type": "City"
+    },
+    {
+      "name": "Fort Lauderdale Beach",
+      "@type": "City"
+    },
+    {
+      "name": "Hallandale Beach",
+      "@type": "City"
+    },
+    {
+      "name": "Highland Beach",
+      "@type": "City"
+    },
+    {
+      "name": "Hollywood Beach",
+      "@type": "City"
+    },
+    {
+      "name": "Key Biscayne",
+      "@type": "City"
+    },
+    {
+      "name": "Las Olas",
+      "@type": "City"
+    },
+    {
+      "name": "Miami Beach",
+      "@type": "City"
+    },
+    {
+      "name": "Midtown/Wynwood",
+      "@type": "City"
+    },
+    {
+      "name": "North Bay Village",
+      "@type": "City"
+    },
+    {
+      "name": "Pinecrest",
+      "@type": "City"
+    },
+    {
+      "name": "Pompano Beach",
+      "@type": "City"
+    },
+    {
+      "name": "South Beach",
+      "@type": "City"
+    },
+    {
+      "name": "Sunny Isles Beach",
+      "@type": "City"
+    },
+    {
+      "name": "Surfside",
+      "@type": "City"
+    },
+    {
+      "name": "West Palm Beach",
+      "@type": "City"
+    },
+    {
+      "name": "Williams Island",
+      "@type": "City"
+    },
+    {
+      "name": "Miami",
+      "@type": "City"
+    },
+    {
+      "name": "Fort Lauderdale",
+      "@type": "City"
+    },
+    {
+      "name": "Palm Beach",
+      "@type": "City"
+    },
+    {
+      "name": "Delray Beach",
+      "@type": "City"
+    },
+    {
+      "name": "Doral",
+      "@type": "City"
+    }
+  ],
+  "description": "[ ] Neglecting specialist inspections — For luxury properties, a standard home inspection often isn't enough. Consider specialists for structural integrity, roofing, HVAC, pools, seawalls (if waterfro"
+}

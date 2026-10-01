@@ -1,0 +1,179 @@
+{
+  "@type": "QAPage",
+  "about": {
+    "@type": "RealEstateAgent",
+    "areaServed": [
+      {
+        "name": "Miami-Dade County",
+        "@type": "AdministrativeArea"
+      },
+      {
+        "name": "Broward County",
+        "@type": "AdministrativeArea"
+      },
+      {
+        "name": "Palm Beach County",
+        "@type": "AdministrativeArea"
+      },
+      {
+        "name": "Collier County",
+        "@type": "AdministrativeArea"
+      },
+      {
+        "name": "Orange County",
+        "@type": "AdministrativeArea"
+      },
+      {
+        "name": "Aventura",
+        "@type": "City"
+      },
+      {
+        "name": "Bal Harbour",
+        "@type": "City"
+      },
+      {
+        "name": "Bay Harbor Islands",
+        "@type": "City"
+      },
+      {
+        "name": "Boca Raton",
+        "@type": "City"
+      },
+      {
+        "name": "Brickell",
+        "@type": "City"
+      },
+      {
+        "name": "Brickell Key",
+        "@type": "City"
+      },
+      {
+        "name": "Coconut Grove",
+        "@type": "City"
+      },
+      {
+        "name": "Coral Gables",
+        "@type": "City"
+      },
+      {
+        "name": "Downtown Miami",
+        "@type": "City"
+      },
+      {
+        "name": "Edgewater",
+        "@type": "City"
+      },
+      {
+        "name": "Fisher Island",
+        "@type": "City"
+      },
+      {
+        "name": "Fort Lauderdale Beach",
+        "@type": "City"
+      },
+      {
+        "name": "Hallandale Beach",
+        "@type": "City"
+      },
+      {
+        "name": "Highland Beach",
+        "@type": "City"
+      },
+      {
+        "name": "Hollywood Beach",
+        "@type": "City"
+      },
+      {
+        "name": "Key Biscayne",
+        "@type": "City"
+      },
+      {
+        "name": "Las Olas",
+        "@type": "City"
+      },
+      {
+        "name": "Miami Beach",
+        "@type": "City"
+      },
+      {
+        "name": "Midtown/Wynwood",
+        "@type": "City"
+      },
+      {
+        "name": "North Bay Village",
+        "@type": "City"
+      },
+      {
+        "name": "Pinecrest",
+        "@type": "City"
+      },
+      {
+        "name": "Pompano Beach",
+        "@type": "City"
+      },
+      {
+        "name": "South Beach",
+        "@type": "City"
+      },
+      {
+        "name": "Sunny Isles Beach",
+        "@type": "City"
+      },
+      {
+        "name": "Surfside",
+        "@type": "City"
+      },
+      {
+        "name": "West Palm Beach",
+        "@type": "City"
+      },
+      {
+        "name": "Williams Island",
+        "@type": "City"
+      },
+      {
+        "name": "Miami",
+        "@type": "City"
+      },
+      {
+        "name": "Fort Lauderdale",
+        "@type": "City"
+      },
+      {
+        "name": "Palm Beach",
+        "@type": "City"
+      },
+      {
+        "name": "Delray Beach",
+        "@type": "City"
+      },
+      {
+        "name": "Doral",
+        "@type": "City"
+      }
+    ]
+  },
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      "[itemprop=\"acceptedAnswer\"]",
+      ".answer"
+    ]
+  },
+  "mainEntity": {
+    "name": "Choosing Your Luxury Real Estate Agent: What to Ask Before You Decide",
+    "text": "Choosing Your Luxury Real Estate Agent: What to Ask Before You Decide",
+    "@type": "Question",
+    "answerCount": 1,
+    "acceptedAnswer": {
+      "text": "Selecting the right agent for your luxury property in South Florida is a critical decision. You’re not just hiring someone to list your home; you’re choosing a strategic partner to navigate a complex, high-value transaction. Asking the right questions upfront ensures you find someone who truly understands the nuances of luxury markets in areas like Miami Beach, Palm Beach, or Key Biscayne.\n\n**Questions to Ask Before You Decide**\nWhen you're interviewing potential luxury real estate representatives, dig deep into their approach and experience:\n\n1.  **\"What’s your specific experience with luxury properties in my immediate area and price range?\"** — Look for agents with recent, completed sales in your segment. This shows they understand the local luxury market dynamics, not just general real estate.\n2.  **\"Can you outline your precise pricing methodology for my home?\"** — A top agent should have a data-driven approach, going beyond simple comps to factor in unique features, current inventory, and market trends. They should explain how they arrive at a suggested list price.\n3.  **\"What is your detailed marketing plan for a property like mine?\"** — Luxury marketing goes beyond MLS. Ask about professional photography, videography, targeted digital campaigns, discreet outreach, and how they attract high-net-worth individuals and international buyers.\n4.  **\"How do you handle privacy and showing coordination for high-profile clients or sensitive properties?\"** — This is crucial for luxury sellers. Ensure they have a clear process for managing access, protecting confidentiality, and vetting potential buyers.\n5.  **\"What are your communication protocols? How often and through what channels will I receive updates?\"** — Responsiveness and clear communication are frequently cited as top priorities for luxury sellers. You want to know exactly what to expect.\n6.  **\"How do you manage negotiations, especially when multiple offers are on the table, or complex contingencies arise?\"** — A strong negotiator can make a huge difference in your net proceeds and overall transaction smoothness. Ask for examples of their negotiation strategies.\n\nChoosing an agent like Kelby Contreras, who offers direct, personal representation and transparent processes, means you have an experienced advocate committed to your unique needs. His focus on strategic advice and direct communication ensures you’re always in the loop, from the first consultation through closing. It's about finding that personal accountability coupled with broad market expertise.\n\nReady to find the right partner for your luxury sale? Reach out to Kelby Contreras for a direct, insightful conversation about your property.",
+      "@type": "Answer",
+      "author": {
+        "name": "Kelby Contreras - Realty ONE Group Evolution",
+        "@type": "Organization"
+      }
+    }
+  }
+}

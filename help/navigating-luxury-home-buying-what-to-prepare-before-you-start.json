@@ -1,0 +1,191 @@
+{
+  "name": "Navigating Luxury Home Buying: What to Prepare Before You Start",
+  "step": [
+    {
+      "name": "Step 1: [ ] Proof of Funds: If you're planning a cash purchase, have your b…",
+      "text": "[ ] Proof of Funds: If you're planning a cash purchase, have your bank statements or a letter from your financial institution ready. For financing, a pre-approval for a jumbo or super-jumbo loan is essential to show sellers you're serious. This upfront verification can prevent delays and strengthen your offer, especially in competitive markets like Palm Beach.",
+      "@type": "HowToStep",
+      "position": 1
+    },
+    {
+      "name": "Step 2: [ ] Define Your Must-Haves: Be clear on your non-negotiables for lo…",
+      "text": "[ ] Define Your Must-Haves: Be clear on your non-negotiables for location, privacy, design, and specific amenities. Do you need a guesthouse, a specific acreage, or smart home integration? Knowing this helps narrow down opportunities, including those exclusive off-market listings Kelby Contreras can access.",
+      "@type": "HowToStep",
+      "position": 2
+    },
+    {
+      "name": "Step 3: [ ] Understand Operating Costs: Luxury homes often come with higher…",
+      "text": "[ ] Understand Operating Costs: Luxury homes often come with higher maintenance, insurance, and property tax bills. Have an estimate of these ongoing expenses so you're not surprised after closing. This financial clarity helps you evaluate the true cost of ownership.",
+      "@type": "HowToStep",
+      "position": 3
+    },
+    {
+      "name": "Step 4: [ ] Assemble Your Advisory Team (or Consider It): Beyond your real…",
+      "text": "[ ] Assemble Your Advisory Team (or Consider It): Beyond your real estate specialist, think about who else you might need. For complex properties, a financial advisor, legal counsel, and specialized inspectors for things like seawalls or unique architectural elements can be invaluable. Kelby often coordinates with these professionals to ensure comprehensive due diligence.",
+      "@type": "HowToStep",
+      "position": 4
+    }
+  ],
+  "@type": "HowTo",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".howto-step",
+      "[itemprop=\"step\"]"
+    ]
+  },
+  "totalTime": "PT30M",
+  "areaServed": [
+    {
+      "name": "Miami-Dade County",
+      "@type": "AdministrativeArea"
+    },
+    {
+      "name": "Broward County",
+      "@type": "AdministrativeArea"
+    },
+    {
+      "name": "Palm Beach County",
+      "@type": "AdministrativeArea"
+    },
+    {
+      "name": "Collier County",
+      "@type": "AdministrativeArea"
+    },
+    {
+      "name": "Orange County",
+      "@type": "AdministrativeArea"
+    },
+    {
+      "name": "Aventura",
+      "@type": "City"
+    },
+    {
+      "name": "Bal Harbour",
+      "@type": "City"
+    },
+    {
+      "name": "Bay Harbor Islands",
+      "@type": "City"
+    },
+    {
+      "name": "Boca Raton",
+      "@type": "City"
+    },
+    {
+      "name": "Brickell",
+      "@type": "City"
+    },
+    {
+      "name": "Brickell Key",
+      "@type": "City"
+    },
+    {
+      "name": "Coconut Grove",
+      "@type": "City"
+    },
+    {
+      "name": "Coral Gables",
+      "@type": "City"
+    },
+    {
+      "name": "Downtown Miami",
+      "@type": "City"
+    },
+    {
+      "name": "Edgewater",
+      "@type": "City"
+    },
+    {
+      "name": "Fisher Island",
+      "@type": "City"
+    },
+    {
+      "name": "Fort Lauderdale Beach",
+      "@type": "City"
+    },
+    {
+      "name": "Hallandale Beach",
+      "@type": "City"
+    },
+    {
+      "name": "Highland Beach",
+      "@type": "City"
+    },
+    {
+      "name": "Hollywood Beach",
+      "@type": "City"
+    },
+    {
+      "name": "Key Biscayne",
+      "@type": "City"
+    },
+    {
+      "name": "Las Olas",
+      "@type": "City"
+    },
+    {
+      "name": "Miami Beach",
+      "@type": "City"
+    },
+    {
+      "name": "Midtown/Wynwood",
+      "@type": "City"
+    },
+    {
+      "name": "North Bay Village",
+      "@type": "City"
+    },
+    {
+      "name": "Pinecrest",
+      "@type": "City"
+    },
+    {
+      "name": "Pompano Beach",
+      "@type": "City"
+    },
+    {
+      "name": "South Beach",
+      "@type": "City"
+    },
+    {
+      "name": "Sunny Isles Beach",
+      "@type": "City"
+    },
+    {
+      "name": "Surfside",
+      "@type": "City"
+    },
+    {
+      "name": "West Palm Beach",
+      "@type": "City"
+    },
+    {
+      "name": "Williams Island",
+      "@type": "City"
+    },
+    {
+      "name": "Miami",
+      "@type": "City"
+    },
+    {
+      "name": "Fort Lauderdale",
+      "@type": "City"
+    },
+    {
+      "name": "Palm Beach",
+      "@type": "City"
+    },
+    {
+      "name": "Delray Beach",
+      "@type": "City"
+    },
+    {
+      "name": "Doral",
+      "@type": "City"
+    }
+  ],
+  "description": "[ ] Proof of Funds: If you're planning a cash purchase, have your bank statements or a letter from your financial institution ready. For financing, a pre-approval for a jumbo or super-jumbo loan is es"
+}

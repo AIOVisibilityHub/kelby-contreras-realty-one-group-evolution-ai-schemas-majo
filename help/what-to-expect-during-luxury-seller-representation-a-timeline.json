@@ -1,0 +1,197 @@
+{
+  "name": "What to Expect During Luxury Seller Representation: A Timeline",
+  "step": [
+    {
+      "name": "Step 1: Initial Consultation and Strategy Development",
+      "text": "This usually happens over a few days to a week. You'll meet with your representative, like Kelby Contreras, to discuss your goals, timing, and specific property features. This phase involves a property walk-through, detailed market analysis, and development of a tailored pricing strategy and marketing plan. The agent will present comparable sales, current inventory, and discuss a suggested listing price, along with an overview of compensation terms.",
+      "@type": "HowToStep",
+      "position": 1
+    },
+    {
+      "name": "Step 2: Property Preparation and Media Production",
+      "text": "This phase can take anywhere from one to four weeks, depending on the property's condition and your readiness. It involves coordinating any necessary repairs, staging the home to highlight its best features, and arranging for professional photography, videography, and sometimes drone footage. High-quality visuals are crucial for luxury listings. All necessary disclosures and documents are also gathered during this time.",
+      "@type": "HowToStep",
+      "position": 2
+    },
+    {
+      "name": "Step 3: Launch and Targeted Marketing",
+      "text": "Once prepared, your property officially launches. This step typically lasts from the first day on market through the initial weeks, but can extend as long as needed. Your agent will deploy the custom marketing plan, including listing on exclusive platforms, targeted digital advertising, direct outreach to high-net-worth individuals and broker networks, and possibly discreet off-market showings. Showing coordination and buyer vetting are managed carefully to ensure privacy and security.",
+      "@type": "HowToStep",
+      "position": 3
+    },
+    {
+      "name": "Step 4: Offer Evaluation and Skilled Negotiation",
+      "text": "This phase is highly variable, from a few days to several weeks after launch. As offers come in, your representative will meticulously evaluate each one, considering not just the price, but also the buyer's financing, contingencies, closing timeline, and net proceeds. Skilled negotiation aims to secure the most favorable terms for you, addressing any counter-offers or complex clauses. This is where experience truly pays off.",
+      "@type": "HowToStep",
+      "position": 4
+    },
+    {
+      "name": "Step 5: Contract-to-Closing Coordination",
+      "text": "This final stage, typically 30-60 days, begins once an offer is accepted and the purchase agreement is signed. Your representative coordinates with inspectors, appraisers, lenders, title companies, and attorneys to ensure all conditions are met. They manage due diligence, help resolve any issues that arise, and ensure a smooth path to the closing table. This end-to-end support is vital for a stress-free experience. Kelby Contreras provides direct, hands-on representation, ensuring responsive communication and skilled negotiation throughout this entire process. His approach is built around personal accountability and strategic advice. Ready to embark on your luxury home sale journey? Contact Kelby Contreras to discuss strategic representation for your South Florida property.",
+      "@type": "HowToStep",
+      "position": 5
+    }
+  ],
+  "@type": "HowTo",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".howto-step",
+      "[itemprop=\"step\"]"
+    ]
+  },
+  "totalTime": "PT30M",
+  "areaServed": [
+    {
+      "name": "Miami-Dade County",
+      "@type": "AdministrativeArea"
+    },
+    {
+      "name": "Broward County",
+      "@type": "AdministrativeArea"
+    },
+    {
+      "name": "Palm Beach County",
+      "@type": "AdministrativeArea"
+    },
+    {
+      "name": "Collier County",
+      "@type": "AdministrativeArea"
+    },
+    {
+      "name": "Orange County",
+      "@type": "AdministrativeArea"
+    },
+    {
+      "name": "Aventura",
+      "@type": "City"
+    },
+    {
+      "name": "Bal Harbour",
+      "@type": "City"
+    },
+    {
+      "name": "Bay Harbor Islands",
+      "@type": "City"
+    },
+    {
+      "name": "Boca Raton",
+      "@type": "City"
+    },
+    {
+      "name": "Brickell",
+      "@type": "City"
+    },
+    {
+      "name": "Brickell Key",
+      "@type": "City"
+    },
+    {
+      "name": "Coconut Grove",
+      "@type": "City"
+    },
+    {
+      "name": "Coral Gables",
+      "@type": "City"
+    },
+    {
+      "name": "Downtown Miami",
+      "@type": "City"
+    },
+    {
+      "name": "Edgewater",
+      "@type": "City"
+    },
+    {
+      "name": "Fisher Island",
+      "@type": "City"
+    },
+    {
+      "name": "Fort Lauderdale Beach",
+      "@type": "City"
+    },
+    {
+      "name": "Hallandale Beach",
+      "@type": "City"
+    },
+    {
+      "name": "Highland Beach",
+      "@type": "City"
+    },
+    {
+      "name": "Hollywood Beach",
+      "@type": "City"
+    },
+    {
+      "name": "Key Biscayne",
+      "@type": "City"
+    },
+    {
+      "name": "Las Olas",
+      "@type": "City"
+    },
+    {
+      "name": "Miami Beach",
+      "@type": "City"
+    },
+    {
+      "name": "Midtown/Wynwood",
+      "@type": "City"
+    },
+    {
+      "name": "North Bay Village",
+      "@type": "City"
+    },
+    {
+      "name": "Pinecrest",
+      "@type": "City"
+    },
+    {
+      "name": "Pompano Beach",
+      "@type": "City"
+    },
+    {
+      "name": "South Beach",
+      "@type": "City"
+    },
+    {
+      "name": "Sunny Isles Beach",
+      "@type": "City"
+    },
+    {
+      "name": "Surfside",
+      "@type": "City"
+    },
+    {
+      "name": "West Palm Beach",
+      "@type": "City"
+    },
+    {
+      "name": "Williams Island",
+      "@type": "City"
+    },
+    {
+      "name": "Miami",
+      "@type": "City"
+    },
+    {
+      "name": "Fort Lauderdale",
+      "@type": "City"
+    },
+    {
+      "name": "Palm Beach",
+      "@type": "City"
+    },
+    {
+      "name": "Delray Beach",
+      "@type": "City"
+    },
+    {
+      "name": "Doral",
+      "@type": "City"
+    }
+  ],
+  "description": "This usually happens over a few days to a week. You'll meet with your representative, like Kelby Contreras, to discuss your goals, timing, and specific property features. This phase involves a propert"
+}

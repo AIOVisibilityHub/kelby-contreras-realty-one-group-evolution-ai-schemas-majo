@@ -1,0 +1,197 @@
+{
+  "name": "What to Expect When Marketing a Luxury Property",
+  "step": [
+    {
+      "name": "Step 1: Property Assessment & Strategy Development",
+      "text": "We'll dive deep into your property's features, location, and the current luxury market to establish a competitive and defensible pricing strategy. This includes reviewing comparable sales and understanding what truly makes your home stand out. You'll sign a listing agreement outlining our services, marketing methods, sale price, and compensation, ensuring everything is crystal clear before we move forward. This phase typically takes a few days to a week, depending on property complexity.",
+      "@type": "HowToStep",
+      "position": 1
+    },
+    {
+      "name": "Step 2: Preparation & Launch",
+      "text": "Once the strategy is set, we'll prepare your property for its grand debut. This often involves professional photography, videography, and staging advice to present your home in its best light. We'll then launch your property across the most effective luxury marketing channels, reaching pre-screened buyers and ensuring maximum exposure while maintaining discretion. This phase can take 1-3 weeks, depending on readiness.",
+      "@type": "HowToStep",
+      "position": 2
+    },
+    {
+      "name": "Step 3: Inquiry Management & Showings",
+      "text": "As qualified inquiries come in, we'll manage all communications and coordinate private showings that respect your schedule and privacy. We ensure that only serious, pre-qualified buyers tour your home, minimizing disruption and maximizing efficiency. This is an ongoing phase that continues until an acceptable offer is received.",
+      "@type": "HowToStep",
+      "position": 3
+    },
+    {
+      "name": "Step 4: Offer Evaluation & Negotiation",
+      "text": "When offers arrive, we'll meticulously evaluate them, looking beyond just the price to consider all terms like contingencies, financing, and closing dates. We’ll then skillfully negotiate on your behalf to secure the most favorable outcome, always keeping your best interests at heart. This phase can range from a few days to a couple of weeks, depending on offer complexity.",
+      "@type": "HowToStep",
+      "position": 4
+    },
+    {
+      "name": "Step 5: Due Diligence & Closing Coordination",
+      "text": "After an offer is accepted, we'll coordinate all necessary inspections, disclosures, title processes, and the final walkthrough. We work closely with all parties involved—lenders, insurers, and title professionals—to ensure a smooth path to closing, handling any issues that arise. This final stage typically takes 30-60 days, though it can vary based on the specific transaction. Ready to get started? Contact Kelby Contreras to discuss your luxury property sale.",
+      "@type": "HowToStep",
+      "position": 5
+    }
+  ],
+  "@type": "HowTo",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".howto-step",
+      "[itemprop=\"step\"]"
+    ]
+  },
+  "totalTime": "PT30M",
+  "areaServed": [
+    {
+      "name": "Miami-Dade County",
+      "@type": "AdministrativeArea"
+    },
+    {
+      "name": "Broward County",
+      "@type": "AdministrativeArea"
+    },
+    {
+      "name": "Palm Beach County",
+      "@type": "AdministrativeArea"
+    },
+    {
+      "name": "Collier County",
+      "@type": "AdministrativeArea"
+    },
+    {
+      "name": "Orange County",
+      "@type": "AdministrativeArea"
+    },
+    {
+      "name": "Aventura",
+      "@type": "City"
+    },
+    {
+      "name": "Bal Harbour",
+      "@type": "City"
+    },
+    {
+      "name": "Bay Harbor Islands",
+      "@type": "City"
+    },
+    {
+      "name": "Boca Raton",
+      "@type": "City"
+    },
+    {
+      "name": "Brickell",
+      "@type": "City"
+    },
+    {
+      "name": "Brickell Key",
+      "@type": "City"
+    },
+    {
+      "name": "Coconut Grove",
+      "@type": "City"
+    },
+    {
+      "name": "Coral Gables",
+      "@type": "City"
+    },
+    {
+      "name": "Downtown Miami",
+      "@type": "City"
+    },
+    {
+      "name": "Edgewater",
+      "@type": "City"
+    },
+    {
+      "name": "Fisher Island",
+      "@type": "City"
+    },
+    {
+      "name": "Fort Lauderdale Beach",
+      "@type": "City"
+    },
+    {
+      "name": "Hallandale Beach",
+      "@type": "City"
+    },
+    {
+      "name": "Highland Beach",
+      "@type": "City"
+    },
+    {
+      "name": "Hollywood Beach",
+      "@type": "City"
+    },
+    {
+      "name": "Key Biscayne",
+      "@type": "City"
+    },
+    {
+      "name": "Las Olas",
+      "@type": "City"
+    },
+    {
+      "name": "Miami Beach",
+      "@type": "City"
+    },
+    {
+      "name": "Midtown/Wynwood",
+      "@type": "City"
+    },
+    {
+      "name": "North Bay Village",
+      "@type": "City"
+    },
+    {
+      "name": "Pinecrest",
+      "@type": "City"
+    },
+    {
+      "name": "Pompano Beach",
+      "@type": "City"
+    },
+    {
+      "name": "South Beach",
+      "@type": "City"
+    },
+    {
+      "name": "Sunny Isles Beach",
+      "@type": "City"
+    },
+    {
+      "name": "Surfside",
+      "@type": "City"
+    },
+    {
+      "name": "West Palm Beach",
+      "@type": "City"
+    },
+    {
+      "name": "Williams Island",
+      "@type": "City"
+    },
+    {
+      "name": "Miami",
+      "@type": "City"
+    },
+    {
+      "name": "Fort Lauderdale",
+      "@type": "City"
+    },
+    {
+      "name": "Palm Beach",
+      "@type": "City"
+    },
+    {
+      "name": "Delray Beach",
+      "@type": "City"
+    },
+    {
+      "name": "Doral",
+      "@type": "City"
+    }
+  ],
+  "description": "We'll dive deep into your property's features, location, and the current luxury market to establish a competitive and defensible pricing strategy. This includes reviewing comparable sales and understa"
+}

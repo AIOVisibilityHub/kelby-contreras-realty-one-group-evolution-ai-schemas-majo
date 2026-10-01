@@ -1,0 +1,197 @@
+{
+  "name": "Understanding Your Luxury Buyer Consultation: What to Expect",
+  "step": [
+    {
+      "name": "Step 1: Define Your Objectives and Requirements",
+      "text": "The first step involves a deep dive into your specific needs. You'll discuss your budget, ideal timing, preferred locations (like Brickell, Coral Gables, or Las Olas), property types (waterfront, penthouse, investment), privacy concerns, and any specific amenities you desire. This ensures Kelby Contreras understands exactly what you’re looking for before properties are even considered.",
+      "@type": "HowToStep",
+      "position": 1
+    },
+    {
+      "name": "Step 2: Establish the Agency Relationship and Agreement",
+      "text": "During this phase, you'll formalize the buyer-agent relationship through a written agreement. This document clearly outlines the services Kelby will provide, how compensation is handled, and the duration of the representation. This transparency is crucial, especially with recent industry changes requiring written agreements before touring homes, ensuring clarity for both parties.",
+      "@type": "HowToStep",
+      "position": 2
+    },
+    {
+      "name": "Step 3: Verify Financing or Available Funds",
+      "text": "Before touring properties, it's essential to confirm your financial readiness. You'll work on verifying your financing or proof of available funds. This step is critical because it solidifies your purchasing power, allowing you to move swiftly and confidently when the right property emerges, and ensures you present as a serious buyer to sellers.",
+      "@type": "HowToStep",
+      "position": 3
+    },
+    {
+      "name": "Step 4: Identify and Screen Potential Properties",
+      "text": "Leveraging market knowledge and access, Kelby will identify properties that match your defined criteria, including potential off-market opportunities. He’ll screen these options rigorously, presenting you with only the most suitable choices that align with your lifestyle and investment goals, saving you time and effort.",
+      "@type": "HowToStep",
+      "position": 4
+    },
+    {
+      "name": "Step 5: Outline the Buying Process and Due Diligence",
+      "text": "Finally, you'll walk through the entire buying process, from property showings and offer analysis to coordination of inspections, title review, and closing. This includes discussing the importance of specialized inspections for luxury properties and ensuring all contract deadlines for contingencies are meticulously tracked, preparing you for every stage of your purchase. Starting with a luxury buyer consultation ensures you have expert guidance every step of the way. Connect with Kelby Contreras to begin your personalized home search in South Florida.",
+      "@type": "HowToStep",
+      "position": 5
+    }
+  ],
+  "@type": "HowTo",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".howto-step",
+      "[itemprop=\"step\"]"
+    ]
+  },
+  "totalTime": "PT30M",
+  "areaServed": [
+    {
+      "name": "Miami-Dade County",
+      "@type": "AdministrativeArea"
+    },
+    {
+      "name": "Broward County",
+      "@type": "AdministrativeArea"
+    },
+    {
+      "name": "Palm Beach County",
+      "@type": "AdministrativeArea"
+    },
+    {
+      "name": "Collier County",
+      "@type": "AdministrativeArea"
+    },
+    {
+      "name": "Orange County",
+      "@type": "AdministrativeArea"
+    },
+    {
+      "name": "Aventura",
+      "@type": "City"
+    },
+    {
+      "name": "Bal Harbour",
+      "@type": "City"
+    },
+    {
+      "name": "Bay Harbor Islands",
+      "@type": "City"
+    },
+    {
+      "name": "Boca Raton",
+      "@type": "City"
+    },
+    {
+      "name": "Brickell",
+      "@type": "City"
+    },
+    {
+      "name": "Brickell Key",
+      "@type": "City"
+    },
+    {
+      "name": "Coconut Grove",
+      "@type": "City"
+    },
+    {
+      "name": "Coral Gables",
+      "@type": "City"
+    },
+    {
+      "name": "Downtown Miami",
+      "@type": "City"
+    },
+    {
+      "name": "Edgewater",
+      "@type": "City"
+    },
+    {
+      "name": "Fisher Island",
+      "@type": "City"
+    },
+    {
+      "name": "Fort Lauderdale Beach",
+      "@type": "City"
+    },
+    {
+      "name": "Hallandale Beach",
+      "@type": "City"
+    },
+    {
+      "name": "Highland Beach",
+      "@type": "City"
+    },
+    {
+      "name": "Hollywood Beach",
+      "@type": "City"
+    },
+    {
+      "name": "Key Biscayne",
+      "@type": "City"
+    },
+    {
+      "name": "Las Olas",
+      "@type": "City"
+    },
+    {
+      "name": "Miami Beach",
+      "@type": "City"
+    },
+    {
+      "name": "Midtown/Wynwood",
+      "@type": "City"
+    },
+    {
+      "name": "North Bay Village",
+      "@type": "City"
+    },
+    {
+      "name": "Pinecrest",
+      "@type": "City"
+    },
+    {
+      "name": "Pompano Beach",
+      "@type": "City"
+    },
+    {
+      "name": "South Beach",
+      "@type": "City"
+    },
+    {
+      "name": "Sunny Isles Beach",
+      "@type": "City"
+    },
+    {
+      "name": "Surfside",
+      "@type": "City"
+    },
+    {
+      "name": "West Palm Beach",
+      "@type": "City"
+    },
+    {
+      "name": "Williams Island",
+      "@type": "City"
+    },
+    {
+      "name": "Miami",
+      "@type": "City"
+    },
+    {
+      "name": "Fort Lauderdale",
+      "@type": "City"
+    },
+    {
+      "name": "Palm Beach",
+      "@type": "City"
+    },
+    {
+      "name": "Delray Beach",
+      "@type": "City"
+    },
+    {
+      "name": "Doral",
+      "@type": "City"
+    }
+  ],
+  "description": "The first step involves a deep dive into your specific needs. You'll discuss your budget, ideal timing, preferred locations (like Brickell, Coral Gables, or Las Olas), property types (waterfront, pent"
+}
