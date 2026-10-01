@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/what-is-the-role-of-a-home-inspection-before-pre-listing-repairs",
+  "name": "What is the role of a home inspection before pre-listing repairs?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the role of a home inspection before pre-listing repairs?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A pre-listing home inspection is a valuable tool that can identify potential issues before buyers discover them. This gives sellers the opportunity to address significant problems proactively, negotiate repairs on their own terms, and avoid surprises during the buyer's inspection. Having a pre-listing inspection can provide transparency to buyers and help prevent sales from falling through due to unforeseen defects. Kelby Contreras - Realty ONE Group Evolution recommends this step to clients in all service areas, including Palm Beach and Doral, to gain an advantage in the selling process.",
+        "@type": "Answer",
+        "description": "A pre-listing home inspection identifies issues early, allowing sellers to address problems proactively, avoid surprises, and provide transparency to buyers."
+      }
+    }
+  ],
+  "description": "A pre-listing home inspection identifies issues early, allowing sellers to address problems proactively, avoid surprises, and provide transparency to buyers."
+}

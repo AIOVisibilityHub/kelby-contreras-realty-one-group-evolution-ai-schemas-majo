@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/what-is-a-home-sale-leaseback-arrangement",
+  "name": "What is a home sale-leaseback arrangement?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is a home sale-leaseback arrangement?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A home sale-leaseback is a transaction where you sell your home to an investor and then immediately lease it back from them. This allows you to convert your home equity into cash while continuing to live in your property, providing immediate liquidity without needing to move. Kelby Contreras with Realty ONE Group Evolution assists homeowners in Miami-Dade, Broward, Palm Beach, Collier, and Orange Counties in navigating these transactions, connecting sellers with interested buyers who offer leaseback options.",
+        "@type": "Answer",
+        "description": "A home sale-leaseback is a transaction where you sell your home and then lease it back, allowing you to access equity while remaining in your home."
+      }
+    }
+  ],
+  "description": "A home sale-leaseback is a transaction where you sell your home and then lease it back, allowing you to access equity while remaining in your home."
+}

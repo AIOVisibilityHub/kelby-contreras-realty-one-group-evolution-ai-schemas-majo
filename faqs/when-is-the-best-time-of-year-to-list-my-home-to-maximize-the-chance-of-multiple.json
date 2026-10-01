@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/when-is-the-best-time-of-year-to-list-my-home-to-maximize-the-chance-of-multiple",
+  "name": "When is the best time of year to list my home to maximize the chance of multiple offers?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When is the best time of year to list my home to maximize the chance of multiple offers?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The best time to list your home to maximize multiple offers often varies by local market conditions, but generally, the spring and early summer months see increased buyer activity. However, in South Florida, the selling season can be extended due to a consistent influx of buyers. Kelby Contreras monitors hyper-local market trends in areas like Miami-Dade and Broward Counties to advise on the prime listing window for your specific property type and location.",
+        "@type": "Answer",
+        "description": "Spring and early summer often see increased buyer activity, but local market conditions, especially in South Florida, can extend this period."
+      }
+    }
+  ],
+  "description": "Spring and early summer often see increased buyer activity, but local market conditions, especially in South Florida, can extend this period."
+}

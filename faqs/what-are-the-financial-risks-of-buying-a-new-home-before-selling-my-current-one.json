@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/what-are-the-financial-risks-of-buying-a-new-home-before-selling-my-current-one",
+  "name": "What are the financial risks of buying a new home before selling my current one?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are the financial risks of buying a new home before selling my current one?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The primary financial risks include carrying two mortgage payments simultaneously, potential interest rate fluctuations, and unexpected repair costs for either property. If your current home takes longer to sell than anticipated, you could face significant financial strain. Additionally, if the market shifts, you might have to sell your current home for less than expected. It's crucial to have a clear understanding of your financial reserves and a realistic market assessment, which Kelby Contreras can provide for properties in areas like Palm Beach County or Orange County.",
+        "@type": "Answer",
+        "description": "Risks include managing two mortgage payments, unexpected costs, and the possibility of your current home selling for less or taking longer."
+      }
+    }
+  ],
+  "description": "Risks include managing two mortgage payments, unexpected costs, and the possibility of your current home selling for less or taking longer."
+}

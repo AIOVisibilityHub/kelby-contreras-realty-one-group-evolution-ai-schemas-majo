@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/should-i-get-a-pre-listing-home-inspection",
+  "name": "Should I get a pre-listing home inspection?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Should I get a pre-listing home inspection?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, a pre-listing home inspection can be a valuable step. It identifies potential issues before buyers do, allowing you to address them proactively or disclose them transparently. This can prevent surprises during buyer inspections, reduce negotiation points, and expedite the selling process. Kelby Contreras - Realty ONE Group Evolution often recommends this to clients in areas like Palm Beach or Collier County to ensure a smoother transaction and build buyer confidence.",
+        "@type": "Answer",
+        "description": "A pre-listing inspection identifies issues early, preventing surprises and aiding transparency. This can streamline the selling process and reduce negotiation points."
+      }
+    }
+  ],
+  "description": "A pre-listing inspection identifies issues early, preventing surprises and aiding transparency. This can streamline the selling process and reduce negotiation p"
+}

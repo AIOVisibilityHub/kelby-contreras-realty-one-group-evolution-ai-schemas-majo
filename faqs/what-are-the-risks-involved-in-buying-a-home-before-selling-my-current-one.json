@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/what-are-the-risks-involved-in-buying-a-home-before-selling-my-current-one",
+  "name": "What are the risks involved in buying a home before selling my current one?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are the risks involved in buying a home before selling my current one?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The primary risks include carrying two mortgage payments if your original home doesn't sell quickly, potential market fluctuations impacting your selling price, and unexpected repair costs on either property. If your current home takes longer to sell, you could face significant financial strain. A key preparation step is to have a robust financial buffer, typically 3-6 months of mortgage payments for both properties, and to thoroughly prepare your current home for sale to minimize its time on the market.",
+        "@type": "Answer",
+        "description": "Risks include paying two mortgages, market fluctuations, and repair costs. A financial buffer and preparing your home for sale are crucial to mitigate these."
+      }
+    }
+  ],
+  "description": "Risks include paying two mortgages, market fluctuations, and repair costs. A financial buffer and preparing your home for sale are crucial to mitigate these."
+}

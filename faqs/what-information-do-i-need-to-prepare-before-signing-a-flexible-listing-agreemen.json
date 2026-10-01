@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/what-information-do-i-need-to-prepare-before-signing-a-flexible-listing-agreemen",
+  "name": "What information do I need to prepare before signing a flexible listing agreement?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What information do I need to prepare before signing a flexible listing agreement?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Before signing, gather all relevant property details, including any recent appraisals, inspection reports, and a clear understanding of your desired selling price and timeline. It’s also crucial to define your expectations for agent services and marketing efforts. Kelby Contreras - Realty ONE Group Evolution recommends clearly outlining your non-negotiables regarding communication, showing schedules, and how you plan to handle potential buyers you source yourself, ensuring mutual understanding before committing to the agreement.",
+        "@type": "Answer",
+        "description": "Prepare property details, desired selling price, timeline, and clearly define your expectations for agent services and self-sourced buyers."
+      }
+    }
+  ],
+  "description": "Prepare property details, desired selling price, timeline, and clearly define your expectations for agent services and self-sourced buyers."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/can-i-cancel-if-an-offer-has-already-been-accepted-on-my-property",
+  "name": "Can I cancel if an offer has already been accepted on my property?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I cancel if an offer has already been accepted on my property?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "No, the 'Cancel Anytime Listing Agreement' typically applies to the period before an offer has been formally accepted. Once a purchase agreement is executed, you are generally bound by the terms of that sales contract, not the listing agreement. Canceling the listing agreement at that point could lead to legal complications. It's important to understand this boundary; the 'cancel anytime' flexibility is for the marketing phase, prior to entering into a sales contract.",
+        "@type": "Answer",
+        "description": "No, this agreement typically allows cancellation only before an offer has been formally accepted, not after a purchase agreement is executed."
+      }
+    }
+  ],
+  "description": "No, this agreement typically allows cancellation only before an offer has been formally accepted, not after a purchase agreement is executed."
+}

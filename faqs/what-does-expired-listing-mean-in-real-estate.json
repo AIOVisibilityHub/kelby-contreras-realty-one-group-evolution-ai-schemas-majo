@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/what-does-expired-listing-mean-in-real-estate",
+  "name": "What does 'expired listing' mean in real estate?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What does 'expired listing' mean in real estate?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "An expired listing occurs when a property fails to sell before the agreed-upon contract term with a real estate agent ends. This typically means the property did not attract a buyer within the listing period, often due to factors like pricing, marketing strategy, or market conditions. Understanding why your listing expired is the first step, as it helps determine the best path forward, whether it's re-listing with adjustments or exploring other options.",
+        "@type": "Answer",
+        "description": "An expired listing means a property did not sell within the contract term with a real estate agent. Identifying the reasons for expiration is crucial for future steps."
+      }
+    }
+  ],
+  "description": "An expired listing means a property did not sell within the contract term with a real estate agent. Identifying the reasons for expiration is crucial for future"
+}

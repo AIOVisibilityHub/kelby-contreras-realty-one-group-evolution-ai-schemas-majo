@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/are-there-specific-repair-considerations-for-coastal-properties-in-south-florida",
+  "name": "Are there specific repair considerations for coastal properties in South Florida?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Are there specific repair considerations for coastal properties in South Florida?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, coastal properties in South Florida often have unique repair considerations due to humidity, salt air, and potential hurricane impacts. Buyers in areas like Miami Beach or Fort Lauderdale Beach may scrutinize the condition of roofs, windows, HVAC systems, and exterior finishes for resilience and maintenance against these environmental factors. Addressing issues related to moisture intrusion, mold prevention, and hurricane preparedness can be particularly important for these homes. Kelby Contreras - Realty ONE Group Evolution can highlight specific buyer concerns for your coastal property.",
+        "@type": "Answer",
+        "description": "Coastal properties in South Florida require specific repairs due to humidity, salt air, and hurricanes. Buyers focus on roofs, windows, HVAC, and exterior finishes for resilience."
+      }
+    }
+  ],
+  "description": "Coastal properties in South Florida require specific repairs due to humidity, salt air, and hurricanes. Buyers focus on roofs, windows, HVAC, and exterior finis"
+}

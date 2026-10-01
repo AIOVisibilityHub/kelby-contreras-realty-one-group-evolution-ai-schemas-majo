@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/do-i-need-permits-for-renovations-before-selling-in-south-florida",
+  "name": "Do I need permits for renovations before selling in South Florida?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do I need permits for renovations before selling in South Florida?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Permit requirements depend on the scope of work. Structural changes, electrical work, plumbing modifications, and additions almost always require permits. Failing to obtain necessary permits can lead to fines, delays, or issues during closing. It is crucial to verify local regulations with your county or city building department, as requirements can vary significantly between areas such as Miami-Dade and Palm Beach County. Kelby Contreras recommends checking this early in your renovation planning.",
+        "@type": "Answer",
+        "description": "Permits are typically needed for structural, electrical, plumbing changes, or additions. Requirements vary by location, such as between Miami-Dade and Palm Beach County, so check with your local building department."
+      }
+    }
+  ],
+  "description": "Permits are typically needed for structural, electrical, plumbing changes, or additions. Requirements vary by location, such as between Miami-Dade and Palm Beac"
+}

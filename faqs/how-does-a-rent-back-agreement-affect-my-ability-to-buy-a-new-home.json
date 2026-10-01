@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/how-does-a-rent-back-agreement-affect-my-ability-to-buy-a-new-home",
+  "name": "How does a rent-back agreement affect my ability to buy a new home?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How does a rent-back agreement affect my ability to buy a new home?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A rent-back agreement can positively affect your ability to buy a new home by providing you with immediate cash from your sale, which can be used for a down payment or to improve your financial standing for a new mortgage. It also removes the contingency of selling your old home. This offers a practical tradeoff: you gain financial flexibility for your next purchase, but you'll have ongoing rental payments until you move. Our agents help clients in areas like West Palm Beach and Pompano Beach align these transactions with their next property acquisition.",
+        "@type": "Answer",
+        "description": "It provides cash for a new down payment and removes sale contingencies, aiding your next home purchase."
+      }
+    }
+  ],
+  "description": "It provides cash for a new down payment and removes sale contingencies, aiding your next home purchase."
+}

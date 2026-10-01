@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/are-cash-sales-and-rent-back-agreements-common-in-miami-dade-county",
+  "name": "Are cash sales and rent-back agreements common in Miami-Dade County?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Are cash sales and rent-back agreements common in Miami-Dade County?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Cash sales and rent-back agreements are a viable option in active real estate markets like Miami-Dade County, Broward County, and other parts of South Florida. Their prevalence can fluctuate with market conditions and buyer demand for immediate occupancy or investment properties. Contextual relevance is high here, as the dynamic South Florida market often sees varied buyer motivations. Kelby Contreras - Realty ONE Group Evolution has extensive experience with these transactions in these specific local markets.",
+        "@type": "Answer",
+        "description": "Yes, they are a viable option in active markets like Miami-Dade and Broward Counties, influenced by local market conditions."
+      }
+    }
+  ],
+  "description": "Yes, they are a viable option in active markets like Miami-Dade and Broward Counties, influenced by local market conditions."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/how-quickly-can-a-sale-leaseback-transaction-be-completed",
+  "name": "How quickly can a sale-leaseback transaction be completed?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How quickly can a sale-leaseback transaction be completed?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The timeline for a sale-leaseback transaction can vary, but it's often faster than a traditional home sale, especially when working with investors specializing in these arrangements. Once a buyer is secured and terms are agreed upon, the process can move swiftly, sometimes closing within weeks. However, factors like property condition, the investor's due diligence, and legal reviews can influence the exact timing. Kelby Contreras facilitates efficient communication between parties to streamline the process for homeowners throughout Southeast Florida.",
+        "@type": "Answer",
+        "description": "A sale-leaseback can often be completed faster than a traditional sale, sometimes in weeks, but depends on property specifics and buyer due diligence."
+      }
+    }
+  ],
+  "description": "A sale-leaseback can often be completed faster than a traditional sale, sometimes in weeks, but depends on property specifics and buyer due diligence."
+}

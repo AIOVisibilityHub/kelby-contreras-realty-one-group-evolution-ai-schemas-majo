@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/what-types-of-home-improvements-are-typically-included-in-fix-and-list-services",
+  "name": "What types of home improvements are typically included in Fix and List Services?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What types of home improvements are typically included in Fix and List Services?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Fix and List Services typically include cosmetic updates and minor repairs that offer the best return on investment. Common improvements can range from fresh paint, updated light fixtures, and modernizing kitchen or bathroom finishes, to landscaping enhancements and decluttering. As a practical tradeoff, while major renovations like a full kitchen gut may seem appealing, often simpler, more cost-effective updates that improve a home's aesthetic appeal and functionality yield the best results for selling. Kelby Contreras focuses on improvements that appeal to the broadest range of buyers.",
+        "@type": "Answer",
+        "description": "Common improvements include fresh paint, updated fixtures, kitchen/bathroom modernizations, and landscaping. The focus is on cosmetic updates and minor repairs with high ROI, rather than major renovations."
+      }
+    }
+  ],
+  "description": "Common improvements include fresh paint, updated fixtures, kitchen/bathroom modernizations, and landscaping. The focus is on cosmetic updates and minor repairs"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/what-happens-if-my-current-home-sells-before-i-find-a-new-one-in-the-move-up-buy",
+  "name": "What happens if my current home sells before I find a new one in the Move-Up Buyer Program?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What happens if my current home sells before I find a new one in the Move-Up Buyer Program?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "If your current home sells before you find a new one, several options can be explored. This might involve negotiating a rent-back agreement with the buyer of your current home, allowing you to stay for a period after closing. Alternatively, you might need to secure temporary housing while continuing your search. Our strategy typically aims to minimize this gap through careful timing, but should it occur, we work with you to manage the transition smoothly and find suitable interim solutions in the South Florida market.",
+        "@type": "Answer",
+        "description": "If your current home sells first, options include negotiating a rent-back agreement or securing temporary housing, with efforts made to minimize this gap."
+      }
+    }
+  ],
+  "description": "If your current home sells first, options include negotiating a rent-back agreement or securing temporary housing, with efforts made to minimize this gap."
+}

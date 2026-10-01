@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/what-are-the-common-challenges-or-risks-associated-with-cash-sale-and-rent-back",
+  "name": "What are the common challenges or risks associated with cash sale and rent-back?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are the common challenges or risks associated with cash sale and rent-back?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Common challenges include negotiating a fair rental price and ensuring the lease terms are clear and favorable. Risks might involve the new owner's potential decision not to renew the lease, requiring you to find new housing. A key decision factor is carefully reviewing both the sale and lease agreements. Our First-Party Insight shows that ensuring both agreements protect your interests is paramount, which is a focus for our team serving areas from Sunny Isles Beach to Doral.",
+        "@type": "Answer",
+        "description": "Challenges include negotiating rent and terms; risks involve lease non-renewal. Careful agreement review is crucial."
+      }
+    }
+  ],
+  "description": "Challenges include negotiating rent and terms; risks involve lease non-renewal. Careful agreement review is crucial."
+}

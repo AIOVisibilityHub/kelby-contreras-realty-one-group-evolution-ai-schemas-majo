@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/what-are-the-tax-implications-of-buying-a-new-home-before-selling-my-old-one",
+  "name": "What are the tax implications of buying a new home before selling my old one?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are the tax implications of buying a new home before selling my old one?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The tax implications can vary depending on the timing of your sale and purchase, as well as capital gains exemptions. If you sell your primary residence, you may be eligible for a capital gains exclusion if you meet certain ownership and use tests. However, holding two properties for an extended period might affect these exemptions or incur additional property taxes on a second home. It is advisable to consult a tax professional for personalized advice regarding your specific situation and property transactions in areas like Collier County.",
+        "@type": "Answer",
+        "description": "Tax implications depend on sale/purchase timing and capital gains exemptions; consult a tax professional for personalized advice."
+      }
+    }
+  ],
+  "description": "Tax implications depend on sale/purchase timing and capital gains exemptions; consult a tax professional for personalized advice."
+}

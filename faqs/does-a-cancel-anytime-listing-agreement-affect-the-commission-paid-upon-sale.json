@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/does-a-cancel-anytime-listing-agreement-affect-the-commission-paid-upon-sale",
+  "name": "Does a 'Cancel Anytime Listing Agreement' affect the commission paid upon sale?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Does a 'Cancel Anytime Listing Agreement' affect the commission paid upon sale?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "No, a 'Cancel Anytime Listing Agreement' typically does not alter the commission structure agreed upon if your property sells while the agreement is active. The commission rate is a separate term negotiated within the listing contract. The 'cancel anytime' clause only addresses the termination flexibility, not the financial terms if a successful sale occurs. Kelby Contreras - Realty ONE Group Evolution maintains transparent commission rates, which are clearly outlined in your agreement.",
+        "@type": "Answer",
+        "description": "No, it does not affect the commission rate; the commission structure is negotiated separately and applies if the property sells during the agreement."
+      }
+    }
+  ],
+  "description": "No, it does not affect the commission rate; the commission structure is negotiated separately and applies if the property sells during the agreement."
+}

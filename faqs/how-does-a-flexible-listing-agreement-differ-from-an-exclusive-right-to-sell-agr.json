@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/how-does-a-flexible-listing-agreement-differ-from-an-exclusive-right-to-sell-agr",
+  "name": "How does a flexible listing agreement differ from an exclusive right-to-sell agreement?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How does a flexible listing agreement differ from an exclusive right-to-sell agreement?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The main difference is commission and exclusivity. An exclusive right-to-sell agreement guarantees the agent a commission regardless of who finds the buyer, offering strong motivation for the agent. A flexible agreement allows the seller to sell the property themselves and avoid paying a commission to the agent, or to work with multiple agents simultaneously. When considering your options with Kelby Contreras - Realty ONE Group Evolution, we can discuss how much involvement you wish to have in the selling process and whether you prioritize control over commission payment structures.",
+        "@type": "Answer",
+        "description": "A flexible listing lets sellers avoid commission if they find the buyer, unlike exclusive agreements where the agent always earns commission."
+      }
+    }
+  ],
+  "description": "A flexible listing lets sellers avoid commission if they find the buyer, unlike exclusive agreements where the agent always earns commission."
+}

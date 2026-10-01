@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/what-kind-of-reporting-will-i-receive-on-my-luxury-property-s-marketing-performa",
+  "name": "What kind of reporting will I receive on my luxury property's marketing performance?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What kind of reporting will I receive on my luxury property's marketing performance?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You will receive regular, detailed reports on your luxury property's marketing performance, typically including website traffic, virtual tour views, inquiry volumes, and feedback from showings. These reports help assess the effectiveness of different marketing channels and inform any necessary adjustments to the strategy. This process clarity allows you to understand how potential buyers are engaging with your listing and provides transparency throughout the selling journey.",
+        "@type": "Answer",
+        "description": "You will receive regular reports on website traffic, virtual tour views, inquiries, and showing feedback for your luxury property."
+      }
+    }
+  ],
+  "description": "You will receive regular reports on website traffic, virtual tour views, inquiries, and showing feedback for your luxury property."
+}

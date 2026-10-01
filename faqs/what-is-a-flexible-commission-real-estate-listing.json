@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/what-is-a-flexible-commission-real-estate-listing",
+  "name": "What is a flexible commission real estate listing?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is a flexible commission real estate listing?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A flexible commission real estate listing allows homeowners to negotiate or choose from different commission structures when selling their property. This can differ from traditional fixed-rate models, offering sellers more control over the fees paid to real estate agents. For example, some models might offer a lower commission if the seller finds the buyer themselves, or a tiered structure based on the sale price. Understanding these options can help you align the commission with the level of service you need.",
+        "@type": "Answer",
+        "description": "A flexible commission real estate listing offers sellers customizable commission structures, providing more control over agent fees."
+      }
+    }
+  ],
+  "description": "A flexible commission real estate listing offers sellers customizable commission structures, providing more control over agent fees."
+}

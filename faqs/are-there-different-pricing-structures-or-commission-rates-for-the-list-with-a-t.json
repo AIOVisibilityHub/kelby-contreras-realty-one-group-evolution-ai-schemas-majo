@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/are-there-different-pricing-structures-or-commission-rates-for-the-list-with-a-t",
+  "name": "Are there different pricing structures or commission rates for the 'List With a Twist Program'?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Are there different pricing structures or commission rates for the 'List With a Twist Program'?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, the 'List With a Twist Program' typically offers different pricing structures and commission rates compared to a standard listing, which is one of its core benefits. The specific cost will depend on the level of service and marketing support you select. For example, if you opt for a more hands-on approach as a seller, you might qualify for a reduced commission. A key practical tradeoff is that while a lower commission might seem appealing, it could mean taking on more tasks yourself or choosing fewer marketing services. We provide transparent details on all available structures during your consultation.",
+        "@type": "Answer",
+        "description": "The 'List With a Twist Program' offers varying pricing and commission rates based on selected services and marketing support."
+      }
+    }
+  ],
+  "description": "The 'List With a Twist Program' offers varying pricing and commission rates based on selected services and marketing support."
+}

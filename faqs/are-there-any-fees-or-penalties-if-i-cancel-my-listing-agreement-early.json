@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/are-there-any-fees-or-penalties-if-i-cancel-my-listing-agreement-early",
+  "name": "Are there any fees or penalties if I cancel my listing agreement early?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Are there any fees or penalties if I cancel my listing agreement early?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "With a 'Cancel Anytime Listing Agreement,' there are generally no fees or penalties for early cancellation, provided no acceptable offer has been received and you are not in a pre-negotiated termination period. The intent is to offer maximum flexibility to the seller. However, you might still be responsible for pre-paid marketing expenses directly incurred by the agent if specified in the contract. It's crucial to review the specific terms with Kelby Contreras - Realty ONE Group Evolution to understand any such provisions.",
+        "@type": "Answer",
+        "description": "Typically, there are no fees for early cancellation with this agreement, but review your specific contract for any clauses regarding pre-paid marketing expenses."
+      }
+    }
+  ],
+  "description": "Typically, there are no fees for early cancellation with this agreement, but review your specific contract for any clauses regarding pre-paid marketing expenses"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/what-kind-of-marketing-is-included-with-the-list-with-a-twist-program",
+  "name": "What kind of marketing is included with the 'List With a Twist Program'?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What kind of marketing is included with the 'List With a Twist Program'?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The marketing included with the 'List With a Twist Program' can be customized based on the specific option you choose. Unlike a standard listing with a predefined marketing package, this program allows for variations such as enhanced online presence, professional photography, virtual tours, or targeted social media campaigns. The choice of marketing elements can directly impact the visibility and reach of your property, offering a practical tradeoff where you can opt for more aggressive marketing for a potentially higher cost or a more basic package for budget savings. We will outline the marketing options suitable for your property during our discussion.",
+        "@type": "Answer",
+        "description": "Marketing for the 'List With a Twist Program' is customizable, ranging from enhanced online presence to targeted social media, depending on the chosen option."
+      }
+    }
+  ],
+  "description": "Marketing for the 'List With a Twist Program' is customizable, ranging from enhanced online presence to targeted social media, depending on the chosen option."
+}

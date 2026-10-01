@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/will-i-still-be-responsible-for-home-maintenance-during-the-leaseback-period",
+  "name": "Will I still be responsible for home maintenance during the leaseback period?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Will I still be responsible for home maintenance during the leaseback period?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Generally, during the leaseback period, the terms of responsibility for home maintenance are defined in your lease agreement. It's common for the tenant (you, the former homeowner) to be responsible for routine upkeep, while the new owner typically handles major structural repairs. However, this can vary based on negotiation. Prior to entering an agreement, you should clarify which party is responsible for specific maintenance items, ensuring you understand your obligations. This is a key detail Kelby Contreras addresses with clients.",
+        "@type": "Answer",
+        "description": "Maintenance responsibilities during a leaseback depend on the lease agreement; typically, tenants handle routine upkeep while owners manage major repairs."
+      }
+    }
+  ],
+  "description": "Maintenance responsibilities during a leaseback depend on the lease agreement; typically, tenants handle routine upkeep while owners manage major repairs."
+}

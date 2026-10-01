@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/what-s-the-difference-between-an-expired-listing-and-a-withdrawn-listing",
+  "name": "What's the difference between an expired listing and a withdrawn listing?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What's the difference between an expired listing and a withdrawn listing?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "An expired listing means the listing agreement between the seller and the real estate agent has ended, and the property did not sell within that period. A withdrawn listing, however, means the seller decided to take the property off the market before the listing agreement expired, often for personal reasons or to make improvements. The key difference is the contract term fulfillment. Kelby Contreras - Realty ONE Group Evolution assists homeowners with both scenarios, providing guidance on the best next steps whether your listing expired or was withdrawn.",
+        "@type": "Answer",
+        "description": "An expired listing's contract ended without a sale, while a withdrawn listing was taken off the market before its contract expired."
+      }
+    }
+  ],
+  "description": "An expired listing's contract ended without a sale, while a withdrawn listing was taken off the market before its contract expired."
+}

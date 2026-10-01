@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/what-types-of-flexible-commission-structures-are-available",
+  "name": "What types of flexible commission structures are available?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What types of flexible commission structures are available?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Common types of flexible commission structures include discounted rates for seller-found buyers, flat-fee options for basic listing services, and tiered commissions that adjust based on the final sale price or marketing package chosen. Some models might also offer varying rates based on the agent's involvement. It’s important to discuss the specific services included with each structure, as the level of support can vary significantly. This helps you compare and decide which option aligns best with your selling goals.",
+        "@type": "Answer",
+        "description": "Flexible commission structures vary, including discounted rates for seller-found buyers, flat fees, or tiered commissions based on sale price or services, allowing sellers to compare options."
+      }
+    }
+  ],
+  "description": "Flexible commission structures vary, including discounted rates for seller-found buyers, flat fees, or tiered commissions based on sale price or services, allow"
+}

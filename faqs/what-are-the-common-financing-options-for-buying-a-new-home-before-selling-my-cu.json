@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/what-are-the-common-financing-options-for-buying-a-new-home-before-selling-my-cu",
+  "name": "What are the common financing options for buying a new home before selling my current one?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are the common financing options for buying a new home before selling my current one?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Common financing options include bridge loans, home equity loans (HEL), home equity lines of credit (HELOC), or traditional mortgages where you qualify to carry both payments. A bridge loan provides short-term financing secured by your current home's equity, allowing you to make an offer on a new home. The choice depends on your equity, credit score, and financial stability. It's important to compare interest rates, fees, and repayment terms for each option to determine the most cost-effective solution for your specific situation.",
+        "@type": "Answer",
+        "description": "Financing options include bridge loans, home equity products, or traditional mortgages if you qualify for two payments, with each having different costs and terms."
+      }
+    }
+  ],
+  "description": "Financing options include bridge loans, home equity products, or traditional mortgages if you qualify for two payments, with each having different costs and ter"
+}

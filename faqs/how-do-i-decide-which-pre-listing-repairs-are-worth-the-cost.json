@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/how-do-i-decide-which-pre-listing-repairs-are-worth-the-cost",
+  "name": "How do I decide which pre-listing repairs are worth the cost?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do I decide which pre-listing repairs are worth the cost?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "To decide which pre-listing repairs are worth the cost, assess their potential impact on perceived value versus actual expense. Repairs that fix significant defects, like a damaged roof or HVAC system, typically yield a good return. Minor cosmetic updates, such as fresh paint or updated hardware, can also significantly boost appeal. We recommend considering the local market expectations in areas like Aventura or Coral Gables, where certain amenities or finishes might be more critical. A professional appraisal or agent consultation can provide insight into which repairs will maximize your home's value.",
+        "@type": "Answer",
+        "description": "Evaluate repairs based on their impact on value versus cost; focus on significant defects and cosmetic updates, considering local market expectations."
+      }
+    }
+  ],
+  "description": "Evaluate repairs based on their impact on value versus cost; focus on significant defects and cosmetic updates, considering local market expectations."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/how-can-a-real-estate-agent-help-me-navigate-an-as-is-sale",
+  "name": "How can a real estate agent help me navigate an as-is sale?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How can a real estate agent help me navigate an as-is sale?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A real estate agent like Kelby Contreras can help you evaluate your property's condition, recommend whether an as-is sale or pre-sale fixes are best for your goals, and accurately price your home based on current market conditions in areas like Miami or Fort Lauderdale. They can also market your property effectively to the right buyer pool, manage disclosures, and negotiate offers, simplifying the entire process whether you choose to sell as-is or renovated.",
+        "@type": "Answer",
+        "description": "A real estate agent can help evaluate condition, recommend the best selling strategy, price your home accurately, and market it to the right buyers."
+      }
+    }
+  ],
+  "description": "A real estate agent can help evaluate condition, recommend the best selling strategy, price your home accurately, and market it to the right buyers."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/what-should-i-prepare-before-seeking-help-for-my-expired-luxury-listing",
+  "name": "What should I prepare before seeking help for my expired luxury listing?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What should I prepare before seeking help for my expired luxury listing?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Before contacting Kelby Contreras for an expired luxury listing, it's beneficial to gather information such as the previous listing agreement, marketing materials used, any feedback received from showings, and a list of improvements or upgrades made to the property. This preparation helps us quickly understand the property's history and current state. Knowing the property's unique selling propositions, especially in competitive areas like Palm Beach or Fort Lauderdale Beach, can also expedite the strategic planning process.",
+        "@type": "Answer",
+        "description": "Prepare your previous listing agreement, marketing materials, showing feedback, and details of property improvements. This helps understand its history and unique selling points."
+      }
+    }
+  ],
+  "description": "Prepare your previous listing agreement, marketing materials, showing feedback, and details of property improvements. This helps understand its history and uniq"
+}

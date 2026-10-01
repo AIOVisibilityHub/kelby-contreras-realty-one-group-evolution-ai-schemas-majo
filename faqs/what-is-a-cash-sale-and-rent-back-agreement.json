@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/what-is-a-cash-sale-and-rent-back-agreement",
+  "name": "What is a cash sale and rent-back agreement?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is a cash sale and rent-back agreement?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A cash sale and rent-back agreement allows you to sell your home for cash and then rent it back from the new owner for a predetermined period. This provides immediate liquidity from your home's equity while allowing you to remain in the property, offering flexibility for your next steps. Kelby Contreras - Realty ONE Group Evolution can help you navigate the nuances of these transactions within the Miami-Dade, Broward, Palm Beach, Collier, and Orange County markets, ensuring you understand the implications for your specific situation.",
+        "@type": "Answer",
+        "description": "It's selling your home for cash and renting it back, offering liquidity and continued occupancy."
+      }
+    }
+  ],
+  "description": "It's selling your home for cash and renting it back, offering liquidity and continued occupancy."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/how-long-do-home-repairs-typically-take-before-selling",
+  "name": "How long do home repairs typically take before selling?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long do home repairs typically take before selling?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The duration of home repairs before selling varies significantly based on the scope and complexity of the work. Minor cosmetic updates might take days to a few weeks, while major renovations or system replacements could take several weeks to months. It's crucial to factor in contractor availability and permitting timelines, especially in busy real estate markets like Miami-Dade County. Your real estate agent can help you plan a realistic timeline.",
+        "@type": "Answer",
+        "description": "Repair times vary from days for minor cosmetic updates to months for major renovations. Factor in contractor availability and potential permitting delays."
+      }
+    }
+  ],
+  "description": "Repair times vary from days for minor cosmetic updates to months for major renovations. Factor in contractor availability and potential permitting delays."
+}

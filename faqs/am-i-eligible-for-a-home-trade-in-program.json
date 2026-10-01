@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/am-i-eligible-for-a-home-trade-in-program",
+  "name": "Am I eligible for a home trade-in program?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Am I eligible for a home trade-in program?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Eligibility for a home trade-in program often depends on factors such as your current home's equity, condition, and location. Lenders and program providers have specific criteria that homes must meet. To determine if your property in areas like Aventura, Boca Raton, or Fort Lauderdale Beach qualifies, it's best to have an initial consultation with Kelby Contreras - Realty ONE Group Evolution, who can assess your specific situation and guide you through the requirements.",
+        "@type": "Answer",
+        "description": "Eligibility depends on your home's equity, condition, and location. Consult with us to assess your property's specific qualifications."
+      }
+    }
+  ],
+  "description": "Eligibility depends on your home's equity, condition, and location. Consult with us to assess your property's specific qualifications."
+}

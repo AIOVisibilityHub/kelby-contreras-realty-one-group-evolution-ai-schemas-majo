@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/what-repairs-can-i-do-myself-versus-hiring-a-professional",
+  "name": "What repairs can I do myself versus hiring a professional?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What repairs can I do myself versus hiring a professional?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Deciding between DIY and professional help depends on your skills, time, and the complexity of the repair. Minor cosmetic tasks like painting, decluttering, basic landscaping, or patching small holes are often suitable for DIY. However, any repairs involving plumbing, electrical work, roofing, or structural elements should typically be handled by licensed professionals to ensure safety, code compliance, and quality. Incorrect DIY work can lead to bigger problems or deter buyers. Evaluate your capabilities and the potential risks before undertaking any repair, especially for homes in competitive markets like Miami or Fort Lauderdale.",
+        "@type": "Answer",
+        "description": "Handle minor cosmetic fixes yourself, but hire licensed professionals for plumbing, electrical, roofing, or structural work to ensure safety and quality."
+      }
+    }
+  ],
+  "description": "Handle minor cosmetic fixes yourself, but hire licensed professionals for plumbing, electrical, roofing, or structural work to ensure safety and quality."
+}

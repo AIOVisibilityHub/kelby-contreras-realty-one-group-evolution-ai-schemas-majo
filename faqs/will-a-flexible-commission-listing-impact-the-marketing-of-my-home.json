@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/will-a-flexible-commission-listing-impact-the-marketing-of-my-home",
+  "name": "Will a flexible commission listing impact the marketing of my home?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Will a flexible commission listing impact the marketing of my home?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A flexible commission listing can impact marketing depending on the specific services you choose within the agreed-upon structure. Some lower-commission options might mean fewer marketing services are included, such as professional photography, virtual tours, or extensive online advertising. A practical tradeoff is that while you may save on commission, you might need to handle some marketing aspects yourself or pay for them separately to ensure broad exposure for your property. Always clarify the marketing services provided for your chosen plan.",
+        "@type": "Answer",
+        "description": "A flexible commission listing's impact on marketing depends on included services; lower commission might mean fewer marketing efforts unless handled separately."
+      }
+    }
+  ],
+  "description": "A flexible commission listing's impact on marketing depends on included services; lower commission might mean fewer marketing efforts unless handled separately."
+}

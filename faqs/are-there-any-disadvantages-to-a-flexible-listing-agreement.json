@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/are-there-any-disadvantages-to-a-flexible-listing-agreement",
+  "name": "Are there any disadvantages to a flexible listing agreement?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Are there any disadvantages to a flexible listing agreement?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, disadvantages can include less motivation for an agent to heavily market your property, as their commission isn't guaranteed. This could potentially lead to longer selling times or less exposure. Furthermore, managing multiple agents under an open listing can become complex. Kelby Contreras - Realty ONE Group Evolution typically advises clients that while a flexible agreement offers control, it often comes with the practical tradeoff of reduced dedicated marketing efforts from a single agent, which can be crucial in competitive markets like Miami or Fort Lauderdale.",
+        "@type": "Answer",
+        "description": "Disadvantages may include less agent motivation, potentially longer selling times, and complex management if working with multiple agents."
+      }
+    }
+  ],
+  "description": "Disadvantages may include less agent motivation, potentially longer selling times, and complex management if working with multiple agents."
+}

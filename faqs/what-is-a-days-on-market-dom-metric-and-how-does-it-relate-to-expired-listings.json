@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/what-is-a-days-on-market-dom-metric-and-how-does-it-relate-to-expired-listings",
+  "name": "What is a 'days on market' (DOM) metric and how does it relate to expired listings?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is a 'days on market' (DOM) metric and how does it relate to expired listings?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Days on Market (DOM) measures the number of days a property has been actively listed for sale. When a listing expires, the DOM count typically resets if the home is re-listed, especially with a new agent or after a significant period off the market. However, a lengthy DOM before expiration can signal to buyers that a home has issues or is overpriced. This process clarity helps buyers and agents gauge market interest and can influence negotiation strategies in competitive markets like Las Olas or Williams Island.",
+        "@type": "Answer",
+        "description": "DOM tracks the time a property is listed; an expired listing often resets DOM, but high DOM prior can suggest issues to buyers."
+      }
+    }
+  ],
+  "description": "DOM tracks the time a property is listed; an expired listing often resets DOM, but high DOM prior can suggest issues to buyers."
+}

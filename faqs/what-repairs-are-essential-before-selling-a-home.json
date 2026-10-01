@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/what-repairs-are-essential-before-selling-a-home",
+  "name": "What repairs are essential before selling a home?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What repairs are essential before selling a home?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Essential repairs typically include fixing leaky roofs, addressing plumbing issues, repairing damaged flooring, and ensuring all major appliances are in working order. Neglecting these can lead to lower offers or issues during inspection. It's also important to address any safety hazards. Kelby Contreras advises clients to complete a pre-listing inspection to identify critical issues early, which can streamline the selling process in competitive markets like Miami and Fort Lauderdale.",
+        "@type": "Answer",
+        "description": "Essential repairs include fixing leaky roofs, plumbing, damaged flooring, and ensuring appliances work. Addressing these prevents inspection issues and lower offers, and a pre-listing inspection can identify critical concerns early."
+      }
+    }
+  ],
+  "description": "Essential repairs include fixing leaky roofs, plumbing, damaged flooring, and ensuring appliances work. Addressing these prevents inspection issues and lower of"
+}

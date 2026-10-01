@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/what-should-i-prepare-before-relisting-my-luxury-home",
+  "name": "What should I prepare before relisting my luxury home?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What should I prepare before relisting my luxury home?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Before relisting your luxury home, it's beneficial to gather all previous listing data, including showing feedback, marketing materials, and any inspection reports. This information helps identify potential issues or areas for improvement. Consider making minor repairs, decluttering, and depersonalizing to present the home in its best light for new marketing efforts. Kelby Contreras advises clients to review property maintenance records and recent utility costs, which can be useful details for potential buyers, especially for larger estates in areas like Coral Gables or Pinecrest.",
+        "@type": "Answer",
+        "description": "Prepare for relisting by gathering past listing data, addressing feedback, and ensuring the home is fully prepared with minor repairs and decluttering."
+      }
+    }
+  ],
+  "description": "Prepare for relisting by gathering past listing data, addressing feedback, and ensuring the home is fully prepared with minor repairs and decluttering."
+}

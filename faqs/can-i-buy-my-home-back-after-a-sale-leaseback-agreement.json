@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/can-i-buy-my-home-back-after-a-sale-leaseback-agreement",
+  "name": "Can I buy my home back after a sale-leaseback agreement?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I buy my home back after a sale-leaseback agreement?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Generally, a standard sale-leaseback agreement does not include an option for the original homeowner to repurchase the property. The sale is typically final, and the lease is a separate arrangement for continued occupancy. If repurchasing is a possibility you desire, it must be explicitly negotiated and included as a 'right of first refusal' or 'option to purchase' clause in the original contract. This is a critical detail to clarify during initial discussions if it's a priority for you, which Kelby Contreras can help navigate.",
+        "@type": "Answer",
+        "description": "Standard sale-leasebacks typically do not include a buy-back option. If desired, it must be specifically negotiated and included in the contract."
+      }
+    }
+  ],
+  "description": "Standard sale-leasebacks typically do not include a buy-back option. If desired, it must be specifically negotiated and included in the contract."
+}

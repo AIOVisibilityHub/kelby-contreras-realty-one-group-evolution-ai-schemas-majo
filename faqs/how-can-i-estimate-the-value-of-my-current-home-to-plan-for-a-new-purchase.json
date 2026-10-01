@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/how-can-i-estimate-the-value-of-my-current-home-to-plan-for-a-new-purchase",
+  "name": "How can I estimate the value of my current home to plan for a new purchase?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How can I estimate the value of my current home to plan for a new purchase?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "To estimate your current home's value, Kelby Contreras can provide a Comparative Market Analysis (CMA). This report analyzes recent sales of similar homes in your neighborhood, active listings, and market trends. It considers factors like property condition, size, features, and location in specific areas such as Aventura or Coral Gables. A thorough CMA helps establish a realistic asking price, which is crucial for financial planning when looking to buy a new home. This preparation step helps determine how much equity you might have available.",
+        "@type": "Answer",
+        "description": "Kelby Contreras can provide a Comparative Market Analysis (CMA) based on local sales and market trends to estimate your home's value."
+      }
+    }
+  ],
+  "description": "Kelby Contreras can provide a Comparative Market Analysis (CMA) based on local sales and market trends to estimate your home's value."
+}

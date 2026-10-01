@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/how-much-should-i-budget-for-home-renovations-before-selling",
+  "name": "How much should I budget for home renovations before selling?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How much should I budget for home renovations before selling?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Budgeting for pre-sale renovations depends on your home's current condition and the market. A common guideline is to invest 1-2% of your home's value for minor updates, or more for significant repairs. The goal is to maximize appeal without overspending. Kelby Contreras can help you prioritize updates based on local buyer trends in areas like Palm Beach or Collier County, ensuring your budget is effectively allocated to generate the best return on your investment.",
+        "@type": "Answer",
+        "description": "Budget 1-2% of your home's value for minor updates, potentially more for significant repairs. The amount depends on your home's condition and market, aiming to maximize appeal without overspending."
+      }
+    }
+  ],
+  "description": "Budget 1-2% of your home's value for minor updates, potentially more for significant repairs. The amount depends on your home's condition and market, aiming to"
+}

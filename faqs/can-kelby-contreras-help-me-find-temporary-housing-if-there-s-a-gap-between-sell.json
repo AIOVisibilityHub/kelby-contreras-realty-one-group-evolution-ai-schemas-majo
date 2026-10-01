@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/can-kelby-contreras-help-me-find-temporary-housing-if-there-s-a-gap-between-sell",
+  "name": "Can Kelby Contreras help me find temporary housing if there's a gap between selling and buying?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can Kelby Contreras help me find temporary housing if there's a gap between selling and buying?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "While Kelby Contreras focuses on real estate transactions, we can provide resources and guidance on temporary housing options if a gap occurs between selling your current home and moving into your new one. This might involve exploring short-term rentals or discussing flexible closing arrangements with buyers or sellers. Our experience in areas like West Palm Beach and Doral gives us insight into local rental markets that can help you manage this transition.",
+        "@type": "Answer",
+        "description": "Yes, Kelby Contreras can provide guidance and resources for temporary housing options or flexible closing arrangements if there is a gap between transactions."
+      }
+    }
+  ],
+  "description": "Yes, Kelby Contreras can provide guidance and resources for temporary housing options or flexible closing arrangements if there is a gap between transactions."
+}

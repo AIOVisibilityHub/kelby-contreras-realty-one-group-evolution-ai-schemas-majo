@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/what-are-the-financial-implications-of-a-sale-leaseback-versus-a-traditional-hom",
+  "name": "What are the financial implications of a sale-leaseback versus a traditional home sale?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are the financial implications of a sale-leaseback versus a traditional home sale?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "With a sale-leaseback, you immediately receive cash from the sale of your home, but you then incur ongoing rental payments. This differs from a traditional sale where you typically vacate the property after closing and then seek a new residence. A practical tradeoff is the exchange of homeownership and future equity appreciation for immediate liquidity and the flexibility of not needing to relocate. Kelby Contreras helps clients in areas like Aventura or Coral Gables compare the financial outcomes, including potential tax implications, to make an informed decision.",
+        "@type": "Answer",
+        "description": "A sale-leaseback provides immediate cash but introduces rental payments, unlike a traditional sale where you move out. It trades ownership for liquidity."
+      }
+    }
+  ],
+  "description": "A sale-leaseback provides immediate cash but introduces rental payments, unlike a traditional sale where you move out. It trades ownership for liquidity."
+}

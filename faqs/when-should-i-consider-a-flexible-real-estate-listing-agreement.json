@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/when-should-i-consider-a-flexible-real-estate-listing-agreement",
+  "name": "When should I consider a flexible real estate listing agreement?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When should I consider a flexible real estate listing agreement?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You might consider a flexible listing agreement if you already have a potential buyer in mind, or if you plan to actively market the property yourself. It can also be suitable if your property is unique and you believe it will sell quickly through your own network. When discussing your situation with Kelby Contreras - Realty ONE Group Evolution, we'll explore your selling goals, timeline, and current market conditions in your area, such as Palm Beach County, to help determine if this approach aligns with your needs.",
+        "@type": "Answer",
+        "description": "Consider a flexible agreement if you have a buyer, plan to market independently, or have a unique property likely to sell quickly through your network."
+      }
+    }
+  ],
+  "description": "Consider a flexible agreement if you have a buyer, plan to market independently, or have a unique property likely to sell quickly through your network."
+}

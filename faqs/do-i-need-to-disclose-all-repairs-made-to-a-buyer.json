@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/do-i-need-to-disclose-all-repairs-made-to-a-buyer",
+  "name": "Do I need to disclose all repairs made to a buyer?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do I need to disclose all repairs made to a buyer?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, in Florida, sellers are generally required to disclose all known material defects that are not readily observable, which includes significant repairs. This disclosure typically occurs through a Seller's Property Disclosure Statement. While minor cosmetic fixes might not require specific disclosure if they were superficial, structural or functional repairs should always be mentioned. Transparency builds trust with potential buyers and helps prevent future legal complications. Kelby Contreras - Realty ONE Group Evolution advises clients to consult with their agent regarding specific disclosure requirements for their property in Miami-Dade, Broward, Palm Beach, Collier, or Orange County.",
+        "@type": "Answer",
+        "description": "In Florida, disclose all known material defects and significant repairs made to a buyer, typically through a Seller's Property Disclosure Statement, to build trust and avoid issues."
+      }
+    }
+  ],
+  "description": "In Florida, disclose all known material defects and significant repairs made to a buyer, typically through a Seller's Property Disclosure Statement, to build tr"
+}

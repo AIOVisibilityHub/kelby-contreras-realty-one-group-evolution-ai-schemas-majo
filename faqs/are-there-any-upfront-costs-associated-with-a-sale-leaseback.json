@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/are-there-any-upfront-costs-associated-with-a-sale-leaseback",
+  "name": "Are there any upfront costs associated with a sale-leaseback?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Are there any upfront costs associated with a sale-leaseback?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, similar to a traditional home sale, you can expect some upfront costs in a sale-leaseback transaction. These may include closing costs, title fees, and potentially real estate commissions, though some investors might cover certain fees. It's important to get a detailed breakdown of all potential expenses before committing. Kelby Contreras helps prepare clients by outlining the typical costs involved, allowing for a clear understanding of the net proceeds you can expect from the sale in advance.",
+        "@type": "Answer",
+        "description": "Yes, sale-leaseback transactions involve upfront costs like closing fees and commissions, similar to traditional sales."
+      }
+    }
+  ],
+  "description": "Yes, sale-leaseback transactions involve upfront costs like closing fees and commissions, similar to traditional sales."
+}

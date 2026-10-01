@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/should-i-renovate-my-kitchen-before-selling-my-home",
+  "name": "Should I renovate my kitchen before selling my home?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Should I renovate my kitchen before selling my home?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A kitchen renovation can significantly boost your home's appeal, but the extent depends on its current condition and your budget. Minor updates, such as painting cabinets, updating hardware, and replacing countertops, often provide a good return. Major overhauls are usually only advisable if your kitchen is severely outdated or dysfunctional. Kelby Contreras can help you assess if a kitchen renovation aligns with buyer expectations in your specific market, such as Brickell or Coral Gables, before you commit to large expenses.",
+        "@type": "Answer",
+        "description": "Renovating your kitchen can boost appeal, but assess the current condition and your budget. Minor updates often yield a good return, while major overhauls depend on market expectations and your specific property."
+      }
+    }
+  ],
+  "description": "Renovating your kitchen can boost appeal, but assess the current condition and your budget. Minor updates often yield a good return, while major overhauls depen"
+}

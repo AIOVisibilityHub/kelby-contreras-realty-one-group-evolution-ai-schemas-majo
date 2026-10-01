@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/why-didn-t-my-luxury-home-sell-the-first-time-it-was-listed",
+  "name": "Why didn't my luxury home sell the first time it was listed?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Why didn't my luxury home sell the first time it was listed?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Luxury homes can fail to sell for several reasons, including incorrect pricing, ineffective marketing, poor property presentation, or timing issues in the market. Kelby Contreras will conduct a thorough analysis of the previous listing, comparing it to current market conditions and recent comparable sales in your specific area, such as Aventura or Coral Gables. Understanding these factors is a crucial preparation step before relisting, as it helps tailor a strategy for a successful sale.",
+        "@type": "Answer",
+        "description": "Reasons include incorrect pricing, ineffective marketing, poor presentation, or market timing. Kelby Contreras analyzes these factors to prepare for a successful relist."
+      }
+    }
+  ],
+  "description": "Reasons include incorrect pricing, ineffective marketing, poor presentation, or market timing. Kelby Contreras analyzes these factors to prepare for a successfu"
+}

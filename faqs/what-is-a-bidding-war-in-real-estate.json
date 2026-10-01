@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/what-is-a-bidding-war-in-real-estate",
+  "name": "What is a bidding war in real estate?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is a bidding war in real estate?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A bidding war occurs when multiple buyers submit competitive offers for the same property, typically driving up the final sale price. This situation usually arises when a home is desirable, well-priced, and the market has more buyers than available inventory. For sellers, it often leads to a quicker sale and a higher return, but requires strategic initial pricing and effective marketing to attract multiple interested parties. Kelby Contreras and Realty ONE Group Evolution focus on creating this competitive environment through expert listing strategies.",
+        "@type": "Answer",
+        "description": "A bidding war happens when multiple buyers compete for a home, leading to higher offers. It's often driven by desirable properties in a competitive market."
+      }
+    }
+  ],
+  "description": "A bidding war happens when multiple buyers compete for a home, leading to higher offers. It's often driven by desirable properties in a competitive market."
+}

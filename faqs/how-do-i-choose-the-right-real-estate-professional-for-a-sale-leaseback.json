@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/how-do-i-choose-the-right-real-estate-professional-for-a-sale-leaseback",
+  "name": "How do I choose the right real estate professional for a sale-leaseback?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do I choose the right real estate professional for a sale-leaseback?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Choosing the right real estate professional for a sale-leaseback involves finding someone with experience in these specific transactions and a deep understanding of your local market. Look for a professional who can connect you with suitable investors, clearly explain the complexities, and advocate for your best interests during negotiations for both the sale and the lease terms. Kelby Contreras with Realty ONE Group Evolution offers expertise across Miami-Dade, Broward, Palm Beach, Collier, and Orange Counties, providing tailored guidance and market insights for sellers considering this option.",
+        "@type": "Answer",
+        "description": "Choose a real estate professional experienced in sale-leasebacks, understands your local market, and can navigate negotiations effectively."
+      }
+    }
+  ],
+  "description": "Choose a real estate professional experienced in sale-leasebacks, understands your local market, and can navigate negotiations effectively."
+}

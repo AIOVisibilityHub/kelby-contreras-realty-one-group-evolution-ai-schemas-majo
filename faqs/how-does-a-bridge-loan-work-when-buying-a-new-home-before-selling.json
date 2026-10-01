@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/how-does-a-bridge-loan-work-when-buying-a-new-home-before-selling",
+  "name": "How does a bridge loan work when buying a new home before selling?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How does a bridge loan work when buying a new home before selling?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A bridge loan provides short-term financing to cover the down payment and initial costs of your new home, using the equity from your current home as collateral. This allows you to close on the new property before selling your existing one. The loan is typically repaid when your original home sells. Understanding the interest rates, fees, and the repayment period is essential. A practical tradeoff is that while it offers convenience and flexibility, bridge loans often have higher interest rates and closing costs than traditional mortgages.",
+        "@type": "Answer",
+        "description": "A bridge loan uses your current home's equity to finance a new purchase, repaid when your old home sells, offering flexibility but often at a higher cost."
+      }
+    }
+  ],
+  "description": "A bridge loan uses your current home's equity to finance a new purchase, repaid when your old home sells, offering flexibility but often at a higher cost."
+}

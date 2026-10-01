@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/how-do-i-decide-if-fixing-my-house-first-is-worth-the-investment",
+  "name": "How do I decide if fixing my house first is worth the investment?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do I decide if fixing my house first is worth the investment?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "To decide if fixing your house is worth it, analyze the potential return on investment (ROI) for specific repairs in your local market, such as Fort Lauderdale or Coral Gables. Focus on high-impact, cost-effective improvements like fresh paint, minor kitchen updates, or curb appeal enhancements that attract a broader range of buyers. A real estate professional can provide comparative market analysis to show what buyers in your area value most and where you'll see the best returns.",
+        "@type": "Answer",
+        "description": "Assess the potential return on investment for repairs, focusing on high-impact updates, by consulting with a local real estate expert."
+      }
+    }
+  ],
+  "description": "Assess the potential return on investment for repairs, focusing on high-impact updates, by consulting with a local real estate expert."
+}

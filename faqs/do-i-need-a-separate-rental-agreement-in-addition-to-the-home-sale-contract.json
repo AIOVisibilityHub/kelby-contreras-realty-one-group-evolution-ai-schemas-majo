@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/do-i-need-a-separate-rental-agreement-in-addition-to-the-home-sale-contract",
+  "name": "Do I need a separate rental agreement in addition to the home sale contract?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do I need a separate rental agreement in addition to the home sale contract?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, you absolutely need a separate, detailed rental agreement or lease to accompany the home sale contract in a sale-leaseback or post-occupancy scenario. The sale contract covers the transfer of ownership, while the rental agreement explicitly outlines your rights and responsibilities as a tenant, including rent amount, lease term, maintenance duties, and security deposit. This clear distinction prevents ambiguities and protects both parties, and our team ensures both documents are thoroughly prepared and coordinated.",
+        "@type": "Answer",
+        "description": "Yes, a separate rental agreement is essential alongside the home sale contract to define tenant rights, responsibilities, and lease terms, ensuring clarity for both parties."
+      }
+    }
+  ],
+  "description": "Yes, a separate rental agreement is essential alongside the home sale contract to define tenant rights, responsibilities, and lease terms, ensuring clarity for"
+}

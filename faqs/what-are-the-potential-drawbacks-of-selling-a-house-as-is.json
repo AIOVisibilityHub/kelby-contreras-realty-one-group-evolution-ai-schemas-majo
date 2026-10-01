@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/what-are-the-potential-drawbacks-of-selling-a-house-as-is",
+  "name": "What are the potential drawbacks of selling a house as-is?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are the potential drawbacks of selling a house as-is?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The main drawback of selling as-is is that you may receive a lower sale price compared to a renovated home, as buyers will factor in the cost of necessary repairs. The pool of potential buyers might also be smaller, typically attracting investors or those comfortable with renovation projects. You may also still need to address any required safety issues identified during an inspection, even with an as-is clause, depending on state regulations.",
+        "@type": "Answer",
+        "description": "Potential drawbacks include a lower sale price and a smaller buyer pool, as buyers factor in repair costs."
+      }
+    }
+  ],
+  "description": "Potential drawbacks include a lower sale price and a smaller buyer pool, as buyers factor in repair costs."
+}

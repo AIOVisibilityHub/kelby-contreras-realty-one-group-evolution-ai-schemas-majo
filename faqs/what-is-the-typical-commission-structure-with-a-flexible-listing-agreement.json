@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/what-is-the-typical-commission-structure-with-a-flexible-listing-agreement",
+  "name": "What is the typical commission structure with a flexible listing agreement?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the typical commission structure with a flexible listing agreement?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "With a flexible listing, the commission structure is often more conditional. If the seller finds the buyer independently, no commission is usually owed to the agent. If an agent brings a successful buyer, then the agreed-upon commission is paid. It's crucial to clarify these terms upfront to avoid disputes. Kelby Contreras - Realty ONE Group Evolution ensures that all commission terms, including the circumstances under which a commission is earned, are transparently outlined in any agreement, helping you understand your financial commitments from the start.",
+        "@type": "Answer",
+        "description": "Commission is typically owed only if an agent brings a buyer; if the seller finds the buyer, no commission is paid to the agent."
+      }
+    }
+  ],
+  "description": "Commission is typically owed only if an agent brings a buyer; if the seller finds the buyer, no commission is paid to the agent."
+}

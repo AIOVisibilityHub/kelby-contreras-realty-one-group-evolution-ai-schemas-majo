@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/what-is-the-role-of-my-real-estate-agent-when-i-m-trying-to-buy-and-sell-simulta",
+  "name": "What is the role of my real estate agent when I'm trying to buy and sell simultaneously?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the role of my real estate agent when I'm trying to buy and sell simultaneously?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Your real estate agent, such as Kelby Contreras, plays a crucial role in coordinating both transactions. This includes helping you assess market values for both properties, advising on timing and strategy (e.g., contingent offers versus bridge loans), and negotiating effectively. Kelby Contreras will manage the complexities of concurrent closings, ensuring a smoother transition. Their insight into local markets across Miami-Dade, Broward, Palm Beach, Collier, and Orange Counties is invaluable for navigating the dual process efficiently and minimizing stress.",
+        "@type": "Answer",
+        "description": "Your agent coordinates both transactions, advises on strategy and timing, and negotiates to ensure a smooth buy-sell process."
+      }
+    }
+  ],
+  "description": "Your agent coordinates both transactions, advises on strategy and timing, and negotiates to ensure a smooth buy-sell process."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/what-is-the-process-for-valuing-my-current-home-in-a-trade-in-program",
+  "name": "What is the process for valuing my current home in a trade-in program?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the process for valuing my current home in a trade-in program?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The valuation process typically involves a professional assessment of your property's condition, features, and recent comparable sales in your local market. Kelby Contreras - Realty ONE Group Evolution will help facilitate this assessment. This evaluation determines the offer for your home. As part of process clarity, you'll receive a detailed explanation of how the valuation was reached, ensuring transparency in the proposed trade-in value, which is crucial for clients in areas like Coral Gables or Pinecrest.",
+        "@type": "Answer",
+        "description": "Your home's value is assessed by a professional evaluation of its condition, features, and local comparable sales. We provide a transparent explanation of the valuation."
+      }
+    }
+  ],
+  "description": "Your home's value is assessed by a professional evaluation of its condition, features, and local comparable sales. We provide a transparent explanation of the v"
+}

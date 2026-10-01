@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/can-i-switch-to-a-flexible-commission-after-starting-with-a-traditional-listing",
+  "name": "Can I switch to a flexible commission after starting with a traditional listing?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I switch to a flexible commission after starting with a traditional listing?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Whether you can switch to a flexible commission after initially starting with a traditional listing depends on the terms of your signed listing agreement with your agent. Typically, these agreements are legally binding for a set period. You would need to discuss any modifications with your agent and potentially amend or terminate the existing contract. Understanding your current agreement’s clauses regarding termination or modification is a crucial preparation step before considering any changes.",
+        "@type": "Answer",
+        "description": "Switching to a flexible commission after a traditional listing depends on your existing listing agreement's terms, requiring discussion with your agent and potential contract amendment."
+      }
+    }
+  ],
+  "description": "Switching to a flexible commission after a traditional listing depends on your existing listing agreement's terms, requiring discussion with your agent and pote"
+}

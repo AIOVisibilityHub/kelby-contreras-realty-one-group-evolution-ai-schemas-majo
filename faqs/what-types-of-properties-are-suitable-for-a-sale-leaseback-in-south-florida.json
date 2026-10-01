@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/what-types-of-properties-are-suitable-for-a-sale-leaseback-in-south-florida",
+  "name": "What types of properties are suitable for a sale-leaseback in South Florida?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What types of properties are suitable for a sale-leaseback in South Florida?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Many types of residential properties can be suitable for a sale-leaseback arrangement in South Florida, including single-family homes, townhouses, and condos. Investors are typically interested in properties that hold value and are desirable for rental income. Location, such as in Aventura, Brickell, or Fort Lauderdale Beach, can influence investor interest. The key preparation is ensuring your property is well-maintained and marketable, as its condition and appeal will affect the sale price and lease terms offered by potential investors.",
+        "@type": "Answer",
+        "description": "Most residential properties in good condition, including homes, townhouses, and condos, are suitable for sale-leaseback, especially in desirable South Florida locations."
+      }
+    }
+  ],
+  "description": "Most residential properties in good condition, including homes, townhouses, and condos, are suitable for sale-leaseback, especially in desirable South Florida l"
+}

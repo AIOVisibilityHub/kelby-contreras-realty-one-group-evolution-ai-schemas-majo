@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/what-are-the-common-pitfalls-to-avoid-with-flexible-commission-models",
+  "name": "What are the common pitfalls to avoid with flexible commission models?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are the common pitfalls to avoid with flexible commission models?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Common pitfalls with flexible commission models include overlooking what services are excluded, underestimating your own time commitment for tasks you take on, or not clearly understanding the commission breakdown in various sales scenarios. It's crucial to carefully review the listing agreement to ensure all expectations are documented. A first-party insight is that ensuring transparency in service offerings helps avoid misunderstandings about agent responsibilities and ensures you receive the support you anticipate.",
+        "@type": "Answer",
+        "description": "Avoid pitfalls by understanding service exclusions, your time commitment, and commission breakdowns, and by ensuring all expectations are clearly documented in the listing agreement."
+      }
+    }
+  ],
+  "description": "Avoid pitfalls by understanding service exclusions, your time commitment, and commission breakdowns, and by ensuring all expectations are clearly documented in"
+}

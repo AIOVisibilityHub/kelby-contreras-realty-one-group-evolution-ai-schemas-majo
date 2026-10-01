@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/what-are-the-common-pitfalls-when-relisting-an-expired-luxury-property",
+  "name": "What are the common pitfalls when relisting an expired luxury property?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are the common pitfalls when relisting an expired luxury property?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Common pitfalls when relisting an expired luxury property include using the same marketing approach that failed previously, setting an unrealistic price, or neglecting necessary repairs or staging. A practical tradeoff is investing in professional staging or minor renovations versus a potentially longer time on the market. Kelby Contreras emphasizes avoiding these by conducting a fresh market analysis, proposing strategic updates, and implementing a refined marketing plan, especially critical in discerning markets such as Pinecrest or Coconut Grove.",
+        "@type": "Answer",
+        "description": "Common pitfalls include repeating past mistakes in marketing or pricing, or neglecting repairs. A practical tradeoff is investing in staging versus a longer market time."
+      }
+    }
+  ],
+  "description": "Common pitfalls include repeating past mistakes in marketing or pricing, or neglecting repairs. A practical tradeoff is investing in staging versus a longer mar"
+}

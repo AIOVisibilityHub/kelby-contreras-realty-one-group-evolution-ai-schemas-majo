@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/can-i-use-a-move-up-buyer-program-if-i-need-to-move-to-a-different-county-for-ex",
+  "name": "Can I use a Move-Up Buyer Program if I need to move to a different county, for example from Miami-Dade to Collier County?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I use a Move-Up Buyer Program if I need to move to a different county, for example from Miami-Dade to Collier County?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, our Move-Up Buyer Program is designed to assist clients across different counties within our service areas, including transitions from Miami-Dade to Collier County. We have local market expertise in all the counties we serve, enabling us to help you sell your current home and find a new one in your desired location. This requires coordination between our team members or network in the respective regions to ensure a consistent level of service and a smooth transition, managing the logistics of a longer-distance move effectively.",
+        "@type": "Answer",
+        "description": "Yes, our program can facilitate moves between counties like Miami-Dade and Collier, leveraging our local expertise across our service areas for a smooth transition."
+      }
+    }
+  ],
+  "description": "Yes, our program can facilitate moves between counties like Miami-Dade and Collier, leveraging our local expertise across our service areas for a smooth transit"
+}

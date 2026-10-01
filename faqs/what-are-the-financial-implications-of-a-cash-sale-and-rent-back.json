@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/what-are-the-financial-implications-of-a-cash-sale-and-rent-back",
+  "name": "What are the financial implications of a cash sale and rent-back?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are the financial implications of a cash sale and rent-back?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Financially, you receive the sale proceeds quickly, eliminating mortgage payments and property taxes. However, you will begin paying rent to the new owner, and the rental amount will be agreed upon during negotiations. This involves a practical tradeoff between immediate cash access and ongoing rental expenses. Understanding the total cash flow impact is crucial, and we guide clients through evaluating these costs for properties in places like Coral Gables or Fort Lauderdale.",
+        "@type": "Answer",
+        "description": "You gain immediate cash and stop mortgage payments, but you'll pay rent to the new owner."
+      }
+    }
+  ],
+  "description": "You gain immediate cash and stop mortgage payments, but you'll pay rent to the new owner."
+}

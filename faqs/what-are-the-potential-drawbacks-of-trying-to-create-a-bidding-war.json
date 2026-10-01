@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/what-are-the-potential-drawbacks-of-trying-to-create-a-bidding-war",
+  "name": "What are the potential drawbacks of trying to create a bidding war?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are the potential drawbacks of trying to create a bidding war?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "While often beneficial, aiming for a bidding war carries potential drawbacks. Over-pricing initially in anticipation of multiple bids can deter buyers entirely, leading to price reductions later. Additionally, an aggressive marketing push without a truly desirable property or in a slower market might only attract unmotivated buyers. It's a decision factor where market analysis and property appeal must align to avoid alienating potential buyers or prolonging the sale process.",
+        "@type": "Answer",
+        "description": "Potential drawbacks include over-pricing, which can deter buyers, or an aggressive push without market alignment, leading to a stalled sale."
+      }
+    }
+  ],
+  "description": "Potential drawbacks include over-pricing, which can deter buyers, or an aggressive push without market alignment, leading to a stalled sale."
+}

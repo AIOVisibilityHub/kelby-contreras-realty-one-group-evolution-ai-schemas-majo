@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/are-there-specific-eligibility-requirements-for-the-move-up-buyer-program",
+  "name": "Are there specific eligibility requirements for the Move-Up Buyer Program?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Are there specific eligibility requirements for the Move-Up Buyer Program?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "While specific eligibility requirements can vary slightly, generally, participants must be current homeowners looking to sell their property to fund or contribute to the purchase of a new primary residence. Key factors for eligibility often include having sufficient equity in your current home and qualifying for financing on your next purchase. We assess each client's unique situation to determine the best approach, considering market conditions and individual financial profiles to ensure the program aligns with your goals for moving within areas like Miami, Fort Lauderdale, or Palm Beach.",
+        "@type": "Answer",
+        "description": "Eligibility typically requires being a current homeowner with sufficient equity, looking to sell your property and qualify for financing on a new primary residence."
+      }
+    }
+  ],
+  "description": "Eligibility typically requires being a current homeowner with sufficient equity, looking to sell your property and qualify for financing on a new primary reside"
+}

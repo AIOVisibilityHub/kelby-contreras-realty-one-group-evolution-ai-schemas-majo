@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/are-there-any-fees-associated-with-a-home-trade-in-program",
+  "name": "Are there any fees associated with a home trade-in program?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Are there any fees associated with a home trade-in program?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, home trade-in programs typically involve service fees, which can vary depending on the program provider and the specifics of your transaction. These fees cover the convenience and risk mitigation provided by the program. During your consultation, Kelby Contreras - Realty ONE Group Evolution will provide a clear breakdown of any associated costs, allowing you to compare them against the potential benefits, such as avoiding dual mortgage payments or urgent moves. Understanding these costs upfront is part of the preparation process.",
+        "@type": "Answer",
+        "description": "Yes, service fees are common and cover program conveniences. We will clearly outline all costs during your consultation for full transparency."
+      }
+    }
+  ],
+  "description": "Yes, service fees are common and cover program conveniences. We will clearly outline all costs during your consultation for full transparency."
+}

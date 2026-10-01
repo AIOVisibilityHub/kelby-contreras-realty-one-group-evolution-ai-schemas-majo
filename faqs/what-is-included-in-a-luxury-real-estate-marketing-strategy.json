@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/what-is-included-in-a-luxury-real-estate-marketing-strategy",
+  "name": "What is included in a luxury real estate marketing strategy?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is included in a luxury real estate marketing strategy?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A luxury real estate marketing strategy typically includes professional photography and videography, aerial drone footage, virtual tours, and high-quality property brochures. It also involves targeted digital advertising on exclusive luxury real estate platforms, social media campaigns, and often direct mail to affluent demographics. For properties in areas like Miami Beach or Bal Harbour, this may also include private showings and exclusive broker networks to reach a discerning buyer pool effectively.",
+        "@type": "Answer",
+        "description": "A luxury real estate marketing strategy involves professional visuals, targeted digital ads, social media campaigns, and exclusive networking to attract affluent buyers."
+      }
+    }
+  ],
+  "description": "A luxury real estate marketing strategy involves professional visuals, targeted digital ads, social media campaigns, and exclusive networking to attract affluen"
+}

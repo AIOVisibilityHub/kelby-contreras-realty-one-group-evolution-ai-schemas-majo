@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/when-should-i-start-preparing-my-luxury-home-for-sale",
+  "name": "When should I start preparing my luxury home for sale?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When should I start preparing my luxury home for sale?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "It is advisable to start preparing your luxury home for sale several months in advance, especially for properties with extensive grounds or bespoke features. This allows time for necessary repairs, aesthetic upgrades, professional staging, and securing high-quality media like professional photos and videos. Early preparation ensures the home is in pristine condition for its debut on the market, maximizing its appeal to discerning buyers from the outset.",
+        "@type": "Answer",
+        "description": "Start preparing your luxury home for sale several months in advance to allow for repairs, upgrades, staging, and professional media."
+      }
+    }
+  ],
+  "description": "Start preparing your luxury home for sale several months in advance to allow for repairs, upgrades, staging, and professional media."
+}

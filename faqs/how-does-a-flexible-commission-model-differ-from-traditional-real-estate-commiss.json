@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/how-does-a-flexible-commission-model-differ-from-traditional-real-estate-commiss",
+  "name": "How does a flexible commission model differ from traditional real estate commissions?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How does a flexible commission model differ from traditional real estate commissions?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Traditional real estate commissions typically involve a fixed percentage of the home's sale price, split between the buyer's and seller's agents, regardless of how the buyer is found. A flexible commission model, however, allows for negotiation and varied structures, such as reduced rates if the seller brings an unrepresented buyer or if specific marketing services are opted out of. A practical tradeoff is that while you might save on commission, you might also take on more responsibility in the sales process or receive fewer services.",
+        "@type": "Answer",
+        "description": "Flexible commissions allow for negotiated rates and varied structures, unlike traditional fixed-percentage models, potentially offering savings but also requiring sellers to take on more sales responsibility."
+      }
+    }
+  ],
+  "description": "Flexible commissions allow for negotiated rates and varied structures, unlike traditional fixed-percentage models, potentially offering savings but also requiri"
+}

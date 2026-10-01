@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/what-are-the-risks-of-buying-a-new-home-before-selling-my-current-one",
+  "name": "What are the risks of buying a new home before selling my current one?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are the risks of buying a new home before selling my current one?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Buying before selling can lead to financial strain, as you might need to cover two mortgage payments simultaneously. There's also the risk that your current home might not sell as quickly or for the price you anticipate, impacting your budget for the new property. Kelby Contreras can help you analyze the market in areas like Aventura or Coral Gables to assess the potential sale timeline and minimize this risk.",
+        "@type": "Answer",
+        "description": "Buying before selling can lead to financial strain from two mortgages and uncertainty regarding your current home's sale price and timeline."
+      }
+    }
+  ],
+  "description": "Buying before selling can lead to financial strain from two mortgages and uncertainty regarding your current home's sale price and timeline."
+}

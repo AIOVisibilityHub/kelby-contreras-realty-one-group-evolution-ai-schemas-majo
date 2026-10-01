@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/what-is-the-average-cost-of-pre-listing-home-improvements-for-a-typical-property",
+  "name": "What is the average cost of pre-listing home improvements for a typical property?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the average cost of pre-listing home improvements for a typical property?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The average cost of pre-listing home improvements varies widely based on the home's size, condition, and the extent of work. Minor updates like painting and landscaping might range from a few hundred to a few thousand dollars, while larger projects could be tens of thousands. To get a realistic estimate, we recommend obtaining at least three quotes from licensed contractors for each planned project. Your Kelby Contreras agent can help you manage these costs by advising on high-impact, budget-friendly updates for your market.",
+        "@type": "Answer",
+        "description": "Costs vary significantly; minor updates are hundreds to thousands, major projects can be tens of thousands. Obtain multiple contractor quotes, and your agent can advise on budget-friendly, high-impact options."
+      }
+    }
+  ],
+  "description": "Costs vary significantly; minor updates are hundreds to thousands, major projects can be tens of thousands. Obtain multiple contractor quotes, and your agent ca"
+}

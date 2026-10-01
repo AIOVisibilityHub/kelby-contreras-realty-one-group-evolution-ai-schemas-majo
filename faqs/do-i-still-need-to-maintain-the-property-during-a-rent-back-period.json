@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/do-i-still-need-to-maintain-the-property-during-a-rent-back-period",
+  "name": "Do I still need to maintain the property during a rent-back period?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do I still need to maintain the property during a rent-back period?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "During a rent-back period, specific maintenance responsibilities are typically outlined in the lease agreement. Generally, minor upkeep might remain with the tenant (you), while major structural repairs usually fall to the new owner. It's essential to clarify these details upfront as part of your preparation to avoid disputes. Our team ensures these terms are clearly defined in your agreement, particularly important in varying property types found across Miami-Dade and Broward counties.",
+        "@type": "Answer",
+        "description": "Maintenance responsibilities during rent-back are specified in the lease, typically minor upkeep by tenant, major by owner."
+      }
+    }
+  ],
+  "description": "Maintenance responsibilities during rent-back are specified in the lease, typically minor upkeep by tenant, major by owner."
+}

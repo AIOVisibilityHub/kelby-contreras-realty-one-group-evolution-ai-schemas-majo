@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/how-do-i-decide-which-home-improvements-to-make-before-listing",
+  "name": "How do I decide which home improvements to make before listing?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do I decide which home improvements to make before listing?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Decide on home improvements by considering buyer expectations, potential return on investment, and your budget. Focus on repairs that address deficiencies or enhance broad appeal rather than highly personalized renovations. A pre-listing inspection can highlight critical issues. Kelby Contreras - Realty ONE Group Evolution can provide guidance based on current market trends in areas like Aventura, Boca Raton, or Coral Gables, helping you prioritize improvements that attract buyers effectively.",
+        "@type": "Answer",
+        "description": "Prioritize improvements that address deficiencies or broad appeal, considering buyer expectations and budget. A pre-listing inspection can guide your decisions."
+      }
+    }
+  ],
+  "description": "Prioritize improvements that address deficiencies or broad appeal, considering buyer expectations and budget. A pre-listing inspection can guide your decisions."
+}

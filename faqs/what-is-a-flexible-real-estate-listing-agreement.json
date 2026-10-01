@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/what-is-a-flexible-real-estate-listing-agreement",
+  "name": "What is a flexible real estate listing agreement?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is a flexible real estate listing agreement?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A flexible real estate listing agreement, often known as an 'open listing' or 'exclusive agency' agreement, provides sellers with more leeway than a standard exclusive right-to-sell contract. It generally allows the seller to find their own buyer without owing a commission to the agent, or to work with multiple agents. Kelby Contreras - Realty ONE Group Evolution can help you understand the nuances of these agreements and how they might apply to selling your property in areas like Miami-Dade or Broward County, depending on your specific goals and market conditions.",
+        "@type": "Answer",
+        "description": "A flexible listing agreement offers sellers more freedom to sell their property themselves or work with multiple agents without necessarily owing a commission."
+      }
+    }
+  ],
+  "description": "A flexible listing agreement offers sellers more freedom to sell their property themselves or work with multiple agents without necessarily owing a commission."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/how-do-i-budget-for-home-repairs-before-selling",
+  "name": "How do I budget for home repairs before selling?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do I budget for home repairs before selling?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "To budget for home repairs, obtain multiple quotes from licensed contractors for each identified repair. Prioritize essential fixes like structural or system issues, then allocate funds for cosmetic updates that offer good ROI. Consider a contingency fund for unexpected issues. Kelby Contreras - Realty ONE Group Evolution recommends understanding what buyers in your area value most to ensure your budget is spent effectively, especially in competitive markets like Miami-Dade or Broward County.",
+        "@type": "Answer",
+        "description": "Obtain multiple quotes, prioritize essential fixes, and set aside a contingency fund. Focus on repairs with good ROI and those valued by buyers in your local market."
+      }
+    }
+  ],
+  "description": "Obtain multiple quotes, prioritize essential fixes, and set aside a contingency fund. Focus on repairs with good ROI and those valued by buyers in your local ma"
+}

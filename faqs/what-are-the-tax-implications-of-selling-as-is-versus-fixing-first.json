@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/what-are-the-tax-implications-of-selling-as-is-versus-fixing-first",
+  "name": "What are the tax implications of selling as-is versus fixing first?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are the tax implications of selling as-is versus fixing first?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The tax implications generally depend on your overall profit and how you handle capital gains, rather than specifically on selling as-is versus fixing. However, documented repair costs undertaken before selling can sometimes be added to your home's cost basis, potentially reducing your taxable gain. Consult with a tax professional to understand how repairs or an as-is sale may impact your individual tax situation.",
+        "@type": "Answer",
+        "description": "Tax implications depend on profit and capital gains; documented repair costs can sometimes reduce taxable gains. Consult a tax professional."
+      }
+    }
+  ],
+  "description": "Tax implications depend on profit and capital gains; documented repair costs can sometimes reduce taxable gains. Consult a tax professional."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/what-should-i-do-if-my-current-home-doesn-t-sell-as-quickly-as-expected-after-bu",
+  "name": "What should I do if my current home doesn't sell as quickly as expected after buying a new one?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What should I do if my current home doesn't sell as quickly as expected after buying a new one?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "If your current home doesn't sell as quickly as planned, you might need to adjust your strategy. Options include reducing the asking price to attract more buyers, re-evaluating your marketing approach, or exploring temporary rental options for your old home if permitted. You should also revisit your financial plan to ensure you can comfortably cover two mortgage payments for a longer duration. Kelby Contreras can help analyze why your home isn't selling and advise on strategic adjustments to expedite the sale in your local market.",
+        "@type": "Answer",
+        "description": "If your home doesn't sell quickly, consider price adjustments, re-evaluating marketing, or temporary rental options, and review your financial plan."
+      }
+    }
+  ],
+  "description": "If your home doesn't sell quickly, consider price adjustments, re-evaluating marketing, or temporary rental options, and review your financial plan."
+}

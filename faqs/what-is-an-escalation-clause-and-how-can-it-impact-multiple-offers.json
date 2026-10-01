@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/what-is-an-escalation-clause-and-how-can-it-impact-multiple-offers",
+  "name": "What is an escalation clause, and how can it impact multiple offers?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is an escalation clause, and how can it impact multiple offers?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "An escalation clause is a buyer's offer term stating they will pay a certain amount above any competing offer, up to a specified cap. This can be beneficial for sellers as it automatically increases the offer price in a competitive bidding situation without lengthy negotiations. However, not all sellers accept them, and clarity on the terms is crucial. Understanding whether to encourage or accept offers with escalation clauses is a strategic decision Kelby Contreras can guide you through to maximize your home's sale price.",
+        "@type": "Answer",
+        "description": "An escalation clause allows a buyer to automatically increase their offer above competing bids up to a cap, streamlining negotiations in competitive situations."
+      }
+    }
+  ],
+  "description": "An escalation clause allows a buyer to automatically increase their offer above competing bids up to a cap, streamlining negotiations in competitive situations."
+}

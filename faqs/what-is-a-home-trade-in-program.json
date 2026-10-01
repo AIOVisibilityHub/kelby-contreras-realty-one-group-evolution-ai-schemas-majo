@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/what-is-a-home-trade-in-program",
+  "name": "What is a home trade-in program?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is a home trade-in program?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A home trade-in program allows you to sell your current home and purchase a new one simultaneously. This can simplify the home-buying process by eliminating the need to coordinate two separate transactions or contingency clauses. Kelby Contreras - Realty ONE Group Evolution helps manage both transactions, offering a streamlined experience for clients looking to move to a new property within Miami-Dade, Broward, Palm Beach, Collier, or Orange County.",
+        "@type": "Answer",
+        "description": "A home trade-in program lets you sell your current home and buy a new one at the same time, simplifying the transaction process."
+      }
+    }
+  ],
+  "description": "A home trade-in program lets you sell your current home and buy a new one at the same time, simplifying the transaction process."
+}

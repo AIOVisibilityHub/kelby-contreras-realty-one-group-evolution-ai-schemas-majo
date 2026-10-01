@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/what-are-my-options-if-my-current-home-doesn-t-sell-quickly",
+  "name": "What are my options if my current home doesn't sell quickly?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are my options if my current home doesn't sell quickly?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "If your home isn't selling as quickly as anticipated, you have several options. You could consider adjusting the price, refreshing marketing efforts, or temporarily taking the home off the market. Another practical tradeoff could be to explore renting out your current home, which could provide income to cover its mortgage while you proceed with buying your new property. Kelby Contreras can help evaluate these options based on your financial situation and market trends.",
+        "@type": "Answer",
+        "description": "If your home doesn't sell quickly, options include adjusting the price, re-marketing, or potentially renting it out to cover the mortgage."
+      }
+    }
+  ],
+  "description": "If your home doesn't sell quickly, options include adjusting the price, re-marketing, or potentially renting it out to cover the mortgage."
+}

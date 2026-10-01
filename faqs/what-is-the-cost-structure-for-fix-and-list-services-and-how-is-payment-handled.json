@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/what-is-the-cost-structure-for-fix-and-list-services-and-how-is-payment-handled",
+  "name": "What is the cost structure for Fix and List Services, and how is payment handled?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the cost structure for Fix and List Services, and how is payment handled?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost structure for Fix and List Services depends on the specific improvements selected and the materials used. Generally, these services are designed to be paid at closing from the sale proceeds, minimizing upfront out-of-pocket expenses for the seller. A practical tradeoff is that while this defers costs, it's essential to understand the projected expenses beforehand. Kelby Contreras provides a clear estimate for all recommended work, ensuring transparency. Payment is typically facilitated upon the successful sale of your home.",
+        "@type": "Answer",
+        "description": "Cost varies by improvement scope and materials; payment is usually handled at closing from sale proceeds, minimizing upfront seller expenses. Estimates are provided for transparency."
+      }
+    }
+  ],
+  "description": "Cost varies by improvement scope and materials; payment is usually handled at closing from sale proceeds, minimizing upfront seller expenses. Estimates are prov"
+}

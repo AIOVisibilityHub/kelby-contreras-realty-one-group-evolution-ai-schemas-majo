@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/what-kind-of-repairs-offer-the-best-return-on-investment-before-selling",
+  "name": "What kind of repairs offer the best return on investment before selling?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What kind of repairs offer the best return on investment before selling?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Repairs that typically offer the best return on investment include minor kitchen and bathroom updates, fresh interior and exterior paint, and improving curb appeal through landscaping. Addressing critical mechanical issues like HVAC or roofing can also prevent deal-breaking problems. In South Florida's competitive markets, ensuring functionality and a clean appearance often appeals more broadly than luxury upgrades.",
+        "@type": "Answer",
+        "description": "High ROI repairs include minor kitchen/bath updates, fresh paint, and improved curb appeal, addressing critical mechanicals."
+      }
+    }
+  ],
+  "description": "High ROI repairs include minor kitchen/bath updates, fresh paint, and improved curb appeal, addressing critical mechanicals."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/what-happens-if-my-current-home-doesn-t-appraise-for-the-expected-value",
+  "name": "What happens if my current home doesn't appraise for the expected value?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What happens if my current home doesn't appraise for the expected value?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "If your current home's appraisal comes in lower than anticipated, it can affect the offer from a trade-in program. In such cases, there are typically options to discuss with your real estate professional. This might involve renegotiating the offer, exploring alternative selling strategies, or re-evaluating your new home budget. A practical tradeoff is balancing a quick, guaranteed sale with potentially maximizing your home's equity through a longer, traditional market listing. Kelby Contreras - Realty ONE Group Evolution will guide you through these choices to find the best path forward.",
+        "@type": "Answer",
+        "description": "A lower appraisal can affect the offer. We will discuss options like renegotiating, exploring other strategies, or adjusting your new home budget to find the best solution."
+      }
+    }
+  ],
+  "description": "A lower appraisal can affect the offer. We will discuss options like renegotiating, exploring other strategies, or adjusting your new home budget to find the be"
+}

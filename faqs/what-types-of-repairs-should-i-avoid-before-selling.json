@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/what-types-of-repairs-should-i-avoid-before-selling",
+  "name": "What types of repairs should I avoid before selling?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What types of repairs should I avoid before selling?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Avoid highly personal or niche renovations that cater to very specific tastes, as they may not appeal to a broad range of buyers and often don't provide a good return on investment. Extensive overhauls that exceed neighborhood standards can also be financially risky. Instead, focus on neutral, broadly appealing improvements and necessary functional repairs. Your real estate agent from Kelby Contreras - Realty ONE Group Evolution can advise on what projects are most likely to yield positive results in your specific market.",
+        "@type": "Answer",
+        "description": "Avoid highly personalized or niche renovations, or extensive overhauls that exceed neighborhood standards. Focus on neutral, broadly appealing improvements instead."
+      }
+    }
+  ],
+  "description": "Avoid highly personalized or niche renovations, or extensive overhauls that exceed neighborhood standards. Focus on neutral, broadly appealing improvements inst"
+}

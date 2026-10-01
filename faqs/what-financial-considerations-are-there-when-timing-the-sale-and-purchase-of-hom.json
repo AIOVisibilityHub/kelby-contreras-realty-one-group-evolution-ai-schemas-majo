@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/what-financial-considerations-are-there-when-timing-the-sale-and-purchase-of-hom",
+  "name": "What financial considerations are there when timing the sale and purchase of homes?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What financial considerations are there when timing the sale and purchase of homes?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Key financial considerations include understanding your equity, estimating closing costs for both transactions, and securing pre-approval for your next mortgage. You'll also need to consider potential temporary housing costs or bridge loan interest if there's a gap between sales. Preparation involves gathering all your financial documents to accurately assess your budget and ensure you are prepared for all associated expenses, which Kelby Contreras can help you map out.",
+        "@type": "Answer",
+        "description": "Financial considerations include equity, closing costs, pre-approval, and potential temporary housing or bridge loan costs; prepare by gathering all financial documents."
+      }
+    }
+  ],
+  "description": "Financial considerations include equity, closing costs, pre-approval, and potential temporary housing or bridge loan costs; prepare by gathering all financial d"
+}

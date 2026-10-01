@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/what-does-it-mean-when-a-home-listing-expires",
+  "name": "What does it mean when a home listing expires?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What does it mean when a home listing expires?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "An expired home listing means the property did not sell within the timeframe specified in the listing agreement between the homeowner and their real estate agent. When a listing expires, the agreement is terminated, and the agent no longer has the legal right to market or sell the property. Homeowners in areas like Miami-Dade or Broward County often reassess their selling strategy, property condition, or agent partnership at this point. This can lead to re-listing with the same agent, choosing a new agent, or deciding to take the property off the market entirely.",
+        "@type": "Answer",
+        "description": "An expired listing means the property did not sell within the agreed-upon contract period with the real estate agent."
+      }
+    }
+  ],
+  "description": "An expired listing means the property did not sell within the agreed-upon contract period with the real estate agent."
+}

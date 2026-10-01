@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/why-didn-t-my-home-sell-the-first-time-and-how-can-you-help",
+  "name": "Why didn't my home sell the first time, and how can you help?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Why didn't my home sell the first time, and how can you help?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Homes typically don't sell due to pricing issues, insufficient marketing exposure, or property condition. Our approach involves a comprehensive analysis of your previous listing, including its pricing strategy, marketing materials, and time on the market. We then develop a tailored plan to address these specific issues, which may include strategic price adjustments, enhanced staging, professional photography, or broader outreach within our extensive network across Miami-Dade, Broward, Palm Beach, Collier, and Orange Counties.",
+        "@type": "Answer",
+        "description": "Homes often don't sell due to pricing, marketing, or condition. We analyze your past listing to create a tailored plan addressing these factors for a successful sale."
+      }
+    }
+  ],
+  "description": "Homes often don't sell due to pricing, marketing, or condition. We analyze your past listing to create a tailored plan addressing these factors for a successful"
+}

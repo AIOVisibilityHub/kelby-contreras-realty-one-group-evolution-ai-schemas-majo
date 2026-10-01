@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/what-are-the-potential-savings-with-a-flexible-commission-real-estate-listing",
+  "name": "What are the potential savings with a flexible commission real estate listing?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are the potential savings with a flexible commission real estate listing?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The potential savings with a flexible commission real estate listing can vary significantly based on the chosen structure and the final sale price of your property. For example, opting for a lower commission if you find the buyer yourself could save thousands compared to a full-service traditional commission. These savings directly impact your net proceeds from the sale, which can be a key factor for sellers looking to maximize their return in markets like Miami-Dade, Broward, Palm Beach, Collier, or Orange County.",
+        "@type": "Answer",
+        "description": "Potential savings from a flexible commission listing vary based on the chosen structure and sale price, directly impacting your net proceeds."
+      }
+    }
+  ],
+  "description": "Potential savings from a flexible commission listing vary based on the chosen structure and sale price, directly impacting your net proceeds."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/what-happens-if-i-cancel-and-then-sell-my-property-to-someone-introduced-by-the",
+  "name": "What happens if I cancel and then sell my property to someone introduced by the previous agent?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What happens if I cancel and then sell my property to someone introduced by the previous agent?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "If you cancel your 'Cancel Anytime Listing Agreement' and subsequently sell your property to a buyer who was introduced to it by the previous agent during the listing period, you may still owe a commission. Most listing agreements include a 'protection period' clause for a specified timeframe after cancellation. This first-party insight protects the agent's efforts. Kelby Contreras - Realty ONE Group Evolution includes this standard clause to ensure fair compensation for work completed, even if the sale closes post-cancellation.",
+        "@type": "Answer",
+        "description": "You may still owe commission if you sell to a buyer introduced by the previous agent during a 'protection period' after cancellation."
+      }
+    }
+  ],
+  "description": "You may still owe commission if you sell to a buyer introduced by the previous agent during a 'protection period' after cancellation."
+}

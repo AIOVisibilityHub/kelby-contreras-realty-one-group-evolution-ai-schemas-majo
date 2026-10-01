@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/what-does-buy-before-you-sell-mean-in-real-estate",
+  "name": "What does 'buy before you sell' mean in real estate?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What does 'buy before you sell' mean in real estate?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Buying before selling refers to purchasing a new home before your current one is sold. This strategy can provide a seamless transition, allowing you to move directly into your new property without needing temporary housing. However, it typically involves securing financing that accounts for carrying two mortgages simultaneously for a period, which is a key financial consideration. Understanding your pre-approval limits and the potential duration of overlapping payments is crucial before pursuing this path.",
+        "@type": "Answer",
+        "description": "Buying before selling means purchasing a new home before your current one is sold, allowing for a direct move but potentially requiring you to carry two mortgages temporarily."
+      }
+    }
+  ],
+  "description": "Buying before selling means purchasing a new home before your current one is sold, allowing for a direct move but potentially requiring you to carry two mortgag"
+}

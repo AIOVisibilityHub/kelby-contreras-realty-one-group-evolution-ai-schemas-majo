@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/how-can-i-ensure-a-smooth-transition-when-selling-and-buying-simultaneously",
+  "name": "How can I ensure a smooth transition when selling and buying simultaneously?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How can I ensure a smooth transition when selling and buying simultaneously?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A smooth transition involves careful planning and coordination. We recommend getting pre-approved for a mortgage to understand your buying power, then strategically listing your current home. One practical tradeoff is to consider a 'rent-back' agreement in your current home's sale contract, which allows you to stay in your sold home for a short period after closing, providing extra time to move into your new property. This can be particularly useful in fast-moving markets like South Florida.",
+        "@type": "Answer",
+        "description": "Ensure a smooth transition by getting pre-approved for a mortgage and considering a rent-back agreement in your current home's sale to bridge the gap between closings."
+      }
+    }
+  ],
+  "description": "Ensure a smooth transition by getting pre-approved for a mortgage and considering a rent-back agreement in your current home's sale to bridge the gap between cl"
+}

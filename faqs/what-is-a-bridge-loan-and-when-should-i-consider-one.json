@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/what-is-a-bridge-loan-and-when-should-i-consider-one",
+  "name": "What is a bridge loan and when should I consider one?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is a bridge loan and when should I consider one?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A bridge loan is a short-term loan that 'bridges' the gap between buying a new home and selling your existing one. It uses the equity in your current home as collateral, providing funds for a down payment on your new property. This option can be beneficial if you need to close quickly on a new home and are confident your current home will sell soon. However, it involves additional interest payments and closing costs. Kelby Contreras can connect you with trusted lenders who offer bridge loan options, helping you understand the financial implications for your specific situation.",
+        "@type": "Answer",
+        "description": "A bridge loan provides short-term financing using your current home's equity, useful for quick closings but incurring additional costs."
+      }
+    }
+  ],
+  "description": "A bridge loan provides short-term financing using your current home's equity, useful for quick closings but incurring additional costs."
+}

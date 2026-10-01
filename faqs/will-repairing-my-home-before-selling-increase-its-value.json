@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/will-repairing-my-home-before-selling-increase-its-value",
+  "name": "Will repairing my home before selling increase its value?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Will repairing my home before selling increase its value?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Repairs can increase your home's appeal and potentially its market value, especially when addressing major structural or system issues. However, the return on investment varies by repair type and local market conditions. Some minor cosmetic updates offer a high return, while extensive renovations may not fully recoup their cost. It's important to balance potential gains with expenditure, a consideration Kelby Contreras - Realty ONE Group Evolution can assist with by providing market insights.",
+        "@type": "Answer",
+        "description": "Repairs can increase market value, particularly for major issues, but ROI varies. Cosmetic updates often yield good returns, while extensive renovations might not."
+      }
+    }
+  ],
+  "description": "Repairs can increase market value, particularly for major issues, but ROI varies. Cosmetic updates often yield good returns, while extensive renovations might n"
+}

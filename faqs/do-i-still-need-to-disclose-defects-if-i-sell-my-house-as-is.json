@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/do-i-still-need-to-disclose-defects-if-i-sell-my-house-as-is",
+  "name": "Do I still need to disclose defects if I sell my house as-is?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do I still need to disclose defects if I sell my house as-is?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, even when selling a house as-is, Florida law requires sellers to disclose all known material defects that significantly affect the value or desirability of the property and are not readily observable to the buyer. This includes issues like mold, water damage, or structural problems. Failure to disclose can lead to legal complications after the sale, regardless of an 'as-is' clause.",
+        "@type": "Answer",
+        "description": "Yes, sellers must disclose all known material defects, even with an 'as-is' clause, as required by Florida law."
+      }
+    }
+  ],
+  "description": "Yes, sellers must disclose all known material defects, even with an 'as-is' clause, as required by Florida law."
+}

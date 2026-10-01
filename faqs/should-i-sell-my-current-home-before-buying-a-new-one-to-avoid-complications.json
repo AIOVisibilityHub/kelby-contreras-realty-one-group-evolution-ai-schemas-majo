@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/should-i-sell-my-current-home-before-buying-a-new-one-to-avoid-complications",
+  "name": "Should I sell my current home before buying a new one to avoid complications?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Should I sell my current home before buying a new one to avoid complications?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Selling your current home first often reduces financial stress and makes you a stronger buyer with no sale contingency. This approach simplifies your financing and allows you to make a cleaner, more competitive offer on a new property. The main tradeoff is the need to find temporary housing, which could mean renting for a period. This can be an ideal strategy in competitive markets like parts of Miami, Fort Lauderdale, or Boca Raton, where sellers favor offers without contingencies. Kelby Contreras can help you weigh the pros and cons based on market dynamics and your personal circumstances.",
+        "@type": "Answer",
+        "description": "Selling first simplifies financing and strengthens your offer, but requires temporary housing. This can be a practical tradeoff."
+      }
+    }
+  ],
+  "description": "Selling first simplifies financing and strengthens your offer, but requires temporary housing. This can be a practical tradeoff."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/what-is-a-move-up-buyer-program",
+  "name": "What is a Move-Up Buyer Program?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is a Move-Up Buyer Program?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A Move-Up Buyer Program is designed for current homeowners looking to sell their existing property and purchase a new, typically larger or more desirable, home. It streamlines the process by coordinating the sale of your current home with the purchase of your next one. Our program at Realty ONE Group Evolution assists clients throughout Miami-Dade, Broward, Palm Beach, Collier, and Orange Counties, focusing on a smooth transition to minimize stress and potential logistical challenges. This can include strategic timing of listings and offers to ensure you're not without a home.",
+        "@type": "Answer",
+        "description": "A Move-Up Buyer Program helps current homeowners sell their existing property and buy a new one, coordinating both transactions for a smoother transition."
+      }
+    }
+  ],
+  "description": "A Move-Up Buyer Program helps current homeowners sell their existing property and buy a new one, coordinating both transactions for a smoother transition."
+}

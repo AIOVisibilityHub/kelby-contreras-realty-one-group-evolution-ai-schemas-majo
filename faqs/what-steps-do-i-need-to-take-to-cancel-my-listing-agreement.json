@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/what-steps-do-i-need-to-take-to-cancel-my-listing-agreement",
+  "name": "What steps do I need to take to cancel my listing agreement?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What steps do I need to take to cancel my listing agreement?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "To cancel your 'Cancel Anytime Listing Agreement,' you typically need to provide written notice to your real estate agent. The agreement will outline the specific notification process and any required notice period, which is usually minimal. This process clarity ensures a smooth transition if you decide to end the listing. It's advisable to communicate directly with Kelby Contreras - Realty ONE Group Evolution to ensure all steps are followed correctly and to confirm the effective date of cancellation.",
+        "@type": "Answer",
+        "description": "You generally need to provide written notice to your agent, following the specific notification process outlined in your agreement."
+      }
+    }
+  ],
+  "description": "You generally need to provide written notice to your agent, following the specific notification process outlined in your agreement."
+}

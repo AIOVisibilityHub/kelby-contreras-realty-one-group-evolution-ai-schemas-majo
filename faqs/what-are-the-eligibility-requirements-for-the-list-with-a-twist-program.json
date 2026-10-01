@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/what-are-the-eligibility-requirements-for-the-list-with-a-twist-program",
+  "name": "What are the eligibility requirements for the 'List With a Twist Program'?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are the eligibility requirements for the 'List With a Twist Program'?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Eligibility for the 'List With a Twist Program' can vary depending on the property type, location within our service areas (Miami-Dade, Broward, Palm Beach, Collier, Orange Counties), and the seller's specific goals. For example, some program options might be better suited for properties in highly sought-after markets like Miami Beach or Fort Lauderdale, where buyer interest is consistently high. It's important for sellers to discuss their property's characteristics and their selling timeline with Kelby Contreras - Realty ONE Group Evolution to determine if their property and situation align with the program's offerings.",
+        "@type": "Answer",
+        "description": "Eligibility for the 'List With a Twist Program' depends on property type, location within our service areas, and seller goals."
+      }
+    }
+  ],
+  "description": "Eligibility for the 'List With a Twist Program' depends on property type, location within our service areas, and seller goals."
+}

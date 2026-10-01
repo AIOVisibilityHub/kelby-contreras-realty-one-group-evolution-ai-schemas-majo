@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/are-there-any-pre-listing-improvements-i-should-avoid",
+  "name": "Are there any pre-listing improvements I should avoid?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Are there any pre-listing improvements I should avoid?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, there are improvements to approach with caution or avoid altogether. Generally, avoid highly personalized renovations that appeal only to specific tastes, as they may not attract a broad buyer pool. Also, be wary of projects that offer a low ROI, such as luxury additions not typical for your neighborhood, or attempting DIY projects beyond your skill level that could result in poor quality. A key process clarity step is to discuss all potential projects with your Kelby Contreras agent before starting, ensuring your efforts align with buyer expectations.",
+        "@type": "Answer",
+        "description": "Avoid highly personalized renovations or projects with low ROI. Also, be cautious of DIY work beyond your skill level. Consult your agent before starting any significant project."
+      }
+    }
+  ],
+  "description": "Avoid highly personalized renovations or projects with low ROI. Also, be cautious of DIY work beyond your skill level. Consult your agent before starting any si"
+}

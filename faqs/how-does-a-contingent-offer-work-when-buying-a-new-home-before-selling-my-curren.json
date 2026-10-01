@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/how-does-a-contingent-offer-work-when-buying-a-new-home-before-selling-my-curren",
+  "name": "How does a contingent offer work when buying a new home before selling my current one?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How does a contingent offer work when buying a new home before selling my current one?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A contingent offer includes a clause stating that the purchase of the new home is dependent on the sale of your current home. This protects you from owning two homes simultaneously, but it can be less appealing to sellers, especially in a seller's market. Sellers might prefer non-contingent offers, or they may include a kick-out clause allowing them to accept another offer if you don't remove your contingency within a specified timeframe. Kelby Contreras can help you structure an attractive contingent offer, advising on timelines and market conditions in areas like Miami-Dade and Broward County.",
+        "@type": "Answer",
+        "description": "A contingent offer makes your new home purchase dependent on selling your current home, protecting you but potentially making your offer less attractive to sellers."
+      }
+    }
+  ],
+  "description": "A contingent offer makes your new home purchase dependent on selling your current home, protecting you but potentially making your offer less attractive to sell"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/how-do-i-choose-which-renovations-to-do-before-listing-my-house",
+  "name": "How do I choose which renovations to do before listing my house?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do I choose which renovations to do before listing my house?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Prioritize renovations that address critical repairs, enhance curb appeal, and update key living spaces like kitchens and bathrooms. Consider the typical buyer profile for your neighborhood and their expectations. A good approach is to consult with a real estate professional like Kelby Contreras; they can provide insights into what upgrades are most valued by buyers in specific South Florida communities, ensuring your efforts are well-placed. This guidance helps avoid over-improving for your market.",
+        "@type": "Answer",
+        "description": "Choose renovations that address critical repairs, enhance curb appeal, and update key areas. Consult with a real estate professional to align updates with local buyer expectations and avoid over-improving your home."
+      }
+    }
+  ],
+  "description": "Choose renovations that address critical repairs, enhance curb appeal, and update key areas. Consult with a real estate professional to align updates with local"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/how-long-does-the-buy-before-you-sell-process-typically-take",
+  "name": "How long does the 'buy before you sell' process typically take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does the 'buy before you sell' process typically take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The timeline for buying before selling can vary significantly based on local market conditions and how quickly your existing home sells. While you might find and close on a new home in 30-60 days, the crucial factor is the sale period for your current property. In areas like Miami-Dade or Broward County, market speed can influence this greatly. Working with an agent who understands local market trends is a crucial step to estimate a realistic selling timeline for your current home.",
+        "@type": "Answer",
+        "description": "The process length varies, largely depending on how fast your current home sells, which is influenced by local market conditions."
+      }
+    }
+  ],
+  "description": "The process length varies, largely depending on how fast your current home sells, which is influenced by local market conditions."
+}

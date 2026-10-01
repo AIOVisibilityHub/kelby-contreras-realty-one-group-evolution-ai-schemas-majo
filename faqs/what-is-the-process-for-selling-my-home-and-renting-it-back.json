@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/what-is-the-process-for-selling-my-home-and-renting-it-back",
+  "name": "What is the process for selling my home and renting it back?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the process for selling my home and renting it back?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The process begins with valuing your home and finding a cash buyer willing to offer a rent-back option. Once an offer is accepted, a sales agreement and a separate lease agreement are drafted. The sale closes, you receive funds, and then you transition to being a tenant. This process clarity involves distinct legal steps for both the sale and the subsequent tenancy, which Kelby Contreras – Realty ONE Group Evolution helps manage seamlessly from listing to closing across our service areas.",
+        "@type": "Answer",
+        "description": "The process involves valuing, finding a cash buyer, drafting sale and lease agreements, closing the sale, and then renting back."
+      }
+    }
+  ],
+  "description": "The process involves valuing, finding a cash buyer, drafting sale and lease agreements, closing the sale, and then renting back."
+}

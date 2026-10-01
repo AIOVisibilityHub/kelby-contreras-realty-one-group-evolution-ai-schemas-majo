@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/what-home-repairs-are-most-important-to-make-before-selling",
+  "name": "What home repairs are most important to make before selling?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What home repairs are most important to make before selling?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Focus on critical repairs that impact safety, functionality, or curb appeal. This often includes addressing issues with the roof, HVAC, plumbing, or electrical systems. Cosmetic updates like fresh paint, updated light fixtures, or minor landscaping can also offer a significant return on investment. Kelby Contreras - Realty ONE Group Evolution can help you prioritize these repairs based on buyer expectations in the Miami-Dade, Broward, Palm Beach, Collier, and Orange County markets.",
+        "@type": "Answer",
+        "description": "Prioritize repairs impacting safety, functionality, curb appeal, and core systems like HVAC or plumbing. Cosmetic updates also offer good returns."
+      }
+    }
+  ],
+  "description": "Prioritize repairs impacting safety, functionality, curb appeal, and core systems like HVAC or plumbing. Cosmetic updates also offer good returns."
+}

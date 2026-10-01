@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/why-didn-t-my-home-sell-and-how-can-a-relaunch-help",
+  "name": "Why didn't my home sell, and how can a relaunch help?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Why didn't my home sell, and how can a relaunch help?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Homes typically don't sell due to a combination of factors, including incorrect pricing, poor marketing, inadequate staging, or unfavorable market conditions. A relaunch strategy addresses these issues by re-evaluating the property's value, implementing professional photography and virtual tours, and developing a targeted marketing plan. Kelby Contreras - Realty ONE Group Evolution conducts a thorough market analysis and property assessment to identify the specific reasons your listing expired, offering a tailored plan to attract new buyers and achieve a sale.",
+        "@type": "Answer",
+        "description": "Homes don't sell due to pricing, marketing, staging, or market conditions. A relaunch helps by re-evaluating these factors with a new strategy."
+      }
+    }
+  ],
+  "description": "Homes don't sell due to pricing, marketing, staging, or market conditions. A relaunch helps by re-evaluating these factors with a new strategy."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/how-does-the-lease-term-work-in-a-sale-leaseback",
+  "name": "How does the lease term work in a sale-leaseback?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How does the lease term work in a sale-leaseback?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "In a sale-leaseback, the lease term is negotiated as part of the overall agreement. This period allows you to remain in the home after the sale, typically for a few months up to a year or more, depending on your needs and the buyer's flexibility. It's crucial to clarify the exact duration, rental payments, and any potential extension clauses upfront. Kelby Contreras guides clients through these negotiations, ensuring clarity on lease terms before finalizing the sale, helping manage expectations for your continued residency.",
+        "@type": "Answer",
+        "description": "The lease term in a sale-leaseback is negotiated, defining how long you can stay in the home post-sale. Details like duration and rent are agreed upon beforehand."
+      }
+    }
+  ],
+  "description": "The lease term in a sale-leaseback is negotiated, defining how long you can stay in the home post-sale. Details like duration and rent are agreed upon beforehan"
+}

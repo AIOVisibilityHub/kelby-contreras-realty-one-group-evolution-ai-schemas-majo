@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/what-impact-does-an-expired-listing-have-on-my-home-s-value",
+  "name": "What impact does an expired listing have on my home's value?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What impact does an expired listing have on my home's value?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "An expired listing does not directly decrease your home's intrinsic value, but it can create a perception among potential buyers that something is undesirable about the property. This can lead to lower offers if the home is re-listed. A practical tradeoff to consider is how quickly you need to sell versus how aggressively you price the property after an expiration. Re-listing with a strategic price adjustment can often reignite buyer interest and avoid further market stagnation, even if it means accepting a slightly lower price than initially hoped for.",
+        "@type": "Answer",
+        "description": "While it doesn't directly lower value, an expired listing can create a perception of issues, potentially leading to lower offers upon re-listing."
+      }
+    }
+  ],
+  "description": "While it doesn't directly lower value, an expired listing can create a perception of issues, potentially leading to lower offers upon re-listing."
+}

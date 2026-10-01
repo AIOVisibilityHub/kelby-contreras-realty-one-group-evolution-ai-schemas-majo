@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/how-long-does-the-cancel-anytime-listing-agreement-typically-last-if-not-cancele",
+  "name": "How long does the 'Cancel Anytime Listing Agreement' typically last if not canceled?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does the 'Cancel Anytime Listing Agreement' typically last if not canceled?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "If not canceled, a 'Cancel Anytime Listing Agreement' will typically run for a standard listing term, which varies but is often between 3 to 6 months. The 'cancel anytime' feature refers to your right to terminate early, not the initial duration of the agreement if left in force. This duration is established to give the agent sufficient time to market and sell your property effectively. Kelby Contreras - Realty ONE Group Evolution will discuss the proposed listing term with you upfront.",
+        "@type": "Answer",
+        "description": "If not canceled, the agreement typically runs for a standard listing term, usually 3 to 6 months, giving the agent time to market your property."
+      }
+    }
+  ],
+  "description": "If not canceled, the agreement typically runs for a standard listing term, usually 3 to 6 months, giving the agent time to market your property."
+}

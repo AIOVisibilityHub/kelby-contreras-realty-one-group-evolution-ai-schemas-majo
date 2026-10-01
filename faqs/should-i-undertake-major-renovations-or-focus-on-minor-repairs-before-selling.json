@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/should-i-undertake-major-renovations-or-focus-on-minor-repairs-before-selling",
+  "name": "Should I undertake major renovations or focus on minor repairs before selling?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Should I undertake major renovations or focus on minor repairs before selling?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Deciding between major renovations and minor repairs depends on your home's condition, budget, and the local market. Minor repairs like fixing leaky faucets, patching holes, and refreshing caulk often have a high ROI and prevent buyers from seeing small issues as red flags. Major renovations carry higher risk and may not always recoup their cost in a quick sale. Your Kelby Contreras agent can help assess which projects are most impactful for buyers in your specific Broward County neighborhood, ensuring a practical tradeoff between effort and return.",
+        "@type": "Answer",
+        "description": "Prioritize minor repairs for high ROI and to avoid buyer red flags. Major renovations are riskier. A local agent can help assess impact versus cost."
+      }
+    }
+  ],
+  "description": "Prioritize minor repairs for high ROI and to avoid buyer red flags. Major renovations are riskier. A local agent can help assess impact versus cost."
+}

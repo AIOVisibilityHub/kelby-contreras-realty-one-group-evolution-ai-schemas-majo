@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/how-does-the-move-up-buyer-program-work-with-selling-my-current-home-and-buying",
+  "name": "How does the Move-Up Buyer Program work with selling my current home and buying a new one?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How does the Move-Up Buyer Program work with selling my current home and buying a new one?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The program coordinates the sale of your current home with the purchase of your new one. We typically start by assessing your current property's value and discussing your desired new home criteria. A key element is strategically timing the listing of your existing home and the offer on your new one to avoid being caught between properties or managing two mortgages. We guide you through preparing your current home for sale and navigating offers, simultaneously identifying and securing your next property in areas like Aventura, Boca Raton, or Coral Gables, ensuring a seamless transition.",
+        "@type": "Answer",
+        "description": "The program coordinates selling your current home and buying a new one, strategically timing both transactions to minimize overlap and streamline the process."
+      }
+    }
+  ],
+  "description": "The program coordinates selling your current home and buying a new one, strategically timing both transactions to minimize overlap and streamline the process."
+}

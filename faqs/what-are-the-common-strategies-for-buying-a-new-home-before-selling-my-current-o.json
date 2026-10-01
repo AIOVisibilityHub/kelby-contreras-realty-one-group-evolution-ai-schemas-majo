@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/what-are-the-common-strategies-for-buying-a-new-home-before-selling-my-current-o",
+  "name": "What are the common strategies for buying a new home before selling my current one?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are the common strategies for buying a new home before selling my current one?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "There are generally three strategies: making a contingent offer, securing a bridge loan, or selling your current home first and renting temporarily. A contingent offer means your new home purchase is dependent on your current home selling, which can make your offer less attractive to sellers in competitive markets. A bridge loan offers short-term financing to cover both mortgages but adds a financial commitment. Selling first and renting can reduce financial pressure and make you a stronger buyer, but requires a temporary move.",
+        "@type": "Answer",
+        "description": "Common strategies include contingent offers, bridge loans, or selling your current home first and renting temporarily."
+      }
+    }
+  ],
+  "description": "Common strategies include contingent offers, bridge loans, or selling your current home first and renting temporarily."
+}

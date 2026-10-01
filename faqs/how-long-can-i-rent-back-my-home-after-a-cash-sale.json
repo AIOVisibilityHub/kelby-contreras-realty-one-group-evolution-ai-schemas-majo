@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/how-long-can-i-rent-back-my-home-after-a-cash-sale",
+  "name": "How long can I rent back my home after a cash sale?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long can I rent back my home after a cash sale?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The duration of a rent-back agreement is negotiable and typically depends on your needs and the buyer's willingness. It can range from a few weeks to several months, providing flexibility. This period is a practical tradeoff: a longer rent-back offers more time but might influence the sale price or rental terms. Our agents assist in negotiating a rent-back period that supports your transition plans effectively within the Aventura, Boca Raton, or Miami Beach areas, among others.",
+        "@type": "Answer",
+        "description": "The rent-back period is negotiable, typically weeks to months, based on your needs and the buyer's terms."
+      }
+    }
+  ],
+  "description": "The rent-back period is negotiable, typically weeks to months, based on your needs and the buyer's terms."
+}

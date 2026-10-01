@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/what-is-a-home-sale-contingency-and-how-does-it-relate-to-buying-before-selling",
+  "name": "What is a home sale contingency, and how does it relate to buying before selling?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is a home sale contingency, and how does it relate to buying before selling?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A home sale contingency is a clause in an offer to purchase a new home that makes the purchase conditional on the sale of your current home. While it reduces your financial risk by avoiding two mortgages, it can make your offer less attractive to sellers, especially in competitive markets. The process clarity is that sellers may prefer offers without this contingency. This means you may need to weigh the protection it offers against the competitiveness of your offer in a particular market.",
+        "@type": "Answer",
+        "description": "A home sale contingency makes buying a new home dependent on selling your current one, reducing risk but potentially making your offer less appealing to sellers."
+      }
+    }
+  ],
+  "description": "A home sale contingency makes buying a new home dependent on selling your current one, reducing risk but potentially making your offer less appealing to sellers"
+}

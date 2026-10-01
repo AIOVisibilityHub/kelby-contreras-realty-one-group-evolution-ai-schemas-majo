@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/how-does-pricing-factor-into-the-relaunch-of-an-expired-listing",
+  "name": "How does pricing factor into the relaunch of an expired listing?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How does pricing factor into the relaunch of an expired listing?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Pricing is a critical factor in the relaunch of an expired listing, as an over-priced property is a common reason for not selling. A strategic relaunch involves a thorough comparative market analysis (CMA) to determine a competitive and realistic price based on current market conditions and recently sold comparable properties. Kelby Contreras - Realty ONE Group Evolution utilizes localized data for areas like Boca Raton or Fort Lauderdale to ensure your home is priced attractively, balancing maximum return with market appeal to generate buyer interest.",
+        "@type": "Answer",
+        "description": "Pricing is critical; a relaunch includes a comparative market analysis to set a competitive price based on current conditions."
+      }
+    }
+  ],
+  "description": "Pricing is critical; a relaunch includes a comparative market analysis to set a competitive price based on current conditions."
+}

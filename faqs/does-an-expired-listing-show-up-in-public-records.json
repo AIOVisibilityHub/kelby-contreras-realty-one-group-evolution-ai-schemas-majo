@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/does-an-expired-listing-show-up-in-public-records",
+  "name": "Does an expired listing show up in public records?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Does an expired listing show up in public records?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Expired listings are typically recorded in the Multiple Listing Service (MLS), which real estate agents use, and can be visible to other agents, but they are not usually part of public county records like deeds or property taxes. This means that while real estate professionals in areas like Fort Lauderdale or Delray Beach will have access to this information, it's generally not something a casual buyer would easily find. This ensures a degree of privacy, but also means a new agent will be aware of prior listing attempts.",
+        "@type": "Answer",
+        "description": "Expired listings are generally visible in the MLS for real estate professionals but not typically in public county records."
+      }
+    }
+  ],
+  "description": "Expired listings are generally visible in the MLS for real estate professionals but not typically in public county records."
+}

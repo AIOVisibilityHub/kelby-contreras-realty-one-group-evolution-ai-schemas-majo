@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/what-are-the-common-costs-associated-with-an-expired-listing-relaunch",
+  "name": "What are the common costs associated with an expired listing relaunch?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are the common costs associated with an expired listing relaunch?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Costs associated with an expired listing relaunch primarily include standard real estate commission fees, which are typically paid upon successful sale. Additional potential costs could involve professional staging, minor repairs, or enhanced marketing materials like drone photography, though these are often optional and determined during consultation. Kelby Contreras - Realty ONE Group Evolution discusses all potential costs upfront, providing clear guidance on which investments are likely to yield the best return for your specific property in your market area.",
+        "@type": "Answer",
+        "description": "Costs include standard real estate commission fees and optional expenses like staging or enhanced marketing materials."
+      }
+    }
+  ],
+  "description": "Costs include standard real estate commission fees and optional expenses like staging or enhanced marketing materials."
+}

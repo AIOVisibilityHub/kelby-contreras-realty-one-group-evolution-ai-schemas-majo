@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/how-long-do-fix-and-list-services-usually-take-before-my-home-can-be-listed",
+  "name": "How long do Fix and List Services usually take before my home can be listed?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long do Fix and List Services usually take before my home can be listed?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The duration of Fix and List Services varies significantly based on the scope and complexity of the agreed-upon improvements. Minor updates like painting and decluttering might take a few days to a week, while more extensive work, such as kitchen or bathroom refreshes, could extend to several weeks. For process clarity, a detailed timeline is established after an initial assessment and agreement on the improvement plan. Kelby Contreras aims to complete these services efficiently to get your home on the market in Miami-Dade, Broward, Palm Beach, Collier, or Orange County promptly.",
+        "@type": "Answer",
+        "description": "The timeline for Fix and List Services varies by project scope, from a few days for minor updates to several weeks for more extensive work. A detailed timeline is provided after assessment."
+      }
+    }
+  ],
+  "description": "The timeline for Fix and List Services varies by project scope, from a few days for minor updates to several weeks for more extensive work. A detailed timeline"
+}

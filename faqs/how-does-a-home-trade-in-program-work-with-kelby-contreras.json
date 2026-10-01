@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/how-does-a-home-trade-in-program-work-with-kelby-contreras",
+  "name": "How does a home trade-in program work with Kelby Contreras?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How does a home trade-in program work with Kelby Contreras?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "With Kelby Contreras - Realty ONE Group Evolution, the process typically starts with evaluating your current home to determine its market value. Once an offer is made and accepted for your existing property, you can then proceed with purchasing your new home with greater certainty. A key practical tradeoff is exchanging the potential for a slightly higher price in a traditional sale for the convenience and reduced stress of a simultaneous closing, which can be particularly valuable in competitive markets like South Florida.",
+        "@type": "Answer",
+        "description": "We evaluate your current home, secure an offer, and then help you purchase your new home, streamlining the process."
+      }
+    }
+  ],
+  "description": "We evaluate your current home, secure an offer, and then help you purchase your new home, streamlining the process."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/what-is-a-contingency-offer-and-how-does-it-affect-buying-a-new-home",
+  "name": "What is a 'contingency offer' and how does it affect buying a new home?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is a 'contingency offer' and how does it affect buying a new home?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A contingency offer means your purchase of a new home is dependent on the sale of your current property. While this protects you from owning two homes, it can make your offer less attractive to sellers, especially in competitive markets in areas like Fort Lauderdale or Miami Beach. Sellers often prefer non-contingent offers for a quicker, more certain closing. Kelby Contreras advises clients on the likelihood of a contingent offer being accepted based on current market conditions.",
+        "@type": "Answer",
+        "description": "A contingency offer makes your new home purchase dependent on selling your current home, which can make your offer less appealing to sellers."
+      }
+    }
+  ],
+  "description": "A contingency offer makes your new home purchase dependent on selling your current home, which can make your offer less appealing to sellers."
+}

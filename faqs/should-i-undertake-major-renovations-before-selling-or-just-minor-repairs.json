@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/should-i-undertake-major-renovations-before-selling-or-just-minor-repairs",
+  "name": "Should I undertake major renovations before selling, or just minor repairs?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Should I undertake major renovations before selling, or just minor repairs?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Generally, it's more beneficial to focus on minor repairs and cosmetic updates rather than major renovations before selling. Major renovations often don't provide a 100% return on investment when selling, and buyers may prefer to customize larger projects themselves. However, addressing critical issues like structural problems, major plumbing leaks, or significant electrical faults is crucial. In high-demand areas like South Beach or Brickell, buyers often expect move-in ready conditions, making small, impactful updates a strategic choice.",
+        "@type": "Answer",
+        "description": "Focus on minor repairs and cosmetic updates over major renovations, as the latter rarely provide full ROI. Address critical issues like structural problems to ensure market readiness."
+      }
+    }
+  ],
+  "description": "Focus on minor repairs and cosmetic updates over major renovations, as the latter rarely provide full ROI. Address critical issues like structural problems to e"
+}

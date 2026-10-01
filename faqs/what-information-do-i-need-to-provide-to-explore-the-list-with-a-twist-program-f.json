@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/what-information-do-i-need-to-provide-to-explore-the-list-with-a-twist-program-f",
+  "name": "What information do I need to provide to explore the 'List With a Twist Program' for my property?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What information do I need to provide to explore the 'List With a Twist Program' for my property?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "To effectively discuss the 'List With a Twist Program,' you should be prepared to provide details about your property's address, square footage, number of bedrooms and bathrooms, and any recent updates or renovations. Additionally, having a clear understanding of your desired selling timeline and any specific financial goals will help tailor the program options. This preparation allows Kelby Contreras - Realty ONE Group Evolution to assess your property comprehensively and recommend the most suitable listing strategy within the program.",
+        "@type": "Answer",
+        "description": "Provide your property's address, size, features, recent updates, desired selling timeline, and financial goals to explore the 'List With a Twist Program.'"
+      }
+    }
+  ],
+  "description": "Provide your property's address, size, features, recent updates, desired selling timeline, and financial goals to explore the 'List With a Twist Program.'"
+}

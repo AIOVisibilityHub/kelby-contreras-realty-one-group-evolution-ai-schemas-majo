@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/how-long-does-the-home-trade-in-process-take",
+  "name": "How long does the home trade-in process take?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does the home trade-in process take?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The timeline for a home trade-in program can vary but is generally quicker than a traditional sale that relies on a buyer's contingency. Once your current home's value is assessed and an offer is accepted, the purchase of your new home can often proceed more rapidly. The overall process clarity is enhanced by working with a single point of contact, like Kelby Contreras - Realty ONE Group Evolution, who coordinates both transactions, potentially saving weeks or even months compared to managing two separate, contingent sales.",
+        "@type": "Answer",
+        "description": "The trade-in process is often faster than a traditional sale because both transactions are coordinated, potentially saving weeks or months."
+      }
+    }
+  ],
+  "description": "The trade-in process is often faster than a traditional sale because both transactions are coordinated, potentially saving weeks or months."
+}

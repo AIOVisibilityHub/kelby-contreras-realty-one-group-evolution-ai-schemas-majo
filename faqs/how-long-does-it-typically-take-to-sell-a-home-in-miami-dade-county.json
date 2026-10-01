@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/how-long-does-it-typically-take-to-sell-a-home-in-miami-dade-county",
+  "name": "How long does it typically take to sell a home in Miami-Dade County?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does it typically take to sell a home in Miami-Dade County?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The time it takes to sell a home in Miami-Dade County varies greatly based on market conditions, pricing, and property type. A well-priced home in a desirable area like Brickell or Coconut Grove might sell quickly, while other properties could take longer. Kelby Contreras provides a comparative market analysis (CMA) to estimate a realistic sale timeline for your specific property, helping you plan your next purchase accordingly.",
+        "@type": "Answer",
+        "description": "The time to sell a home in Miami-Dade County depends on market conditions, pricing, and property type; a comparative market analysis can provide an estimate."
+      }
+    }
+  ],
+  "description": "The time to sell a home in Miami-Dade County depends on market conditions, pricing, and property type; a comparative market analysis can provide an estimate."
+}

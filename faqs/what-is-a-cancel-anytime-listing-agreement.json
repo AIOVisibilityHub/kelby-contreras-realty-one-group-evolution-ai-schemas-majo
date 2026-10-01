@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/what-is-a-cancel-anytime-listing-agreement",
+  "name": "What is a 'Cancel Anytime Listing Agreement'?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is a 'Cancel Anytime Listing Agreement'?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A 'Cancel Anytime Listing Agreement' allows you to terminate your contract with a real estate agent at any point before an offer is accepted, without penalty. This provides flexibility if your circumstances change or if you are not satisfied with the service. With Kelby Contreras - Realty ONE Group Evolution, this agreement aims to build trust and demonstrate commitment to your satisfaction, ensuring you retain control over your property sale.",
+        "@type": "Answer",
+        "description": "It's a real estate listing contract that allows you to cancel at any time before an offer is accepted, without penalty, offering flexibility and control."
+      }
+    }
+  ],
+  "description": "It's a real estate listing contract that allows you to cancel at any time before an offer is accepted, without penalty, offering flexibility and control."
+}

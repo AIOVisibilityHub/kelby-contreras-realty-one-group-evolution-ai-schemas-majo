@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/is-it-better-to-sell-my-home-as-is-or-make-repairs",
+  "name": "Is it better to sell my home as-is or make repairs?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Is it better to sell my home as-is or make repairs?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The choice between selling 'as-is' or making repairs depends on the extent of necessary work, your budget, time constraints, and local market demand. Selling as-is can be faster but may result in a lower sale price or attract investors. Making repairs can lead to a higher sale price and broader buyer interest, though it requires an upfront investment of time and money. Kelby Contreras - Realty ONE Group Evolution can assess your specific situation and market dynamics in areas such as Miami or Fort Lauderdale to help you determine the best approach.",
+        "@type": "Answer",
+        "description": "Selling 'as-is' is faster but may yield a lower price, while repairs can increase sale price and buyer interest. The best option depends on your situation and local market."
+      }
+    }
+  ],
+  "description": "Selling 'as-is' is faster but may yield a lower price, while repairs can increase sale price and buyer interest. The best option depends on your situation and l"
+}

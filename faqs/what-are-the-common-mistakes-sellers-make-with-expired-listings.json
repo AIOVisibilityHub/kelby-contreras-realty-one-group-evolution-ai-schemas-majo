@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/what-are-the-common-mistakes-sellers-make-with-expired-listings",
+  "name": "What are the common mistakes sellers make with expired listings?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are the common mistakes sellers make with expired listings?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Common mistakes sellers make with expired listings include immediately re-listing with the same price and marketing strategy, assuming a different outcome. Another error is neglecting property condition issues or failing to properly prepare the home for showings. Sellers often overlook the critical importance of objective feedback from the market. Addressing these factors comprehensively is key to repositioning your property for a successful sale.",
+        "@type": "Answer",
+        "description": "Sellers often err by re-listing with the same strategy or neglecting property condition. Objective market feedback is crucial for a new approach."
+      }
+    }
+  ],
+  "description": "Sellers often err by re-listing with the same strategy or neglecting property condition. Objective market feedback is crucial for a new approach."
+}

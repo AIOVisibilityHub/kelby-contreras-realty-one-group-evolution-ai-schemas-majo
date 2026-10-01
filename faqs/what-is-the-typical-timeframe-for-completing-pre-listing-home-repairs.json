@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/what-is-the-typical-timeframe-for-completing-pre-listing-home-repairs",
+  "name": "What is the typical timeframe for completing pre-listing home repairs?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the typical timeframe for completing pre-listing home repairs?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The timeframe for pre-listing home repairs can vary widely, from a few days for minor fixes to several weeks or even months for more extensive work. Simple tasks like painting or landscaping can be done quickly, while repairs involving contractors for roofing, plumbing, or electrical work will require more scheduling and execution time. It's advisable to plan these repairs well in advance of your desired listing date, especially in busy markets like Fort Lauderdale or West Palm Beach where contractor availability can be limited. Kelby Contreras can help identify key repairs and connect you with local professionals.",
+        "@type": "Answer",
+        "description": "Timeframes vary from days for minor fixes to weeks or months for larger projects. Plan early, especially in busy real estate markets."
+      }
+    }
+  ],
+  "description": "Timeframes vary from days for minor fixes to weeks or months for larger projects. Plan early, especially in busy real estate markets."
+}

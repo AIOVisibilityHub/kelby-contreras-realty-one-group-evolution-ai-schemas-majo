@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/what-is-the-list-with-a-twist-program",
+  "name": "What is the 'List With a Twist Program'?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the 'List With a Twist Program'?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The 'List With a Twist Program' is a real estate service offered by Kelby Contreras - Realty ONE Group Evolution designed to provide flexible options for sellers. It aims to tailor the selling approach to individual needs, offering alternatives to traditional listing methods. This program can be beneficial for sellers who want more control over the sales process or are looking for specific types of support beyond a standard listing agreement.",
+        "@type": "Answer",
+        "description": "The 'List With a Twist Program' is a flexible real estate service for sellers, offering tailored approaches beyond traditional listings."
+      }
+    }
+  ],
+  "description": "The 'List With a Twist Program' is a flexible real estate service for sellers, offering tailored approaches beyond traditional listings."
+}
