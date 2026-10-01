@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/when-is-the-best-time-to-get-an-inherited-home-valuation",
+  "name": "When is the best time to get an inherited home valuation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When is the best time to get an inherited home valuation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The ideal time to get an inherited home valuation is as close as possible to the date of the previous owner's death, or the 'date of death.' This ensures the valuation accurately reflects the property's fair market value at the specific time required for tax and estate purposes, especially for establishing the stepped-up cost basis. While you have some flexibility with the 'alternate valuation date' (six months after death) for federal estate tax purposes, consulting with an experienced real estate professional early can help streamline the process and ensure compliance.",
+        "@type": "Answer",
+        "description": "The best time to get an inherited home valuation is typically around the date of the previous owner's death to establish an accurate cost basis for tax and estate purposes."
+      }
+    }
+  ],
+  "description": "The best time to get an inherited home valuation is typically around the date of the previous owner's death to establish an accurate cost basis for tax and esta"
+}

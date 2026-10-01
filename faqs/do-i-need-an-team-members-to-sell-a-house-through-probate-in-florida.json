@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/do-i-need-an-attorney-to-sell-a-house-through-probate-in-florida",
+  "name": "Do I need an attorney to sell a house through probate in Florida?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do I need an attorney to sell a house through probate in Florida?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "While it's highly recommended to have an attorney for probate sales in Florida due to their legal complexities, it is generally required by Florida law for formal administration (the most common type of probate involving real estate) to have an attorney represent the personal representative. An attorney ensures compliance with all court mandates, handles legal filings, and advises on potential challenges. They work alongside the real estate agent to facilitate a smooth transaction within the legal framework.",
+        "@type": "Answer",
+        "description": "Yes, an attorney is generally required by Florida law for formal administration in probate sales to ensure compliance with legal mandates and court filings."
+      }
+    }
+  ],
+  "description": "Yes, an attorney is generally required by Florida law for formal administration in probate sales to ensure compliance with legal mandates and court filings."
+}

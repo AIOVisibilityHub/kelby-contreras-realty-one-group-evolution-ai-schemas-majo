@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/how-does-a-real-estate-agent-assist-with-a-short-sale",
+  "name": "How does a real estate agent assist with a short sale?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How does a real estate agent assist with a short sale?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A real estate agent specializing in short sales assists by listing your property, marketing it to potential buyers, negotiating offers, and submitting comprehensive short sale packages to your mortgage lender for approval. This process clarity is vital as the agent acts as the primary liaison between you, potential buyers, and the lender. Kelby Contreras - Realty ONE Group Evolution provides this expertise, managing the complexities of lender communication and ensuring all required documentation is correctly submitted to navigate the short sale process effectively in areas like Palm Beach or Collier County.",
+        "@type": "Answer",
+        "description": "A real estate agent handles property listing, marketing, offer negotiation, and prepares the short sale package for lender submission. They manage communication between parties and ensure documentation is correct."
+      }
+    }
+  ],
+  "description": "A real estate agent handles property listing, marketing, offer negotiation, and prepares the short sale package for lender submission. They manage communication"
+}

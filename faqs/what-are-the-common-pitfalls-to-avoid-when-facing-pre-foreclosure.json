@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/what-are-the-common-pitfalls-to-avoid-when-facing-pre-foreclosure",
+  "name": "What are the common pitfalls to avoid when facing pre-foreclosure?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are the common pitfalls to avoid when facing pre-foreclosure?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "When facing pre-foreclosure, common pitfalls include ignoring lender communications, falling for 'foreclosure rescue' scams, and waiting too long to seek help. Avoiding communication with your lender can limit your options, and scams often promise quick fixes that lead to further financial distress. Delaying action reduces the time available to explore solutions like loan modifications or short sales. For example, some homeowners attempt to sell their home on their own without understanding the specific short sale requirements in Florida, leading to delays or rejection. Kelby Contreras - Realty ONE Group Evolution provides legitimate guidance to avoid these issues.",
+        "@type": "Answer",
+        "description": "Avoid ignoring lender calls, falling for scams, and delaying action. Waiting too long limits options and can lead to worse outcomes."
+      }
+    }
+  ],
+  "description": "Avoid ignoring lender calls, falling for scams, and delaying action. Waiting too long limits options and can lead to worse outcomes."
+}

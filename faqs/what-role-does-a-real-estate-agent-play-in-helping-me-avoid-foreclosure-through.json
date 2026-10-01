@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/what-role-does-a-real-estate-agent-play-in-helping-me-avoid-foreclosure-through",
+  "name": "What role does a real estate agent play in helping me avoid foreclosure through selling?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What role does a real estate agent play in helping me avoid foreclosure through selling?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A real estate agent like Kelby Contreras acts as your primary advocate, advising on market value, listing your home, marketing it to potential buyers, and negotiating offers. In foreclosure avoidance, they are critical for managing communication with your lender, especially during a short sale. They guide you through the process, ensuring all necessary documentation is handled efficiently and aiming for a timely sale to prevent foreclosure.",
+        "@type": "Answer",
+        "description": "A real estate agent guides you through market valuation, listing, marketing, negotiation, and crucial communication with lenders to facilitate a sale and avoid foreclosure."
+      }
+    }
+  ],
+  "description": "A real estate agent guides you through market valuation, listing, marketing, negotiation, and crucial communication with lenders to facilitate a sale and avoid"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/how-long-does-it-typically-take-to-sell-a-house-fsbo-in-florida-s-current-market",
+  "name": "How long does it typically take to sell a house FSBO in Florida's current market?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does it typically take to sell a house FSBO in Florida's current market?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The time it takes to sell a house FSBO in Florida's current market varies significantly based on pricing, property condition, marketing effectiveness, and local demand. Well-prepared and appropriately priced homes in desirable areas like Miami Beach or Fort Lauderdale may sell faster. However, FSBO homes can often take longer to sell compared to agent-listed properties due to limited marketing exposure and negotiation challenges. This timeline is a significant practical tradeoff to consider.",
+        "@type": "Answer",
+        "description": "FSBO sale times in Florida vary greatly by pricing, condition, and marketing; they can often take longer than agent-listed homes due to limited exposure."
+      }
+    }
+  ],
+  "description": "FSBO sale times in Florida vary greatly by pricing, condition, and marketing; they can often take longer than agent-listed homes due to limited exposure."
+}

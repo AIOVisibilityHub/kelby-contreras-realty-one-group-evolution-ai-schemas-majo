@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/how-do-i-choose-a-real-estate-agent-to-sell-an-inherited-property",
+  "name": "How do I choose a real estate agent to sell an inherited property?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do I choose a real estate agent to sell an inherited property?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "When choosing a real estate agent for an inherited property, look for someone with experience in probate sales and a strong understanding of the local market. The agent should be empathetic to your situation, provide clear communication, and have a proven marketing strategy. Kelby Contreras, serving areas like Boca Raton and West Palm Beach, brings extensive local market knowledge and a network of professionals to assist with inherited property sales, offering guidance throughout the process to ensure a thoughtful and effective sale.",
+        "@type": "Answer",
+        "description": "Choose an agent experienced in probate sales, with local market knowledge and strong communication skills. They should understand the unique aspects of inherited properties."
+      }
+    }
+  ],
+  "description": "Choose an agent experienced in probate sales, with local market knowledge and strong communication skills. They should understand the unique aspects of inherite"
+}

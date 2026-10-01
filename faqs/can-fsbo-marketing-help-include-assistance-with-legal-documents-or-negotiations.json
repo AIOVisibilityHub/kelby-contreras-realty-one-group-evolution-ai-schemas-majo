@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/can-fsbo-marketing-help-include-assistance-with-legal-documents-or-negotiations",
+  "name": "Can FSBO marketing help include assistance with legal documents or negotiations?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can FSBO marketing help include assistance with legal documents or negotiations?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Generally, FSBO marketing help focuses on promotion and exposure and does not typically include assistance with legal documents or direct negotiation with buyers. These services are often outside the scope of marketing support and may require consulting with a real estate attorney or a licensed agent for proper guidance. It's a practical tradeoff to manage these aspects yourself to save on commission, but it requires careful attention to detail and understanding of contractual obligations.",
+        "@type": "Answer",
+        "description": "FSBO marketing help usually focuses on promotion and does not extend to legal documents or direct negotiations, which may require separate legal or real estate professional assistance."
+      }
+    }
+  ],
+  "description": "FSBO marketing help usually focuses on promotion and does not extend to legal documents or direct negotiations, which may require separate legal or real estate"
+}

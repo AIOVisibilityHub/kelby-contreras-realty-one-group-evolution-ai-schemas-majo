@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/what-does-selling-a-house-in-probate-mean",
+  "name": "What does 'selling a house in probate' mean?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What does 'selling a house in probate' mean?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Selling a house in probate refers to the legal process of selling real estate that was owned by someone who has passed away, where their estate is undergoing court supervision. This ensures assets are distributed according to a will or state law. The process can involve court confirmation or be done with full authority, impacting timelines and buyer requirements. Kelby Contreras assists clients throughout Miami-Dade, Broward, Palm Beach, Collier, and Orange Counties to navigate these sales efficiently.",
+        "@type": "Answer",
+        "description": "Selling a house in probate means selling property from a deceased person's estate under court supervision. This legal process ensures proper distribution of assets."
+      }
+    }
+  ],
+  "description": "Selling a house in probate means selling property from a deceased person's estate under court supervision. This legal process ensures proper distribution of ass"
+}

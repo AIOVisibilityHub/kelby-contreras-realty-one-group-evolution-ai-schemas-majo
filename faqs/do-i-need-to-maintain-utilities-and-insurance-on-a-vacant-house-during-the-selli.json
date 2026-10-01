@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/do-i-need-to-maintain-utilities-and-insurance-on-a-vacant-house-during-the-selli",
+  "name": "Do I need to maintain utilities and insurance on a vacant house during the selling process?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do I need to maintain utilities and insurance on a vacant house during the selling process?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, it is highly recommended to maintain utilities and insurance on a vacant house throughout the selling process. Keeping utilities active allows for proper showings, home inspections, and ensures systems like HVAC and water heaters remain functional, preventing potential damage. Property insurance is crucial to protect against unforeseen events like vandalism, weather damage, or accidents. Some insurers may require specific vacant home policies, so it's wise to review your coverage. Maintaining these ensures the property remains attractive and protected until closing.",
+        "@type": "Answer",
+        "description": "Yes, maintaining utilities and insurance on a vacant house during selling is crucial for showings, inspections, and protecting against damage. Review specific vacant home insurance policies."
+      }
+    }
+  ],
+  "description": "Yes, maintaining utilities and insurance on a vacant house during selling is crucial for showings, inspections, and protecting against damage. Review specific v"
+}

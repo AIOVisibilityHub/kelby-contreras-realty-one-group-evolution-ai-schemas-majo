@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/should-i-wait-for-tenants-to-move-out-before-selling-my-rental-property",
+  "name": "Should I wait for tenants to move out before selling my rental property?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Should I wait for tenants to move out before selling my rental property?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Deciding whether to wait for tenants to move out before selling is a key decision factor based on your goals. Selling a vacant property can appeal to a broader range of buyers, including owner-occupants, potentially leading to a higher sale price and faster closing. However, you'd forgo rental income during the vacancy and incur costs like utilities and maintenance. A practical tradeoff involves weighing the potential for a higher sale price against lost income and carrying costs during vacancy. We can help you evaluate this in your specific market, such as Palm Beach County.",
+        "@type": "Answer",
+        "description": "Waiting for tenants to vacate can broaden your buyer pool and potentially increase sale price, but you'll lose rental income."
+      }
+    }
+  ],
+  "description": "Waiting for tenants to vacate can broaden your buyer pool and potentially increase sale price, but you'll lose rental income."
+}

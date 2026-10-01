@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/do-i-need-to-go-through-probate-to-sell-an-inherited-house",
+  "name": "Do I need to go through probate to sell an inherited house?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do I need to go through probate to sell an inherited house?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, probate is typically required to legally transfer ownership of the inherited property into your name, especially in Florida. Without clear legal title, you cannot legally sell the house. The probate process can vary in duration, so consulting with an estate attorney early is crucial, and Kelby Contreras can assist once title is established.",
+        "@type": "Answer",
+        "description": "Probate is generally necessary to establish legal ownership and allow for the sale of an inherited property."
+      }
+    }
+  ],
+  "description": "Probate is generally necessary to establish legal ownership and allow for the sale of an inherited property."
+}

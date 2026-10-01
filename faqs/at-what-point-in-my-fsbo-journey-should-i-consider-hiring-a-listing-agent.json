@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/at-what-point-in-my-fsbo-journey-should-i-consider-hiring-a-listing-agent",
+  "name": "At what point in my FSBO journey should I consider hiring a listing agent?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "At what point in my FSBO journey should I consider hiring a listing agent?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "It's advisable to consider hiring a listing agent if your FSBO efforts aren't yielding the desired results, such as insufficient showings, low-ball offers, or a lack of qualified buyers. If your property has been on the market for an extended period, or if you're feeling overwhelmed by the complexities of the selling process, it's a strong indicator to seek professional help. Agents can re-energize your listing with fresh marketing and expert guidance, especially in dynamic markets across Miami-Dade, Broward, Palm Beach, Collier, and Orange Counties.",
+        "@type": "Answer",
+        "description": "Consider hiring an agent if your FSBO efforts lack results, you're getting insufficient offers, or feel overwhelmed by the selling process."
+      }
+    }
+  ],
+  "description": "Consider hiring an agent if your FSBO efforts lack results, you're getting insufficient offers, or feel overwhelmed by the selling process."
+}

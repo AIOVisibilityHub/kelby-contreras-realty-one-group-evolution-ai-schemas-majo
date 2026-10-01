@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/when-should-i-consider-an-fsbo-listing-consultation",
+  "name": "When should I consider an FSBO listing consultation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When should I consider an FSBO listing consultation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You should consider an FSBO listing consultation when you are seriously thinking about selling your home yourself but want expert advice on the process. This is particularly helpful before you list your property, allowing you to develop a strategic plan. It's also beneficial if you're unsure about fair market value in specific competitive areas such as Miami Beach or Coral Gables, or how to navigate legal disclosures. Early consultation can prevent common mistakes and ensure you are well-prepared.",
+        "@type": "Answer",
+        "description": "Consider an FSBO listing consultation when you plan to sell your home yourself and seek expert advice on pricing, marketing, and legal aspects before listing."
+      }
+    }
+  ],
+  "description": "Consider an FSBO listing consultation when you plan to sell your home yourself and seek expert advice on pricing, marketing, and legal aspects before listing."
+}

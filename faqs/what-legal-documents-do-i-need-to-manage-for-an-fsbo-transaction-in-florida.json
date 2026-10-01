@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/what-legal-documents-do-i-need-to-manage-for-an-fsbo-transaction-in-florida",
+  "name": "What legal documents do I need to manage for an FSBO transaction in Florida?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What legal documents do I need to manage for an FSBO transaction in Florida?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "For an FSBO transaction in Florida, you will typically need a sales contract, property disclosure forms, and possibly addenda for specific conditions. Depending on the property, other documents related to title, liens, or association rules may be necessary. Gathering and understanding these documents is a crucial preparation step to ensure a smooth and legally compliant sale. Consulting with a real estate attorney for document review is often recommended.",
+        "@type": "Answer",
+        "description": "In Florida, FSBO transactions require a sales contract and property disclosure forms, with potential need for other specific documents."
+      }
+    }
+  ],
+  "description": "In Florida, FSBO transactions require a sales contract and property disclosure forms, with potential need for other specific documents."
+}

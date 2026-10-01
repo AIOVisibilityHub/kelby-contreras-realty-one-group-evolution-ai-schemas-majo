@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/what-is-the-primary-benefit-of-selling-my-house-before-foreclosure",
+  "name": "What is the primary benefit of selling my house before foreclosure?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the primary benefit of selling my house before foreclosure?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Selling your house before foreclosure allows you to avoid the negative credit impact associated with a foreclosure on your record. It also provides an opportunity to control the sale process, potentially recover some equity, and negotiate with your lender. Kelby Contreras and Realty ONE Group Evolution can help you understand your options and guide you through the pre-foreclosure sale process in South Florida, ensuring a strategic approach to protect your financial future.",
+        "@type": "Answer",
+        "description": "Selling before foreclosure helps avoid credit damage, allows you to control the sale, and may recover equity."
+      }
+    }
+  ],
+  "description": "Selling before foreclosure helps avoid credit damage, allows you to control the sale, and may recover equity."
+}

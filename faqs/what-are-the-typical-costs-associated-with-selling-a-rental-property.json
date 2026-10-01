@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/what-are-the-typical-costs-associated-with-selling-a-rental-property",
+  "name": "What are the typical costs associated with selling a rental property?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are the typical costs associated with selling a rental property?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "When selling a rental property, typical costs include real estate commissions, closing costs, title insurance, and potential repairs or staging expenses. A practical tradeoff is balancing the investment in minor repairs or staging against the potential for a higher sale price. Kelby Contreras will provide a transparent breakdown of estimated selling costs for your property, helping you understand the net proceeds and make informed decisions during the sales process.",
+        "@type": "Answer",
+        "description": "Costs typically include commissions, closing costs, and title insurance. We provide a transparent breakdown to help you understand net proceeds."
+      }
+    }
+  ],
+  "description": "Costs typically include commissions, closing costs, and title insurance. We provide a transparent breakdown to help you understand net proceeds."
+}

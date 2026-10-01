@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/what-types-of-marketing-services-are-typically-included-in-fsbo-help-packages",
+  "name": "What types of marketing services are typically included in FSBO help packages?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What types of marketing services are typically included in FSBO help packages?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "FSBO marketing help packages often include professional photography, aerial drone footage, virtual 3D tours, custom property websites, and syndication of your listing to popular real estate platforms like Zillow, Trulia, and Realtor.com. Some packages may also offer assistance with professional signage, open house materials, and market analysis reports. The specific services can vary, so comparing offerings based on your property type and target buyer can help you decide which package is the best fit.",
+        "@type": "Answer",
+        "description": "FSBO marketing packages frequently include professional photography, virtual tours, custom websites, and listing syndication to major real estate platforms."
+      }
+    }
+  ],
+  "description": "FSBO marketing packages frequently include professional photography, virtual tours, custom websites, and listing syndication to major real estate platforms."
+}

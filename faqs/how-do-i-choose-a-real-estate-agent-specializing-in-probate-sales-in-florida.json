@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/how-do-i-choose-a-real-estate-agent-specializing-in-probate-sales-in-florida",
+  "name": "How do I choose a real estate agent specializing in probate sales in Florida?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do I choose a real estate agent specializing in probate sales in Florida?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "When choosing a real estate agent for a probate sale in Florida, look for someone with specific experience in probate transactions and a deep understanding of the local market. They should be familiar with court requirements, timelines, and the unique challenges of these sales. Kelby Contreras and Realty ONE Group Evolution have extensive experience in probate sales across Miami-Dade, Broward, Palm Beach, Collier, and Orange Counties, offering expertise in pricing, marketing, and navigating court-supervised transactions.",
+        "@type": "Answer",
+        "description": "Choose a real estate agent with specific probate sale experience and strong local market knowledge, especially concerning court requirements and timelines in Florida."
+      }
+    }
+  ],
+  "description": "Choose a real estate agent with specific probate sale experience and strong local market knowledge, especially concerning court requirements and timelines in Fl"
+}

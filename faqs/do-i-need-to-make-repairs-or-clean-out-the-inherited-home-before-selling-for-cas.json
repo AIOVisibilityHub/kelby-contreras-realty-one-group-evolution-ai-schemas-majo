@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/do-i-need-to-make-repairs-or-clean-out-the-inherited-home-before-selling-for-cas",
+  "name": "Do I need to make repairs or clean out the inherited home before selling for cash?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do I need to make repairs or clean out the inherited home before selling for cash?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Generally, no. Cash buyers typically purchase inherited homes in their current condition, often referred to as 'as-is.' This is a significant practical tradeoff for sellers who want to avoid the time, effort, and expense of repairs, renovations, or cleaning out personal belongings. Our offers consider the current state of the property, which can be particularly helpful for estates where extensive work is not feasible or desired, ensuring a hassle-free sale.",
+        "@type": "Answer",
+        "description": "No, cash buyers typically purchase inherited homes 'as-is,' eliminating the need for repairs, renovations, or cleaning."
+      }
+    }
+  ],
+  "description": "No, cash buyers typically purchase inherited homes 'as-is,' eliminating the need for repairs, renovations, or cleaning."
+}

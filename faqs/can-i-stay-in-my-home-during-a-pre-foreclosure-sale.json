@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/can-i-stay-in-my-home-during-a-pre-foreclosure-sale",
+  "name": "Can I stay in my home during a pre-foreclosure sale?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I stay in my home during a pre-foreclosure sale?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Generally, you can remain in your home during a pre-foreclosure sale until the transaction is complete and ownership is transferred to the new buyer. The specific timeline depends on how quickly a buyer is found and the closing process. It's a practical tradeoff, as staying in the home allows for continued residency but requires you to keep the property show-ready for potential buyers. Managing this balance can be critical in locations such as Aventura or Sunny Isles Beach, where quick turnovers are common.",
+        "@type": "Answer",
+        "description": "Yes, you can typically stay in your home during a pre-foreclosure sale until it closes, but you must keep it ready for showings."
+      }
+    }
+  ],
+  "description": "Yes, you can typically stay in your home during a pre-foreclosure sale until it closes, but you must keep it ready for showings."
+}

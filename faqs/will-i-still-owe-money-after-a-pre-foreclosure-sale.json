@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/will-i-still-owe-money-after-a-pre-foreclosure-sale",
+  "name": "Will I still owe money after a pre-foreclosure sale?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Will I still owe money after a pre-foreclosure sale?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Whether you still owe money after a pre-foreclosure sale depends on the sale price compared to your outstanding mortgage balance and any associated fees. If the sale proceeds cover the full amount owed, you won't owe more. However, if the sale results in a deficiency (the sale price is less than what you owe), your lender may pursue you for the remaining balance. A decision factor here is whether your lender agrees to waive the deficiency, which is crucial for your financial recovery.",
+        "@type": "Answer",
+        "description": "You may still owe money after a pre-foreclosure sale if the proceeds don't cover your full mortgage debt; it depends on lender agreement."
+      }
+    }
+  ],
+  "description": "You may still owe money after a pre-foreclosure sale if the proceeds don't cover your full mortgage debt; it depends on lender agreement."
+}

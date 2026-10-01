@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/how-long-does-it-take-to-buy-a-distressed-property",
+  "name": "How long does it take to buy a distressed property?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does it take to buy a distressed property?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The timeline for buying a distressed property can vary significantly compared to a traditional sale. Short sales typically take the longest, often several months, as they require lender approval for the sale price. Foreclosures and bank-owned properties may close more quickly, but still often exceed standard transaction periods due to administrative processes. Setting realistic expectations regarding closing times is a key part of the process that our team helps clients manage across the South Florida region.",
+        "@type": "Answer",
+        "description": "The timeline varies; short sales can take months due to lender approval, while foreclosures and REO properties may close faster but often exceed standard transaction times."
+      }
+    }
+  ],
+  "description": "The timeline varies; short sales can take months due to lender approval, while foreclosures and REO properties may close faster but often exceed standard transa"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/what-are-the-typical-costs-associated-with-selling-a-probate-home",
+  "name": "What are the typical costs associated with selling a probate home?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are the typical costs associated with selling a probate home?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Costs associated with selling a probate home can include court filing fees, appraisal fees, attorney fees, real estate agent commissions, and property maintenance expenses. Depending on the condition of the property, there may also be costs for repairs, clean-outs, or staging. These expenses are typically paid from the estate's assets, often after court approval. Understanding these potential costs upfront helps the executor or administrator budget effectively and manage estate finances.",
+        "@type": "Answer",
+        "description": "Typical costs for selling a probate home include court fees, attorney fees, agent commissions, and property maintenance, usually paid from the estate's assets."
+      }
+    }
+  ],
+  "description": "Typical costs for selling a probate home include court fees, attorney fees, agent commissions, and property maintenance, usually paid from the estate's assets."
+}

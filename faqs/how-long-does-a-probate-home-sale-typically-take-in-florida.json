@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/how-long-does-a-probate-home-sale-typically-take-in-florida",
+  "name": "How long does a probate home sale typically take in Florida?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does a probate home sale typically take in Florida?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The duration of a probate home sale in Florida can vary significantly, often ranging from several months to over a year, depending on the complexity of the estate and court availability. Factors such as whether there is a will, the number of heirs, any disputes, and the specific county's court docket can influence the timeline. For instance, processes in Miami-Dade County may differ slightly from those in Collier County due to local court procedures and caseloads. Expediting the process often requires prompt submission of all necessary documentation and a responsive executor.",
+        "@type": "Answer",
+        "description": "Probate home sales in Florida typically take several months to over a year, depending on estate complexity and court factors."
+      }
+    }
+  ],
+  "description": "Probate home sales in Florida typically take several months to over a year, depending on estate complexity and court factors."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/what-are-the-roles-and-responsibilities-of-an-executor-or-administrator-in-a-pro",
+  "name": "What are the roles and responsibilities of an executor or administrator in a probate home sale?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are the roles and responsibilities of an executor or administrator in a probate home sale?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The executor (if there's a will) or administrator (if there's no will) is responsible for overseeing the entire probate process, including the sale of real estate. Their duties include inventorying assets, paying debts, maintaining the property, and working with legal counsel to navigate court requirements. They must ensure the property is listed and sold according to court orders and for a fair market price. A key responsibility involves presenting sales contracts to the court for approval, which often includes managing any required overbidding process.",
+        "@type": "Answer",
+        "description": "The executor or administrator manages the probate process, including inventorying assets, paying debts, maintaining the property, and overseeing its court-approved sale."
+      }
+    }
+  ],
+  "description": "The executor or administrator manages the probate process, including inventorying assets, paying debts, maintaining the property, and overseeing its court-appro"
+}

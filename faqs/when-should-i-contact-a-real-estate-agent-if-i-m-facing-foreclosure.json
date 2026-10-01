@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/when-should-i-contact-a-real-estate-agent-if-i-m-facing-foreclosure",
+  "name": "When should I contact a real estate agent if I'm facing foreclosure?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When should I contact a real estate agent if I'm facing foreclosure?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You should contact a real estate agent as soon as you receive a Notice of Default or even when you first anticipate payment difficulties. Early engagement provides more time to explore options, market your property effectively, and negotiate with your lender. Kelby Contreras and Realty ONE Group Evolution prioritize swift action for clients in Palm Beach and Orange Counties, offering expertise to navigate urgent situations.",
+        "@type": "Answer",
+        "description": "Contact a real estate agent immediately upon receiving a Notice of Default or anticipating payment issues."
+      }
+    }
+  ],
+  "description": "Contact a real estate agent immediately upon receiving a Notice of Default or anticipating payment issues."
+}

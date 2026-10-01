@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/what-is-the-role-of-the-probate-court-in-selling-real-estate",
+  "name": "What is the role of the probate court in selling real estate?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the role of the probate court in selling real estate?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The probate court's role in selling real estate is to supervise the process to ensure the deceased's creditors are paid and remaining assets are distributed properly to heirs. This oversight often includes approving the sale terms, confirming the purchase price, and reviewing the distribution of proceeds. The level of court involvement can be a decision factor; some wills or estate structures allow for more independent administration, while others require extensive court approval at each step. This process clarity helps protect all parties involved.",
+        "@type": "Answer",
+        "description": "The probate court supervises real estate sales to ensure proper distribution of assets and payment of creditors, often approving sale terms and prices."
+      }
+    }
+  ],
+  "description": "The probate court supervises real estate sales to ensure proper distribution of assets and payment of creditors, often approving sale terms and prices."
+}

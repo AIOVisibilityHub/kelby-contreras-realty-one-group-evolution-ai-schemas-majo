@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/how-does-a-real-estate-agent-help-with-a-pre-foreclosure-sale",
+  "name": "How does a real estate agent help with a pre-foreclosure sale?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How does a real estate agent help with a pre-foreclosure sale?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A real estate agent specializing in pre-foreclosure sales can help you by evaluating your property's market value, listing and marketing your home to potential buyers, and negotiating offers on your behalf. They can also assist with navigating the complexities of lender communication and required documentation. Realty ONE Group Evolution agents, serving areas like Orange County, provide first-party insight into local market dynamics and streamline the process to help meet critical deadlines, aiming for the best possible outcome under the circumstances.",
+        "@type": "Answer",
+        "description": "A real estate agent helps by valuing, marketing, and negotiating your home sale, assisting with lender communication, and guiding you through the process."
+      }
+    }
+  ],
+  "description": "A real estate agent helps by valuing, marketing, and negotiating your home sale, assisting with lender communication, and guiding you through the process."
+}

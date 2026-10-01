@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/what-is-a-pre-foreclosure-home-sale",
+  "name": "What is a pre-foreclosure home sale?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is a pre-foreclosure home sale?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A pre-foreclosure home sale occurs when a homeowner sells their property before the foreclosure process is completed by the lender. This can be an option to avoid foreclosure, which impacts credit and future housing options. The homeowner typically sells the property to pay off the outstanding mortgage debt and any associated fees. Understanding the specific timeline and procedures in Miami-Dade County or Broward County can be crucial for homeowners considering this path, as local processes might influence the available timeframe.",
+        "@type": "Answer",
+        "description": "A pre-foreclosure home sale is when a homeowner sells their property to pay off the mortgage before the lender completes the foreclosure process."
+      }
+    }
+  ],
+  "description": "A pre-foreclosure home sale is when a homeowner sells their property to pay off the mortgage before the lender completes the foreclosure process."
+}

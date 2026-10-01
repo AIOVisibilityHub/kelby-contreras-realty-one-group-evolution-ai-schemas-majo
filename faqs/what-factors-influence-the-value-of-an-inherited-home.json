@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/what-factors-influence-the-value-of-an-inherited-home",
+  "name": "What factors influence the value of an inherited home?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What factors influence the value of an inherited home?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Several key factors influence the value of an inherited home. These include the property's location, size, age, condition, and the number of bedrooms and bathrooms. Recent upgrades, such as kitchen or bathroom renovations, roofing, or HVAC systems, can significantly enhance value. Conversely, deferred maintenance or outdated features may decrease it. Local market conditions, including recent comparable sales, inventory levels, and buyer demand in Miami-Dade, Broward, Palm Beach, Collier, and Orange Counties, also play a substantial role in the final valuation.",
+        "@type": "Answer",
+        "description": "An inherited home's value is influenced by its location, size, age, condition, recent upgrades, and local market trends, including comparable sales and demand."
+      }
+    }
+  ],
+  "description": "An inherited home's value is influenced by its location, size, age, condition, recent upgrades, and local market trends, including comparable sales and demand."
+}

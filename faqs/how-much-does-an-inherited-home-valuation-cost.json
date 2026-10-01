@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/how-much-does-an-inherited-home-valuation-cost",
+  "name": "How much does an inherited home valuation cost?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How much does an inherited home valuation cost?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of an inherited home valuation, particularly a formal appraisal, can vary based on factors like the property's size, complexity, location, and the urgency of the report. Appraisals are generally fee-based services. If you require a Broker Price Opinion (BPO), real estate agents may offer this as part of their service if you're considering selling the property. Kelby Contreras - Realty ONE Group Evolution can discuss your specific valuation needs and provide guidance on typical costs for services within Miami-Dade, Broward, Palm Beach, Collier, and Orange Counties, helping you understand what to expect.",
+        "@type": "Answer",
+        "description": "The cost of an inherited home valuation (appraisal) varies by property complexity and location; a BPO may be offered by agents when selling."
+      }
+    }
+  ],
+  "description": "The cost of an inherited home valuation (appraisal) varies by property complexity and location; a BPO may be offered by agents when selling."
+}

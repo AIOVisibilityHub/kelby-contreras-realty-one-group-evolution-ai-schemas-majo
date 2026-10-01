@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/can-multiple-heirs-sell-an-inherited-property-together",
+  "name": "Can multiple heirs sell an inherited property together?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can multiple heirs sell an inherited property together?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, multiple heirs can sell an inherited property collectively. However, all heirs must agree on key decisions, including the sale price, agent, and terms. This requires clear communication and often a consensus to proceed smoothly. Kelby Contreras can facilitate negotiations and ensure all parties are aligned during the selling process, especially important when dealing with complex family dynamics.",
+        "@type": "Answer",
+        "description": "Multiple heirs can sell an inherited property, but all must agree on the sale's terms and decisions to proceed."
+      }
+    }
+  ],
+  "description": "Multiple heirs can sell an inherited property, but all must agree on the sale's terms and decisions to proceed."
+}

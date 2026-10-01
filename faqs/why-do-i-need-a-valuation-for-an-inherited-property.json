@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/why-do-i-need-a-valuation-for-an-inherited-property",
+  "name": "Why do I need a valuation for an inherited property?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Why do I need a valuation for an inherited property?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A valuation for an inherited property is crucial for several reasons, primarily for tax and legal purposes. It helps establish the property's 'stepped-up basis,' which can significantly reduce capital gains taxes if you decide to sell the home later. Additionally, it's often required for probate proceedings to accurately value the estate and distribute assets among heirs. Understanding this value early can guide decisions about selling, renting, or keeping the property within the family.",
+        "@type": "Answer",
+        "description": "You need a valuation for an inherited property for tax purposes (stepped-up basis) and to fulfill probate requirements, guiding future property decisions."
+      }
+    }
+  ],
+  "description": "You need a valuation for an inherited property for tax purposes (stepped-up basis) and to fulfill probate requirements, guiding future property decisions."
+}

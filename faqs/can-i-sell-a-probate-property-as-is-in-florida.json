@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/can-i-sell-a-probate-property-as-is-in-florida",
+  "name": "Can I sell a probate property 'as-is' in Florida?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I sell a probate property 'as-is' in Florida?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, it is possible to sell a probate property 'as-is' in Florida. Many executors choose this option to avoid incurring additional costs for repairs or renovations, especially when funds are limited or the property requires extensive work. Selling 'as-is' means the buyer accepts the property in its current condition, which can sometimes lead to a quicker sale, though potentially at a lower price compared to a fully renovated home. It simplifies the preparation process for the executor, who may not have the resources or time for significant property improvements.",
+        "@type": "Answer",
+        "description": "Yes, a probate property can be sold 'as-is' in Florida, which means the buyer accepts it in its current condition, potentially speeding up the sale."
+      }
+    }
+  ],
+  "description": "Yes, a probate property can be sold 'as-is' in Florida, which means the buyer accepts it in its current condition, potentially speeding up the sale."
+}

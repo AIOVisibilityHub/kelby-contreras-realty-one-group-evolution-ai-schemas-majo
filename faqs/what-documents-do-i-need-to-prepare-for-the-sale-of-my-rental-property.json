@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/what-documents-do-i-need-to-prepare-for-the-sale-of-my-rental-property",
+  "name": "What documents do I need to prepare for the sale of my rental property?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What documents do I need to prepare for the sale of my rental property?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "When preparing to sell your rental property, you will need to gather several important documents. This includes the current lease agreement, tenant ledger (payment history), property title, surveys, property tax records, and any relevant association documents if applicable. A key preparation step is compiling these documents early in the process, as prospective buyers and their lenders will require them for due diligence, which can prevent delays in the sale timeline.",
+        "@type": "Answer",
+        "description": "Prepare the lease, tenant ledger, property title, tax records, and association documents. Having these ready prevents sale delays."
+      }
+    }
+  ],
+  "description": "Prepare the lease, tenant ledger, property title, tax records, and association documents. Having these ready prevents sale delays."
+}

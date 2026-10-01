@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/what-are-the-typical-costs-involved-in-selling-a-probate-property",
+  "name": "What are the typical costs involved in selling a probate property?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are the typical costs involved in selling a probate property?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The costs involved in selling a probate property can include standard real estate commissions, appraisal fees, court filing fees, and potentially costs for property clean-out or repairs if the estate decides to enhance marketability. Other expenses might include legal fees for the estate's attorney and any outstanding property taxes or HOA fees. It's a practical tradeoff to consider whether investing in minor repairs or staging could lead to a higher sale price, even with additional upfront costs. All expenses are typically paid from the estate proceeds.",
+        "@type": "Answer",
+        "description": "Costs include real estate commissions, appraisal fees, court fees, and potential property repairs, all typically paid from the estate. Consider repairs for a higher sale price."
+      }
+    }
+  ],
+  "description": "Costs include real estate commissions, appraisal fees, court fees, and potential property repairs, all typically paid from the estate. Consider repairs for a hi"
+}

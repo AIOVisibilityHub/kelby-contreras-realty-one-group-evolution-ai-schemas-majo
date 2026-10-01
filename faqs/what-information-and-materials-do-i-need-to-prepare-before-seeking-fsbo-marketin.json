@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/what-information-and-materials-do-i-need-to-prepare-before-seeking-fsbo-marketin",
+  "name": "What information and materials do I need to prepare before seeking FSBO marketing help?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What information and materials do I need to prepare before seeking FSBO marketing help?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Before seeking FSBO marketing help, you should prepare key property details such as square footage, number of bedrooms and bathrooms, lot size, and any recent upgrades. Gathering high-resolution photos, if you have them, and a clear understanding of your desired selling price range will also be beneficial. It is also helpful to have your property's tax ID and any HOA documents ready. This preparation helps the marketing provider create an accurate and compelling listing quickly.",
+        "@type": "Answer",
+        "description": "Prepare property details like square footage, room counts, recent upgrades, desired selling price, and any relevant documents such as HOA information before engaging FSBO marketing help."
+      }
+    }
+  ],
+  "description": "Prepare property details like square footage, room counts, recent upgrades, desired selling price, and any relevant documents such as HOA information before eng"
+}

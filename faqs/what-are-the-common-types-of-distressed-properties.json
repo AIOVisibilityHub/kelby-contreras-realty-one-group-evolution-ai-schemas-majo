@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/what-are-the-common-types-of-distressed-properties",
+  "name": "What are the common types of distressed properties?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are the common types of distressed properties?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The most common types of distressed properties include short sales, foreclosures, and bank-owned (REO) properties. A short sale occurs when the lender agrees to accept a payoff amount less than what is owed on the mortgage. Foreclosures happen when a lender repossesses a home due to unpaid mortgage payments. REO properties are homes that have been foreclosed upon and are now owned by the bank. Each type has distinct processes and timelines that impact the transaction.",
+        "@type": "Answer",
+        "description": "Common types are short sales, foreclosures, and bank-owned (REO) properties, each with distinct processes and timelines."
+      }
+    }
+  ],
+  "description": "Common types are short sales, foreclosures, and bank-owned (REO) properties, each with distinct processes and timelines."
+}

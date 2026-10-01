@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/what-is-the-first-step-to-take-after-inheriting-a-house",
+  "name": "What is the first step to take after inheriting a house?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the first step to take after inheriting a house?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The initial step involves securing legal ownership through the probate process. This establishes you as the legal owner, allowing you to make decisions about the property. Simultaneously, assessing the property's condition and market value in areas like Miami-Dade or Broward County will help you determine whether to sell immediately, renovate, or rent it out. Kelby Contreras can provide a comparative market analysis to guide this decision.",
+        "@type": "Answer",
+        "description": "Secure legal ownership through probate, then assess the property's condition and market value to decide on the next steps."
+      }
+    }
+  ],
+  "description": "Secure legal ownership through probate, then assess the property's condition and market value to decide on the next steps."
+}

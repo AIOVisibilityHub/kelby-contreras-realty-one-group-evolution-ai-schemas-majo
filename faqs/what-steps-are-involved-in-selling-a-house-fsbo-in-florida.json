@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/what-steps-are-involved-in-selling-a-house-fsbo-in-florida",
+  "name": "What steps are involved in selling a house FSBO in Florida?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What steps are involved in selling a house FSBO in Florida?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Selling FSBO in Florida typically involves pricing your home competitively, preparing it for sale, marketing it to potential buyers, conducting showings, negotiating offers, and managing the closing process. You'll need to draft a purchase agreement, handle disclosures, and coordinate with title companies and closing attorneys. Understanding the specific disclosure requirements for properties in Florida, particularly those in coastal areas like Aventura or Fort Lauderdale Beach, is a critical step that sellers often overlook, impacting the process timeline.",
+        "@type": "Answer",
+        "description": "FSBO in Florida involves pricing, preparing, marketing, showing, negotiating, and closing, including managing contracts, disclosures, and coordination with legal and title professionals."
+      }
+    }
+  ],
+  "description": "FSBO in Florida involves pricing, preparing, marketing, showing, negotiating, and closing, including managing contracts, disclosures, and coordination with lega"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/how-quickly-can-i-sell-my-inherited-home-for-cash",
+  "name": "How quickly can I sell my inherited home for cash?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How quickly can I sell my inherited home for cash?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The timeline for selling an inherited home for cash can be significantly shorter than traditional sales, often closing in as little as 7 to 30 days, depending on the specifics of the property and title. This speed is a practical tradeoff for sellers who prioritize a fast closing over potentially maximizing the sale price through extensive marketing and negotiations. The absence of lender appraisals and repairs also streamlines the process, which is beneficial when managing an estate.",
+        "@type": "Answer",
+        "description": "Cash sales for inherited homes can close in 7 to 30 days, offering a faster alternative to traditional sales."
+      }
+    }
+  ],
+  "description": "Cash sales for inherited homes can close in 7 to 30 days, offering a faster alternative to traditional sales."
+}

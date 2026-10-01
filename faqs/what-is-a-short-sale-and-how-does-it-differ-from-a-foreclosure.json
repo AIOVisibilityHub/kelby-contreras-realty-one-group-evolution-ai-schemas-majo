@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/what-is-a-short-sale-and-how-does-it-differ-from-a-foreclosure",
+  "name": "What is a short sale, and how does it differ from a foreclosure?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is a short sale, and how does it differ from a foreclosure?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A short sale occurs when a homeowner sells their property for less than the amount owed on the mortgage, with the lender's approval. This differs from a foreclosure, which is a legal process initiated by the lender to repossess and sell a property when the borrower defaults on the mortgage. A key practical tradeoff for the homeowner is that a short sale typically has a less severe impact on credit than a foreclosure and allows for more control over the sale process. Kelby Contreras - Realty ONE Group Evolution can guide you through these differences to determine the most suitable path for your situation.",
+        "@type": "Answer",
+        "description": "A short sale is selling a home for less than owed with lender approval, while foreclosure is when the lender repossesses the property due to default. A short sale can be a less damaging alternative to foreclosure."
+      }
+    }
+  ],
+  "description": "A short sale is selling a home for less than owed with lender approval, while foreclosure is when the lender repossesses the property due to default. A short sa"
+}

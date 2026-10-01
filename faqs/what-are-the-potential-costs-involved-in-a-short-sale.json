@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/what-are-the-potential-costs-involved-in-a-short-sale",
+  "name": "What are the potential costs involved in a short sale?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are the potential costs involved in a short sale?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The potential costs in a short sale typically include standard real estate closing costs such as title insurance, transfer taxes, and escrow fees. Often, lenders may agree to cover some or all of these costs for the seller as part of the short sale approval. This is a practical tradeoff where the lender absorbs costs to avoid foreclosure expenses. There are generally no upfront fees for the seller to engage a real estate agent for a short sale, as the commission is paid by the lender from the sale proceeds. Kelby Contreras - Realty ONE Group Evolution prioritizes transparency regarding all potential expenses.",
+        "@type": "Answer",
+        "description": "Short sale costs usually include closing fees like title insurance and transfer taxes, which lenders may cover. Sellers typically do not pay upfront agent commissions."
+      }
+    }
+  ],
+  "description": "Short sale costs usually include closing fees like title insurance and transfer taxes, which lenders may cover. Sellers typically do not pay upfront agent commi"
+}

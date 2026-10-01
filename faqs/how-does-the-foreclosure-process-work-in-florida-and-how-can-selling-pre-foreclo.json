@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/how-does-the-foreclosure-process-work-in-florida-and-how-can-selling-pre-foreclo",
+  "name": "How does the foreclosure process work in Florida, and how can selling pre-foreclosure help?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How does the foreclosure process work in Florida, and how can selling pre-foreclosure help?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Florida is a judicial foreclosure state, meaning lenders must go through the court system to foreclose, which can be a lengthy process. Selling before foreclosure allows you to take control of the sale rather than having a court dictate terms, often resulting in a better financial outcome. Kelby Contreras is experienced in the nuances of Florida's foreclosure laws, particularly in Collier County, guiding clients to leverage the pre-foreclosure period effectively.",
+        "@type": "Answer",
+        "description": "Florida's judicial foreclosure process can be lengthy; selling pre-foreclosure gives you control and potentially a better outcome."
+      }
+    }
+  ],
+  "description": "Florida's judicial foreclosure process can be lengthy; selling pre-foreclosure gives you control and potentially a better outcome."
+}

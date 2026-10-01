@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/what-if-the-inherited-property-has-existing-tenants",
+  "name": "What if the inherited property has existing tenants?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What if the inherited property has existing tenants?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "If the inherited property has existing tenants, the cash offer can still proceed. The sale would typically include the existing lease agreement. This is a practical tradeoff, as you avoid the effort of vacating tenants, but the offer might reflect the buyer's need to honor the lease or manage tenant relations. Our team can discuss how to navigate tenant-occupied properties in areas like Fort Lauderdale and how it impacts the sale.",
+        "@type": "Answer",
+        "description": "Yes, an inherited property with tenants can be sold for cash, with the sale typically including the existing lease agreement."
+      }
+    }
+  ],
+  "description": "Yes, an inherited property with tenants can be sold for cash, with the sale typically including the existing lease agreement."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/how-do-i-handle-tenant-eviction-when-selling-an-occupied-rental-property",
+  "name": "How do I handle tenant eviction when selling an occupied rental property?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do I handle tenant eviction when selling an occupied rental property?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Handling tenant eviction when selling an occupied rental property is a complex process and should be approached carefully, adhering strictly to Florida landlord-tenant laws. Generally, a landlord cannot evict a tenant solely because they are selling the property unless a specific clause in the lease permits it or the lease term has expired. A decision factor is whether your lease allows for a termination clause upon sale or if you need to wait until the lease ends. If eviction is necessary, it must follow legal procedures, which can be time-consuming and costly.",
+        "@type": "Answer",
+        "description": "Tenant eviction during a sale must strictly follow Florida law, usually requiring a lease clause or expired term, and is a complex process."
+      }
+    }
+  ],
+  "description": "Tenant eviction during a sale must strictly follow Florida law, usually requiring a lease clause or expired term, and is a complex process."
+}

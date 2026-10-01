@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/what-are-my-legal-obligations-to-tenants-when-selling-an-occupied-property-in-fl",
+  "name": "What are my legal obligations to tenants when selling an occupied property in Florida?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are my legal obligations to tenants when selling an occupied property in Florida?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "In Florida, when selling an occupied rental property, you are generally obligated to honor the existing lease agreement. This includes respecting tenant rights regarding privacy, entry for showings, and proper notice periods as defined by the lease and Florida state law. It's crucial to understand that the new owner typically assumes the existing lease. Preparation involves reviewing your current lease agreements to confirm notice requirements for showings and sale, ensuring all parties are aware of their responsibilities during the transition.",
+        "@type": "Answer",
+        "description": "You must honor the existing lease and tenant rights, including privacy and notice for showings, as per Florida law."
+      }
+    }
+  ],
+  "description": "You must honor the existing lease and tenant rights, including privacy and notice for showings, as per Florida law."
+}

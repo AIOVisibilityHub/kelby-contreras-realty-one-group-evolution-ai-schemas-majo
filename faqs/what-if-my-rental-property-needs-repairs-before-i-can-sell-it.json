@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/what-if-my-rental-property-needs-repairs-before-i-can-sell-it",
+  "name": "What if my rental property needs repairs before I can sell it?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What if my rental property needs repairs before I can sell it?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "If your rental property requires repairs, we can help assess which improvements would yield the best return on investment and which might not be necessary. A decision factor is balancing the cost and time of repairs against the potential increase in sale price and market appeal. Kelby Contreras can offer guidance on cost-effective repairs and connect you with local contractors in areas like Miami, Fort Lauderdale, or Palm Beach, ensuring your property is presented optimally to attract buyers without unnecessary expenditure.",
+        "@type": "Answer",
+        "description": "We help you decide which repairs offer the best return. We can guide on cost-effective improvements and connect you with local contractors."
+      }
+    }
+  ],
+  "description": "We help you decide which repairs offer the best return. We can guide on cost-effective improvements and connect you with local contractors."
+}

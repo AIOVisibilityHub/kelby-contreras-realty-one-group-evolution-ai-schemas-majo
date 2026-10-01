@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/why-didn-t-my-house-sell-the-first-time-it-was-listed",
+  "name": "Why didn't my house sell the first time it was listed?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Why didn't my house sell the first time it was listed?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Common reasons a house doesn't sell include an inaccurate listing price, poor presentation (e.g., outdated decor, clutter), inadequate marketing, or unfavorable market conditions. Our team at Realty ONE Group Evolution conducts a comprehensive market analysis and property assessment to identify specific issues and develop a tailored strategy. This involves evaluating comparable sales in areas like Miami Beach or Coral Gables and considering current buyer demand.",
+        "@type": "Answer",
+        "description": "Houses often don't sell due to incorrect pricing, poor presentation, insufficient marketing, or market conditions. A thorough analysis helps identify the root cause."
+      }
+    }
+  ],
+  "description": "Houses often don't sell due to incorrect pricing, poor presentation, insufficient marketing, or market conditions. A thorough analysis helps identify the root c"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/how-do-i-handle-negotiations-and-offers-when-selling-my-home-fsbo",
+  "name": "How do I handle negotiations and offers when selling my home FSBO?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do I handle negotiations and offers when selling my home FSBO?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "When handling FSBO negotiations, respond promptly and professionally to all offers. Focus on the total net proceeds, not just the initial offer price. Be prepared to counter-offer, addressing terms like closing costs, contingencies, and closing dates. Understanding current market conditions in areas like Broward County can inform your negotiation strategy and is a crucial decision factor.",
+        "@type": "Answer",
+        "description": "Handle FSBO negotiations by responding promptly, focusing on net proceeds, and being prepared to counter-offer on price and terms."
+      }
+    }
+  ],
+  "description": "Handle FSBO negotiations by responding promptly, focusing on net proceeds, and being prepared to counter-offer on price and terms."
+}

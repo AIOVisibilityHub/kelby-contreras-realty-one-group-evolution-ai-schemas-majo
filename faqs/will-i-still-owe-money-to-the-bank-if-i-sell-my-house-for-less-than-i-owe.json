@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/will-i-still-owe-money-to-the-bank-if-i-sell-my-house-for-less-than-i-owe",
+  "name": "Will I still owe money to the bank if I sell my house for less than I owe?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Will I still owe money to the bank if I sell my house for less than I owe?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "If you sell your house for less than the outstanding mortgage balance, this is known as a short sale, and you might still owe the difference, called a deficiency. However, it is often possible to negotiate with the lender to waive or reduce this deficiency. Kelby Contreras and Realty ONE Group Evolution have experience negotiating short sales in areas like Boca Raton and Coral Gables, working to minimize your post-sale obligations.",
+        "@type": "Answer",
+        "description": "In a short sale, you might still owe the bank a deficiency, but negotiation can reduce it."
+      }
+    }
+  ],
+  "description": "In a short sale, you might still owe the bank a deficiency, but negotiation can reduce it."
+}

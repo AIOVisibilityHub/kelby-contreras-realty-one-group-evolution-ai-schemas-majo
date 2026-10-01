@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/how-do-tenant-leases-impact-the-sale-price-of-a-rental-property",
+  "name": "How do tenant leases impact the sale price of a rental property?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do tenant leases impact the sale price of a rental property?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Tenant leases can significantly impact the sale price of a rental property. A strong lease with market-rate rents and good tenant history can be attractive to investors seeking immediate cash flow. Conversely, below-market rents, short-term leases, or problem tenants can deter buyers, especially owner-occupants, and potentially lead to a lower offer. A practical tradeoff is balancing the desire for maximum sale price with the stability provided by existing tenancy. We analyze lease terms as part of our valuation process in areas like Miami-Dade and Broward counties.",
+        "@type": "Answer",
+        "description": "Tenant leases can impact sale price; strong leases with market rents attract investors, while unfavorable leases may reduce value."
+      }
+    }
+  ],
+  "description": "Tenant leases can impact sale price; strong leases with market rents attract investors, while unfavorable leases may reduce value."
+}

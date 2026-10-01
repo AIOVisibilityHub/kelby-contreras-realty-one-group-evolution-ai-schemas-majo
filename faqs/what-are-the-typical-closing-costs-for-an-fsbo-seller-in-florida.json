@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/what-are-the-typical-closing-costs-for-an-fsbo-seller-in-florida",
+  "name": "What are the typical closing costs for an FSBO seller in Florida?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are the typical closing costs for an FSBO seller in Florida?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "FSBO sellers in Florida typically pay for title insurance (owner's policy), documentary stamp taxes on the deed, outstanding property taxes, and potentially HOA or condominium estoppel fees. You might also cover some buyer closing costs as part of negotiations. Understanding these costs is an important preparation step to accurately estimate your net proceeds and avoid surprises at closing.",
+        "@type": "Answer",
+        "description": "FSBO sellers in Florida usually pay for title insurance, documentary stamp taxes, and outstanding property taxes, among other potential fees."
+      }
+    }
+  ],
+  "description": "FSBO sellers in Florida usually pay for title insurance, documentary stamp taxes, and outstanding property taxes, among other potential fees."
+}

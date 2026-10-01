@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/will-selling-my-home-to-avoid-foreclosure-still-affect-my-credit-score",
+  "name": "Will selling my home to avoid foreclosure still affect my credit score?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Will selling my home to avoid foreclosure still affect my credit score?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Selling your home before foreclosure generally has a less severe impact on your credit score than a completed foreclosure. A traditional sale will typically have no negative credit impact if your mortgage is paid off. A short sale might show as 'settled for less than full balance' or similar, which is better than a foreclosure but can still affect your credit. Understanding these practical tradeoffs is important.",
+        "@type": "Answer",
+        "description": "Selling your home typically affects your credit less than foreclosure. A short sale may show as 'settled for less,' while a traditional sale usually has no negative impact."
+      }
+    }
+  ],
+  "description": "Selling your home typically affects your credit less than foreclosure. A short sale may show as 'settled for less,' while a traditional sale usually has no nega"
+}

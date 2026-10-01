@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/what-is-the-typical-cost-of-fsbo-marketing-services",
+  "name": "What is the typical cost of FSBO marketing services?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the typical cost of FSBO marketing services?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of FSBO marketing services can vary widely depending on the scope and type of services you select. Basic packages offering listing syndication and professional photos might range from a few hundred to over a thousand dollars. More comprehensive packages, including virtual tours, drone footage, and custom websites, could be several thousand. It's important to understand that these are upfront costs, unlike a commission which is paid at closing. Consider the practical tradeoff of paying these fees upfront versus a percentage at sale.",
+        "@type": "Answer",
+        "description": "The cost of FSBO marketing services varies based on the package chosen, ranging from hundreds for basic services to several thousands for comprehensive offerings, paid upfront."
+      }
+    }
+  ],
+  "description": "The cost of FSBO marketing services varies based on the package chosen, ranging from hundreds for basic services to several thousands for comprehensive offering"
+}

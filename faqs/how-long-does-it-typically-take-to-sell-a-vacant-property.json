@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/how-long-does-it-typically-take-to-sell-a-vacant-property",
+  "name": "How long does it typically take to sell a vacant property?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does it typically take to sell a vacant property?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The time it takes to sell a vacant property can vary widely based on market conditions, location, price, and condition of the property. While not having to coordinate move-out dates can streamline the closing process, initial market time can be influenced by how effectively the property is presented without occupants. Properties that are well-maintained and professionally marketed tend to sell faster. Kelby Contreras prioritizes effective pricing strategies and broad marketing to optimize sale timelines for vacant homes in our service areas.",
+        "@type": "Answer",
+        "description": "Sale duration varies by market, location, price, and condition; effective presentation and marketing are key to optimizing the timeline for vacant properties."
+      }
+    }
+  ],
+  "description": "Sale duration varies by market, location, price, and condition; effective presentation and marketing are key to optimizing the timeline for vacant properties."
+}

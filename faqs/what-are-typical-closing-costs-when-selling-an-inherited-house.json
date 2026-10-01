@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/what-are-typical-closing-costs-when-selling-an-inherited-house",
+  "name": "What are typical closing costs when selling an inherited house?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are typical closing costs when selling an inherited house?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Closing costs for sellers typically include real estate commissions, title insurance fees, transfer taxes, attorney fees, and prorated property taxes. These can vary based on the sale price and specific county regulations within Florida. Understanding these costs upfront is crucial for budgeting. Kelby Contreras will provide a detailed breakdown of estimated closing costs specific to your inherited property in areas like Palm Beach or Fort Lauderdale.",
+        "@type": "Answer",
+        "description": "Seller closing costs include commissions, title insurance, transfer taxes, and attorney fees, varying by sale price and location."
+      }
+    }
+  ],
+  "description": "Seller closing costs include commissions, title insurance, transfer taxes, and attorney fees, varying by sale price and location."
+}

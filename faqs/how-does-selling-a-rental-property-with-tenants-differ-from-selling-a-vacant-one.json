@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/how-does-selling-a-rental-property-with-tenants-differ-from-selling-a-vacant-one",
+  "name": "How does selling a rental property with tenants differ from selling a vacant one?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How does selling a rental property with tenants differ from selling a vacant one?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Selling a rental property with tenants introduces additional considerations compared to selling a vacant property. The key difference lies in tenant rights, lease agreements, and coordinating property showings. A practical tradeoff is deciding whether to sell with tenants in place, which can appeal to investors seeking immediate income, or to wait for the lease to expire and sell a vacant property, which might attract owner-occupants. This choice impacts the buyer pool and potentially the sale timeline.",
+        "@type": "Answer",
+        "description": "Selling with tenants involves managing tenant rights and lease agreements. The decision to sell with or without tenants affects the buyer pool and sale timeline."
+      }
+    }
+  ],
+  "description": "Selling with tenants involves managing tenant rights and lease agreements. The decision to sell with or without tenants affects the buyer pool and sale timeline"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/what-are-the-tax-implications-of-a-short-sale",
+  "name": "What are the tax implications of a short sale?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are the tax implications of a short sale?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Historically, the difference between the sale price and the mortgage balance in a short sale could be considered 'debt forgiveness' and potentially taxable as ordinary income by the IRS. However, tax laws regarding mortgage debt relief have changed over time, such as the Mortgage Forgiveness Debt Relief Act, which has expired and been reinstated with variations. This is a general educational framing for a complex topic. It is crucial to consult with a qualified tax advisor to understand the specific tax implications for your individual situation, as Kelby Contreras - Realty ONE Group Evolution does not provide tax advice.",
+        "@type": "Answer",
+        "description": "The difference between the short sale price and mortgage balance might be considered taxable debt forgiveness. Consult a tax advisor for personalized guidance on your specific situation."
+      }
+    }
+  ],
+  "description": "The difference between the short sale price and mortgage balance might be considered taxable debt forgiveness. Consult a tax advisor for personalized guidance o"
+}

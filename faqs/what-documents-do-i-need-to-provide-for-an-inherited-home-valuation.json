@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/what-documents-do-i-need-to-provide-for-an-inherited-home-valuation",
+  "name": "What documents do I need to provide for an inherited home valuation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What documents do I need to provide for an inherited home valuation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "To facilitate an accurate inherited home valuation, you should gather any available property deeds, recent property tax statements, and information regarding any significant improvements or repairs made to the home. Details about the date of death are also crucial. While Kelby Contreras - Realty ONE Group Evolution can help gather some public records, providing these documents upfront can expedite the process and ensure the most precise assessment of the property's condition and history. Having these ready helps establish a clear picture for comparative market analysis.",
+        "@type": "Answer",
+        "description": "For an inherited home valuation, provide property deeds, tax statements, details on improvements, and the date of death to aid accurate assessment."
+      }
+    }
+  ],
+  "description": "For an inherited home valuation, provide property deeds, tax statements, details on improvements, and the date of death to aid accurate assessment."
+}

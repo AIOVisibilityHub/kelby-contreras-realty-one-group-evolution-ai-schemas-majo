@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/what-is-the-process-for-making-an-offer-on-a-distressed-property",
+  "name": "What is the process for making an offer on a distressed property?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the process for making an offer on a distressed property?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The process for making an offer on a distressed property depends on its type. For short sales, offers are submitted to the seller, who then forwards them to their lender for approval. For foreclosures or bank-owned properties, offers are typically submitted directly to the bank or its asset manager. It's crucial to have pre-approval for financing and to include an 'as-is' addendum, as these properties are rarely sold with contingencies for repairs. Working with an agent experienced in these nuanced processes is highly beneficial.",
+        "@type": "Answer",
+        "description": "Making an offer involves submitting it to the seller's lender for short sales or directly to the bank for foreclosures, often requiring pre-approval and an 'as-is' addendum."
+      }
+    }
+  ],
+  "description": "Making an offer involves submitting it to the seller's lender for short sales or directly to the bank for foreclosures, often requiring pre-approval and an 'as-"
+}

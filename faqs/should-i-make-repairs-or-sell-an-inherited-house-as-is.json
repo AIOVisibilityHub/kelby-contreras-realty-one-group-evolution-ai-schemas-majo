@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/should-i-make-repairs-or-sell-an-inherited-house-as-is",
+  "name": "Should I make repairs or sell an inherited house as-is?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Should I make repairs or sell an inherited house as-is?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Deciding whether to repair or sell an inherited house as-is involves a practical tradeoff. Selling as-is can accelerate the sale and avoid renovation costs, but it often yields a lower sale price. Making strategic repairs can increase market value, especially in competitive markets like Miami, Fort Lauderdale, or Palm Beach, but requires time and financial investment. Kelby Contreras can help you analyze the potential return on investment for repairs versus an as-is sale.",
+        "@type": "Answer",
+        "description": "The decision to repair or sell an inherited house as-is depends on your financial capacity, desired timeline, and the property's condition versus the local market demand."
+      }
+    }
+  ],
+  "description": "The decision to repair or sell an inherited house as-is depends on your financial capacity, desired timeline, and the property's condition versus the local mark"
+}

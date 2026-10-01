@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/will-pre-foreclosure-help-stop-a-foreclosure-sale",
+  "name": "Will pre-foreclosure help stop a foreclosure sale?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Will pre-foreclosure help stop a foreclosure sale?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Seeking pre-foreclosure help, particularly through options like a loan modification, repayment plan, or short sale, can potentially stop a foreclosure sale if successfully negotiated and approved by your lender. However, there's no guarantee, and the lender's approval is critical. Initiating these processes early increases your chances. It's important to continue communicating with your lender and working with professionals to meet deadlines. Kelby Contreras - Realty ONE Group Evolution can help navigate these negotiations and submit necessary paperwork to your lender in a timely manner.",
+        "@type": "Answer",
+        "description": "Pre-foreclosure help like loan modification or a short sale can stop a foreclosure sale if approved by your lender, but success is not guaranteed."
+      }
+    }
+  ],
+  "description": "Pre-foreclosure help like loan modification or a short sale can stop a foreclosure sale if approved by your lender, but success is not guaranteed."
+}

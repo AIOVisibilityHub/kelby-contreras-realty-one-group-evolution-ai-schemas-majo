@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/what-documentation-is-required-to-initiate-a-probate-home-sale",
+  "name": "What documentation is required to initiate a probate home sale?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What documentation is required to initiate a probate home sale?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "To initiate a probate home sale, essential documentation includes the deceased's death certificate, a copy of their will (if one exists), and proof of appointment for the executor or administrator by the probate court. Additional documents may include property deeds, recent tax statements, and any existing mortgages or liens on the property. Gathering these documents promptly is a critical preparation step that allows the probate attorney and real estate agent to accurately assess the estate's assets and liabilities and begin the legal process without delays.",
+        "@type": "Answer",
+        "description": "Required documentation for a probate home sale includes the death certificate, will (if any), executor appointment proof, property deed, and tax statements."
+      }
+    }
+  ],
+  "description": "Required documentation for a probate home sale includes the death certificate, will (if any), executor appointment proof, property deed, and tax statements."
+}

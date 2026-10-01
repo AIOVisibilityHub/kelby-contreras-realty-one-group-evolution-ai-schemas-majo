@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/what-documents-are-needed-to-start-the-process-of-selling-a-probate-home",
+  "name": "What documents are needed to start the process of selling a probate home?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What documents are needed to start the process of selling a probate home?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "To begin selling a probate home, you'll typically need documents such as the Letters Testamentary or Letters of Administration, which prove the personal representative's authority. Other essential documents include the death certificate, a copy of the will (if one exists), and property deeds. Gathering these documents efficiently is a key preparation step that helps avoid delays in listing and selling the property. We work closely with clients to ensure all necessary paperwork is in order for a smooth transaction.",
+        "@type": "Answer",
+        "description": "To sell a probate home, you'll need Letters Testamentary/Administration, the death certificate, the will (if any), and property deeds to establish authority and ownership."
+      }
+    }
+  ],
+  "description": "To sell a probate home, you'll need Letters Testamentary/Administration, the death certificate, the will (if any), and property deeds to establish authority and"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/what-is-a-tired-landlord-solution-and-how-can-it-help-me",
+  "name": "What is a 'Tired Landlord Solution' and how can it help me?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is a 'Tired Landlord Solution' and how can it help me?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A 'Tired Landlord Solution' refers to services designed for property owners who are overwhelmed or no longer wish to manage their rental properties. These solutions typically involve selling your property efficiently, often with tenants in place, or exploring property management options. Kelby Contreras and Realty ONE Group Evolution can assess your specific situation, offering a clear path to either sell your property or connect you with trusted property management services, allowing you to transition away from landlord responsibilities without significant hassle.",
+        "@type": "Answer",
+        "description": "It's a service for overwhelmed landlords to sell their property efficiently or find management, helping you transition away from landlord duties."
+      }
+    }
+  ],
+  "description": "It's a service for overwhelmed landlords to sell their property efficiently or find management, helping you transition away from landlord duties."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/what-is-considered-a-vacant-property-for-sale",
+  "name": "What is considered a vacant property for sale?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is considered a vacant property for sale?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A vacant property for sale is typically a residential or commercial property that is unoccupied at the time of listing and sale. This can include homes that have been inherited, investment properties without current tenants, or new constructions that have not yet been lived in. Understanding the vacancy status is important because it can affect property showings, security considerations, and the timeline for closing, as there's no need to coordinate with current occupants for move-out dates.",
+        "@type": "Answer",
+        "description": "A vacant property is unoccupied at the time of listing and sale, which can influence showing logistics and closing timelines."
+      }
+    }
+  ],
+  "description": "A vacant property is unoccupied at the time of listing and sale, which can influence showing logistics and closing timelines."
+}

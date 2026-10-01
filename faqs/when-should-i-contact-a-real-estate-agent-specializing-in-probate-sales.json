@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/when-should-i-contact-a-real-estate-agent-specializing-in-probate-sales",
+  "name": "When should I contact a real estate agent specializing in probate sales?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When should I contact a real estate agent specializing in probate sales?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You should contact a real estate agent specializing in probate sales early in the probate process, ideally after the personal representative has been appointed and the estate's assets are being cataloged. Getting an agent involved early allows them to provide a market valuation, discuss the property's condition, and explain the specific sales process for probate properties in areas like Miami-Dade or Broward County. This early consultation helps in planning and setting realistic expectations for the sale timeline and potential challenges.",
+        "@type": "Answer",
+        "description": "Contact a probate real estate agent early in the probate process, after a personal representative is appointed, to get a market valuation and understand the sales procedure."
+      }
+    }
+  ],
+  "description": "Contact a probate real estate agent early in the probate process, after a personal representative is appointed, to get a market valuation and understand the sal"
+}

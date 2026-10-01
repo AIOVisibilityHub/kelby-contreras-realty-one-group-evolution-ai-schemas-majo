@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/how-does-a-short-sale-affect-my-credit-score",
+  "name": "How does a short sale affect my credit score?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How does a short sale affect my credit score?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A short sale generally has a negative impact on your credit score, but it is typically less severe and shorter-lasting than a foreclosure. The extent of the impact depends on factors such as your payment history before the short sale and the reporting practices of your lender. This is a practical tradeoff where you mitigate long-term damage compared to foreclosure. While a short sale can make it challenging to obtain new credit in the short term, many individuals can recover and rebuild their credit within a few years. Kelby Contreras - Realty ONE Group Evolution focuses on helping you understand these potential impacts and navigating the process efficiently.",
+        "@type": "Answer",
+        "description": "A short sale negatively affects your credit score, but usually less severely than a foreclosure. The impact varies by payment history and lender reporting, with recovery often possible within a few years."
+      }
+    }
+  ],
+  "description": "A short sale negatively affects your credit score, but usually less severely than a foreclosure. The impact varies by payment history and lender reporting, with"
+}

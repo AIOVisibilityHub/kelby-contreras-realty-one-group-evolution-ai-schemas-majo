@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/what-are-the-tax-implications-of-selling-a-rental-property-in-florida",
+  "name": "What are the tax implications of selling a rental property in Florida?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are the tax implications of selling a rental property in Florida?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Selling a rental property in Florida can trigger capital gains taxes, both federal and state (though Florida has no state income tax). The amount depends on your profit, how long you've owned the property, and your overall income. It's important to consult with a tax professional to understand your specific obligations. Strategies like a 1031 exchange, if applicable, can help defer these taxes, which is a key consideration for investors in all service areas, including Miami-Dade and Broward counties.",
+        "@type": "Answer",
+        "description": "Selling a rental property in Florida can incur federal capital gains taxes, depending on profit and ownership duration; a 1031 exchange may defer these."
+      }
+    }
+  ],
+  "description": "Selling a rental property in Florida can incur federal capital gains taxes, depending on profit and ownership duration; a 1031 exchange may defer these."
+}

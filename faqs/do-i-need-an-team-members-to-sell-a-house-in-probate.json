@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/do-i-need-an-attorney-to-sell-a-house-in-probate",
+  "name": "Do I need an attorney to sell a house in probate?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do I need an attorney to sell a house in probate?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, an attorney specializing in probate law is almost always necessary when selling a house in probate. They navigate the complex legal requirements, court filings, and statutory notices, ensuring the sale complies with all regulations. While Kelby Contreras focuses on the real estate transaction, we frequently collaborate with probate attorneys across our service areas to ensure a smooth, legally compliant sale for our clients.",
+        "@type": "Answer",
+        "description": "Yes, a probate attorney is essential to navigate the legal complexities and ensure compliance with all court requirements for selling a probate house."
+      }
+    }
+  ],
+  "description": "Yes, a probate attorney is essential to navigate the legal complexities and ensure compliance with all court requirements for selling a probate house."
+}

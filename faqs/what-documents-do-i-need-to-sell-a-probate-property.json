@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/what-documents-do-i-need-to-sell-a-probate-property",
+  "name": "What documents do I need to sell a probate property?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What documents do I need to sell a probate property?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "To sell a probate property, you will typically need documents such as the Letters of Administration or Letters Testamentary, which authorize the personal representative to act on behalf of the estate. You will also need the death certificate, a copy of the will (if one exists), and any court orders related to the sale. Gathering these documents beforehand is crucial. Additionally, a clear understanding of the property's title history and any existing liens or encumbrances will be important for a smooth transaction.",
+        "@type": "Answer",
+        "description": "You'll need Letters of Administration/Testamentary, the death certificate, will, and relevant court orders to sell a probate property. Gather these early."
+      }
+    }
+  ],
+  "description": "You'll need Letters of Administration/Testamentary, the death certificate, will, and relevant court orders to sell a probate property. Gather these early."
+}

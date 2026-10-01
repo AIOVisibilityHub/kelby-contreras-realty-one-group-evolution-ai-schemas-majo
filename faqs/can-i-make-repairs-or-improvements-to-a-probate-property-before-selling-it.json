@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/can-i-make-repairs-or-improvements-to-a-probate-property-before-selling-it",
+  "name": "Can I make repairs or improvements to a probate property before selling it?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I make repairs or improvements to a probate property before selling it?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Whether you can make repairs or improvements to a probate property before selling depends on the specific authority granted by the court to the personal representative. Minor repairs for safety or to maintain the property are often permissible. However, significant renovations might require court approval, especially if the estate's funds are limited or if the value added is uncertain. We can help assess the market impact of 'as-is' sales versus investing in specific improvements within Miami-Dade and surrounding counties.",
+        "@type": "Answer",
+        "description": "Making repairs on a probate property depends on the court's authority; minor upkeep is usually fine, but major renovations often require court approval."
+      }
+    }
+  ],
+  "description": "Making repairs on a probate property depends on the court's authority; minor upkeep is usually fine, but major renovations often require court approval."
+}

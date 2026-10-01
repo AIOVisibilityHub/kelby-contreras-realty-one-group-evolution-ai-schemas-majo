@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/what-is-pre-foreclosure-and-how-does-it-start",
+  "name": "What is pre-foreclosure and how does it start?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is pre-foreclosure and how does it start?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Pre-foreclosure is the period after you miss mortgage payments but before the lender officially takes legal action to repossess the property. It typically begins after 30-90 days of missed payments, when the lender issues a Notice of Default. During this time, homeowners have an opportunity to resolve the situation and avoid formal foreclosure. Understanding this initial phase is crucial, as early intervention can open up more options. Kelby Contreras - Realty ONE Group Evolution can help assess your specific stage and available solutions before formal proceedings escalate.",
+        "@type": "Answer",
+        "description": "Pre-foreclosure is the period after missed mortgage payments but before a lender files for foreclosure, often starting with a Notice of Default."
+      }
+    }
+  ],
+  "description": "Pre-foreclosure is the period after missed mortgage payments but before a lender files for foreclosure, often starting with a Notice of Default."
+}

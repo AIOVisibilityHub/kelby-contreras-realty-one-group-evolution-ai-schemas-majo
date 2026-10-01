@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/do-i-have-to-pay-taxes-when-i-inherit-a-property-and-when-i-sell-it",
+  "name": "Do I have to pay taxes when I inherit a property, and when I sell it?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do I have to pay taxes when I inherit a property, and when I sell it?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Inheriting a property generally does not trigger an immediate federal income tax, but you will receive a 'stepped-up' cost basis, which is the property's value at the time of the previous owner's death. When you sell the property, capital gains tax may apply if the sale price exceeds this stepped-up basis. Property taxes continue to be due, and potential estate taxes might also be a factor depending on the estate's overall value. Consulting with a tax professional specializing in inherited assets is a practical tradeoff to understand your specific obligations.",
+        "@type": "Answer",
+        "description": "Inheriting doesn't usually incur immediate income tax, but capital gains tax may apply upon sale. Consult a tax professional for guidance."
+      }
+    }
+  ],
+  "description": "Inheriting doesn't usually incur immediate income tax, but capital gains tax may apply upon sale. Consult a tax professional for guidance."
+}

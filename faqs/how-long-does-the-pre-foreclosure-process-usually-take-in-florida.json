@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/how-long-does-the-pre-foreclosure-process-usually-take-in-florida",
+  "name": "How long does the pre-foreclosure process usually take in Florida?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does the pre-foreclosure process usually take in Florida?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "In Florida, the pre-foreclosure process typically involves a 'Notice of Default' followed by a period where the lender can file a foreclosure lawsuit. As Florida is a judicial foreclosure state, the entire process, from the first missed payment to the final sale, can take several months to over a year, depending on court backlogs and the complexity of the case. Homeowners should act quickly once they receive a Notice of Default, as the longer you wait, the fewer options may be available. Kelby Contreras - Realty ONE Group Evolution can provide timely assistance to explore options before the process accelerates.",
+        "@type": "Answer",
+        "description": "In Florida, pre-foreclosure to final sale can take months to over a year due to judicial process. Early action is key once a Notice of Default is received."
+      }
+    }
+  ],
+  "description": "In Florida, pre-foreclosure to final sale can take months to over a year due to judicial process. Early action is key once a Notice of Default is received."
+}

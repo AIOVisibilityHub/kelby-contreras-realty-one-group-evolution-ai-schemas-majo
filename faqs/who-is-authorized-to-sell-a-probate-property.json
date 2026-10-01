@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/who-is-authorized-to-sell-a-probate-property",
+  "name": "Who is authorized to sell a probate property?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Who is authorized to sell a probate property?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The personal representative, also known as the executor or administrator, is authorized to sell a probate property. This individual is appointed by the court to manage the deceased's estate. Their authority to sell depends on the terms of the will and the court's orders, which can range from full independent administration to requiring court confirmation. It's crucial for the personal representative to understand their specific powers before proceeding with a sale.",
+        "@type": "Answer",
+        "description": "The personal representative, appointed by the court, is authorized to sell probate property. Their authority depends on the will and court orders."
+      }
+    }
+  ],
+  "description": "The personal representative, appointed by the court, is authorized to sell probate property. Their authority depends on the will and court orders."
+}

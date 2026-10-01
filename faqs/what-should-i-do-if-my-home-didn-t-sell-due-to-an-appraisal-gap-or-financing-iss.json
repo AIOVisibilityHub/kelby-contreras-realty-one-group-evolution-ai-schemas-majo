@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/what-should-i-do-if-my-home-didn-t-sell-due-to-an-appraisal-gap-or-financing-iss",
+  "name": "What should I do if my home didn't sell due to an appraisal gap or financing issues?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What should I do if my home didn't sell due to an appraisal gap or financing issues?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "If your home didn't sell due to an appraisal gap or buyer financing issues, it’s important to understand the specifics before relisting. An appraisal gap suggests the agreed-upon price exceeded the appraiser's valuation, often requiring negotiation or a price adjustment. Buyer financing issues may indicate a need to vet future buyers more thoroughly or consider offering incentives. For example, in a market like Orange County, understanding common buyer financial trends can inform your strategy. Kelby Contreras can help analyze the reasons behind previous sale failures and advise on strategies to mitigate these risks in a new listing, potentially by adjusting pricing or marketing to attract better-qualified buyers.",
+        "@type": "Answer",
+        "description": "Analyze appraisal gaps or financing issues. You may need to adjust pricing, offer incentives, or better vet future buyers."
+      }
+    }
+  ],
+  "description": "Analyze appraisal gaps or financing issues. You may need to adjust pricing, offer incentives, or better vet future buyers."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/what-is-a-distressed-property-sale",
+  "name": "What is a distressed property sale?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is a distressed property sale?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A distressed property sale typically refers to a property being sold under duress, often due to foreclosure, short sale, or bank-owned (REO) status. These situations arise when homeowners face financial difficulties and can no longer meet their mortgage obligations. As real estate agents specializing in these transactions across Miami-Dade, Broward, Palm Beach, Collier, and Orange Counties, we assist both buyers seeking value and sellers needing a swift resolution.",
+        "@type": "Answer",
+        "description": "A distressed property sale involves a property sold under financial duress, such as foreclosure, short sale, or as a bank-owned asset."
+      }
+    }
+  ],
+  "description": "A distressed property sale involves a property sold under financial duress, such as foreclosure, short sale, or as a bank-owned asset."
+}

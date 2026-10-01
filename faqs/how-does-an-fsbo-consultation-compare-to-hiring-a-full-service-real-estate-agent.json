@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/how-does-an-fsbo-consultation-compare-to-hiring-a-full-service-real-estate-agent",
+  "name": "How does an FSBO consultation compare to hiring a full-service real estate agent?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How does an FSBO consultation compare to hiring a full-service real estate agent?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "An FSBO consultation provides expert advice and guidance for you to sell your home independently, whereas hiring a full-service agent means they manage all aspects of the sale. With a consultation, you retain full control and save on commission fees, but you are responsible for all tasks including marketing, showings, and negotiations. A full-service agent handles these for you, offering convenience but at a higher cost. The choice depends on your comfort level with managing the sale process and your willingness to invest your own time.",
+        "@type": "Answer",
+        "description": "An FSBO consultation offers advice for self-sellers to save on commissions, while a full-service agent manages the entire process for a fee."
+      }
+    }
+  ],
+  "description": "An FSBO consultation offers advice for self-sellers to save on commissions, while a full-service agent manages the entire process for a fee."
+}

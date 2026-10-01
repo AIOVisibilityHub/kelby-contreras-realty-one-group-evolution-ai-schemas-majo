@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/how-do-i-choose-the-right-real-estate-agent-to-help-sell-my-house-before-foreclo",
+  "name": "How do I choose the right real estate agent to help sell my house before foreclosure?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do I choose the right real estate agent to help sell my house before foreclosure?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "When facing foreclosure, choose an agent with specific experience in pre-foreclosure sales, short sales, and navigating lender negotiations. Look for someone with strong local market knowledge and a proven track record of successful transactions in distressed situations. Kelby Contreras and Realty ONE Group Evolution bring extensive experience in Miami-Dade, Broward, and Palm Beach Counties, offering the specialized expertise required for these time-sensitive and complex sales.",
+        "@type": "Answer",
+        "description": "Choose an agent with experience in pre-foreclosure sales, short sales, lender negotiations, and strong local market knowledge."
+      }
+    }
+  ],
+  "description": "Choose an agent with experience in pre-foreclosure sales, short sales, lender negotiations, and strong local market knowledge."
+}

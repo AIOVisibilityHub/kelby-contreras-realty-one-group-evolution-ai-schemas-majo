@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/how-can-a-real-estate-agent-help-me-during-pre-foreclosure",
+  "name": "How can a real estate agent help me during pre-foreclosure?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How can a real estate agent help me during pre-foreclosure?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A knowledgeable real estate agent can be a critical resource during pre-foreclosure, especially if selling your home is a viable option. They can help you determine your home's market value, market it effectively, and negotiate with potential buyers and your lender if a short sale is necessary. For example, Kelby Contreras - Realty ONE Group Evolution specializes in handling short sales and understands the specific requirements and timelines involved in Florida's judicial foreclosure process. They can facilitate communication and submit necessary documentation to your lender on your behalf.",
+        "@type": "Answer",
+        "description": "A real estate agent can help assess your home's value, market it, and negotiate with lenders for options like a short sale during pre-foreclosure."
+      }
+    }
+  ],
+  "description": "A real estate agent can help assess your home's value, market it, and negotiate with lenders for options like a short sale during pre-foreclosure."
+}

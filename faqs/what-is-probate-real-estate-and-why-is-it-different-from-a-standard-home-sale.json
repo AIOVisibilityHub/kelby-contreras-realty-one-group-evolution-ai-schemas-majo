@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/what-is-probate-real-estate-and-why-is-it-different-from-a-standard-home-sale",
+  "name": "What is probate real estate and why is it different from a standard home sale?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is probate real estate and why is it different from a standard home sale?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Probate real estate refers to property that is part of an estate going through the probate court process after an owner's death. It differs from a standard home sale because it typically involves court oversight, which can add additional steps and timelines. For example, court approval may be required for the sale, and there might be specific legal requirements for listing the property, such as an appraisal. Working with an agent experienced in probate can help navigate these unique legal and procedural considerations.",
+        "@type": "Answer",
+        "description": "Probate real estate is property sold as part of an estate going through court-supervised probate, involving specific legal procedures not found in standard home sales."
+      }
+    }
+  ],
+  "description": "Probate real estate is property sold as part of an estate going through court-supervised probate, involving specific legal procedures not found in standard home"
+}

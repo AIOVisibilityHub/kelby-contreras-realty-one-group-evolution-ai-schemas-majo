@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/are-there-any-hidden-fees-when-selling-an-inherited-home-for-cash",
+  "name": "Are there any hidden fees when selling an inherited home for cash?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Are there any hidden fees when selling an inherited home for cash?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "When working with reputable cash buyers, there should be no hidden fees. Our offers are typically net to you, meaning we cover standard closing costs, and there are no agent commissions. This provides process clarity as the offer you accept is generally the amount you receive at closing, simplifying financial planning for your inherited asset. We provide a clear breakdown of all transaction details upfront.",
+        "@type": "Answer",
+        "description": "Reputable cash buyers have no hidden fees; offers typically cover closing costs and avoid agent commissions."
+      }
+    }
+  ],
+  "description": "Reputable cash buyers have no hidden fees; offers typically cover closing costs and avoid agent commissions."
+}

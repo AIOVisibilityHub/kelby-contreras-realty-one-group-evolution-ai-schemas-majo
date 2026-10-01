@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/can-i-sell-my-rental-property-with-tenants-still-living-in-it",
+  "name": "Can I sell my rental property with tenants still living in it?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I sell my rental property with tenants still living in it?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, you can sell a rental property with tenants in residence, but it adds layers of complexity. You must respect the existing lease agreement, which means the new owner will inherit the tenants and their lease terms. A practical tradeoff to consider is that while selling with tenants can provide continuous rental income during the sale process, it may limit the pool of potential buyers to investors rather than owner-occupants, potentially impacting the sale price or time on the market. We can help you navigate these considerations in the South Florida market.",
+        "@type": "Answer",
+        "description": "Yes, you can sell a rental property with tenants, but the existing lease must be honored, which can affect the buyer pool."
+      }
+    }
+  ],
+  "description": "Yes, you can sell a rental property with tenants, but the existing lease must be honored, which can affect the buyer pool."
+}

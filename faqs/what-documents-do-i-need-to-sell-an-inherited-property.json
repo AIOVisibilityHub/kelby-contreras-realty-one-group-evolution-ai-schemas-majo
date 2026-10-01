@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/what-documents-do-i-need-to-sell-an-inherited-property",
+  "name": "What documents do I need to sell an inherited property?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What documents do I need to sell an inherited property?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You will need several key documents, including the death certificate, the will (if one exists), and court orders from the probate process confirming your legal right to sell. Other standard real estate documents like the property deed, disclosure forms, and possibly a survey will also be required. Ensuring all paperwork is in order early in the process simplifies the sale in counties such as Collier or Orange.",
+        "@type": "Answer",
+        "description": "Key documents include the death certificate, will (if applicable), probate court orders, property deed, and disclosure forms."
+      }
+    }
+  ],
+  "description": "Key documents include the death certificate, will (if applicable), probate court orders, property deed, and disclosure forms."
+}

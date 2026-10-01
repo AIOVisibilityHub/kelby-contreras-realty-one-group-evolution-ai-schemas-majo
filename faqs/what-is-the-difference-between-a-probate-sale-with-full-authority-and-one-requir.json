@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/what-is-the-difference-between-a-probate-sale-with-full-authority-and-one-requir",
+  "name": "What is the difference between a probate sale with full authority and one requiring court confirmation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the difference between a probate sale with full authority and one requiring court confirmation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A probate sale with 'full authority' (e.g., under the Independent Administration of Estates Act - IAEA) allows the personal representative to sell the property without direct court oversight or confirmation, significantly speeding up the process. A sale requiring 'court confirmation' means the court must approve the sale terms, including the price, and may allow other bidders to step in at a hearing, which adds time and complexity. Understanding which type of authority applies is a critical first step.",
+        "@type": "Answer",
+        "description": "Full authority probate sales don't require court confirmation, speeding up the process. Sales requiring court confirmation need court approval of terms and may involve overbidding at a hearing."
+      }
+    }
+  ],
+  "description": "Full authority probate sales don't require court confirmation, speeding up the process. Sales requiring court confirmation need court approval of terms and may"
+}

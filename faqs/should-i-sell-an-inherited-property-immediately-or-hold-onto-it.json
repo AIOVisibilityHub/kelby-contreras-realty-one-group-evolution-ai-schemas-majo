@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/should-i-sell-an-inherited-property-immediately-or-hold-onto-it",
+  "name": "Should I sell an inherited property immediately, or hold onto it?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Should I sell an inherited property immediately, or hold onto it?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The decision to sell or hold an inherited property depends on several factors, including market conditions, your financial needs, and the property's condition. Holding could offer potential appreciation but also incurs ongoing costs like taxes, insurance, and maintenance. Selling offers immediate liquidity. Kelby Contreras can provide a comprehensive market analysis for your inherited property in areas like Palm Beach or Aventura, helping you compare the potential sales value against the costs of holding to inform your decision.",
+        "@type": "Answer",
+        "description": "Decide whether to sell or hold based on market conditions, financial needs, and property condition. A market analysis helps compare options."
+      }
+    }
+  ],
+  "description": "Decide whether to sell or hold based on market conditions, financial needs, and property condition. A market analysis helps compare options."
+}

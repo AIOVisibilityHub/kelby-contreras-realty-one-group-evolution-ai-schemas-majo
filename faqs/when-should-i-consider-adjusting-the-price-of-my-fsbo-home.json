@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/when-should-i-consider-adjusting-the-price-of-my-fsbo-home",
+  "name": "When should I consider adjusting the price of my FSBO home?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When should I consider adjusting the price of my FSBO home?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You should consider adjusting the price of your FSBO home if you're not receiving adequate interest or offers within a reasonable timeframe, typically 2-4 weeks in a normal market. Key indicators include low showing requests, no offers, or feedback from potential buyers suggesting the price is too high for the value offered. Before adjusting, it's prudent to reassess recent comparable sales and market activity in your area, such as Palm Beach or Collier County. A strategic price reduction can re-energize interest, but frequent, small reductions can signal desperation to buyers.",
+        "@type": "Answer",
+        "description": "Consider adjusting your FSBO home's price if you receive insufficient interest or offers within 2-4 weeks, or if buyer feedback points to overpricing. Reassess local comparable sales before making a strategic reduction."
+      }
+    }
+  ],
+  "description": "Consider adjusting your FSBO home's price if you receive insufficient interest or offers within 2-4 weeks, or if buyer feedback points to overpricing. Reassess"
+}

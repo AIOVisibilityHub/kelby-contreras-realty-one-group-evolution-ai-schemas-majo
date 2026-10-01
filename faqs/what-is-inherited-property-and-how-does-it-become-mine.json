@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/what-is-inherited-property-and-how-does-it-become-mine",
+  "name": "What is inherited property, and how does it become mine?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is inherited property, and how does it become mine?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Inherited property is real estate acquired after a property owner's passing, typically through a will or state intestacy laws. The process of transferring ownership usually involves probate, a legal process that validates the will and distributes assets. Once probate is complete, the property title can be transferred to the beneficiaries. In Miami-Dade or Broward County, this legal process can vary in duration, and consulting with a local probate attorney is often recommended to understand the specific steps involved.",
+        "@type": "Answer",
+        "description": "Inherited property is real estate received after someone's death, usually through probate to transfer ownership."
+      }
+    }
+  ],
+  "description": "Inherited property is real estate received after someone's death, usually through probate to transfer ownership."
+}

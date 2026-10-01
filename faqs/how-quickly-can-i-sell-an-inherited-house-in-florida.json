@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/how-quickly-can-i-sell-an-inherited-house-in-florida",
+  "name": "How quickly can I sell an inherited house in Florida?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How quickly can I sell an inherited house in Florida?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The timeline for selling an inherited house in Florida largely depends on whether the probate process is complete and the property's condition. Once legal ownership is clear and the house is market-ready, sales can be relatively quick in active markets like South Florida. Kelby Contreras can help streamline the selling process and provide insights into current market speed in areas like Miami Beach or Naples.",
+        "@type": "Answer",
+        "description": "Selling speed depends on probate completion and property condition, with active Florida markets potentially allowing for a quick sale."
+      }
+    }
+  ],
+  "description": "Selling speed depends on probate completion and property condition, with active Florida markets potentially allowing for a quick sale."
+}

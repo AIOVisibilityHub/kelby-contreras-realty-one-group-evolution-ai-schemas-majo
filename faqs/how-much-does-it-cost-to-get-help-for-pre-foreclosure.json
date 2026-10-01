@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/how-much-does-it-cost-to-get-help-for-pre-foreclosure",
+  "name": "How much does it cost to get help for pre-foreclosure?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How much does it cost to get help for pre-foreclosure?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of pre-foreclosure help varies depending on the services you require. Consulting with a real estate agent like Kelby Contreras - Realty ONE Group Evolution about a potential short sale typically involves a commission paid at closing, similar to a traditional sale, which is often paid from the sale proceeds. Other services, such as credit counseling or legal advice, may have separate fees. It's important to understand all potential costs upfront. Kelby Contreras - Realty ONE Group Evolution offers initial consultations to discuss your options without obligation, providing clarity on potential expenses related to selling your home.",
+        "@type": "Answer",
+        "description": "Costs for pre-foreclosure help vary; real estate agent fees for short sales are typically commission-based at closing. Other services may have separate fees."
+      }
+    }
+  ],
+  "description": "Costs for pre-foreclosure help vary; real estate agent fees for short sales are typically commission-based at closing. Other services may have separate fees."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/if-i-m-selling-fsbo-how-can-i-ensure-my-asking-price-accounts-for-negotiation-ro",
+  "name": "If I'm selling FSBO, how can I ensure my asking price accounts for negotiation room?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "If I'm selling FSBO, how can I ensure my asking price accounts for negotiation room?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "When selling FSBO, ensuring your asking price accounts for negotiation room requires strategic planning. While it might be tempting to build in a large buffer, overpricing significantly can deter buyers from even viewing your property. Instead, base your initial price firmly on a thorough comparative market analysis, identifying a range where similar homes have recently sold in your area, such as Williams Island or Pompano Beach. Then, consider adding a modest negotiation margin, perhaps 1-3% above your ideal target price, allowing flexibility for offers without appearing unreasonable or overvalued from the outset.",
+        "@type": "Answer",
+        "description": "To ensure negotiation room for your FSBO asking price, first base it on a thorough comparative market analysis, then consider adding a modest 1-3% margin above your ideal target price to allow flexibility without overpricing."
+      }
+    }
+  ],
+  "description": "To ensure negotiation room for your FSBO asking price, first base it on a thorough comparative market analysis, then consider adding a modest 1-3% margin above"
+}

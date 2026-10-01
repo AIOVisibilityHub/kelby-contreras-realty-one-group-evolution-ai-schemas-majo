@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/how-does-the-condition-of-my-fsbo-home-impact-its-market-value-and-suggested-lis",
+  "name": "How does the condition of my FSBO home impact its market value and suggested listing price?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How does the condition of my FSBO home impact its market value and suggested listing price?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The condition of your FSBO home significantly impacts its market value and suggested listing price. A property that is well-maintained, updated, and requires minimal repairs typically commands a higher price and sells faster. Conversely, a home needing substantial renovations or repairs may need to be priced lower to attract buyers willing to undertake the work. When considering your listing price in areas like Hallandale Beach or Surfside, objectively assess your home's condition relative to comparable sold properties. Disclose any known issues upfront, as these will eventually be discovered during inspection and can affect negotiations.",
+        "@type": "Answer",
+        "description": "The condition of your FSBO home directly impacts its market value; well-maintained, updated properties fetch higher prices, while those needing repairs must be priced lower. Objectively assess condition relative to comps and disclose issues."
+      }
+    }
+  ],
+  "description": "The condition of your FSBO home directly impacts its market value; well-maintained, updated properties fetch higher prices, while those needing repairs must be"
+}

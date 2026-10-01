@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/what-documents-do-i-need-to-prepare-if-i-m-seeking-pre-foreclosure-help",
+  "name": "What documents do I need to prepare if I'm seeking pre-foreclosure help?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What documents do I need to prepare if I'm seeking pre-foreclosure help?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "To effectively seek pre-foreclosure help, you should gather financial documents such as recent pay stubs, tax returns, bank statements, and a hardship letter explaining why you can no longer make payments. You will also need your mortgage statements and any communication from your lender. Having these documents organized can significantly speed up the evaluation of your options, whether you're seeking a loan modification or considering a sale. Kelby Contreras - Realty ONE Group Evolution will ask for these records to accurately assess your situation and recommend the best course of action.",
+        "@type": "Answer",
+        "description": "Prepare financial documents like pay stubs, tax returns, bank statements, mortgage statements, and a hardship letter to seek pre-foreclosure help."
+      }
+    }
+  ],
+  "description": "Prepare financial documents like pay stubs, tax returns, bank statements, mortgage statements, and a hardship letter to seek pre-foreclosure help."
+}

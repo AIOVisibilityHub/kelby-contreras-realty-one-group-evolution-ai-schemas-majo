@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/do-i-need-to-inform-the-utility-companies-when-selling-a-vacant-home",
+  "name": "Do I need to inform the utility companies when selling a vacant home?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do I need to inform the utility companies when selling a vacant home?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, it is essential to keep utilities (electricity, water, gas) active until the sale is complete and ownership has transferred. Active utilities are necessary for showings, inspections, and appraisals, as well as to maintain the property's condition, such as preventing mold growth due to lack of air conditioning in Florida's climate. Informing utility companies about the pending sale helps ensure a smooth transition, but maintaining service until closing is a critical preparation step.",
+        "@type": "Answer",
+        "description": "Keep utilities active until sale completion for showings, inspections, and property maintenance, especially to prevent issues like mold in Florida."
+      }
+    }
+  ],
+  "description": "Keep utilities active until sale completion for showings, inspections, and property maintenance, especially to prevent issues like mold in Florida."
+}

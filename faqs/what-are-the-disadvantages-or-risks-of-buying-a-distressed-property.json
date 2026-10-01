@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/what-are-the-disadvantages-or-risks-of-buying-a-distressed-property",
+  "name": "What are the disadvantages or risks of buying a distressed property?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are the disadvantages or risks of buying a distressed property?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Buying a distressed property comes with several potential disadvantages, including the property often being sold 'as-is,' meaning the seller typically won't make repairs. This can lead to unexpected renovation costs. The closing process can also be longer and more complex due to lender involvement in short sales or foreclosures. Buyers should be prepared for a thorough inspection and potentially limited access to the property during due diligence, which can affect their decision on proceeding.",
+        "@type": "Answer",
+        "description": "Disadvantages include properties being sold 'as-is,' potential unexpected renovation costs, and a longer, more complex closing process."
+      }
+    }
+  ],
+  "description": "Disadvantages include properties being sold 'as-is,' potential unexpected renovation costs, and a longer, more complex closing process."
+}

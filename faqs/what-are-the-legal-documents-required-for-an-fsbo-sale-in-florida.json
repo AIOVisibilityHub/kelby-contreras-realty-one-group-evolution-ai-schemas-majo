@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/what-are-the-legal-documents-required-for-an-fsbo-sale-in-florida",
+  "name": "What are the legal documents required for an FSBO sale in Florida?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are the legal documents required for an FSBO sale in Florida?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "For an FSBO sale in Florida, you'll generally need a purchase and sale agreement, property disclosures (such as the Seller's Disclosure of Property Condition), lead-based paint disclosures (for homes built before 1978), and potentially homeowner association documents. You may also need a clear title report and a deed to transfer ownership. Gathering all necessary documents upfront, including any specific condominium association documents if selling in places like Williams Island, is crucial preparation that avoids delays during the closing process.",
+        "@type": "Answer",
+        "description": "Required FSBO documents in Florida include a purchase agreement, property disclosures, lead-based paint disclosures, and potentially HOA documents, title report, and deed."
+      }
+    }
+  ],
+  "description": "Required FSBO documents in Florida include a purchase agreement, property disclosures, lead-based paint disclosures, and potentially HOA documents, title report"
+}

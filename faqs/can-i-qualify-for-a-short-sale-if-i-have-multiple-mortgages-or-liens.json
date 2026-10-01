@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/can-i-qualify-for-a-short-sale-if-i-have-multiple-mortgages-or-liens",
+  "name": "Can I qualify for a short sale if I have multiple mortgages or liens?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I qualify for a short sale if I have multiple mortgages or liens?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Qualifying for a short sale with multiple mortgages or liens is possible, but it adds complexity to the process. Each lienholder must approve the short sale, and they will need to agree on how the sale proceeds are distributed. This is a decision factor that requires careful negotiation and coordination between all involved parties. Kelby Contreras - Realty ONE Group Evolution has experience working with multiple lenders and can help manage these complex negotiations to increase the likelihood of approval for your property in areas like Aventura or Boca Raton.",
+        "@type": "Answer",
+        "description": "Yes, but multiple mortgages or liens complicate a short sale, as all lienholders must approve. Expert negotiation is key to managing these complexities and securing approval."
+      }
+    }
+  ],
+  "description": "Yes, but multiple mortgages or liens complicate a short sale, as all lienholders must approve. Expert negotiation is key to managing these complexities and secu"
+}

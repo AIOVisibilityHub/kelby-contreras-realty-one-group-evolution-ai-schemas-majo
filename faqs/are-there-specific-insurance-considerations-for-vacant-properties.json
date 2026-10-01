@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/are-there-specific-insurance-considerations-for-vacant-properties",
+  "name": "Are there specific insurance considerations for vacant properties?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Are there specific insurance considerations for vacant properties?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, standard homeowner's insurance policies often have limitations or exclusions for vacant properties after a certain period of unoccupancy, typically 30 to 60 days. It's crucial to inform your insurance provider about the property's vacant status and potentially secure a specialized vacant property insurance policy. This is a vital preparation step to protect against damages, vandalism, or liability claims that might not be covered under a standard policy while the property is empty during the sale process.",
+        "@type": "Answer",
+        "description": "Vacant properties may require specialized insurance as standard policies often have limitations after a period of unoccupancy."
+      }
+    }
+  ],
+  "description": "Vacant properties may require specialized insurance as standard policies often have limitations after a period of unoccupancy."
+}

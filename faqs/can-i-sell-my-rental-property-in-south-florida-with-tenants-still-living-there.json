@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/can-i-sell-my-rental-property-in-south-florida-with-tenants-still-living-there",
+  "name": "Can I sell my rental property in South Florida with tenants still living there?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I sell my rental property in South Florida with tenants still living there?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, selling a rental property with tenants in place is often possible, but it requires careful coordination. The process involves understanding existing lease agreements and local tenant rights, which vary across areas like Miami-Dade, Broward, and Palm Beach Counties. As part of process clarity, we guide you through the necessary steps to ensure a smooth transaction, including communication with tenants, scheduling showings, and preparing all legal documentation required for a tenant-occupied sale, minimizing disruption for both parties.",
+        "@type": "Answer",
+        "description": "Yes, you can sell with tenants. We help coordinate the process, considering lease agreements and local tenant rights in South Florida."
+      }
+    }
+  ],
+  "description": "Yes, you can sell with tenants. We help coordinate the process, considering lease agreements and local tenant rights in South Florida."
+}

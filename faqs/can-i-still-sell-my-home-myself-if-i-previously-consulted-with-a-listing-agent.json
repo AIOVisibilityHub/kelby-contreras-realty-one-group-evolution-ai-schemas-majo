@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/can-i-still-sell-my-home-myself-if-i-previously-consulted-with-a-listing-agent",
+  "name": "Can I still sell my home myself if I previously consulted with a listing agent?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I still sell my home myself if I previously consulted with a listing agent?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, you can typically still sell your home yourself after an initial consultation with a listing agent, provided you haven't signed any formal agreements, such as a listing contract. A consultation is an opportunity to gather information and assess your options. However, if you've already signed an exclusive right-to-sell agreement, you would generally be bound by its terms. Always review any documents carefully to understand your commitments, particularly when dealing with property sales in areas like Boca Raton or West Palm Beach.",
+        "@type": "Answer",
+        "description": "Yes, you can still sell FSBO after a consultation, as long as you haven't signed a formal listing agreement."
+      }
+    }
+  ],
+  "description": "Yes, you can still sell FSBO after a consultation, as long as you haven't signed a formal listing agreement."
+}

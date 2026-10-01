@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/what-if-multiple-heirs-inherit-the-same-property",
+  "name": "What if multiple heirs inherit the same property?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What if multiple heirs inherit the same property?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "When multiple heirs inherit a property, clear communication and a written agreement among all parties are crucial. Decisions regarding the property, such as selling, renting, or occupying, must be made collectively. If consensus is difficult to reach, mediation or legal action might be necessary. As your real estate agent, Kelby Contreras can facilitate discussions by providing objective market data and outlining the process of selling a co-owned property, helping all heirs understand the practical tradeoffs involved in different courses of action.",
+        "@type": "Answer",
+        "description": "Multiple heirs need clear communication and agreement on the property's future. A real estate agent can help facilitate discussions and provide market data."
+      }
+    }
+  ],
+  "description": "Multiple heirs need clear communication and agreement on the property's future. A real estate agent can help facilitate discussions and provide market data."
+}

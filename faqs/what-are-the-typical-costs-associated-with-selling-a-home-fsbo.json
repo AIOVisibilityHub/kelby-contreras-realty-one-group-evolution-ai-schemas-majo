@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/what-are-the-typical-costs-associated-with-selling-a-home-fsbo",
+  "name": "What are the typical costs associated with selling a home FSBO?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are the typical costs associated with selling a home FSBO?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "When selling FSBO, you avoid paying a seller's agent commission, which is typically 2.5-3% of the sale price. However, you'll still incur costs for marketing, photography, legal fees for contract review, title insurance, and potentially paying a buyer's agent commission if the buyer is represented. These expenses can vary, and it's essential to budget for them to accurately assess your potential savings. For instance, while you save on your agent's fee, offering a competitive buyer's agent commission can significantly broaden your pool of potential buyers in competitive markets like Palm Beach County.",
+        "@type": "Answer",
+        "description": "FSBO eliminates seller agent commissions, but you'll still pay for marketing, legal review, title insurance, and potentially a buyer's agent commission."
+      }
+    }
+  ],
+  "description": "FSBO eliminates seller agent commissions, but you'll still pay for marketing, legal review, title insurance, and potentially a buyer's agent commission."
+}

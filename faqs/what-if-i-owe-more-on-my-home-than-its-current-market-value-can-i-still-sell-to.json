@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/what-if-i-owe-more-on-my-home-than-its-current-market-value-can-i-still-sell-to",
+  "name": "What if I owe more on my home than its current market value? Can I still sell to avoid foreclosure?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What if I owe more on my home than its current market value? Can I still sell to avoid foreclosure?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, if you owe more than your home's value, a 'short sale' is often the primary option to avoid foreclosure. This involves negotiating with your lender to accept the sale proceeds, even if they are less than your outstanding mortgage balance. Your lender's approval is crucial, and they will typically require documentation of financial hardship. Kelby Contreras can help you present a strong case to your lender for a short sale approval.",
+        "@type": "Answer",
+        "description": "If you owe more than your home's value, a short sale can still help you avoid foreclosure by negotiating with your lender to accept less than the full mortgage amount."
+      }
+    }
+  ],
+  "description": "If you owe more than your home's value, a short sale can still help you avoid foreclosure by negotiating with your lender to accept less than the full mortgage"
+}

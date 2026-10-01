@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/what-are-the-common-costs-associated-with-selling-a-rental-property",
+  "name": "What are the common costs associated with selling a rental property?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are the common costs associated with selling a rental property?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Common costs when selling a rental property include real estate agent commissions, closing costs, title insurance, and potential repair expenses. You may also encounter costs for staging, professional photography, and any necessary property upgrades to attract buyers. A practical tradeoff to consider is investing in minor repairs or cosmetic improvements upfront, which could lead to a higher sale price and faster sale, balancing these costs against the potential increase in offer value.",
+        "@type": "Answer",
+        "description": "Costs include agent commissions, closing costs, title insurance, and repairs. Consider investing in improvements to potentially increase sale price and speed."
+      }
+    }
+  ],
+  "description": "Costs include agent commissions, closing costs, title insurance, and repairs. Consider investing in improvements to potentially increase sale price and speed."
+}

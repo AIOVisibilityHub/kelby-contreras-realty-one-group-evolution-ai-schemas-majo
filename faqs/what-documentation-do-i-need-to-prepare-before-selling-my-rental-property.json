@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/what-documentation-do-i-need-to-prepare-before-selling-my-rental-property",
+  "name": "What documentation do I need to prepare before selling my rental property?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What documentation do I need to prepare before selling my rental property?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Before selling your rental property, you should gather essential documents such as current lease agreements, rent rolls, property expense records, maintenance history, and any relevant financial statements. This preparation helps streamline the selling process and provides transparency to potential buyers. Having these items ready allows Kelby Contreras to accurately market your property and respond quickly to buyer inquiries, ensuring a smoother transaction from initial listing to closing.",
+        "@type": "Answer",
+        "description": "Prepare lease agreements, rent rolls, expense records, and maintenance history to streamline the selling process."
+      }
+    }
+  ],
+  "description": "Prepare lease agreements, rent rolls, expense records, and maintenance history to streamline the selling process."
+}

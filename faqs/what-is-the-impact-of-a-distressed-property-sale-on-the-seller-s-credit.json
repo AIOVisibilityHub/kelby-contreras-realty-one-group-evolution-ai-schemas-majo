@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/what-is-the-impact-of-a-distressed-property-sale-on-the-seller-s-credit",
+  "name": "What is the impact of a distressed property sale on the seller's credit?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the impact of a distressed property sale on the seller's credit?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A distressed property sale, such as a short sale or foreclosure, can have a significant negative impact on a seller's credit score. Foreclosures generally have the most severe and long-lasting effect, while short sales might be slightly less damaging but still impactful. The specific consequences can vary based on the seller's financial situation and the lender's policies. Understanding these potential credit implications is a critical aspect we discuss with sellers considering these options.",
+        "@type": "Answer",
+        "description": "A distressed property sale, like a short sale or foreclosure, will negatively impact a seller's credit score, with foreclosures typically having the most severe effect."
+      }
+    }
+  ],
+  "description": "A distressed property sale, like a short sale or foreclosure, will negatively impact a seller's credit score, with foreclosures typically having the most severe"
+}

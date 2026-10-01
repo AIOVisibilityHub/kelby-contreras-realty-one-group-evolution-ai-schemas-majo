@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/what-is-the-difference-between-a-pre-foreclosure-and-a-full-foreclosure",
+  "name": "What is the difference between a pre-foreclosure and a full foreclosure?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the difference between a pre-foreclosure and a full foreclosure?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Pre-foreclosure is the initial stage where a homeowner has defaulted on mortgage payments but the lender has not yet obtained a court order to sell the property. During this phase, homeowners have opportunities to resolve the issue. Full foreclosure, on the other hand, is the legal process where the lender takes ownership of the property, typically through a judicial sale, after the pre-foreclosure period has passed without a resolution. The key difference lies in the stage of legal proceedings and the remaining options available to the homeowner. Kelby Contreras - Realty ONE Group Evolution primarily assists during the pre-foreclosure stage to prevent full foreclosure.",
+        "@type": "Answer",
+        "description": "Pre-foreclosure is the period after missed payments but before legal action. Full foreclosure is the legal process where the lender takes ownership."
+      }
+    }
+  ],
+  "description": "Pre-foreclosure is the period after missed payments but before legal action. Full foreclosure is the legal process where the lender takes ownership."
+}

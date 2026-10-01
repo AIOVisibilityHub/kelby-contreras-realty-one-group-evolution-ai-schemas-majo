@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/how-do-i-choose-a-real-estate-agent-experienced-in-foreclosure-avoidance-sales-i",
+  "name": "How do I choose a real estate agent experienced in foreclosure avoidance sales in South Florida?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do I choose a real estate agent experienced in foreclosure avoidance sales in South Florida?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "When choosing an agent, look for someone with specific experience in distressed property sales, short sales, and navigating the local real estate market in areas like Miami-Dade, Broward, or Palm Beach Counties. An experienced agent will understand the urgency and complexities involved, including communicating with lenders and managing tight timelines. Kelby Contreras and Realty ONE Group Evolution have expertise in these types of sales within these South Florida markets.",
+        "@type": "Answer",
+        "description": "Choose a real estate agent with specific experience in distressed property sales and local market knowledge, especially in South Florida."
+      }
+    }
+  ],
+  "description": "Choose a real estate agent with specific experience in distressed property sales and local market knowledge, especially in South Florida."
+}

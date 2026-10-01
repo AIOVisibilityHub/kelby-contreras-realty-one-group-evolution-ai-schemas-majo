@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/how-do-i-determine-the-market-value-of-an-inherited-house",
+  "name": "How do I determine the market value of an inherited house?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do I determine the market value of an inherited house?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "To determine the market value, a comparative market analysis (CMA) is essential. This involves evaluating recent sales of similar properties in the same area, like Aventura or Coral Gables, considering factors such as property condition, size, and amenities. Kelby Contreras specializes in providing accurate CMAs across Miami-Dade, Broward, Palm Beach, Collier, and Orange Counties to help you price the home competitively.",
+        "@type": "Answer",
+        "description": "Determine market value through a comparative market analysis (CMA), which evaluates recent sales of similar properties in the area."
+      }
+    }
+  ],
+  "description": "Determine market value through a comparative market analysis (CMA), which evaluates recent sales of similar properties in the area."
+}

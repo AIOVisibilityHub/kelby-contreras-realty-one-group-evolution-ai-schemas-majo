@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/can-i-sell-an-inherited-home-for-cash-if-it-s-in-probate",
+  "name": "Can I sell an inherited home for cash if it's in probate?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I sell an inherited home for cash if it's in probate?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, it is possible to sell an inherited home for cash while it is in probate, though the process might require court approval depending on the stage and terms of the probate. This is a crucial decision factor, as selling during probate can provide immediate liquidity for estate expenses but may involve additional legal steps and timelines. We can work with you and your legal counsel to navigate sales involving probate in our service areas.",
+        "@type": "Answer",
+        "description": "Yes, but selling during probate may require court approval and additional legal steps, depending on the probate's status."
+      }
+    }
+  ],
+  "description": "Yes, but selling during probate may require court approval and additional legal steps, depending on the probate's status."
+}

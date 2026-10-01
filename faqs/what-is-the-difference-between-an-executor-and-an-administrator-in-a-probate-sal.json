@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/what-is-the-difference-between-an-executor-and-an-administrator-in-a-probate-sal",
+  "name": "What is the difference between an executor and an administrator in a probate sale?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the difference between an executor and an administrator in a probate sale?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "In a probate sale, an executor is named in the deceased's will to manage the estate, while an administrator is appointed by the court when there is no will or the named executor cannot serve. Both roles hold similar responsibilities in liquidating assets like real estate and distributing proceeds according to legal guidelines. The key difference lies in their appointment. Understanding who is legally authorized to act for the estate provides process clarity and is essential for all parties involved in the sale.",
+        "@type": "Answer",
+        "description": "An executor is named in a will, while an administrator is court-appointed when there's no will; both manage estate assets like real estate for sale."
+      }
+    }
+  ],
+  "description": "An executor is named in a will, while an administrator is court-appointed when there's no will; both manage estate assets like real estate for sale."
+}

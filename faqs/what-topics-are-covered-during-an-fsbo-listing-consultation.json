@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/what-topics-are-covered-during-an-fsbo-listing-consultation",
+  "name": "What topics are covered during an FSBO listing consultation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What topics are covered during an FSBO listing consultation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "During an FSBO listing consultation, we typically cover key aspects of selling your home independently. This includes determining an appropriate asking price based on comparable sales in your area, developing a marketing strategy, understanding the disclosure requirements for Florida properties, and preparing for negotiations. We can also discuss staging advice and how to effectively screen potential buyers. Our goal is to equip you with the knowledge needed to manage each stage of the sale process effectively.",
+        "@type": "Answer",
+        "description": "An FSBO listing consultation covers pricing strategies, marketing plans, disclosure requirements, negotiation tactics, and buyer screening."
+      }
+    }
+  ],
+  "description": "An FSBO listing consultation covers pricing strategies, marketing plans, disclosure requirements, negotiation tactics, and buyer screening."
+}

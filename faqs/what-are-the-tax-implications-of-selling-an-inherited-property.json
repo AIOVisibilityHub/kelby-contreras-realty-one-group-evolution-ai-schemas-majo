@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/what-are-the-tax-implications-of-selling-an-inherited-property",
+  "name": "What are the tax implications of selling an inherited property?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are the tax implications of selling an inherited property?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "When you sell an inherited property, you generally benefit from a 'stepped-up' cost basis, meaning the property's value for tax purposes is reset to its market value on the deceased's date of death, not the original purchase price. This often reduces capital gains tax liability significantly. It's advisable to consult a tax professional for personalized advice, especially concerning state-specific regulations in Florida.",
+        "@type": "Answer",
+        "description": "Selling an inherited property typically involves a 'stepped-up' cost basis for capital gains tax, reducing your tax liability."
+      }
+    }
+  ],
+  "description": "Selling an inherited property typically involves a 'stepped-up' cost basis for capital gains tax, reducing your tax liability."
+}

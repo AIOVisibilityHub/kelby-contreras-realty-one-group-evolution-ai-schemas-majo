@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/what-is-the-overbid-process-in-a-florida-probate-home-sale",
+  "name": "What is the overbid process in a Florida probate home sale?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the overbid process in a Florida probate home sale?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "In some Florida probate sales, after an initial offer is accepted and court approval is sought, other interested buyers may have the opportunity to submit higher bids during a court confirmation hearing. This is known as the overbid process. The court aims to ensure the estate receives the highest possible value for the property. Executors must be prepared for this possibility and work with their agent to properly notify interested parties and manage the hearing logistics.",
+        "@type": "Answer",
+        "description": "The overbid process in Florida probate sales allows other buyers to submit higher offers during a court hearing after an initial offer is accepted."
+      }
+    }
+  ],
+  "description": "The overbid process in Florida probate sales allows other buyers to submit higher offers during a court hearing after an initial offer is accepted."
+}

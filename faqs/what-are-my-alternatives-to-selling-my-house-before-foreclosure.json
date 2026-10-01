@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/what-are-my-alternatives-to-selling-my-house-before-foreclosure",
+  "name": "What are my alternatives to selling my house before foreclosure?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are my alternatives to selling my house before foreclosure?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Beyond selling, alternatives to foreclosure include loan modification, forbearance agreements, or deed in lieu of foreclosure. Each option has different financial and credit implications. The best choice depends on your specific financial situation and long-term goals. Kelby Contreras can help you evaluate these options in detail, focusing on how each aligns with your objectives in the dynamic real estate markets of Miami-Dade and Broward Counties.",
+        "@type": "Answer",
+        "description": "Alternatives to selling include loan modification, forbearance, or deed in lieu of foreclosure, each with different impacts."
+      }
+    }
+  ],
+  "description": "Alternatives to selling include loan modification, forbearance, or deed in lieu of foreclosure, each with different impacts."
+}

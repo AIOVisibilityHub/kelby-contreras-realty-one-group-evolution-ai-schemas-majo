@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/how-do-you-determine-the-market-value-of-a-vacant-house",
+  "name": "How do you determine the market value of a vacant house?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do you determine the market value of a vacant house?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The market value of a vacant house is determined by evaluating comparable recently sold properties in the area, considering its condition, size, features, and location. Kelby Contreras conducts a thorough comparative market analysis (CMA) to assess these factors against current market trends in areas like Miami-Dade, Broward, or Palm Beach County. We also factor in any unique attributes of the property or the neighborhood that might influence its appeal or value. This data-driven approach helps set a competitive and realistic asking price.",
+        "@type": "Answer",
+        "description": "Market value for a vacant house is determined through a comparative market analysis (CMA) that considers recent sales, condition, size, features, and location. This helps set a realistic asking price."
+      }
+    }
+  ],
+  "description": "Market value for a vacant house is determined through a comparative market analysis (CMA) that considers recent sales, condition, size, features, and location."
+}

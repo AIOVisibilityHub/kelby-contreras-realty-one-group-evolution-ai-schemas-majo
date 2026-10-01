@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/when-should-i-consider-selling-my-rental-property-instead-of-continuing-to-manag",
+  "name": "When should I consider selling my rental property instead of continuing to manage it?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When should I consider selling my rental property instead of continuing to manage it?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You should consider selling your rental property if you are experiencing burnout from management duties, facing significant repair costs, or if your financial goals have shifted. A practical tradeoff is evaluating the immediate relief of selling against the potential long-term rental income. Kelby Contreras can help you analyze the current market conditions in areas like Miami-Dade, Broward, or Palm Beach County to determine if selling now aligns with your financial objectives and provides the best return on your investment compared to continued management.",
+        "@type": "Answer",
+        "description": "Consider selling if you're burnt out, facing high costs, or have new financial goals. We can help analyze market conditions to see if selling now is best."
+      }
+    }
+  ],
+  "description": "Consider selling if you're burnt out, facing high costs, or have new financial goals. We can help analyze market conditions to see if selling now is best."
+}

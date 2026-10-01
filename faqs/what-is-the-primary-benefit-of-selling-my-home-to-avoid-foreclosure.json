@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/what-is-the-primary-benefit-of-selling-my-home-to-avoid-foreclosure",
+  "name": "What is the primary benefit of selling my home to avoid foreclosure?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the primary benefit of selling my home to avoid foreclosure?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Selling your home before foreclosure can help you avoid a damaged credit score, which can affect future housing and loan opportunities. It also allows you to have more control over the sale process, potentially recover some equity, and negotiate terms, rather than having the bank dictate the sale. Our team in Miami-Dade and Broward Counties can help you understand market conditions to facilitate a quicker sale.",
+        "@type": "Answer",
+        "description": "Selling your home before foreclosure helps protect your credit and gives you more control over the sale process."
+      }
+    }
+  ],
+  "description": "Selling your home before foreclosure helps protect your credit and gives you more control over the sale process."
+}

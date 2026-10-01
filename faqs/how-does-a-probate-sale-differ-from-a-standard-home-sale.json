@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/how-does-a-probate-sale-differ-from-a-standard-home-sale",
+  "name": "How does a probate sale differ from a standard home sale?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How does a probate sale differ from a standard home sale?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A probate sale differs significantly from a standard home sale primarily due to court involvement. In a probate sale, the court must approve many actions, including the property's listing price, the final sale price, and sometimes even the real estate agent's commission. This oversight is designed to protect the estate's beneficiaries. The presence of court timelines, potential for overbidding, and the need for legal representation add layers of complexity not found in typical transactions. Understanding these distinct legal and procedural requirements is key to a successful probate sale.",
+        "@type": "Answer",
+        "description": "Probate sales differ from standard home sales primarily due to mandatory court approval for pricing and sale terms, protecting the estate's beneficiaries."
+      }
+    }
+  ],
+  "description": "Probate sales differ from standard home sales primarily due to mandatory court approval for pricing and sale terms, protecting the estate's beneficiaries."
+}

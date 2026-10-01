@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/what-is-the-difference-between-a-pre-foreclosure-sale-and-a-short-sale",
+  "name": "What is the difference between a pre-foreclosure sale and a short sale?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the difference between a pre-foreclosure sale and a short sale?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A pre-foreclosure sale is a broad term for selling a home before foreclosure is finalized, which may or may not cover the full mortgage. A short sale is a specific type of pre-foreclosure sale where the sale price is less than the outstanding mortgage balance, and the lender agrees to accept the reduced amount as full payment. The decision factor between these is whether your home's market value in areas like Collier County allows for a sale that covers the full mortgage or requires lender negotiation for a 'short' payoff.",
+        "@type": "Answer",
+        "description": "A pre-foreclosure sale is a general term for selling before foreclosure, while a short sale specifically means the sale price is less than the mortgage amount with lender approval."
+      }
+    }
+  ],
+  "description": "A pre-foreclosure sale is a general term for selling before foreclosure, while a short sale specifically means the sale price is less than the mortgage amount w"
+}

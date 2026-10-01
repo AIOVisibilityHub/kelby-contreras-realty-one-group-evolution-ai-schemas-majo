@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/what-are-the-risks-of-selling-a-home-fsbo",
+  "name": "What are the risks of selling a home FSBO?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are the risks of selling a home FSBO?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The risks of selling FSBO include incorrect pricing, inadequate marketing exposure, legal complications due to improper contracts or disclosures, and difficulty negotiating with experienced buyers or their agents. You might also encounter unqualified buyers or spend considerable personal time without a successful sale. A significant practical tradeoff is the potential for selling below market value or facing legal challenges, which can outweigh the commission savings if not managed carefully.",
+        "@type": "Answer",
+        "description": "FSBO risks include incorrect pricing, poor marketing, legal issues from improper contracts, and difficult negotiations, potentially leading to a lower sale price or prolonged process."
+      }
+    }
+  ],
+  "description": "FSBO risks include incorrect pricing, poor marketing, legal issues from improper contracts, and difficult negotiations, potentially leading to a lower sale pric"
+}

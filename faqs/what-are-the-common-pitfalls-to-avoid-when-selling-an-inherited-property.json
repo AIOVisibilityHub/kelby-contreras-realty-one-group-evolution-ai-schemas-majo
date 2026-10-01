@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/what-are-the-common-pitfalls-to-avoid-when-selling-an-inherited-property",
+  "name": "What are the common pitfalls to avoid when selling an inherited property?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are the common pitfalls to avoid when selling an inherited property?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Common pitfalls include failing to understand the tax implications, underestimating the time and cost of probate, neglecting necessary property repairs, and not securing agreement among all heirs. Another pitfall is pricing the property incorrectly, either too high, leading to long market times, or too low, resulting in lost equity. Kelby Contreras advises clients to secure proper legal and tax advice early and provides realistic market valuations to avoid these common issues, ensuring that the entire selling process is as smooth and profitable as possible in dynamic markets like Collier County or Orange County.",
+        "@type": "Answer",
+        "description": "Avoid tax misunderstandings, probate delays, neglected repairs, heir disagreements, and incorrect pricing. Seek legal/tax advice and get a realistic valuation."
+      }
+    }
+  ],
+  "description": "Avoid tax misunderstandings, probate delays, neglected repairs, heir disagreements, and incorrect pricing. Seek legal/tax advice and get a realistic valuation."
+}

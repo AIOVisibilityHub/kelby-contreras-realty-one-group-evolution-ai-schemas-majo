@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/how-long-does-it-typically-take-to-sell-a-house-fsbo",
+  "name": "How long does it typically take to sell a house FSBO?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does it typically take to sell a house FSBO?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The time it takes to sell a house FSBO varies significantly based on market conditions, pricing, marketing efforts, and property appeal. While some homes sell quickly, others can take months. As a practical tradeoff, selling FSBO often means dedicating more personal time to manage showings, inquiries, and negotiations, which can impact the overall timeline. In fast-paced markets like Doral or Brickell, an unrepresented seller might experience longer sale times compared to those with professional guidance due to negotiation complexities.",
+        "@type": "Answer",
+        "description": "FSBO sale times vary based on market, pricing, and marketing; personal time commitment for showings and negotiations can affect the overall duration."
+      }
+    }
+  ],
+  "description": "FSBO sale times vary based on market, pricing, and marketing; personal time commitment for showings and negotiations can affect the overall duration."
+}

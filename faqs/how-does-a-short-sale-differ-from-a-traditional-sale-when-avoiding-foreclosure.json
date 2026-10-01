@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/how-does-a-short-sale-differ-from-a-traditional-sale-when-avoiding-foreclosure",
+  "name": "How does a short sale differ from a traditional sale when avoiding foreclosure?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How does a short sale differ from a traditional sale when avoiding foreclosure?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A short sale occurs when your lender agrees to let you sell your home for less than the mortgage balance, typically to avoid foreclosure. Unlike a traditional sale, a short sale involves extensive negotiation and approval from your mortgage lender, adding complexity and time to the transaction. Kelby Contreras and Realty ONE Group Evolution provide specialized guidance through the short sale approval process, a critical difference in the South Florida real estate market.",
+        "@type": "Answer",
+        "description": "A short sale involves lender approval to sell below mortgage balance, unlike a traditional sale."
+      }
+    }
+  ],
+  "description": "A short sale involves lender approval to sell below mortgage balance, unlike a traditional sale."
+}

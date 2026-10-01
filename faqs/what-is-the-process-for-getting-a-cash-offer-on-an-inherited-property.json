@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/what-is-the-process-for-getting-a-cash-offer-on-an-inherited-property",
+  "name": "What is the process for getting a cash offer on an inherited property?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the process for getting a cash offer on an inherited property?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The process typically starts with contacting a real estate professional like Kelby Contreras to assess the property. We will then arrange a visit to evaluate the home's condition and provide a no-obligation cash offer. If you accept, we handle the necessary paperwork and guide you through the closing. This approach provides process clarity by minimizing your involvement in repairs or staging, allowing for a straightforward transaction, especially for properties in any condition within our service areas.",
+        "@type": "Answer",
+        "description": "The process involves contacting a real estate professional, property assessment, receiving a cash offer, and then a simplified closing."
+      }
+    }
+  ],
+  "description": "The process involves contacting a real estate professional, property assessment, receiving a cash offer, and then a simplified closing."
+}

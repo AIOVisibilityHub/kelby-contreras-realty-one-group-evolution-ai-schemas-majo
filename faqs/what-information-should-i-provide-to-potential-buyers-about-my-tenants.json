@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/what-information-should-i-provide-to-potential-buyers-about-my-tenants",
+  "name": "What information should I provide to potential buyers about my tenants?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What information should I provide to potential buyers about my tenants?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "When selling an occupied rental property, it's customary to provide potential buyers with relevant financial and lease information about the tenants. This includes the current lease agreement, rent roll, security deposit details, and any history of rent payments or property issues. A preparation tip is to gather all lease-related documents and financial records beforehand. This transparency helps buyers assess the investment and due diligence, but always respect tenant privacy and only provide information relevant to the transaction.",
+        "@type": "Answer",
+        "description": "Provide potential buyers with lease agreements, rent roll, security deposit details, and payment history to aid their assessment."
+      }
+    }
+  ],
+  "description": "Provide potential buyers with lease agreements, rent roll, security deposit details, and payment history to aid their assessment."
+}

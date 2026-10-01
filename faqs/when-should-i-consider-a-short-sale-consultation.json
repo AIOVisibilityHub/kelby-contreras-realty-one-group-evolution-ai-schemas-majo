@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/when-should-i-consider-a-short-sale-consultation",
+  "name": "When should I consider a short sale consultation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When should I consider a short sale consultation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You should consider a short sale consultation if you are facing financial hardship, can no longer afford your mortgage payments, and your home's value is less than what you owe on it. This is a critical preparation step. It's important to act early, ideally before missing multiple mortgage payments or receiving official foreclosure notices, to explore all available options. A consultation with Kelby Contreras - Realty ONE Group Evolution can help assess your eligibility and explain the potential benefits and drawbacks specific to your circumstances in Miami-Dade or Broward County.",
+        "@type": "Answer",
+        "description": "Consider a short sale consultation if you are experiencing financial hardship, cannot afford mortgage payments, and your home is underwater. Early consultation helps explore options before foreclosure."
+      }
+    }
+  ],
+  "description": "Consider a short sale consultation if you are experiencing financial hardship, cannot afford mortgage payments, and your home is underwater. Early consultation"
+}

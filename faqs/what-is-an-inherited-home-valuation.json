@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/what-is-an-inherited-home-valuation",
+  "name": "What is an inherited home valuation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is an inherited home valuation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "An inherited home valuation determines the fair market value of a property someone has inherited. This valuation is often necessary for probate, estate planning, or to establish a cost basis for tax purposes. It provides an objective assessment of the property's worth at a specific point in time, typically the date of the previous owner's death. Kelby Contreras - Realty ONE Group Evolution specializes in valuations for inherited properties across Miami-Dade, Broward, Palm Beach, Collier, and Orange Counties, understanding the nuances of these local markets.",
+        "@type": "Answer",
+        "description": "An inherited home valuation assesses a property's market value for estate, probate, or tax purposes after inheritance."
+      }
+    }
+  ],
+  "description": "An inherited home valuation assesses a property's market value for estate, probate, or tax purposes after inheritance."
+}

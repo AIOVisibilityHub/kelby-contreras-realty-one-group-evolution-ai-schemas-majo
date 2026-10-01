@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/what-should-i-prepare-before-an-fsbo-listing-consultation",
+  "name": "What should I prepare before an FSBO listing consultation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What should I prepare before an FSBO listing consultation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Before an FSBO listing consultation, it's beneficial to gather information about your property, such as its age, recent upgrades, and any unique features. Having a general idea of your desired selling price and timeline can also be helpful. Be prepared to discuss any questions or concerns you have about the FSBO process, especially regarding specific local market conditions in Miami-Dade or Broward County. This preparation allows us to provide more tailored and actionable advice during our meeting.",
+        "@type": "Answer",
+        "description": "Before an FSBO consultation, prepare information about your property, desired selling price, timeline, and any specific questions you have about the FSBO process."
+      }
+    }
+  ],
+  "description": "Before an FSBO consultation, prepare information about your property, desired selling price, timeline, and any specific questions you have about the FSBO proces"
+}

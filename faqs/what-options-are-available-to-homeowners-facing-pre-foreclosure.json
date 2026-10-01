@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/what-options-are-available-to-homeowners-facing-pre-foreclosure",
+  "name": "What options are available to homeowners facing pre-foreclosure?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What options are available to homeowners facing pre-foreclosure?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Homeowners facing pre-foreclosure have several options to consider, including loan modification, repayment plans, forbearance, short sales, or deeds-in-lieu of foreclosure. The best option depends on your financial situation, the equity in your home, and your long-term goals. For example, a short sale might be suitable if you owe more than your home is worth and need to sell quickly. Kelby Contreras - Realty ONE Group Evolution can help you evaluate these options, particularly assessing if a short sale is a viable solution for your property in Miami-Dade or Broward County.",
+        "@type": "Answer",
+        "description": "Options include loan modification, repayment plans, short sales, or deeds-in-lieu. The best choice depends on your financial situation and home equity."
+      }
+    }
+  ],
+  "description": "Options include loan modification, repayment plans, short sales, or deeds-in-lieu. The best choice depends on your financial situation and home equity."
+}

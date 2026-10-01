@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/what-documents-do-i-need-to-prepare-if-i-decide-to-sell-my-home-to-avoid-foreclo",
+  "name": "What documents do I need to prepare if I decide to sell my home to avoid foreclosure?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What documents do I need to prepare if I decide to sell my home to avoid foreclosure?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "To prepare for selling, you'll need mortgage statements, property tax records, insurance policies, any HOA documents, and a clear understanding of your current loan balance. Gathering these documents early is crucial preparation for your agent and potential buyers. If you are considering a short sale, your lender will also require financial statements, income verification, and a hardship letter explaining why you can no longer afford your payments.",
+        "@type": "Answer",
+        "description": "Prepare mortgage statements, tax records, insurance, and HOA documents. For a short sale, also gather financial statements and a hardship letter."
+      }
+    }
+  ],
+  "description": "Prepare mortgage statements, tax records, insurance, and HOA documents. For a short sale, also gather financial statements and a hardship letter."
+}

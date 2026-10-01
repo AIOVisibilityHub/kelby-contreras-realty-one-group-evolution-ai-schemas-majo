@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/what-impact-does-selling-my-home-before-foreclosure-have-on-my-credit-score",
+  "name": "What impact does selling my home before foreclosure have on my credit score?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What impact does selling my home before foreclosure have on my credit score?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Selling your home before foreclosure, especially through a traditional or short sale, generally has a less severe impact on your credit score than a full foreclosure. While a short sale can still negatively affect your credit, it is typically viewed more favorably by creditors. Kelby Contreras advises clients in areas like Sunny Isles Beach and Key Biscayne on how to best manage their credit standing through these challenging situations.",
+        "@type": "Answer",
+        "description": "Selling before foreclosure, via traditional or short sale, typically damages your credit less than a full foreclosure."
+      }
+    }
+  ],
+  "description": "Selling before foreclosure, via traditional or short sale, typically damages your credit less than a full foreclosure."
+}

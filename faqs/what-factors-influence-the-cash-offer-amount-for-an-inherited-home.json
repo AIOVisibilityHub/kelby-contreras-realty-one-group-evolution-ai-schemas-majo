@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/what-factors-influence-the-cash-offer-amount-for-an-inherited-home",
+  "name": "What factors influence the cash offer amount for an inherited home?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What factors influence the cash offer amount for an inherited home?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cash offer amount is primarily influenced by the property's location, current condition, size, and comparable sales in the area. Our team assesses these details, considering any necessary repairs or renovations required to bring the property up to market standards. This allows us to provide a transparent and competitive offer, ensuring you understand the valuation for your inherited home in specific areas like Collier County or Orange County.",
+        "@type": "Answer",
+        "description": "Location, current condition, size, and comparable sales primarily influence the cash offer for an inherited home."
+      }
+    }
+  ],
+  "description": "Location, current condition, size, and comparable sales primarily influence the cash offer for an inherited home."
+}

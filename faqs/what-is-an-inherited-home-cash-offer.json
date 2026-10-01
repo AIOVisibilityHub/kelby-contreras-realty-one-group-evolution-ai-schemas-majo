@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/what-is-an-inherited-home-cash-offer",
+  "name": "What is an inherited home cash offer?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is an inherited home cash offer?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "An inherited home cash offer is a direct proposal from a buyer to purchase a property received through inheritance, typically without the need for traditional financing. This means the sale can close faster and avoids delays associated with loan approvals. For those looking to sell quickly in areas like Miami-Dade or Broward County, this can simplify the process significantly, especially if the property requires extensive repairs or renovations that the inheritors prefer not to undertake.",
+        "@type": "Answer",
+        "description": "An inherited home cash offer is a direct proposal to buy a property received through inheritance, facilitating a quicker sale without traditional financing."
+      }
+    }
+  ],
+  "description": "An inherited home cash offer is a direct proposal to buy a property received through inheritance, facilitating a quicker sale without traditional financing."
+}

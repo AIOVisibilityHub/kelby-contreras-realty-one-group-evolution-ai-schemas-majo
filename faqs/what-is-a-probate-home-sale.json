@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/what-is-a-probate-home-sale",
+  "name": "What is a probate home sale?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is a probate home sale?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A probate home sale occurs when a property owner passes away, and their estate goes through the legal process of probate to distribute assets, including real estate. The sale is court-supervised to ensure assets are managed and distributed according to the deceased's will or state law. The process can involve specific timelines and court approvals, which may differ from a standard real estate transaction. Understanding these differences is a crucial first step for anyone involved in an estate sale.",
+        "@type": "Answer",
+        "description": "A probate home sale involves selling real estate that is part of a deceased person's estate, requiring court supervision and approval."
+      }
+    }
+  ],
+  "description": "A probate home sale involves selling real estate that is part of a deceased person's estate, requiring court supervision and approval."
+}

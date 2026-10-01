@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/what-are-the-risks-of-selling-my-home-fsbo-without-any-professional-assistance",
+  "name": "What are the risks of selling my home FSBO without any professional assistance?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are the risks of selling my home FSBO without any professional assistance?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Selling FSBO without professional assistance carries risks such as incorrect pricing, ineffective marketing, legal errors in contracts, and difficulty negotiating. You might also struggle with vetting buyers or managing complex contingencies. These challenges can lead to a longer sale time, a lower sale price, or even legal issues, making the decision to seek help a critical one.",
+        "@type": "Answer",
+        "description": "Risks of FSBO without professional help include incorrect pricing, legal errors, poor marketing, and difficulty with negotiations, potentially leading to a lower sale price or legal issues."
+      }
+    }
+  ],
+  "description": "Risks of FSBO without professional help include incorrect pricing, legal errors, poor marketing, and difficulty with negotiations, potentially leading to a lowe"
+}

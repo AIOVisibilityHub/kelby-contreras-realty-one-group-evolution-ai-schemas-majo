@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/what-is-a-short-sale-and-when-is-it-a-good-option",
+  "name": "What is a short sale and when is it a good option?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is a short sale and when is it a good option?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A short sale occurs when a homeowner sells their property for less than the amount owed on the mortgage, with the lender's approval. It's often a good option when you are underwater on your mortgage (owe more than the home is worth) and need to sell quickly to avoid foreclosure. The decision to pursue a short sale involves careful consideration of the potential impact on your credit and the lender's willingness to approve the sale. Kelby Contreras - Realty ONE Group Evolution can help you determine if your property in areas like Collier or Orange County qualifies for a short sale and guide you through the process.",
+        "@type": "Answer",
+        "description": "A short sale is selling your home for less than owed, with lender approval. It's an option if you're underwater on your mortgage and need to sell to avoid foreclosure."
+      }
+    }
+  ],
+  "description": "A short sale is selling your home for less than owed, with lender approval. It's an option if you're underwater on your mortgage and need to sell to avoid forec"
+}

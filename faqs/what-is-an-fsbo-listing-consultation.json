@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/what-is-an-fsbo-listing-consultation",
+  "name": "What is an FSBO listing consultation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is an FSBO listing consultation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "An FSBO listing consultation provides guidance for homeowners who plan to sell their property without a real estate agent. This service helps you understand the steps involved, from pricing and marketing to negotiations and closing. During the consultation, we can review your property's specifics, discuss market conditions in areas like Miami-Dade or Broward County, and identify key considerations for a successful sale. It helps you prepare for the complexities of selling independently.",
+        "@type": "Answer",
+        "description": "An FSBO listing consultation offers guidance for homeowners selling their property without a real estate agent, covering pricing, marketing, negotiations, and closing."
+      }
+    }
+  ],
+  "description": "An FSBO listing consultation offers guidance for homeowners selling their property without a real estate agent, covering pricing, marketing, negotiations, and c"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/can-i-sell-a-probate-property-as-is",
+  "name": "Can I sell a probate property 'as-is'?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I sell a probate property 'as-is'?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, many probate properties are sold 'as-is,' especially if the estate lacks funds for repairs or the personal representative wishes to expedite the sale. Selling 'as-is' means the buyer accepts the property in its current condition, without the seller making further repairs. However, while this simplifies the selling process, it might limit the pool of potential buyers and could result in a lower sale price compared to a property that has been prepared for market. This is a common practical tradeoff in probate sales.",
+        "@type": "Answer",
+        "description": "Yes, probate properties can be sold 'as-is,' which simplifies the process but might attract fewer buyers or result in a lower sale price."
+      }
+    }
+  ],
+  "description": "Yes, probate properties can be sold 'as-is,' which simplifies the process but might attract fewer buyers or result in a lower sale price."
+}

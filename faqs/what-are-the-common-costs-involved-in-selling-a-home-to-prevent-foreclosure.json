@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/what-are-the-common-costs-involved-in-selling-a-home-to-prevent-foreclosure",
+  "name": "What are the common costs involved in selling a home to prevent foreclosure?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are the common costs involved in selling a home to prevent foreclosure?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Costs associated with selling a home typically include real estate commissions, closing costs (such as title insurance and escrow fees), and potential repair expenses. These can vary, but working with an experienced agent like Kelby Contreras can help you understand and estimate these costs upfront. Sometimes, lenders may agree to a 'short sale' where they accept less than the total mortgage amount owed, which can reduce your out-of-pocket expenses.",
+        "@type": "Answer",
+        "description": "Selling costs include real estate commissions, closing costs, and repairs. A short sale might reduce your financial burden."
+      }
+    }
+  ],
+  "description": "Selling costs include real estate commissions, closing costs, and repairs. A short sale might reduce your financial burden."
+}

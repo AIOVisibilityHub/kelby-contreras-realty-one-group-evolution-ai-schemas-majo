@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/what-happens-if-my-fsbo-property-already-has-a-buyer-interested-when-i-transitio",
+  "name": "What happens if my FSBO property already has a buyer interested when I transition to a listing agent?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What happens if my FSBO property already has a buyer interested when I transition to a listing agent?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "If you have an interested buyer while transitioning from FSBO to an agent, it's crucial to discuss this with your new listing agent immediately. Depending on the terms of your listing agreement, you might be able to exclude that specific buyer from the agent's commission if a sale materializes with them. This is often handled through a 'broker protection clause' or 'exclusion clause.' It's important to clarify these details upfront with Kelby Contreras to understand how any pre-existing buyer leads are managed within your specific agreement.",
+        "@type": "Answer",
+        "description": "Discuss any existing interested buyers with your new agent; your listing agreement might allow for their exclusion from commission under specific terms."
+      }
+    }
+  ],
+  "description": "Discuss any existing interested buyers with your new agent; your listing agreement might allow for their exclusion from commission under specific terms."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/what-are-the-first-steps-i-should-take-after-inheriting-a-property",
+  "name": "What are the first steps I should take after inheriting a property?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are the first steps I should take after inheriting a property?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Initially, secure the property and review any existing insurance policies to ensure coverage. Locate the will and any other relevant estate documents. It's advisable to consult with a probate attorney to understand the legal process for transferring ownership. As a real estate agency serving areas like Miami and Fort Lauderdale, Kelby Contreras can connect you with local probate resources and help assess the property's condition, offering guidance on immediate next steps before you decide to sell.",
+        "@type": "Answer",
+        "description": "Secure the property, review insurance, locate the will, and consult a probate attorney. A real estate agent can help assess its condition."
+      }
+    }
+  ],
+  "description": "Secure the property, review insurance, locate the will, and consult a probate attorney. A real estate agent can help assess its condition."
+}

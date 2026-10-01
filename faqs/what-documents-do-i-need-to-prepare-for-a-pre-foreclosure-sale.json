@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/what-documents-do-i-need-to-prepare-for-a-pre-foreclosure-sale",
+  "name": "What documents do I need to prepare for a pre-foreclosure sale?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What documents do I need to prepare for a pre-foreclosure sale?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "To prepare for a pre-foreclosure sale, you'll typically need to gather financial documents such as your mortgage statements, any notices from your lender, property tax records, and utility bills. You should also collect any homeowner's association (HOA) documents if applicable. Having these ready helps streamline the process of assessing your situation and preparing for listing your home in areas like Palm Beach County, where detailed financial disclosures are standard for property transactions.",
+        "@type": "Answer",
+        "description": "Prepare mortgage statements, lender notices, property tax records, utility bills, and HOA documents for a pre-foreclosure sale."
+      }
+    }
+  ],
+  "description": "Prepare mortgage statements, lender notices, property tax records, utility bills, and HOA documents for a pre-foreclosure sale."
+}

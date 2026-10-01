@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/what-documentation-do-i-need-to-prepare-before-meeting-with-a-listing-agent",
+  "name": "What documentation do I need to prepare before meeting with a listing agent?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What documentation do I need to prepare before meeting with a listing agent?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Before meeting with a listing agent, it's beneficial to gather key property documents to facilitate an accurate assessment. This includes your property's deed, recent utility bills, a list of any major home improvements or repairs with dates, and any homeowner's association (HOA) documents if applicable. Having these readily available can streamline the initial consultation and help the agent conduct a more precise comparative market analysis. This preparation can help kickstart the selling process efficiently, whether you're in Key Biscayne or Pinecrest.",
+        "@type": "Answer",
+        "description": "Prepare your property deed, recent utility bills, a list of home improvements, and HOA documents before meeting with a listing agent."
+      }
+    }
+  ],
+  "description": "Prepare your property deed, recent utility bills, a list of home improvements, and HOA documents before meeting with a listing agent."
+}
