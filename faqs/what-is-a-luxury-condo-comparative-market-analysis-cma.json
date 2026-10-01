@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/what-is-a-luxury-condo-comparative-market-analysis-cma",
+  "name": "What is a Luxury Condo Comparative Market Analysis (CMA)?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is a Luxury Condo Comparative Market Analysis (CMA)?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A Luxury Condo Comparative Market Analysis (CMA) is a detailed report that estimates the market value of your luxury condominium by comparing it to recently sold, pending, and active comparable properties in the same area. This analysis considers factors like square footage, amenities, condition, views, and specific location within communities like Aventura or Brickell. It provides a realistic pricing strategy based on current market conditions.",
+        "@type": "Answer",
+        "description": "A Luxury Condo Comparative Market Analysis (CMA) estimates your condo's market value by comparing it to similar properties, considering factors like amenities and location."
+      }
+    }
+  ],
+  "description": "A Luxury Condo Comparative Market Analysis (CMA) estimates your condo's market value by comparing it to similar properties, considering factors like amenities a"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/what-preparation-is-needed-before-getting-a-luxury-home-cma",
+  "name": "What preparation is needed before getting a Luxury Home CMA?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What preparation is needed before getting a Luxury Home CMA?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "To ensure the most accurate Luxury Home CMA, preparing a list of your property's unique features, recent upgrades, and any significant renovations is highly beneficial. This includes details like custom cabinetry, specific appliance brands, landscaping enhancements, or smart home system installations. Gathering this information allows us to thoroughly evaluate how these enhancements contribute to your home's market value, providing a comprehensive and detailed assessment. Your insights into the property are invaluable.",
+        "@type": "Answer",
+        "description": "Before a Luxury Home CMA, prepare a list of unique features, recent upgrades, and significant renovations. This helps us accurately assess how these enhancements contribute to your property's market value."
+      }
+    }
+  ],
+  "description": "Before a Luxury Home CMA, prepare a list of unique features, recent upgrades, and significant renovations. This helps us accurately assess how these enhancement"
+}

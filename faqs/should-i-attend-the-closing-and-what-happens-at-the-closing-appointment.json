@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/should-i-attend-the-closing-and-what-happens-at-the-closing-appointment",
+  "name": "Should I attend the closing, and what happens at the closing appointment?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Should I attend the closing, and what happens at the closing appointment?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "While not always strictly required, attending the closing is generally recommended for buyers and sellers to sign final documents and ask any last-minute questions. At the closing appointment, all parties (or their representatives) will review and sign numerous legal documents, including the deed, loan agreements, and settlement statements. Funds are typically transferred, and keys are exchanged. The presence of your agent ensures you have support during this final, crucial step. Kelby Contreras - Realty ONE Group Evolution will prepare you for what to expect.",
+        "@type": "Answer",
+        "description": "Attending is recommended to sign final documents and ask questions. At closing, legal documents are signed, funds transferred, and keys exchanged."
+      }
+    }
+  ],
+  "description": "Attending is recommended to sign final documents and ask questions. At closing, legal documents are signed, funds transferred, and keys exchanged."
+}

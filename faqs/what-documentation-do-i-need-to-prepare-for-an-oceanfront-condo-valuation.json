@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/what-documentation-do-i-need-to-prepare-for-an-oceanfront-condo-valuation",
+  "name": "What documentation do I need to prepare for an oceanfront condo valuation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What documentation do I need to prepare for an oceanfront condo valuation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "To prepare for an oceanfront condo valuation, gather documentation such as recent renovation records, homeowner association (HOA) fees and financial statements, property tax assessments, and any prior appraisal reports. Providing these details helps the valuer accurately assess the property's features and financial obligations, ensuring a more precise valuation, particularly in complexes with varying HOA structures in areas like Key Biscayne or Surfside.",
+        "@type": "Answer",
+        "description": "Prepare renovation records, HOA fees, property tax assessments, and prior appraisal reports to assist with an accurate oceanfront condo valuation."
+      }
+    }
+  ],
+  "description": "Prepare renovation records, HOA fees, property tax assessments, and prior appraisal reports to assist with an accurate oceanfront condo valuation."
+}

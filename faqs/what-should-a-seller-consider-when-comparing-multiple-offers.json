@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/what-should-a-seller-consider-when-comparing-multiple-offers",
+  "name": "What should a seller consider when comparing multiple offers?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What should a seller consider when comparing multiple offers?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "When comparing multiple offers, sellers should look beyond the highest price. Important considerations include the buyer's financing pre-approval strength, the size of the earnest money deposit, inspection contingencies, appraisal contingencies, and the proposed closing timeline. An agent can help evaluate the likelihood of each offer successfully closing and identify potential risks or benefits associated with different terms, such as a buyer waiving specific contingencies.",
+        "@type": "Answer",
+        "description": "Sellers should consider the buyer's financing, contingencies, earnest money, and closing timeline, not just the price, when evaluating multiple offers."
+      }
+    }
+  ],
+  "description": "Sellers should consider the buyer's financing, contingencies, earnest money, and closing timeline, not just the price, when evaluating multiple offers."
+}

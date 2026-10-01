@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/what-is-the-cost-of-a-luxury-condo-comparative-market-analysis",
+  "name": "What is the cost of a Luxury Condo Comparative Market Analysis?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the cost of a Luxury Condo Comparative Market Analysis?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A Luxury Condo Comparative Market Analysis (CMA) is typically provided as a complimentary service by real estate professionals like Kelby Contreras when you are considering listing your property for sale. Our team offers this analysis as part of our commitment to helping clients understand their property's value and make informed decisions. There are no upfront fees for this service, making it an accessible first step for potential sellers in our service areas.",
+        "@type": "Answer",
+        "description": "A Luxury Condo CMA is typically offered as a complimentary service by real estate professionals like Kelby Contreras when considering listing your property for sale."
+      }
+    }
+  ],
+  "description": "A Luxury Condo CMA is typically offered as a complimentary service by real estate professionals like Kelby Contreras when considering listing your property for"
+}

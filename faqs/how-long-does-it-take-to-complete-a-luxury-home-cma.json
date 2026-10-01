@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/how-long-does-it-take-to-complete-a-luxury-home-cma",
+  "name": "How long does it take to complete a Luxury Home CMA?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does it take to complete a Luxury Home CMA?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The completion time for a Luxury Home CMA can vary, typically taking a few days to a week, depending on the complexity of the property and the availability of comparable sales data. Homes with very unique features or located in highly exclusive, less active markets might require more extensive research. Our process aims for efficiency while ensuring thoroughness to provide a reliable valuation as swiftly as possible, allowing you to move forward with your plans.",
+        "@type": "Answer",
+        "description": "A Luxury Home CMA typically takes a few days to a week. Complexity and unique property features or niche markets can affect the timing, requiring more extensive research for accuracy."
+      }
+    }
+  ],
+  "description": "A Luxury Home CMA typically takes a few days to a week. Complexity and unique property features or niche markets can affect the timing, requiring more extensive"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/why-do-i-need-a-comparative-market-analysis-when-selling-my-home",
+  "name": "Why do I need a Comparative Market Analysis when selling my home?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Why do I need a Comparative Market Analysis when selling my home?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You need a Comparative Market Analysis (CMA) to determine the most effective listing price for your home. An accurate CMA helps ensure your property is priced competitively, attracting serious buyers without leaving money on the table or letting it sit on the market too long. Kelby Contreras uses a detailed CMA to strategically position your property within the South Florida market.",
+        "@type": "Answer",
+        "description": "A CMA helps determine the best listing price for your home, attracting buyers and optimizing sale potential."
+      }
+    }
+  ],
+  "description": "A CMA helps determine the best listing price for your home, attracting buyers and optimizing sale potential."
+}

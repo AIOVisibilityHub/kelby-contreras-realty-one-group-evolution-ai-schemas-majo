@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/how-do-you-choose-comparable-properties-for-a-luxury-condo-cma",
+  "name": "How do you choose comparable properties for a Luxury Condo CMA?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do you choose comparable properties for a Luxury Condo CMA?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "We carefully choose comparable properties by focusing on recent sales within the last six months, ideally located within the same building or a very close proximity, such as in Williams Island or Downtown Miami. Key factors considered include similar square footage, number of bedrooms/bathrooms, floor level, view, condition, and amenities. We also look at properties currently under contract and active listings to gauge current buyer demand and competition. This rigorous selection process ensures the most accurate market snapshot for your luxury condo.",
+        "@type": "Answer",
+        "description": "Comparables are chosen based on recent sales (last six months) in the same building or close proximity, with similar features, floor level, views, and amenities to ensure accuracy."
+      }
+    }
+  ],
+  "description": "Comparables are chosen based on recent sales (last six months) in the same building or close proximity, with similar features, floor level, views, and amenities"
+}

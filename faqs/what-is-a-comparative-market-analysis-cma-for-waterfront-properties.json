@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/what-is-a-comparative-market-analysis-cma-for-waterfront-properties",
+  "name": "What is a Comparative Market Analysis (CMA) for waterfront properties?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is a Comparative Market Analysis (CMA) for waterfront properties?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A Comparative Market Analysis (CMA) for waterfront properties is an evaluation that estimates a property's value by comparing it to similar waterfront homes recently sold in the same or nearby areas. It considers unique waterfront factors such as water frontage, view quality, direct ocean/bay access, dockage, and seawall condition, which significantly impact value. This analysis helps determine a competitive listing price for sellers or a fair offering price for buyers. Understanding these specific waterfront attributes is crucial, as they can heavily influence the valuation compared to non-waterfront properties, requiring a deeper level of local market expertise.",
+        "@type": "Answer",
+        "description": "A CMA for waterfront properties estimates value by comparing it to similar sold waterfront homes, considering unique features like water frontage and dockage."
+      }
+    }
+  ],
+  "description": "A CMA for waterfront properties estimates value by comparing it to similar sold waterfront homes, considering unique features like water frontage and dockage."
+}

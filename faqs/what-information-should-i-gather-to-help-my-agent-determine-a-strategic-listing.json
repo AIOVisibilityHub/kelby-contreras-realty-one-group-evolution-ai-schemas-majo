@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/what-information-should-i-gather-to-help-my-agent-determine-a-strategic-listing",
+  "name": "What information should I gather to help my agent determine a strategic listing price?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What information should I gather to help my agent determine a strategic listing price?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "To help your agent determine a strategic listing price, you should gather details about any recent renovations, significant upgrades, or major repairs you've completed, along with their costs. Also, consider any unique features of your home or property that add value, such as water frontage in Fort Lauderdale Beach or specific views in Miami Beach. Documentation like appraisal reports, survey information, and a list of inclusions/exclusions will also be beneficial for an accurate assessment.",
+        "@type": "Answer",
+        "description": "Gather details on renovations, upgrades, unique features, and documentation like appraisals to assist your agent in pricing."
+      }
+    }
+  ],
+  "description": "Gather details on renovations, upgrades, unique features, and documentation like appraisals to assist your agent in pricing."
+}

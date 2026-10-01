@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/what-are-the-typical-closing-costs-for-a-luxury-condo-seller-in-miami-dade-count",
+  "name": "What are the typical closing costs for a luxury condo seller in Miami-Dade County?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are the typical closing costs for a luxury condo seller in Miami-Dade County?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Seller closing costs typically include real estate commissions, prorated property taxes, title insurance (seller's portion), and documentary stamp taxes on the deed. For luxury condos in Miami-Dade, these costs can be substantial due to the property value. A detailed estimate is provided upfront to ensure transparency and help you understand the financial aspects of your sale.",
+        "@type": "Answer",
+        "description": "Seller closing costs include commissions, taxes, and title insurance. A detailed estimate is provided."
+      }
+    }
+  ],
+  "description": "Seller closing costs include commissions, taxes, and title insurance. A detailed estimate is provided."
+}

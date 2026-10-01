@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/how-does-closing-coordination-differ-between-a-luxury-condo-and-a-standard-home",
+  "name": "How does closing coordination differ between a luxury condo and a standard home?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How does closing coordination differ between a luxury condo and a standard home?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Closing coordination for a luxury condo often involves a deeper dive into condominium association financials, reserves, and specific covenants and restrictions that might not apply to a standard single-family home. There can also be more complex lien searches or transfer fees unique to high-end communities. A key difference is the meticulous review of all HOA documents to protect both buyer and seller interests.",
+        "@type": "Answer",
+        "description": "Luxury condo coordination focuses more on complex HOA financials and unique community covenants compared to standard homes."
+      }
+    }
+  ],
+  "description": "Luxury condo coordination focuses more on complex HOA financials and unique community covenants compared to standard homes."
+}

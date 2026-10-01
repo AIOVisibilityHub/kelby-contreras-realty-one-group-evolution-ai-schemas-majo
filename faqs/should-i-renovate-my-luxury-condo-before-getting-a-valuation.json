@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/should-i-renovate-my-luxury-condo-before-getting-a-valuation",
+  "name": "Should I renovate my luxury condo before getting a valuation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Should I renovate my luxury condo before getting a valuation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Deciding whether to renovate your luxury condo before a valuation depends on the potential return on investment for those specific renovations. While high-end upgrades to kitchens, bathrooms, or smart home systems can increase value, some renovations may not recoup their cost, especially if they are highly personalized. Discussing planned renovations with a real estate professional can help identify upgrades that are most appealing to luxury buyers in your specific market, such as Coconut Grove or South Beach, ensuring a beneficial impact on your valuation.",
+        "@type": "Answer",
+        "description": "Renovating before a valuation depends on ROI; discuss planned upgrades with an agent to ensure they appeal to luxury buyers and add value."
+      }
+    }
+  ],
+  "description": "Renovating before a valuation depends on ROI; discuss planned upgrades with an agent to ensure they appeal to luxury buyers and add value."
+}

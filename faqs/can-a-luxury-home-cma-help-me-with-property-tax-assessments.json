@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/can-a-luxury-home-cma-help-me-with-property-tax-assessments",
+  "name": "Can a Luxury Home CMA help me with property tax assessments?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can a Luxury Home CMA help me with property tax assessments?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "While a Luxury Home CMA primarily assists in determining a potential selling price, the insights gained can sometimes be useful in discussions regarding property tax assessments. The detailed market comparisons can illustrate discrepancies if your assessed value appears out of sync with current market realities. However, it's important to understand that a CMA is not a formal appraisal for tax purposes and local tax authorities in areas like Miami-Dade County have specific processes for assessment appeals.",
+        "@type": "Answer",
+        "description": "A Luxury Home CMA can offer insights useful for property tax assessment discussions by illustrating market value. However, it's not a formal appraisal for tax appeal purposes."
+      }
+    }
+  ],
+  "description": "A Luxury Home CMA can offer insights useful for property tax assessment discussions by illustrating market value. However, it's not a formal appraisal for tax a"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/how-long-does-a-seller-typically-wait-for-all-offers-to-come-in-during-a-multipl",
+  "name": "How long does a seller typically wait for all offers to come in during a multiple offer scenario?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does a seller typically wait for all offers to come in during a multiple offer scenario?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The timeframe for receiving multiple offers can vary, but sellers often set a specific deadline for all offers to be submitted, typically 24 to 72 hours after listing. This allows all interested buyers sufficient time to view the property and prepare their best proposal. Establishing a clear deadline ensures an organized review process and prevents a drawn-out negotiation that could deter potential buyers.",
+        "@type": "Answer",
+        "description": "Sellers often set a 24-72 hour deadline for offers in a multiple offer scenario to allow buyers time to submit their best proposal."
+      }
+    }
+  ],
+  "description": "Sellers often set a 24-72 hour deadline for offers in a multiple offer scenario to allow buyers time to submit their best proposal."
+}

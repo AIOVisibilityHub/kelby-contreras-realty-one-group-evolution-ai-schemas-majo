@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/when-should-i-get-a-luxury-condo-cma",
+  "name": "When should I get a Luxury Condo CMA?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When should I get a Luxury Condo CMA?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You should get a Luxury Condo CMA when you are considering selling your property, refinancing, or even appealing your property taxes. It's also beneficial to obtain one periodically to understand your asset's value in a dynamic market. For instance, in high-demand areas like Miami Beach or Fort Lauderdale Beach, market conditions can shift, impacting property values. Preparing for a potential sale with an up-to-date CMA ensures your listing price is competitive and attractive to buyers.",
+        "@type": "Answer",
+        "description": "Obtain a Luxury Condo CMA when considering selling, refinancing, appealing property taxes, or periodically to monitor your asset's value, especially in active markets."
+      }
+    }
+  ],
+  "description": "Obtain a Luxury Condo CMA when considering selling, refinancing, appealing property taxes, or periodically to monitor your asset's value, especially in active m"
+}

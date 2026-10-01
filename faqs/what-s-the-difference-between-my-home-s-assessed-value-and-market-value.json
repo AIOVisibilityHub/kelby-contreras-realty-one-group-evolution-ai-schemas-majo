@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/what-s-the-difference-between-my-home-s-assessed-value-and-market-value",
+  "name": "What's the difference between my home's assessed value and market value?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What's the difference between my home's assessed value and market value?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Your home's assessed value is determined by the local tax authority (e.g., in Miami-Dade or Broward County) for property tax calculation purposes and may not reflect its true worth. The market value, however, is the price a willing buyer would pay and a willing seller would accept in the current real estate market. This market value is influenced by factors like recent sales of comparable homes, property condition, and demand, often making it higher than the assessed value, especially in desirable areas like Bal Harbour or Williams Island.",
+        "@type": "Answer",
+        "description": "Assessed value is for property taxes, while market value is what a buyer would pay, often differing, especially in active markets."
+      }
+    }
+  ],
+  "description": "Assessed value is for property taxes, while market value is what a buyer would pay, often differing, especially in active markets."
+}

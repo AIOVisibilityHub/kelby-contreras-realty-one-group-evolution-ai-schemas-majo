@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/what-documentation-is-typically-required-for-a-luxury-home-closing-in-florida",
+  "name": "What documentation is typically required for a luxury home closing in Florida?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What documentation is typically required for a luxury home closing in Florida?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "For a luxury home closing in Florida, you will typically need a valid purchase agreement, proof of clear title, property disclosures, a homeowner's insurance policy, and various financial documents related to the loan (if applicable). Additionally, given the high value and often unique features of luxury properties in areas like Miami-Dade or Palm Beach County, specific surveys, environmental reports, or architectural plans may be required, impacting the timeline for document collection and review.",
+        "@type": "Answer",
+        "description": "Required documents for a Florida luxury home closing include the purchase agreement, title, disclosures, insurance, and financial papers; unique luxury properties may also need specific surveys or architectural plans."
+      }
+    }
+  ],
+  "description": "Required documents for a Florida luxury home closing include the purchase agreement, title, disclosures, insurance, and financial papers; unique luxury properti"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/what-specific-tasks-does-a-luxury-property-transaction-coordinator-handle",
+  "name": "What specific tasks does a luxury property transaction coordinator handle?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What specific tasks does a luxury property transaction coordinator handle?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A luxury property transaction coordinator handles a wide range of administrative tasks. These include drafting and reviewing contracts and disclosures, managing deadlines, coordinating inspections and appraisals, liaising with lenders and title companies, and ensuring all documents are properly executed and delivered. They also track contingencies, facilitate communication among all parties, and prepare for closing. For example, in a transaction in Coral Gables, the coordinator would ensure that specific architectural review documents or homeowner association regulations unique to luxury communities are meticulously managed.",
+        "@type": "Answer",
+        "description": "A luxury property transaction coordinator manages contracts, disclosures, deadlines, inspections, and communication with all parties, ensuring all documentation is handled precisely."
+      }
+    }
+  ],
+  "description": "A luxury property transaction coordinator manages contracts, disclosures, deadlines, inspections, and communication with all parties, ensuring all documentation"
+}

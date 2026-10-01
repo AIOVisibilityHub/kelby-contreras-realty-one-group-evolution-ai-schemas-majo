@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/what-is-the-process-for-getting-a-professional-home-value-estimate",
+  "name": "What is the process for getting a professional home value estimate?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the process for getting a professional home value estimate?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The process for a professional home value estimate typically begins with an initial consultation to discuss your property and goals. A real estate agent will then conduct a thorough property visit to assess its condition, features, and any upgrades. They will then perform a comparative market analysis (CMA) by evaluating recent sales of similar properties in your specific area, such as Key Biscayne or Pinecrest. Finally, they will provide a detailed report outlining their estimated value and market insights.",
+        "@type": "Answer",
+        "description": "A professional home value estimate involves a consultation, property visit, comparative market analysis by an agent, and a detailed report of findings."
+      }
+    }
+  ],
+  "description": "A professional home value estimate involves a consultation, property visit, comparative market analysis by an agent, and a detailed report of findings."
+}

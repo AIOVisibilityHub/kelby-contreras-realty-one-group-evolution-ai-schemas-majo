@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/can-i-counter-multiple-offers-at-once-or-should-i-choose-one",
+  "name": "Can I counter multiple offers at once, or should I choose one?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I counter multiple offers at once, or should I choose one?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You generally cannot formally counter multiple offers simultaneously without risking binding agreements to more than one buyer. Your agent will typically advise you to select the most attractive offer to counter, or to send out a 'multiple counter' that is not a binding counter until signed and accepted by only one party. A common approach is to counter the most promising offer first or request that all buyers submit their 'highest and best' offer by a specific deadline. This process allows for strategic negotiation focused on securing the best single agreement.",
+        "@type": "Answer",
+        "description": "You typically cannot counter multiple offers simultaneously; it's best to choose the most promising offer to counter or ask for 'highest and best' offers."
+      }
+    }
+  ],
+  "description": "You typically cannot counter multiple offers simultaneously; it's best to choose the most promising offer to counter or ask for 'highest and best' offers."
+}

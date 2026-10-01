@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/when-is-the-best-time-to-get-a-luxury-property-valuation",
+  "name": "When is the best time to get a luxury property valuation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When is the best time to get a luxury property valuation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The best time to get a luxury property valuation is often before you decide to list your home for sale, or when considering major renovations that could impact its value. It's also advisable if you are contemplating refinancing, estate planning, or property tax appeals. Obtaining a valuation when the market is stable, or just as specific luxury segments are seeing upward trends in Miami-Dade or Broward County, can provide the most accurate and advantageous market insight for your decisions.",
+        "@type": "Answer",
+        "description": "The best time for a luxury valuation is before listing for sale, considering major renovations, or for estate planning, especially during stable market conditions."
+      }
+    }
+  ],
+  "description": "The best time for a luxury valuation is before listing for sale, considering major renovations, or for estate planning, especially during stable market conditio"
+}

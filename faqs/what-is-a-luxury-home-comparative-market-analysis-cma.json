@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/what-is-a-luxury-home-comparative-market-analysis-cma",
+  "name": "What is a Luxury Home Comparative Market Analysis (CMA)?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is a Luxury Home Comparative Market Analysis (CMA)?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A Luxury Home Comparative Market Analysis (CMA) is an in-depth evaluation that estimates a property's value by comparing it to similar luxury homes recently sold, currently under contract, or listed for sale in the same or comparable markets. This analysis considers unique features, upgrades, location attributes, and overall condition relevant to high-end properties. We focus on specific luxury enclaves within Miami-Dade, Broward, Palm Beach, Collier, and Orange Counties to ensure the most relevant comparisons for your home.",
+        "@type": "Answer",
+        "description": "A Luxury Home Comparative Market Analysis (CMA) estimates a property's value by comparing it to similar luxury homes in the market, considering unique high-end features and locations."
+      }
+    }
+  ],
+  "description": "A Luxury Home Comparative Market Analysis (CMA) estimates a property's value by comparing it to similar luxury homes in the market, considering unique high-end"
+}

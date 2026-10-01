@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/what-information-should-i-gather-before-a-luxury-property-valuation",
+  "name": "What information should I gather before a luxury property valuation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What information should I gather before a luxury property valuation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Before a luxury property valuation, you should gather detailed information about your property. This includes architectural plans, recent renovation records, a list of high-end appliances or smart home systems, and details of any unique features like custom landscaping, security systems, or energy-efficient upgrades. Providing a history of maintenance and any HOA documents can also be helpful. This preparation allows the valuer to fully understand and account for all value-contributing elements, ensuring a comprehensive assessment.",
+        "@type": "Answer",
+        "description": "Gather architectural plans, renovation records, appliance details, unique feature lists, and maintenance history before a luxury property valuation to ensure a comprehensive assessment."
+      }
+    }
+  ],
+  "description": "Gather architectural plans, renovation records, appliance details, unique feature lists, and maintenance history before a luxury property valuation to ensure a"
+}

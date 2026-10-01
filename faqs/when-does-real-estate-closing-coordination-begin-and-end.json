@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/when-does-real-estate-closing-coordination-begin-and-end",
+  "name": "When does real estate closing coordination begin and end?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When does real estate closing coordination begin and end?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Real estate closing coordination typically begins immediately after a purchase agreement is signed and continues until the day of closing, when the property title is transferred and funds are disbursed. The timeline can vary based on factors like loan approval, appraisal schedules, and inspection periods. Effective coordination aims to keep the process on track, typically spanning 30 to 60 days, though some transactions may be shorter or longer. Your agent will provide a detailed timeline shortly after the contract is executed.",
+        "@type": "Answer",
+        "description": "Coordination starts after the purchase agreement is signed and ends at closing, typically lasting 30-60 days depending on transaction specifics."
+      }
+    }
+  ],
+  "description": "Coordination starts after the purchase agreement is signed and ends at closing, typically lasting 30-60 days depending on transaction specifics."
+}

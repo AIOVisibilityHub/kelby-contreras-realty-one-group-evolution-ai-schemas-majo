@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/how-do-recent-comparable-sales-affect-the-value-of-my-luxury-condo",
+  "name": "How do recent comparable sales affect the value of my luxury condo?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do recent comparable sales affect the value of my luxury condo?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Recent comparable sales, known as 'comps,' are a critical benchmark for valuing your luxury condo. Appraisers and real estate agents analyze properties with similar characteristics (size, beds/baths, amenities, age, location) that have sold within the last 3-6 months. The closer the match in features and location, such as within the same building or a neighboring luxury complex in Brickell, the more accurately they reflect current market value and buyer expectations. This method helps establish a realistic price point based on actual market transactions.",
+        "@type": "Answer",
+        "description": "Recent comparable sales of similar luxury condos establish a crucial benchmark for your property's market value by reflecting what buyers are currently paying."
+      }
+    }
+  ],
+  "description": "Recent comparable sales of similar luxury condos establish a crucial benchmark for your property's market value by reflecting what buyers are currently paying."
+}

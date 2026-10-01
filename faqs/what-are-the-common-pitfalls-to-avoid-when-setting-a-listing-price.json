@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/what-are-the-common-pitfalls-to-avoid-when-setting-a-listing-price",
+  "name": "What are the common pitfalls to avoid when setting a listing price?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are the common pitfalls to avoid when setting a listing price?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Common pitfalls include overpricing based on emotional attachment, underpricing due to a need for a quick sale, or ignoring current market data and relying solely on online estimates. Another practical tradeoff to avoid is making significant pricing decisions without an experienced agent, as their expertise in local markets like Collier County or Orange County is invaluable. Trusting generic online valuations without a detailed Comparative Market Analysis (CMA) can also lead to an inaccurate price and missed opportunities.",
+        "@type": "Answer",
+        "description": "Avoid overpricing emotionally, underpricing for speed, ignoring market data, or relying only on online estimates without expert agent input."
+      }
+    }
+  ],
+  "description": "Avoid overpricing emotionally, underpricing for speed, ignoring market data, or relying only on online estimates without expert agent input."
+}

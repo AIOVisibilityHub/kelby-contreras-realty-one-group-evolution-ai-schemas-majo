@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/what-closing-costs-can-i-expect-when-selling-a-luxury-property-in-florida",
+  "name": "What closing costs can I expect when selling a luxury property in Florida?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What closing costs can I expect when selling a luxury property in Florida?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Closing costs for sellers in Florida typically include title insurance (owner's policy, often negotiated), documentary stamp taxes on the deed, outstanding property taxes, HOA/condo estoppel fees, and potentially attorney fees. For luxury homes, these costs can be substantial due to higher property values. It's important to get a detailed estimate from your real estate professional early in the process. Your agent at Realty ONE Group Evolution can help clarify these costs, ensuring transparency before an offer is accepted.",
+        "@type": "Answer",
+        "description": "Seller closing costs in Florida for luxury properties include title insurance, documentary stamp taxes, property taxes, and HOA fees, which can be significant due to higher values."
+      }
+    }
+  ],
+  "description": "Seller closing costs in Florida for luxury properties include title insurance, documentary stamp taxes, property taxes, and HOA fees, which can be significant d"
+}

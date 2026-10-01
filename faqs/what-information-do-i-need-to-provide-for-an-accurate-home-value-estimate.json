@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/what-information-do-i-need-to-provide-for-an-accurate-home-value-estimate",
+  "name": "What information do I need to provide for an accurate home value estimate?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What information do I need to provide for an accurate home value estimate?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "To ensure an accurate home value estimate, provide details about recent renovations, property upgrades, and any unique features not visible from public records. Information such as the year of roof replacement, HVAC updates, kitchen/bathroom remodels, and additions like a pool or hurricane-resistant windows can significantly impact the valuation. This is especially true in areas like Palm Beach or Delray Beach, where specific amenities can attract premium buyers, and an agent benefits from a full understanding of these details upfront.",
+        "@type": "Answer",
+        "description": "Provide details on recent renovations, upgrades, and unique property features not on public record for an accurate estimate."
+      }
+    }
+  ],
+  "description": "Provide details on recent renovations, upgrades, and unique property features not on public record for an accurate estimate."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/when-should-i-get-a-cma-for-my-waterfront-property",
+  "name": "When should I get a CMA for my waterfront property?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When should I get a CMA for my waterfront property?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You should get a CMA for your waterfront property when you are considering selling, refinancing, or disputing your property tax assessment. It provides an up-to-date estimate of your property's market value, which is vital for making informed decisions. For sellers in Miami-Dade, Broward, Palm Beach, Collier, or Orange County, obtaining a CMA before listing helps set a realistic and competitive price, preventing overpricing that can lead to long market times or underpricing that leaves money on the table. This preparation ensures you enter the market with a strategic advantage.",
+        "@type": "Answer",
+        "description": "Get a waterfront CMA when considering selling, refinancing, or tax assessment disputes to understand your property's current market value."
+      }
+    }
+  ],
+  "description": "Get a waterfront CMA when considering selling, refinancing, or tax assessment disputes to understand your property's current market value."
+}

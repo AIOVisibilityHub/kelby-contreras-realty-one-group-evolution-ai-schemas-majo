@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/what-information-do-i-need-to-provide-for-a-waterfront-property-cma",
+  "name": "What information do I need to provide for a waterfront property CMA?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What information do I need to provide for a waterfront property CMA?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "To get an accurate waterfront property CMA, you should provide details such as your property's address, square footage, number of bedrooms and bathrooms, and any recent renovations or upgrades. Crucially for waterfront homes, also include specifics about your water frontage, any existing dockage (size, type, condition), seawall condition, and direct access to the ocean, bay, or navigable canals. Documenting significant features like a new seawall or upgraded marine piling system can directly impact the assessed value. This preparation allows for a more precise comparison with similar waterfront properties.",
+        "@type": "Answer",
+        "description": "Provide property details, recent renovations, and crucial waterfront specifics like frontage, dockage, and seawall condition for an accurate CMA."
+      }
+    }
+  ],
+  "description": "Provide property details, recent renovations, and crucial waterfront specifics like frontage, dockage, and seawall condition for an accurate CMA."
+}

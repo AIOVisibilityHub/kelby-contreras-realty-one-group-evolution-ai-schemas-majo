@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/how-long-does-it-take-to-complete-a-comparative-market-analysis",
+  "name": "How long does it take to complete a Comparative Market Analysis?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does it take to complete a Comparative Market Analysis?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The time it takes to complete a Comparative Market Analysis (CMA) can vary depending on the complexity of the property and the availability of comparable data. Typically, it can be prepared within a few days once all necessary property information is gathered. Providing accurate details about your home, such as upgrades, square footage, and unique features, can help expedite the process for a precise analysis.",
+        "@type": "Answer",
+        "description": "A CMA typically takes a few days, depending on property complexity and data availability. Providing accurate property details can speed it up."
+      }
+    }
+  ],
+  "description": "A CMA typically takes a few days, depending on property complexity and data availability. Providing accurate property details can speed it up."
+}

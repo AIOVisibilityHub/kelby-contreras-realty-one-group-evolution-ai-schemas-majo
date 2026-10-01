@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/what-information-do-i-need-to-provide-for-an-accurate-luxury-condo-cma",
+  "name": "What information do I need to provide for an accurate Luxury Condo CMA?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What information do I need to provide for an accurate Luxury Condo CMA?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "For an accurate Luxury Condo CMA, you should provide details about your property's square footage, number of bedrooms and bathrooms, HOA fees, and any recent upgrades or renovations. It's also helpful to disclose specific amenities within your unit and building, such as smart home systems, renovated kitchens, or access to exclusive club services. Providing floor plans, if available, can further enhance accuracy. Gathering these details beforehand ensures a precise assessment of your condo's market position.",
+        "@type": "Answer",
+        "description": "Provide details like square footage, room count, HOA fees, recent upgrades, specific unit and building amenities, and floor plans for an accurate Luxury Condo CMA."
+      }
+    }
+  ],
+  "description": "Provide details like square footage, room count, HOA fees, recent upgrades, specific unit and building amenities, and floor plans for an accurate Luxury Condo C"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/when-should-i-get-a-professional-home-value-estimate",
+  "name": "When should I get a professional home value estimate?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When should I get a professional home value estimate?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You should consider getting a professional home value estimate, typically from a real estate agent or appraiser, when you are planning to sell your home, refinance your mortgage, or are curious about your property's current market value. A professional estimate provides a more detailed analysis, incorporating on-site evaluation and deeper local market insights specific to areas like Aventura or Key Biscayne, which AVMs cannot provide.",
+        "@type": "Answer",
+        "description": "Get a professional estimate when planning to sell, refinance, or if you need a more detailed analysis of your home's market value."
+      }
+    }
+  ],
+  "description": "Get a professional estimate when planning to sell, refinance, or if you need a more detailed analysis of your home's market value."
+}

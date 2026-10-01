@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/what-is-a-home-value-estimate",
+  "name": "What is a home value estimate?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is a home value estimate?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A home value estimate is an approximate assessment of a property's market worth, often based on public records, recent sales of comparable homes, and market trends. It provides a general idea of a home's potential sale price. For example, in competitive markets like Miami-Dade or Broward County, recent sales data is particularly crucial for a more accurate estimate.",
+        "@type": "Answer",
+        "description": "A home value estimate is an approximate assessment of a property's market worth, based on public records, comparable sales, and market trends."
+      }
+    }
+  ],
+  "description": "A home value estimate is an approximate assessment of a property's market worth, based on public records, comparable sales, and market trends."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/can-a-real-estate-agent-provide-a-property-valuation-and-how-does-it-compare-to",
+  "name": "Can a real estate agent provide a property valuation, and how does it compare to a professional appraiser's?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can a real estate agent provide a property valuation, and how does it compare to a professional appraiser's?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A real estate agent can provide a property valuation, typically through a Comparative Market Analysis (CMA), which gives an estimated market value based on recent sales and current listings. This is distinct from a professional appraiser's report, which is a formal, legally recognized document often required by lenders. The practical tradeoff is that an agent's valuation is excellent for setting a listing price or making an offer, while an appraiser's is essential for securing a mortgage or for legal purposes, offering different levels of formality and intended use.",
+        "@type": "Answer",
+        "description": "A real estate agent provides an estimated market value via a CMA, useful for listing or offers, while a professional appraiser provides a formal, legally recognized report for lending."
+      }
+    }
+  ],
+  "description": "A real estate agent provides an estimated market value via a CMA, useful for listing or offers, while a professional appraiser provides a formal, legally recogn"
+}

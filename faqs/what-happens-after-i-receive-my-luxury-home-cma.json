@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/what-happens-after-i-receive-my-luxury-home-cma",
+  "name": "What happens after I receive my Luxury Home CMA?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What happens after I receive my Luxury Home CMA?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "After receiving your Luxury Home CMA, we will review the findings with you, discussing the estimated value, comparable properties, and market trends relevant to your home. This process clarity helps you understand how your property is positioned in the current market. We can then discuss your real estate goals, whether it's selling, refinancing, or simply understanding your asset's value, and outline potential next steps tailored to your objectives and the insights from the analysis.",
+        "@type": "Answer",
+        "description": "After your Luxury Home CMA, we'll review the findings and market trends with you. This clarifies your property's market position and helps us plan your next steps based on your real estate goals."
+      }
+    }
+  ],
+  "description": "After your Luxury Home CMA, we'll review the findings and market trends with you. This clarifies your property's market position and helps us plan your next ste"
+}

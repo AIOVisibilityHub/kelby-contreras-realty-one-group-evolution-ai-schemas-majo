@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/how-is-the-value-of-a-seawall-or-dock-assessed-in-a-waterfront-home-valuation",
+  "name": "How is the value of a seawall or dock assessed in a waterfront home valuation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How is the value of a seawall or dock assessed in a waterfront home valuation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The value of a seawall or dock is incorporated into a waterfront home valuation by considering its condition, age, material, and functionality. A well-maintained, modern seawall that protects the property from erosion and a functional, permitted dock suitable for specific boat sizes or types can add significant value. Conversely, an aging or damaged seawall requiring immediate repair or replacement can be a deduction from the property's overall market appeal and value. Our valuation process takes into account the costs associated with these structures.",
+        "@type": "Answer",
+        "description": "Seawalls and docks are valued based on their condition, age, material, and functionality; well-maintained structures add value, while damaged ones can detract from it."
+      }
+    }
+  ],
+  "description": "Seawalls and docks are valued based on their condition, age, material, and functionality; well-maintained structures add value, while damaged ones can detract f"
+}

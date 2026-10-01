@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/what-factors-influence-the-pricing-of-a-luxury-condo",
+  "name": "What factors influence the pricing of a luxury condo?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What factors influence the pricing of a luxury condo?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Luxury condo pricing is primarily influenced by location, views, amenities, square footage, condition, and recent comparable sales. Premium features like waterfront access, penthouse status, or high-end smart home technology can significantly increase value. For properties in areas like Fisher Island or Bal Harbour, the exclusivity of the community itself is a major factor, alongside the quality of on-site services and resident-only facilities.",
+        "@type": "Answer",
+        "description": "Key factors include location, views, amenities, size, condition, and recent sales data, with community exclusivity and services playing a major role in luxury markets."
+      }
+    }
+  ],
+  "description": "Key factors include location, views, amenities, size, condition, and recent sales data, with community exclusivity and services playing a major role in luxury m"
+}

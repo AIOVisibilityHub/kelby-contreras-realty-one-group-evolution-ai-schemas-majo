@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/what-is-the-cost-of-a-luxury-home-comparative-market-analysis",
+  "name": "What is the cost of a Luxury Home Comparative Market Analysis?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the cost of a Luxury Home Comparative Market Analysis?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "As part of our service to potential clients, Kelby Contreras and Realty ONE Group Evolution typically provide a Luxury Home Comparative Market Analysis as a complimentary service. This allows homeowners to understand their property's market position without an upfront cost. The practical tradeoff is that while a CMA is free and provides agent expertise, a formal appraisal, which has a fee, may be required by lenders for financing purposes and offers an independent, third-party valuation.",
+        "@type": "Answer",
+        "description": "Kelby Contreras and Realty ONE Group Evolution typically provide a Luxury Home CMA as a complimentary service. This offers market insights without upfront cost, unlike a formal, paid appraisal."
+      }
+    }
+  ],
+  "description": "Kelby Contreras and Realty ONE Group Evolution typically provide a Luxury Home CMA as a complimentary service. This offers market insights without upfront cost,"
+}

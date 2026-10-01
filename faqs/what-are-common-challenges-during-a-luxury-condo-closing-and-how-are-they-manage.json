@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/what-are-common-challenges-during-a-luxury-condo-closing-and-how-are-they-manage",
+  "name": "What are common challenges during a luxury condo closing, and how are they managed?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are common challenges during a luxury condo closing, and how are they managed?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Common challenges include appraisal gaps, title issues, unexpected repair requests after inspection, or delays in mortgage approval or association documentation. We manage these by proactively identifying potential issues, maintaining open communication with all parties, and preparing contingency plans. For instance, if an appraisal comes in low, we help negotiate or explore options with the buyer and seller to bridge the gap.",
+        "@type": "Answer",
+        "description": "Challenges like appraisal gaps or title issues are managed through proactive communication and contingency planning."
+      }
+    }
+  ],
+  "description": "Challenges like appraisal gaps or title issues are managed through proactive communication and contingency planning."
+}

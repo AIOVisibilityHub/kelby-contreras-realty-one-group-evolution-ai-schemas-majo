@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/does-the-specific-floor-of-an-oceanfront-condo-impact-its-value",
+  "name": "Does the specific floor of an oceanfront condo impact its value?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Does the specific floor of an oceanfront condo impact its value?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, the specific floor of an oceanfront condo can significantly impact its value. Higher floors often command higher prices due to improved panoramic views, reduced noise, and increased privacy. However, ground-floor units with direct beach access or larger patios can also be highly desirable. The premium for higher floors is particularly noticeable in high-rise coastal areas throughout Miami-Dade and Broward counties.",
+        "@type": "Answer",
+        "description": "Higher floors generally command higher prices due to better views, less noise, and privacy, though ground-floor direct access units can also be valuable."
+      }
+    }
+  ],
+  "description": "Higher floors generally command higher prices due to better views, less noise, and privacy, though ground-floor direct access units can also be valuable."
+}

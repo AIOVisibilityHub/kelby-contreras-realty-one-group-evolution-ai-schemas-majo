@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/how-long-does-it-take-to-complete-a-luxury-condo-cma",
+  "name": "How long does it take to complete a Luxury Condo CMA?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does it take to complete a Luxury Condo CMA?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The time to complete a Luxury Condo CMA can vary depending on the complexity of the property and the availability of comparable sales data. Typically, it can be prepared within 24 to 48 hours after an initial property assessment. The process involves thorough research of recent sales, active listings, and market trends in your specific area, such as Brickell Key or Sunny Isles Beach. Providing accurate details about your condo, including upgrades and unique features, can expedite the analysis.",
+        "@type": "Answer",
+        "description": "A Luxury Condo CMA typically takes 24 to 48 hours to complete, depending on property complexity and data availability, requiring research of sales and market trends."
+      }
+    }
+  ],
+  "description": "A Luxury Condo CMA typically takes 24 to 48 hours to complete, depending on property complexity and data availability, requiring research of sales and market tr"
+}

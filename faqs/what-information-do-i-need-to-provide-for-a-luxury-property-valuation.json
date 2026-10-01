@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/what-information-do-i-need-to-provide-for-a-luxury-property-valuation",
+  "name": "What information do I need to provide for a luxury property valuation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What information do I need to provide for a luxury property valuation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "To ensure an accurate luxury property valuation, you should provide documentation such as property surveys, floor plans, details on any recent renovations or upgrades, and a list of included high-end fixtures or appliances. Information on property taxes, homeowner association fees, and any unique features like smart home systems, custom landscaping, or waterfront access is also helpful. Gathering these details beforehand allows our valuation experts to consider all aspects of your property in areas like Aventura or Delray Beach, leading to a more precise assessment.",
+        "@type": "Answer",
+        "description": "Provide property surveys, floor plans, renovation details, and a list of high-end fixtures or unique features for an accurate luxury property valuation."
+      }
+    }
+  ],
+  "description": "Provide property surveys, floor plans, renovation details, and a list of high-end fixtures or unique features for an accurate luxury property valuation."
+}

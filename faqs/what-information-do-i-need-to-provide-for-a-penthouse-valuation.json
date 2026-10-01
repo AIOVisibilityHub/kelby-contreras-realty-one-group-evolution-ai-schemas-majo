@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/what-information-do-i-need-to-provide-for-a-penthouse-valuation",
+  "name": "What information do I need to provide for a penthouse valuation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What information do I need to provide for a penthouse valuation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "To facilitate an accurate penthouse valuation, you should be prepared to provide certain documentation. This includes property details like floor plans, any recent renovation records, and a list of upgrades or premium finishes. Additionally, information about the building's HOA fees, amenities, and any special assessments is helpful. Gathering these documents beforehand allows our valuation specialists to conduct a comprehensive analysis, ensuring all unique aspects of your property are considered, especially for unique properties in areas like Fisher Island or Key Biscayne.",
+        "@type": "Answer",
+        "description": "Provide floor plans, renovation records, upgrade lists, and HOA/building information for an accurate penthouse valuation."
+      }
+    }
+  ],
+  "description": "Provide floor plans, renovation records, upgrade lists, and HOA/building information for an accurate penthouse valuation."
+}

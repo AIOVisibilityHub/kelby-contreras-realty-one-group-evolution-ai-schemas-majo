@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/what-is-the-typical-timeframe-for-a-luxury-condo-valuation-report",
+  "name": "What is the typical timeframe for a luxury condo valuation report?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the typical timeframe for a luxury condo valuation report?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The typical timeframe for receiving a comprehensive luxury condo valuation report from a real estate agent, such as a Comparative Market Analysis (CMA), can range from a few days to a week after the initial property visit. This allows sufficient time for thorough research of comparable sales, market trend analysis, and detailed assessment of the property's unique features. The complexity of the property and the availability of comparable sales in your specific area, like Fisher Island or Williams Island, can influence this timeline.",
+        "@type": "Answer",
+        "description": "A luxury condo valuation report (CMA) typically takes a few days to a week after the property visit, depending on complexity and market data."
+      }
+    }
+  ],
+  "description": "A luxury condo valuation report (CMA) typically takes a few days to a week after the property visit, depending on complexity and market data."
+}

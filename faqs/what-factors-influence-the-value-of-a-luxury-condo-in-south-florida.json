@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/what-factors-influence-the-value-of-a-luxury-condo-in-south-florida",
+  "name": "What factors influence the value of a luxury condo in South Florida?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What factors influence the value of a luxury condo in South Florida?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Several factors influence the value of a luxury condo in South Florida, including square footage, number of bedrooms/bathrooms, specific building amenities (e.g., private elevators, concierge services, pools), views (oceanfront, city skyline), and the building's age and condition. Location within desirable communities like Fisher Island, Key Biscayne, or Bal Harbour significantly impacts value. The inclusion of unique smart home technology or premium finishes can also command higher prices. Understanding these specifics helps tailor the CMA for accuracy.",
+        "@type": "Answer",
+        "description": "Luxury condo value is influenced by square footage, amenities, views, building condition, and prime locations like Fisher Island or Bal Harbour, along with premium finishes."
+      }
+    }
+  ],
+  "description": "Luxury condo value is influenced by square footage, amenities, views, building condition, and prime locations like Fisher Island or Bal Harbour, along with prem"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/should-i-disclose-past-flood-damage-or-insurance-claims-for-my-waterfront-proper",
+  "name": "Should I disclose past flood damage or insurance claims for my waterfront property?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Should I disclose past flood damage or insurance claims for my waterfront property?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, sellers of waterfront properties are generally required to disclose any known past flood damage or insurance claims. Florida law mandates disclosure of material facts that affect the property's value or desirability, and flood history is critical for buyers. Providing transparent information, including flood zone designations and any mitigation efforts, can build buyer trust and prevent issues later in the transaction. Your real estate agent will guide you on appropriate disclosures relevant to your specific property and local regulations.",
+        "@type": "Answer",
+        "description": "Yes, disclose past flood damage or insurance claims as required by Florida law. Transparency builds trust and prevents issues."
+      }
+    }
+  ],
+  "description": "Yes, disclose past flood damage or insurance claims as required by Florida law. Transparency builds trust and prevents issues."
+}

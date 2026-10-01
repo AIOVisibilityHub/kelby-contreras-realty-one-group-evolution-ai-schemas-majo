@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/what-information-does-a-real-estate-agent-need-to-provide-a-home-value-estimate",
+  "name": "What information does a real estate agent need to provide a home value estimate?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What information does a real estate agent need to provide a home value estimate?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A real estate agent typically needs details about your home's size, number of bedrooms and bathrooms, lot size, specific features, recent upgrades, and any unique characteristics. They also rely on access to the property for a visual inspection. Providing comprehensive information allows the agent to conduct a more precise Comparative Market Analysis (CMA) by comparing your property to recently sold homes in your specific neighborhood within Miami-Dade or Broward County.",
+        "@type": "Answer",
+        "description": "Agents need details on your home's size, features, upgrades, and access for inspection to provide an accurate estimate based on local market comparables."
+      }
+    }
+  ],
+  "description": "Agents need details on your home's size, features, upgrades, and access for inspection to provide an accurate estimate based on local market comparables."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/what-happens-if-my-home-is-priced-too-low",
+  "name": "What happens if my home is priced too low?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What happens if my home is priced too low?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "If your home is priced too low, it might sell quickly, potentially below its true market value. While a low price can generate significant interest and even multiple offers, there's a risk of leaving money on the table. One practical tradeoff is that a very low initial price might create a bidding war, which could drive the price up, but it also carries the risk of attracting offers below what the property is genuinely worth, especially if buyer competition is not as strong as anticipated.",
+        "@type": "Answer",
+        "description": "Pricing too low can result in a quick sale below market value, potentially leaving money on the table, despite attracting multiple offers."
+      }
+    }
+  ],
+  "description": "Pricing too low can result in a quick sale below market value, potentially leaving money on the table, despite attracting multiple offers."
+}

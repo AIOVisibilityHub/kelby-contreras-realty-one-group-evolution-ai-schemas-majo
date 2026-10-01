@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/what-is-the-difference-between-a-closing-coordinator-and-a-title-company",
+  "name": "What is the difference between a closing coordinator and a title company?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the difference between a closing coordinator and a title company?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A closing coordinator, often your real estate agent, manages the overall transaction timeline, communication between all parties, and ensures contingencies are met. They focus on the logistical flow of the entire deal. A title company, on the other hand, specializes in ensuring the legal transfer of property. They conduct title searches to verify clear ownership, issue title insurance, and often act as the escrow agent, holding and disbursing funds. Both roles are essential but serve distinct functions in the closing process.",
+        "@type": "Answer",
+        "description": "A closing coordinator manages the transaction's logistics and timeline, while a title company handles the legal aspects of property transfer and title insurance."
+      }
+    }
+  ],
+  "description": "A closing coordinator manages the transaction's logistics and timeline, while a title company handles the legal aspects of property transfer and title insurance"
+}

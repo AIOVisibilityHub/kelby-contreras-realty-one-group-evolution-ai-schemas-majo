@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/what-information-or-documents-do-i-need-to-provide-to-a-luxury-property-transact",
+  "name": "What information or documents do I need to provide to a luxury property transaction coordinator?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What information or documents do I need to provide to a luxury property transaction coordinator?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "To effectively begin, you will need to provide the transaction coordinator with the executed purchase agreement, any initial disclosures, and contact information for all parties involved, including your agent, lender, and attorney. You should also be prepared to share details regarding any specific property features or inclusions/exclusions, especially for luxury assets. Having these documents and information readily available allows the coordinator to quickly set up the transaction file and begin tracking critical dates and tasks, accelerating the process for properties in areas like Naples or Marco Island.",
+        "@type": "Answer",
+        "description": "You need to provide the executed purchase agreement, initial disclosures, contact information for all parties, and details about the property to your transaction coordinator."
+      }
+    }
+  ],
+  "description": "You need to provide the executed purchase agreement, initial disclosures, contact information for all parties, and details about the property to your transactio"
+}

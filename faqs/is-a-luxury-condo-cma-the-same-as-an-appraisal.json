@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/is-a-luxury-condo-cma-the-same-as-an-appraisal",
+  "name": "Is a Luxury Condo CMA the same as an appraisal?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Is a Luxury Condo CMA the same as an appraisal?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "No, a Luxury Condo CMA is not the same as an appraisal. A CMA is an informal estimate of value prepared by a real estate agent to help guide pricing for a sale. An appraisal is a formal, legally binding valuation performed by a licensed appraiser, often required by lenders for financing. While both assess value, an appraisal adheres to stricter regulatory guidelines and typically involves a fee. The CMA by our team serves as an effective pre-listing tool for strategic pricing.",
+        "@type": "Answer",
+        "description": "A Luxury Condo CMA is an informal estimate by a real estate agent for pricing guidance, while an appraisal is a formal, legally binding valuation by a licensed appraiser."
+      }
+    }
+  ],
+  "description": "A Luxury Condo CMA is an informal estimate by a real estate agent for pricing guidance, while an appraisal is a formal, legally binding valuation by a licensed"
+}

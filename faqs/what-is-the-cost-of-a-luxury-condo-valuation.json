@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/what-is-the-cost-of-a-luxury-condo-valuation",
+  "name": "What is the cost of a luxury condo valuation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the cost of a luxury condo valuation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The 'cost' of a luxury condo valuation from a real estate agent is typically incorporated into their service when you are considering selling your property. For a formal appraisal for other purposes, an independent appraiser will charge a fee, which varies based on the property's complexity and location. When working with Kelby Contreras, an initial market analysis for potential sellers is part of the consultation, offering insight into your property's value without an upfront fee.",
+        "@type": "Answer",
+        "description": "A real estate agent typically includes valuation in their selling services; independent appraisers charge a fee for formal appraisals."
+      }
+    }
+  ],
+  "description": "A real estate agent typically includes valuation in their selling services; independent appraisers charge a fee for formal appraisals."
+}

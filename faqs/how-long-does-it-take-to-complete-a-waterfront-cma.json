@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/how-long-does-it-take-to-complete-a-waterfront-cma",
+  "name": "How long does it take to complete a waterfront CMA?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does it take to complete a waterfront CMA?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The time it takes to complete a waterfront CMA can vary, but a comprehensive analysis typically takes a few business days. This timeframe allows for thorough research of comparable waterfront sales, consideration of unique property features, and market trend analysis specific to waterfront communities in areas like Aventura or Fort Lauderdale Beach. Factors such as the availability of recent comparable sales and the complexity of your property's unique waterfront characteristics can influence the duration. A detailed analysis ensures that all relevant data points are carefully considered for an accurate valuation.",
+        "@type": "Answer",
+        "description": "A comprehensive waterfront CMA typically takes a few business days, depending on market data availability and property complexity."
+      }
+    }
+  ],
+  "description": "A comprehensive waterfront CMA typically takes a few business days, depending on market data availability and property complexity."
+}

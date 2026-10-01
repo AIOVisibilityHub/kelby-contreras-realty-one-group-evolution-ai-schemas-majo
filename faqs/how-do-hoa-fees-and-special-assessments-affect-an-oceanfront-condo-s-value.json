@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/how-do-hoa-fees-and-special-assessments-affect-an-oceanfront-condo-s-value",
+  "name": "How do HOA fees and special assessments affect an oceanfront condo's value?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do HOA fees and special assessments affect an oceanfront condo's value?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "HOA fees and potential special assessments can directly impact an oceanfront condo's value by influencing the total cost of ownership. High or rapidly increasing HOA fees, or known upcoming special assessments for major building repairs, can deter buyers and reduce market value. Conversely, well-managed HOAs with healthy reserves indicate good building maintenance, which can support value, a key consideration for properties in communities like Brickell or Las Olas.",
+        "@type": "Answer",
+        "description": "HOA fees and special assessments influence value by affecting ownership costs; high fees or assessments can deter buyers, while well-managed HOAs support value."
+      }
+    }
+  ],
+  "description": "HOA fees and special assessments influence value by affecting ownership costs; high fees or assessments can deter buyers, while well-managed HOAs support value."
+}

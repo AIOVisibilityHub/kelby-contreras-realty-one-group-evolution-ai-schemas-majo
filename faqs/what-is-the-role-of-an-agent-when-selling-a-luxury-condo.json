@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/what-is-the-role-of-an-agent-when-selling-a-luxury-condo",
+  "name": "What is the role of an agent when selling a luxury condo?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the role of an agent when selling a luxury condo?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A real estate agent specializing in luxury condos provides expert guidance through every stage of the sale. This includes accurate pricing, developing a bespoke marketing strategy, qualifying potential buyers, negotiating offers, and managing the complexities of closing. For properties in highly desirable areas such as Key Biscayne or Coconut Grove, an agent's local expertise and network are invaluable. Kelby Contreras acts as your primary advocate, ensuring the process is efficient and secures the best possible outcome for your luxury asset.",
+        "@type": "Answer",
+        "description": "A luxury condo agent provides expert pricing, marketing, negotiation, and closing management to secure the best sale."
+      }
+    }
+  ],
+  "description": "A luxury condo agent provides expert pricing, marketing, negotiation, and closing management to secure the best sale."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/how-do-you-determine-comparable-sales-for-a-luxury-property-in-a-competitive-mar",
+  "name": "How do you determine comparable sales for a luxury property in a competitive market like Miami?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do you determine comparable sales for a luxury property in a competitive market like Miami?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Determining comparable sales for luxury properties in competitive markets like Miami involves a meticulous analysis of recently sold homes with similar square footage, bedroom/bathroom count, lot size, and high-end features. We often look beyond standard MLS data, considering properties that might have been privately sold or have unique characteristics. This granular approach helps us identify the most relevant data points for your specific property, considering its distinct features.",
+        "@type": "Answer",
+        "description": "Comparable luxury sales are determined by analyzing recently sold homes with similar size, features, and unique characteristics, often looking beyond standard MLS data."
+      }
+    }
+  ],
+  "description": "Comparable luxury sales are determined by analyzing recently sold homes with similar size, features, and unique characteristics, often looking beyond standard M"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/when-is-the-best-time-to-get-a-luxury-home-cma",
+  "name": "When is the best time to get a Luxury Home CMA?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When is the best time to get a Luxury Home CMA?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The best time to get a Luxury Home CMA is typically before you decide to sell your property or if you are considering refinancing. Understanding your home's current market value allows you to make informed decisions about your financial and real estate goals. The timing can affect the accuracy, as market conditions in areas like Miami, Fort Lauderdale, or Palm Beach can fluctuate; a recent CMA ensures your pricing strategy is aligned with current demand and comparable sales.",
+        "@type": "Answer",
+        "description": "The best time for a Luxury Home CMA is before selling or refinancing to understand current market value. Recent CMAs reflect fluctuating market conditions, especially in dynamic South Florida luxury markets."
+      }
+    }
+  ],
+  "description": "The best time for a Luxury Home CMA is before selling or refinancing to understand current market value. Recent CMAs reflect fluctuating market conditions, espe"
+}

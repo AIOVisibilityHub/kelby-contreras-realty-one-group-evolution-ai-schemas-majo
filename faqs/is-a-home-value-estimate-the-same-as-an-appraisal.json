@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/is-a-home-value-estimate-the-same-as-an-appraisal",
+  "name": "Is a home value estimate the same as an appraisal?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Is a home value estimate the same as an appraisal?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "No, a home value estimate, often provided by a real estate agent via a Comparative Market Analysis (CMA), is different from a formal appraisal. An estimate offers a market-based opinion of value to help sellers price their homes. An appraisal, typically required by lenders, is a more detailed and legally recognized valuation performed by a licensed appraiser. While both assess value, an appraisal is a formal, independent report used for lending purposes, whereas an estimate guides listing prices in competitive markets like Boca Raton or Hollywood Beach.",
+        "@type": "Answer",
+        "description": "A home value estimate is an agent's market opinion, while an appraisal is a formal, legally recognized valuation by a licensed appraiser."
+      }
+    }
+  ],
+  "description": "A home value estimate is an agent's market opinion, while an appraisal is a formal, legally recognized valuation by a licensed appraiser."
+}

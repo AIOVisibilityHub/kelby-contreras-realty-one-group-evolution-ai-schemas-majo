@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/what-is-the-difference-between-a-comparative-market-analysis-cma-and-an-appraisa",
+  "name": "What is the difference between a comparative market analysis (CMA) and an appraisal for a luxury home?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the difference between a comparative market analysis (CMA) and an appraisal for a luxury home?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A comparative market analysis (CMA) is an informal estimate of a home's value, prepared by a real estate agent based on recent sales and market conditions. An appraisal is a formal, legally binding valuation conducted by a licensed appraiser, often required by lenders. While a CMA helps us strategize your listing price, an appraisal provides an official valuation. We use our detailed CMA process to establish an informed asking price, a key preparatory step before listing.",
+        "@type": "Answer",
+        "description": "A CMA is an agent's market-based value estimate, while an appraisal is a formal, licensed valuation; CMAs guide listing prices."
+      }
+    }
+  ],
+  "description": "A CMA is an agent's market-based value estimate, while an appraisal is a formal, licensed valuation; CMAs guide listing prices."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/what-information-should-i-prepare-before-a-luxury-home-valuation-consultation",
+  "name": "What information should I prepare before a luxury home valuation consultation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What information should I prepare before a luxury home valuation consultation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Before a luxury home valuation consultation, it's beneficial to gather any documentation on recent renovations or upgrades, a list of unique features or smart home systems, and details about property taxes and HOA fees. Also, consider any notable selling points or aspects you particularly love about your home. Providing this comprehensive information allows us to conduct a more accurate and tailored assessment of your property's value, streamlining the initial consultation.",
+        "@type": "Answer",
+        "description": "Prepare documentation on renovations, unique features, tax/HOA details, and notable selling points before a luxury home valuation consultation."
+      }
+    }
+  ],
+  "description": "Prepare documentation on renovations, unique features, tax/HOA details, and notable selling points before a luxury home valuation consultation."
+}

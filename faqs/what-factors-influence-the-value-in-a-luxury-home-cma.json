@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/what-factors-influence-the-value-in-a-luxury-home-cma",
+  "name": "What factors influence the value in a Luxury Home CMA?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What factors influence the value in a Luxury Home CMA?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Several factors influence the value in a Luxury Home CMA, including location within prestigious communities (e.g., Fisher Island, Key Biscayne), unique architectural styles, high-end finishes, property amenities (e.g., waterfront access, private docks, smart home technology), and the overall condition of the property. The scope of the analysis will prioritize finding comparable sales that match these specific luxury characteristics, which can be more challenging in niche markets. Understanding these details helps us accurately position your property.",
+        "@type": "Answer",
+        "description": "Luxury home values are influenced by location in prestigious communities, unique architecture, high-end finishes, amenities, and property condition. We prioritize matching these characteristics in our analysis."
+      }
+    }
+  ],
+  "description": "Luxury home values are influenced by location in prestigious communities, unique architecture, high-end finishes, amenities, and property condition. We prioriti"
+}

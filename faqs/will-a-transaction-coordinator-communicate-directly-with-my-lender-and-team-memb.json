@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/will-a-transaction-coordinator-communicate-directly-with-my-lender-and-attorney",
+  "name": "Will a transaction coordinator communicate directly with my lender and attorney?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Will a transaction coordinator communicate directly with my lender and attorney?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, a transaction coordinator will communicate directly with your lender, attorney, and other key parties involved in the transaction, acting as a central hub for information exchange. Their role includes coordinating document requests from the lender, scheduling necessary appointments with the attorney, and ensuring all parties are updated on the transaction's progress. This streamlines communication channels and helps prevent delays, allowing you to focus on other aspects of your luxury property transition. For example, in a high-value sale in Coconut Grove, this coordination ensures all financial and legal requirements are met efficiently.",
+        "@type": "Answer",
+        "description": "Yes, a transaction coordinator communicates directly with your lender and attorney, acting as a central point of contact to streamline information exchange and prevent delays."
+      }
+    }
+  ],
+  "description": "Yes, a transaction coordinator communicates directly with your lender and attorney, acting as a central point of contact to streamline information exchange and"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/is-a-comparative-market-analysis-the-same-as-a-home-appraisal",
+  "name": "Is a Comparative Market Analysis the same as a home appraisal?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Is a Comparative Market Analysis the same as a home appraisal?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "No, a Comparative Market Analysis (CMA) is not the same as a home appraisal, though both provide a property valuation. A CMA is typically performed by a real estate agent to help set a listing price, reflecting current market conditions and recent sales. An appraisal, on the other hand, is conducted by a licensed appraiser for lenders and is a more formal, legally recognized valuation often required for mortgage approval. Kelby Contreras provides CMAs as a service to clients, distinct from formal appraisals.",
+        "@type": "Answer",
+        "description": "A CMA helps set a listing price and is done by an agent; an appraisal is a formal valuation by a licensed appraiser for lenders."
+      }
+    }
+  ],
+  "description": "A CMA helps set a listing price and is done by an agent; an appraisal is a formal valuation by a licensed appraiser for lenders."
+}

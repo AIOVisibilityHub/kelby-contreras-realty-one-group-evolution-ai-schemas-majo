@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/how-long-does-a-typical-luxury-condo-sale-closing-take-in-south-florida",
+  "name": "How long does a typical luxury condo sale closing take in South Florida?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does a typical luxury condo sale closing take in South Florida?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The closing timeline for a luxury condo sale can vary but generally ranges from 30 to 60 days. Cash transactions can sometimes close faster, while financed deals typically take longer. Factors like the efficiency of the appraisal process, lender responsiveness, and condominium association approval times can all affect the overall duration. Preparation by having all necessary financial documents ready can expedite this process.",
+        "@type": "Answer",
+        "description": "Closing usually takes 30-60 days, depending on financing and specific property factors."
+      }
+    }
+  ],
+  "description": "Closing usually takes 30-60 days, depending on financing and specific property factors."
+}

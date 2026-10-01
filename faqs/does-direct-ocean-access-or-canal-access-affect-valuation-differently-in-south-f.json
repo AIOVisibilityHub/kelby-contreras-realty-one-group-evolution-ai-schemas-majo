@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/does-direct-ocean-access-or-canal-access-affect-valuation-differently-in-south-f",
+  "name": "Does direct ocean access or canal access affect valuation differently in South Florida?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Does direct ocean access or canal access affect valuation differently in South Florida?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, direct ocean access and canal access significantly impact valuation differently in South Florida. Properties with direct ocean access, especially those without fixed bridges to the Intracoastal Waterway or ocean, typically command the highest premiums due to unobstructed boat passage and views. Canal-front properties are also highly desirable, but their value can depend on factors like canal depth, width, and whether they have fixed bridges limiting boat size. In areas like Fort Lauderdale Beach or Miami Beach, the specific type of water access is a primary driver of property value.",
+        "@type": "Answer",
+        "description": "Direct ocean access usually commands higher premiums than canal access, with valuation also dependent on canal specifics like depth and bridge limitations."
+      }
+    }
+  ],
+  "description": "Direct ocean access usually commands higher premiums than canal access, with valuation also dependent on canal specifics like depth and bridge limitations."
+}

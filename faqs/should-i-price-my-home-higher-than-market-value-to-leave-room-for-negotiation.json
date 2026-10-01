@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/should-i-price-my-home-higher-than-market-value-to-leave-room-for-negotiation",
+  "name": "Should I price my home higher than market value to leave room for negotiation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Should I price my home higher than market value to leave room for negotiation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Pricing significantly higher than market value can deter potential buyers and lead to your property sitting on the market for too long, often resulting in eventual price reductions below what you might have originally achieved. Buyers today are well-informed and often recognize overpriced listings. A practical tradeoff is that while a slightly higher price might allow for negotiation, an overly ambitious price risks losing initial buyer interest and could force you into a position where you need to make more significant price adjustments later.",
+        "@type": "Answer",
+        "description": "Pricing too high can deter buyers and prolong market time. While slight room for negotiation is fine, an overprice risks losing initial interest."
+      }
+    }
+  ],
+  "description": "Pricing too high can deter buyers and prolong market time. While slight room for negotiation is fine, an overprice risks losing initial interest."
+}

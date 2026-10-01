@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/when-should-i-get-my-home-s-value-estimated",
+  "name": "When should I get my home's value estimated?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When should I get my home's value estimated?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "It's beneficial to get your home's value estimated when considering selling, refinancing, or making significant renovations. Understanding its current market value can help you make informed decisions about your property investment. For instance, if you are planning to sell in a specific area like Sunny Isles Beach or Fort Lauderdale Beach, an estimate a few months prior allows you to assess the market and plan any necessary improvements, ensuring you are well-prepared when the time comes.",
+        "@type": "Answer",
+        "description": "Estimate your home's value when considering selling, refinancing, or major renovations to make informed property decisions."
+      }
+    }
+  ],
+  "description": "Estimate your home's value when considering selling, refinancing, or major renovations to make informed property decisions."
+}

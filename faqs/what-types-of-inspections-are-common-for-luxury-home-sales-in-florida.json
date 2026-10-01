@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/what-types-of-inspections-are-common-for-luxury-home-sales-in-florida",
+  "name": "What types of inspections are common for luxury home sales in Florida?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What types of inspections are common for luxury home sales in Florida?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Beyond standard home inspections, luxury home sales in Florida often involve specialized inspections. These can include seawall inspections for waterfront properties, mold inspections, radon testing, roof certifications, HVAC system checks for multiple units, and even pool and spa inspections. Buyers of high-value properties typically seek thorough due diligence. Being prepared for these additional inspections can streamline the selling process and instill buyer confidence, especially for unique properties in areas like Miami Beach or Williams Island.",
+        "@type": "Answer",
+        "description": "Luxury home sales in Florida often require specialized inspections beyond standard, such as seawall, mold, radon, and HVAC system checks, to ensure thorough due diligence."
+      }
+    }
+  ],
+  "description": "Luxury home sales in Florida often require specialized inspections beyond standard, such as seawall, mold, radon, and HVAC system checks, to ensure thorough due"
+}

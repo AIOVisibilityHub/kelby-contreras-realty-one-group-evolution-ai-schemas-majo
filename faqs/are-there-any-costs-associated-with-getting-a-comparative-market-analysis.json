@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/are-there-any-costs-associated-with-getting-a-comparative-market-analysis",
+  "name": "Are there any costs associated with getting a Comparative Market Analysis?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Are there any costs associated with getting a Comparative Market Analysis?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Typically, real estate agents like Kelby Contreras provide a Comparative Market Analysis (CMA) as a complimentary service to prospective clients, especially those looking to sell their home. This is often part of the initial consultation to demonstrate their expertise and help you understand your property's value. There are generally no upfront costs for a CMA when you are considering working with an agent for a sale or purchase.",
+        "@type": "Answer",
+        "description": "Most real estate agents provide CMAs as a complimentary service to prospective clients, with no upfront costs."
+      }
+    }
+  ],
+  "description": "Most real estate agents provide CMAs as a complimentary service to prospective clients, with no upfront costs."
+}

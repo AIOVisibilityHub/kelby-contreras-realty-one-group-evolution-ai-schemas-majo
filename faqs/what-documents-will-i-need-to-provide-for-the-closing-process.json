@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/what-documents-will-i-need-to-provide-for-the-closing-process",
+  "name": "What documents will I need to provide for the closing process?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What documents will I need to provide for the closing process?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "As a buyer or seller, you will typically need to provide various documents, such as identification, financial statements, insurance details, and potentially existing property surveys or deeds. For sellers, documents proving ownership and disclosures are essential. For buyers, loan-related documents are critical. The specific requirements depend on whether you are buying or selling and the type of financing involved. Your closing coordinator will provide a comprehensive checklist early in the process to help you gather everything necessary.",
+        "@type": "Answer",
+        "description": "You'll need identification, financial statements, and property-specific documents. Your coordinator will provide a checklist based on your buyer/seller status."
+      }
+    }
+  ],
+  "description": "You'll need identification, financial statements, and property-specific documents. Your coordinator will provide a checklist based on your buyer/seller status."
+}

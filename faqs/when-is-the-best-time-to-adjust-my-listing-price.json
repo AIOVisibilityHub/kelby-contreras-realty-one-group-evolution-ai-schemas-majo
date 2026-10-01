@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/when-is-the-best-time-to-adjust-my-listing-price",
+  "name": "When is the best time to adjust my listing price?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When is the best time to adjust my listing price?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The best time to adjust your listing price depends on buyer feedback, showing activity, and market dynamics. If you're receiving very few showings, no offers, or consistent feedback that the price is too high, it's typically a strong indicator that an adjustment is needed. We recommend considering a price adjustment if your property isn't generating sufficient interest within the first few weeks, as prolonged market time often leads buyers to perceive an issue with the property or its price.",
+        "@type": "Answer",
+        "description": "Adjust your listing price if showings are low, offers are absent, or feedback indicates it's too high, especially after the initial few weeks."
+      }
+    }
+  ],
+  "description": "Adjust your listing price if showings are low, offers are absent, or feedback indicates it's too high, especially after the initial few weeks."
+}

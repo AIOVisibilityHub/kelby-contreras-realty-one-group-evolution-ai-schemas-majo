@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/what-is-the-difference-between-a-market-analysis-and-a-formal-appraisal-for-a-wa",
+  "name": "What is the difference between a market analysis and a formal appraisal for a waterfront property?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the difference between a market analysis and a formal appraisal for a waterfront property?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A Comparative Market Analysis (CMA) provides an estimate of a property's value based on recent sales of similar homes in the area, typically used by real estate agents to help price a home for sale. It's a quick overview. A formal appraisal, conducted by a licensed appraiser, is a more detailed and legally recognized valuation, often required by lenders for financing. Appraisals typically involve a deeper analysis of specific property features, including the unique aspects of waterfront properties like seawalls and dockage, offering a more precise value for legal or lending purposes.",
+        "@type": "Answer",
+        "description": "A CMA is an agent's sales estimate, while a formal appraisal is a legally recognized, detailed valuation by a licensed professional, often for lending."
+      }
+    }
+  ],
+  "description": "A CMA is an agent's sales estimate, while a formal appraisal is a legally recognized, detailed valuation by a licensed professional, often for lending."
+}

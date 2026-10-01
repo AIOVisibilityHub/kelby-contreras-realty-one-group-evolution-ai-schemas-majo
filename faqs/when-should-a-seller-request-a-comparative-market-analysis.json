@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/when-should-a-seller-request-a-comparative-market-analysis",
+  "name": "When should a seller request a Comparative Market Analysis?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When should a seller request a Comparative Market Analysis?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A seller should request a Comparative Market Analysis (CMA) ideally before deciding to list their home for sale. This provides a clear understanding of their property's market value and helps set realistic expectations for pricing and potential returns. It is also beneficial to request a CMA if you've been considering selling for a while and market conditions have changed significantly, or if your property hasn't sold within its initial listing period.",
+        "@type": "Answer",
+        "description": "Sellers should request a CMA before listing their home to understand its market value and set a realistic price."
+      }
+    }
+  ],
+  "description": "Sellers should request a CMA before listing their home to understand its market value and set a realistic price."
+}

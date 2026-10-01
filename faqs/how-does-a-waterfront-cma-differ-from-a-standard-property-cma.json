@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/how-does-a-waterfront-cma-differ-from-a-standard-property-cma",
+  "name": "How does a waterfront CMA differ from a standard property CMA?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How does a waterfront CMA differ from a standard property CMA?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A waterfront CMA differs significantly from a standard property CMA by incorporating specialized factors unique to properties on the water. While both analyze sold comparables, a waterfront CMA places heavy emphasis on aspects like direct water access, type of water body (ocean, bay, canal), linear feet of water frontage, dockage facilities, and the quality of the water view. These elements can drastically influence value, making it essential to compare properties with similar waterfront characteristics. For example, a property with deep-water access for a large yacht will likely command a higher price than one on a narrow canal with limited draft, which is a critical distinction that affects pricing strategy and buyer interest.",
+        "@type": "Answer",
+        "description": "A waterfront CMA considers specialized factors like direct water access, water frontage, and dockage, which are not typically relevant in a standard property CMA."
+      }
+    }
+  ],
+  "description": "A waterfront CMA considers specialized factors like direct water access, water frontage, and dockage, which are not typically relevant in a standard property CM"
+}

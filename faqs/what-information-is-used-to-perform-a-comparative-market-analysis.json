@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/what-information-is-used-to-perform-a-comparative-market-analysis",
+  "name": "What information is used to perform a Comparative Market Analysis?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What information is used to perform a Comparative Market Analysis?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "To perform a Comparative Market Analysis (CMA), real estate professionals analyze several key pieces of information. This includes details about your property (size, age, condition, features, upgrades) and recently sold comparable homes, active listings, and expired listings in your immediate neighborhood. Factors like location within Aventura, Bal Harbour, or Coral Gables, and specific market trends in Miami-Dade or Broward County are also considered to provide an accurate valuation.",
+        "@type": "Answer",
+        "description": "A CMA uses your property's details, recently sold comparable homes, active listings, and local market trends to determine value."
+      }
+    }
+  ],
+  "description": "A CMA uses your property's details, recently sold comparable homes, active listings, and local market trends to determine value."
+}

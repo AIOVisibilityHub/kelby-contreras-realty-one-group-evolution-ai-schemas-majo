@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/when-should-i-get-a-professional-valuation-for-my-oceanfront-condo",
+  "name": "When should I get a professional valuation for my oceanfront condo?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When should I get a professional valuation for my oceanfront condo?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You should consider a professional valuation for your oceanfront condo before listing it for sale, refinancing, estate planning, or property tax appeals. A timely valuation ensures you have an accurate understanding of your property's worth in the current market, which is essential for making informed decisions, especially in dynamic markets across Miami-Dade, Broward, and Palm Beach Counties.",
+        "@type": "Answer",
+        "description": "Obtain a professional valuation before selling, refinancing, estate planning, or appealing property taxes to ensure an accurate market value understanding."
+      }
+    }
+  ],
+  "description": "Obtain a professional valuation before selling, refinancing, estate planning, or appealing property taxes to ensure an accurate market value understanding."
+}

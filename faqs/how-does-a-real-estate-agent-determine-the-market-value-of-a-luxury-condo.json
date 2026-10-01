@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/how-does-a-real-estate-agent-determine-the-market-value-of-a-luxury-condo",
+  "name": "How does a real estate agent determine the market value of a luxury condo?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How does a real estate agent determine the market value of a luxury condo?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A real estate agent determines market value by conducting a comparative market analysis (CMA). This involves evaluating recently sold luxury condos that are similar in size, features, and location to the subject property. Adjustments are made for differences in amenities, views, and condition. An agent's local market expertise in areas like Aventura or Fort Lauderdale Beach is vital for accurately interpreting these comparisons and understanding current buyer demand, which can significantly impact the final valuation.",
+        "@type": "Answer",
+        "description": "Agents determine value through a comparative market analysis (CMA) of similar recently sold luxury condos, adjusted for differences."
+      }
+    }
+  ],
+  "description": "Agents determine value through a comparative market analysis (CMA) of similar recently sold luxury condos, adjusted for differences."
+}

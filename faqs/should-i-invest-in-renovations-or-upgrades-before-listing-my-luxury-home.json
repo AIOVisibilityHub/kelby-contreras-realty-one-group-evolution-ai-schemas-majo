@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/should-i-invest-in-renovations-or-upgrades-before-listing-my-luxury-home",
+  "name": "Should I invest in renovations or upgrades before listing my luxury home?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Should I invest in renovations or upgrades before listing my luxury home?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Whether to renovate before listing depends on the potential return on investment and current market expectations for luxury buyers. Minor cosmetic updates, like fresh paint or updated lighting, can often yield a good return. However, major renovations might not always recoup their cost. We can provide guidance on specific upgrades that are most valued in areas like Fort Lauderdale Beach or Key Biscayne, helping you prioritize improvements that genuinely enhance your home's appeal.",
+        "@type": "Answer",
+        "description": "Investing in renovations depends on the ROI and market expectations; we can advise on upgrades that add value in your specific luxury market."
+      }
+    }
+  ],
+  "description": "Investing in renovations depends on the ROI and market expectations; we can advise on upgrades that add value in your specific luxury market."
+}

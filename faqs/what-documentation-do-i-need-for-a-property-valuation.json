@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/what-documentation-do-i-need-for-a-property-valuation",
+  "name": "What documentation do I need for a property valuation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What documentation do I need for a property valuation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "For a property valuation, it's beneficial to have documentation related to your property's history, such as the original purchase agreement, recent tax statements, and any records of home improvements or major repairs. Providing these documents helps ensure all aspects contributing to value are accurately considered. This preparation can streamline the valuation process and lead to a more precise estimate of your property's worth.",
+        "@type": "Answer",
+        "description": "Provide documentation such as purchase agreements, tax statements, and records of home improvements to aid in an accurate valuation."
+      }
+    }
+  ],
+  "description": "Provide documentation such as purchase agreements, tax statements, and records of home improvements to aid in an accurate valuation."
+}

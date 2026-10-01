@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/what-documents-do-i-need-to-prepare-to-sell-my-luxury-condo",
+  "name": "What documents do I need to prepare to sell my luxury condo?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What documents do I need to prepare to sell my luxury condo?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "To sell your luxury condo, you will need to gather various documents including your property deed, recent mortgage statements, HOA documents (bylaws, financial statements, meeting minutes), property tax records, and any existing surveys or renovation permits. Having these documents prepared in advance can significantly streamline the closing process. Kelby Contreras assists clients in organizing the necessary paperwork specific to properties in areas like Miami Beach or Fort Lauderdale, ensuring all legal and community requirements are met.",
+        "@type": "Answer",
+        "description": "You need to prepare your property deed, mortgage statements, HOA documents, tax records, and renovation permits to sell your condo."
+      }
+    }
+  ],
+  "description": "You need to prepare your property deed, mortgage statements, HOA documents, tax records, and renovation permits to sell your condo."
+}

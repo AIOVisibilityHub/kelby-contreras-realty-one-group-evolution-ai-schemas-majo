@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/what-factors-impact-the-value-of-a-waterfront-property-in-south-florida",
+  "name": "What factors impact the value of a waterfront property in South Florida?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What factors impact the value of a waterfront property in South Florida?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The value of a waterfront property in South Florida is significantly impacted by several factors unique to its location. Key considerations include direct water access (e.g., ocean, bay, or navigable canal), linear feet of water frontage, depth of the water (for boat access), presence and condition of a dock or seawall, and the quality of the view. Proximity to desirable areas like Miami Beach or Key Biscayne, and local regulations regarding dock expansion or environmental protections, also play a crucial role. For example, properties in communities like Fisher Island with protected deep-water dockage often command premium values due to their unique accessibility and exclusivity.",
+        "@type": "Answer",
+        "description": "Factors impacting waterfront property value include direct water access, linear frontage, water depth, dock/seawall condition, view quality, and location specific to South Florida."
+      }
+    }
+  ],
+  "description": "Factors impacting waterfront property value include direct water access, linear frontage, water depth, dock/seawall condition, view quality, and location specif"
+}

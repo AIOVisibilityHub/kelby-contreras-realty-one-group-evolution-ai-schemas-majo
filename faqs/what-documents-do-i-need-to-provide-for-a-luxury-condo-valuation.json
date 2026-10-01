@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/what-documents-do-i-need-to-provide-for-a-luxury-condo-valuation",
+  "name": "What documents do I need to provide for a luxury condo valuation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What documents do I need to provide for a luxury condo valuation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "To facilitate an accurate luxury condo valuation, you should provide documents such as the original purchase agreement, details of any significant renovations or upgrades, HOA fees and inclusions, and a list of all included appliances and fixtures. Having these details ready helps your real estate professional understand the full scope and unique features of your property, which can influence its value, particularly for specialized amenities common in upscale buildings.",
+        "@type": "Answer",
+        "description": "Provide the purchase agreement, renovation details, HOA information, and a list of inclusions to assist with an accurate luxury condo valuation."
+      }
+    }
+  ],
+  "description": "Provide the purchase agreement, renovation details, HOA information, and a list of inclusions to assist with an accurate luxury condo valuation."
+}

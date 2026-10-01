@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/what-is-a-comparative-market-analysis-cma-in-real-estate",
+  "name": "What is a Comparative Market Analysis (CMA) in real estate?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is a Comparative Market Analysis (CMA) in real estate?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A Comparative Market Analysis (CMA) is an evaluation that provides an estimated value of a property by comparing it to similar properties that have recently sold, are currently on the market, or have failed to sell in the same area. This analysis helps sellers set a competitive listing price and buyers make informed offers. Kelby Contreras leverages current market data from Miami-Dade, Broward, Palm Beach, Collier, and Orange Counties to provide accurate and localized insights.",
+        "@type": "Answer",
+        "description": "A CMA estimates a property's value by comparing it to similar, recently sold or listed properties in the same area."
+      }
+    }
+  ],
+  "description": "A CMA estimates a property's value by comparing it to similar, recently sold or listed properties in the same area."
+}

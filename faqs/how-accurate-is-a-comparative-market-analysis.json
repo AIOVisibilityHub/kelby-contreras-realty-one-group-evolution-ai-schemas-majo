@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/how-accurate-is-a-comparative-market-analysis",
+  "name": "How accurate is a Comparative Market Analysis?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How accurate is a Comparative Market Analysis?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The accuracy of a Comparative Market Analysis (CMA) depends on the quality and availability of comparable sales data, as well as the expertise of the real estate professional conducting it. While it provides a strong estimate, it's not an exact science, as no two properties are identical. Kelby Contreras strives for high accuracy by focusing on the most recent and relevant sales in specific South Florida neighborhoods and accounting for unique property features or market nuances.",
+        "@type": "Answer",
+        "description": "A CMA provides a strong value estimate based on available data and agent expertise, but it's not an exact science."
+      }
+    }
+  ],
+  "description": "A CMA provides a strong value estimate based on available data and agent expertise, but it's not an exact science."
+}

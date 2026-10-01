@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/what-documents-will-i-need-to-provide-for-a-luxury-condo-sale-closing",
+  "name": "What documents will I need to provide for a luxury condo sale closing?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What documents will I need to provide for a luxury condo sale closing?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "As a seller, you'll typically need to provide your deed, property survey (if applicable), condominium association documents, homeowner's insurance policy, and any relevant repair or warranty information. For buyers, financial statements, loan approval documents, and proof of funds are essential. Gathering these documents early can prevent delays, as missing information is a common cause of closing postponements.",
+        "@type": "Answer",
+        "description": "Sellers need deeds and association documents; buyers need financial and loan approvals. Early preparation is key."
+      }
+    }
+  ],
+  "description": "Sellers need deeds and association documents; buyers need financial and loan approvals. Early preparation is key."
+}

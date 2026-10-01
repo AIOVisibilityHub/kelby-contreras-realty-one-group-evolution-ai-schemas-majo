@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/what-is-a-comparative-market-analysis-cma-and-how-is-it-used-for-luxury-properti",
+  "name": "What is a comparative market analysis (CMA) and how is it used for luxury properties?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is a comparative market analysis (CMA) and how is it used for luxury properties?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A Comparative Market Analysis (CMA) for luxury properties assesses the value of your home by comparing it to recently sold, pending, and active luxury listings in your specific area, such as Las Olas or Sunny Isles Beach. This analysis considers unique features, square footage, amenities, and condition, ensuring a precise comparison within the high-end market. For luxury homes, a CMA often involves a more in-depth look at unique property attributes, such as yacht slips or custom smart home systems, which may not be present in standard market data. This detailed approach helps set a competitive yet realistic asking price.",
+        "@type": "Answer",
+        "description": "A luxury CMA analyzes your home's value against comparable high-end listings in your specific area, considering unique features and amenities. This helps set a realistic asking price."
+      }
+    }
+  ],
+  "description": "A luxury CMA analyzes your home's value against comparable high-end listings in your specific area, considering unique features and amenities. This helps set a"
+}

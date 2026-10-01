@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/what-is-the-typical-timeframe-for-selling-a-luxury-home",
+  "name": "What is the typical timeframe for selling a luxury home?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the typical timeframe for selling a luxury home?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The timeframe for selling a luxury home can vary significantly based on market conditions, pricing strategy, location, and unique property features. While some sell quickly, others may take longer than average due to a smaller buyer pool. For example, a unique estate in Palm Beach or Coral Gables might attract a specific buyer, influencing the sales period. Your agent will provide an estimated timeline based on current data and a strategic marketing plan tailored to your property.",
+        "@type": "Answer",
+        "description": "The typical timeframe for selling a luxury home varies greatly depending on market conditions, pricing, location, and unique features."
+      }
+    }
+  ],
+  "description": "The typical timeframe for selling a luxury home varies greatly depending on market conditions, pricing, location, and unique features."
+}

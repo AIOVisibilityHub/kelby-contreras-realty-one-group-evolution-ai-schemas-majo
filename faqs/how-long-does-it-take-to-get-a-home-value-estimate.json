@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/how-long-does-it-take-to-get-a-home-value-estimate",
+  "name": "How long does it take to get a home value estimate?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does it take to get a home value estimate?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The timeframe for receiving a home value estimate can vary. An initial conversation might take 15-30 minutes, followed by a property visit that typically lasts 30-60 minutes depending on the home's size and complexity. After the visit, a comprehensive comparative market analysis (CMA) usually takes 1-3 business days to compile, as the agent meticulously researches recent sales and market data specific to your area, such as Midtown/Wynwood or Coral Gables. Providing access to all relevant property details beforehand can expedite this process.",
+        "@type": "Answer",
+        "description": "An estimate typically takes a few days, including a property visit and the time needed for the agent to complete a detailed comparative market analysis."
+      }
+    }
+  ],
+  "description": "An estimate typically takes a few days, including a property visit and the time needed for the agent to complete a detailed comparative market analysis."
+}

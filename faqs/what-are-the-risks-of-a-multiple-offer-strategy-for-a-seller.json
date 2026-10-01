@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/what-are-the-risks-of-a-multiple-offer-strategy-for-a-seller",
+  "name": "What are the risks of a multiple offer strategy for a seller?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are the risks of a multiple offer strategy for a seller?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The primary risk is potentially alienating buyers if the process is handled poorly, leading to withdrawn offers or decreased interest. Over-negotiating or setting unrealistic expectations can also cause buyers to walk away. It is vital to have an experienced real estate professional guide the process to maintain good relationships with buyers and their agents, ensuring a smooth negotiation and successful closing. Mismanaging communication or timelines can result in lost opportunities.",
+        "@type": "Answer",
+        "description": "Risks include alienating buyers or losing offers if the process is mishandled; clear communication is essential."
+      }
+    }
+  ],
+  "description": "Risks include alienating buyers or losing offers if the process is mishandled; clear communication is essential."
+}

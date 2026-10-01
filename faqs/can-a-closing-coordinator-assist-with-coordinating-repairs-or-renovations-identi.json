@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/can-a-closing-coordinator-assist-with-coordinating-repairs-or-renovations-identi",
+  "name": "Can a closing coordinator assist with coordinating repairs or renovations identified during inspection?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can a closing coordinator assist with coordinating repairs or renovations identified during inspection?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, a closing coordinator can absolutely assist with coordinating repairs or renovations identified during the inspection period. They act as a central point of contact, helping to gather quotes from licensed contractors, schedule work, and ensure repairs are completed according to the agreed-upon terms and within the contractual timelines. This is particularly valuable for luxury homes where specialized repairs or high-end finishes may be required, allowing the seller to focus on other aspects of their move while the coordinator oversees these details.",
+        "@type": "Answer",
+        "description": "Yes, a closing coordinator helps coordinate repairs or renovations identified during inspection by gathering quotes, scheduling work, and ensuring completion within contractual timelines, especially for specialized luxury home needs."
+      }
+    }
+  ],
+  "description": "Yes, a closing coordinator helps coordinate repairs or renovations identified during inspection by gathering quotes, scheduling work, and ensuring completion wi"
+}

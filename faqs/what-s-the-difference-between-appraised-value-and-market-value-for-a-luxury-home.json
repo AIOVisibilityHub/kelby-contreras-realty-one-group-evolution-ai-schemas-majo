@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/what-s-the-difference-between-appraised-value-and-market-value-for-a-luxury-home",
+  "name": "What's the difference between appraised value and market value for a luxury home?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What's the difference between appraised value and market value for a luxury home?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Appraised value is a professional, independent estimate of a property's worth, primarily used by lenders to ensure the loan amount doesn't exceed the home's value. It’s based on specific criteria and comparable sales, often following a conservative approach. Market value, conversely, is what a willing and informed buyer would pay and a willing and informed seller would accept in the current market, which can sometimes be higher, especially in a competitive luxury segment. While an appraisal provides a factual baseline, market value also considers intangible factors like exclusivity, unique demand, and perceived lifestyle in locations such as Fisher Island or Coconut Grove.",
+        "@type": "Answer",
+        "description": "Appraised value is a lender-focused estimate, while market value is what a willing buyer and seller agree upon in the current market, often considering intangible luxury factors."
+      }
+    }
+  ],
+  "description": "Appraised value is a lender-focused estimate, while market value is what a willing buyer and seller agree upon in the current market, often considering intangib"
+}

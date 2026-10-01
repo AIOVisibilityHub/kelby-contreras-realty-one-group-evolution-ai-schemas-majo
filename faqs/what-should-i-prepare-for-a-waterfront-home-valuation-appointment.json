@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/what-should-i-prepare-for-a-waterfront-home-valuation-appointment",
+  "name": "What should I prepare for a waterfront home valuation appointment?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What should I prepare for a waterfront home valuation appointment?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "To prepare for a waterfront home valuation, gather any documentation related to recent renovations, permits for seawall or dock construction/repairs, and surveys. Provide details on HOA fees, property taxes, and any unique features or upgrades that might not be immediately obvious. Having these documents organized helps ensure that the appraiser has a complete understanding of your property's characteristics and improvements, leading to a more accurate assessment. This preparation allows us to efficiently analyze all value-contributing factors.",
+        "@type": "Answer",
+        "description": "Prepare renovation permits, seawall/dock details, surveys, HOA fees, and property tax information for your waterfront home valuation."
+      }
+    }
+  ],
+  "description": "Prepare renovation permits, seawall/dock details, surveys, HOA fees, and property tax information for your waterfront home valuation."
+}

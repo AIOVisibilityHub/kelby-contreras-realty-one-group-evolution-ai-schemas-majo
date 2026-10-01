@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/what-is-a-comparative-market-analysis-cma-and-how-does-it-relate-to-property-val",
+  "name": "What is a comparative market analysis (CMA) and how does it relate to property valuation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is a comparative market analysis (CMA) and how does it relate to property valuation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A Comparative Market Analysis (CMA) is an informal assessment of a property's value based on recently sold, active, and expired listings in the same or similar area. It's a key tool used by real estate agents to help clients understand what their home might sell for. This differs from a formal appraisal but offers a practical tradeoff by providing a quicker, cost-effective estimate for sellers and buyers, informing pricing strategies or offer decisions without the need for a full appraisal.",
+        "@type": "Answer",
+        "description": "A CMA is an informal property value assessment by real estate agents, based on local market comparables, helping inform pricing strategies."
+      }
+    }
+  ],
+  "description": "A CMA is an informal property value assessment by real estate agents, based on local market comparables, helping inform pricing strategies."
+}

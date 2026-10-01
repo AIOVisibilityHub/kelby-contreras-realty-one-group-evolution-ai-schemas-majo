@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/how-do-you-determine-the-market-value-of-a-luxury-condo",
+  "name": "How do you determine the market value of a luxury condo?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do you determine the market value of a luxury condo?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Determining the market value of a luxury condo involves a comprehensive analysis that goes beyond standard comparable sales. We consider unique architectural features, bespoke finishes, exclusive amenities, and specific views. For example, a condo in Fisher Island or Bal Harbour will have different value drivers than one in Brickell. Kelby Contreras provides a detailed comparative market analysis (CMA), focusing on recent sales of truly comparable luxury properties within your specific micro-market to ensure an accurate and competitive listing price.",
+        "@type": "Answer",
+        "description": "Market value for luxury condos is determined by analyzing unique features, amenities, and comparable high-end sales in your specific location."
+      }
+    }
+  ],
+  "description": "Market value for luxury condos is determined by analyzing unique features, amenities, and comparable high-end sales in your specific location."
+}
