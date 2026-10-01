@@ -1,0 +1,43 @@
+{
+  "version": "1.0",
+  "generatedAt": "2026-10-01T21:58:46.420Z",
+  "name": "Cross-Destination Index",
+  "aliases": [
+    "Authority Network",
+    "Repository Mirror Index",
+    "Related AI Data Sources"
+  ],
+  "purpose": "Transparent source discovery, entity consistency, mirror verification, and AI crawler navigation across every published copy of this AI Data Package.",
+  "notALinkWheel": true,
+  "entity": {
+    "name": "Kelby Contreras - Realty ONE Group Evolution",
+    "canonicalUrl": "https://realtyonegroupevolution.aiovisibility.net",
+    "primaryWebsiteUrl": "sellingrealestateflorida.com",
+    "aiDataHub": "https://realtyonegroupevolution.aiovisibility.net/ai-data.html"
+  },
+  "related": [
+    {
+      "role": "canonical",
+      "label": "Kelby Contreras - Realty ONE Group Evolution — canonical website",
+      "url": "https://realtyonegroupevolution.aiovisibility.net"
+    },
+    {
+      "role": "ai-data-hub",
+      "label": "Kelby Contreras - Realty ONE Group Evolution — AI Data Hub",
+      "url": "https://realtyonegroupevolution.aiovisibility.net/ai-data.html"
+    },
+    {
+      "role": "mirror-repo",
+      "platform": "github",
+      "label": "GitHub repository",
+      "url": "https://github.com/AIOVisibilityHub/kelby-contreras-realty-one-group-evolution-ai-schemas-majo"
+    }
+  ],
+  "destinations": {
+    "github": {
+      "url": "https://github.com/AIOVisibilityHub/kelby-contreras-realty-one-group-evolution-ai-schemas-majo",
+      "pagesUrl": "",
+      "repo": "AIOVisibilityHub/kelby-contreras-realty-one-group-evolution-ai-schemas-majo"
+    }
+  }
+}
