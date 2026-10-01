@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/what-unique-insurance-considerations-are-there-for-oceanfront-condos-in-south-fl",
+  "name": "What unique insurance considerations are there for oceanfront condos in South Florida?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What unique insurance considerations are there for oceanfront condos in South Florida?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Oceanfront condos in South Florida require specific insurance coverage due to their location. While the HOA typically covers the building's exterior and common areas (master policy), individual unit owners need a 'walls-in' policy (HO6) to cover the interior of their unit, personal belongings, and liability. Flood insurance is often mandatory and separate from a standard hurricane policy. It's crucial to understand what the master policy covers and what your individual policy needs to cover, particularly regarding hurricane deductibles and wind damage. Consulting with a local insurance specialist is a key preparation step to ensure adequate coverage.",
+        "@type": "Answer",
+        "description": "Oceanfront condos need 'walls-in' (HO6) policies for unit interiors and flood insurance, in addition to the HOA's master policy. Hurricane deductibles are also a key consideration."
+      }
+    }
+  ],
+  "description": "Oceanfront condos need 'walls-in' (HO6) policies for unit interiors and flood insurance, in addition to the HOA's master policy. Hurricane deductibles are also"
+}

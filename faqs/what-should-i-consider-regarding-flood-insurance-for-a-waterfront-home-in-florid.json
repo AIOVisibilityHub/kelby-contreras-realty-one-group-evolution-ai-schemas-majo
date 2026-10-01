@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/what-should-i-consider-regarding-flood-insurance-for-a-waterfront-home-in-florid",
+  "name": "What should I consider regarding flood insurance for a waterfront home in Florida?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What should I consider regarding flood insurance for a waterfront home in Florida?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Flood insurance is typically a critical consideration for waterfront homes in Florida, often required by lenders. Premiums can vary significantly based on the property's flood zone designation and elevation. It's advisable to obtain an elevation certificate and review current and potential future flood insurance costs during the due diligence phase to understand the long-term financial commitment, especially in areas prone to flooding.",
+        "@type": "Answer",
+        "description": "Flood insurance is often required and varies by flood zone and elevation. Review costs and obtain an elevation certificate during due diligence."
+      }
+    }
+  ],
+  "description": "Flood insurance is often required and varies by flood zone and elevation. Review costs and obtain an elevation certificate during due diligence."
+}

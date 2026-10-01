@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/what-due-diligence-should-be-conducted-for-a-luxury-property-purchase-in-miami",
+  "name": "What due diligence should be conducted for a luxury property purchase in Miami?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What due diligence should be conducted for a luxury property purchase in Miami?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Comprehensive due diligence for a luxury property in Miami should include a thorough home inspection by a qualified professional, a detailed title search to ensure clear ownership, and a review of all association documents if the property is part of a homeowners' association or condo. For waterfront properties, additional inspections related to seawalls, docks, and flood zones are critical. It's also advisable to assess potential insurance costs early, especially for properties in coastal zones within Miami-Dade and Broward Counties. Kelby Contreras can provide guidance on trusted local inspectors and specialists.",
+        "@type": "Answer",
+        "description": "Due diligence for luxury homes includes home inspections, title searches, HOA document review, and for waterfront properties, seawall/dock inspections. Insurance cost assessment is also critical."
+      }
+    }
+  ],
+  "description": "Due diligence for luxury homes includes home inspections, title searches, HOA document review, and for waterfront properties, seawall/dock inspections. Insuranc"
+}

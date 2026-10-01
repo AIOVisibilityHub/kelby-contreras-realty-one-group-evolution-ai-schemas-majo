@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/are-there-any-environmental-regulations-unique-to-south-florida-waterfront-prope",
+  "name": "Are there any environmental regulations unique to South Florida waterfront properties?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Are there any environmental regulations unique to South Florida waterfront properties?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, South Florida waterfront properties are subject to specific environmental regulations, primarily concerning seawalls, docks, and mangrove protection. Permitting is often required for any new construction or significant repairs involving marine structures, regulated by state and local agencies like the Florida Department of Environmental Protection (FDEP) and county-level environmental resource management departments. Understanding these regulations is critical for owners in areas such as North Bay Village or Surfside. Kelby Contreras can provide general guidance on these requirements and connect you with local experts who can assist with specific permitting questions.",
+        "@type": "Answer",
+        "description": "Waterfront properties face unique regulations for seawalls, docks, and mangroves, requiring permits for construction or repair. Understanding these is critical for owners."
+      }
+    }
+  ],
+  "description": "Waterfront properties face unique regulations for seawalls, docks, and mangroves, requiring permits for construction or repair. Understanding these is critical"
+}

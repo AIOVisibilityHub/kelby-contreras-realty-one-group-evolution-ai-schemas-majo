@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/what-should-i-do-if-my-tenants-refuse-to-allow-property-showings",
+  "name": "What should I do if my tenants refuse to allow property showings?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What should I do if my tenants refuse to allow property showings?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "If tenants refuse property showings despite proper notice, review your lease agreement and Florida landlord-tenant law to understand your rights and their obligations. While you generally have the right to show the property, avoiding legal disputes is often preferable. Attempting to negotiate, offering incentives, or understanding their concerns can be effective. Kelby Contreras can help mediate discussions and explore available options within the legal framework.",
+        "@type": "Answer",
+        "description": "Review your lease and Florida law. Negotiate, offer incentives, or address concerns to resolve the issue while avoiding legal disputes."
+      }
+    }
+  ],
+  "description": "Review your lease and Florida law. Negotiate, offer incentives, or address concerns to resolve the issue while avoiding legal disputes."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/should-i-sell-my-vacation-rental-fully-furnished-or-unfurnished",
+  "name": "Should I sell my vacation rental fully furnished or unfurnished?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Should I sell my vacation rental fully furnished or unfurnished?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The decision to sell your vacation rental furnished or unfurnished depends on buyer expectations in your specific market and the quality of your furnishings. In many South Florida vacation rental markets like Hollywood Beach or Sunny Isles Beach, buyers often prefer furnished properties for immediate rental potential. However, selling unfurnished might appeal to buyers looking to personalize the space. A key decision factor is the condition and style of your existing furnishings; high-quality, modern furniture can add significant value.",
+        "@type": "Answer",
+        "description": "Selling furnished is often preferred in South Florida vacation rental markets, depending on furnishing quality and buyer preference."
+      }
+    }
+  ],
+  "description": "Selling furnished is often preferred in South Florida vacation rental markets, depending on furnishing quality and buyer preference."
+}

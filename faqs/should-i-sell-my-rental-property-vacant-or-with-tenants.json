@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/should-i-sell-my-rental-property-vacant-or-with-tenants",
+  "name": "Should I sell my rental property vacant or with tenants?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Should I sell my rental property vacant or with tenants?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Deciding whether to sell your rental property vacant or with tenants depends on your priorities and the market. Selling vacant often allows for a broader buyer pool, as owner-occupants typically prefer immediate possession, potentially leading to a higher sale price. However, this may mean lost rental income during the vacancy period. Selling with tenants can appeal to investors seeking immediate cash flow and can avoid vacancy costs. Consider the potential impact on sales timeline and price when making this choice for your property in areas like Broward County or Palm Beach County.",
+        "@type": "Answer",
+        "description": "Selling vacant may attract more owner-occupants and a higher price but risks lost income, while selling with tenants appeals to investors seeking immediate cash flow."
+      }
+    }
+  ],
+  "description": "Selling vacant may attract more owner-occupants and a higher price but risks lost income, while selling with tenants appeals to investors seeking immediate cash"
+}

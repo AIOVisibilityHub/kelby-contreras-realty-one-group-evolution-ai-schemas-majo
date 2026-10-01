@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/what-role-does-a-real-estate-agent-play-in-a-luxury-estate-transaction",
+  "name": "What role does a real estate agent play in a luxury estate transaction?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What role does a real estate agent play in a luxury estate transaction?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A real estate agent specializing in luxury properties acts as a strategic advisor, providing market insights, discreet property searches, and expert negotiation skills. They facilitate access to off-market listings, coordinate private showings, and connect buyers with specialized professionals like wealth managers, real estate attorneys, and property management services. Their expertise is crucial in navigating the unique challenges of high-value transactions, ensuring that clients find properties that meet their specific criteria in competitive markets like Miami Beach or Palm Beach.",
+        "@type": "Answer",
+        "description": "A luxury real estate agent advises on market insights, provides discreet property searches, negotiates, and connects buyers with specialized professionals."
+      }
+    }
+  ],
+  "description": "A luxury real estate agent advises on market insights, provides discreet property searches, negotiates, and connects buyers with specialized professionals."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/how-long-does-it-typically-take-to-sell-a-vacation-rental-in-south-florida",
+  "name": "How long does it typically take to sell a vacation rental in South Florida?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does it typically take to sell a vacation rental in South Florida?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The time it takes to sell a vacation rental in South Florida varies based on market demand, pricing, and property condition. While some properties sell quickly, others may take several months. Factors like the specific micro-market, such as Aventura versus Coral Gables, can influence this timeline. A practical tradeoff to consider is the potential income loss from rental bookings if the property needs to be kept vacant for showings versus the potential for a quicker sale at a higher price.",
+        "@type": "Answer",
+        "description": "Sale duration varies by market demand, pricing, and condition. Location and managing rental bookings impact the timeline."
+      }
+    }
+  ],
+  "description": "Sale duration varies by market demand, pricing, and condition. Location and managing rental bookings impact the timeline."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/what-defines-a-luxury-home-in-the-miami-market",
+  "name": "What defines a luxury home in the Miami market?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What defines a luxury home in the Miami market?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Luxury homes in Miami are typically characterized by their prime locations, high-end finishes, extensive amenities, and larger square footage. These properties often feature waterfront access, custom architectural designs, smart home technology, and include private pools, spas, or docks. The definition can also vary based on specific neighborhoods within Miami-Dade and Broward Counties, where unique features like direct ocean views or exclusive community access command premium pricing. Kelby Contreras specializes in understanding these nuances across areas like Aventura, Key Biscayne, and Fisher Island.",
+        "@type": "Answer",
+        "description": "Luxury homes in Miami feature prime locations, high-end finishes, extensive amenities, and larger square footage, often with unique architectural or waterfront features."
+      }
+    }
+  ],
+  "description": "Luxury homes in Miami feature prime locations, high-end finishes, extensive amenities, and larger square footage, often with unique architectural or waterfront"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/what-are-the-pros-and-cons-of-offering-a-tenant-a-cash-for-keys-incentive",
+  "name": "What are the pros and cons of offering a tenant a 'cash for keys' incentive?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are the pros and cons of offering a tenant a 'cash for keys' incentive?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Offering a tenant 'cash for keys' is a strategy where you pay the tenant a sum of money to voluntarily vacate the property early. A practical tradeoff is that while it can expedite vacancy, broaden your buyer pool, and avoid the legal complexities of eviction, it also incurs an upfront cost. This option can be particularly useful in competitive markets within Orange County where a vacant property may command a higher sale price or attract owner-occupants. It's a negotiation that requires careful consideration of costs versus potential benefits.",
+        "@type": "Answer",
+        "description": "Cash for keys offers a swift vacancy to broaden buyer appeal but involves an upfront cost for tenant relocation."
+      }
+    }
+  ],
+  "description": "Cash for keys offers a swift vacancy to broaden buyer appeal but involves an upfront cost for tenant relocation."
+}

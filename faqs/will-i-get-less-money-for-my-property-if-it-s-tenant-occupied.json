@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/will-i-get-less-money-for-my-property-if-it-s-tenant-occupied",
+  "name": "Will I get less money for my property if it's tenant-occupied?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Will I get less money for my property if it's tenant-occupied?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The impact on sale price varies. If the property is attractive to investors, a tenant-occupied home with a strong rental history can be a selling point, potentially maintaining its value or even increasing it due to immediate income potential. However, if the target buyer is an owner-occupant, a tenant-occupied property might sell for less or take longer, as they may prefer a vacant home. The market in specific areas like Brickell or Key Biscayne also plays a role in how buyers perceive tenant-occupied properties.",
+        "@type": "Answer",
+        "description": "It depends on the buyer. Investors might value immediate income, while owner-occupants may prefer vacant properties, potentially affecting the price."
+      }
+    }
+  ],
+  "description": "It depends on the buyer. Investors might value immediate income, while owner-occupants may prefer vacant properties, potentially affecting the price."
+}

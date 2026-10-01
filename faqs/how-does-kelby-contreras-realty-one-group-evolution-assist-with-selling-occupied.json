@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/how-does-kelby-contreras-realty-one-group-evolution-assist-with-selling-occupied",
+  "name": "How does Kelby Contreras | Realty ONE Group Evolution assist with selling occupied rental properties in South Florida?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How does Kelby Contreras | Realty ONE Group Evolution assist with selling occupied rental properties in South Florida?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "As a real estate agency specializing in South Florida, Kelby Contreras | Realty ONE Group Evolution assists clients by navigating the specific challenges of selling occupied rental properties across Miami-Dade, Broward, Palm Beach, Collier, and Orange Counties. Our first-party insight involves developing tailored marketing strategies that attract the right buyer pool—whether investors or owner-occupants—while ensuring compliance with Florida's landlord-tenant laws. We handle tenant communication, showing coordination, and lease analysis to help ensure a smooth transaction from listing to close.",
+        "@type": "Answer",
+        "description": "We provide tailored marketing, tenant communication, showing coordination, and lease analysis, adhering to Florida laws for occupied rental property sales."
+      }
+    }
+  ],
+  "description": "We provide tailored marketing, tenant communication, showing coordination, and lease analysis, adhering to Florida laws for occupied rental property sales."
+}

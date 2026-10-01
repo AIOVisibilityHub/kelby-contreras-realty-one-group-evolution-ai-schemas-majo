@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/are-there-specific-inspections-i-should-prioritize-for-a-south-florida-waterfron",
+  "name": "Are there specific inspections I should prioritize for a South Florida waterfront home?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Are there specific inspections I should prioritize for a South Florida waterfront home?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, beyond a standard home inspection, waterfront properties in South Florida require specialized assessments. It's highly recommended to get a marine survey for docks, seawalls, and boat lifts to assess their condition, structural integrity, and any necessary repairs. Additionally, a thorough roof inspection is vital given the climate. Kelby Contreras advises clients to include these specialized inspections in their due diligence period for homes in areas like Sunny Isles Beach or Key Biscayne, ensuring you have a complete understanding of the property's structural and waterfront components before finalizing a purchase.",
+        "@type": "Answer",
+        "description": "Prioritize marine surveys for docks, seawalls, and boat lifts, plus a thorough roof inspection. These specialized assessments are crucial for understanding the full condition of a South Florida waterfront property."
+      }
+    }
+  ],
+  "description": "Prioritize marine surveys for docks, seawalls, and boat lifts, plus a thorough roof inspection. These specialized assessments are crucial for understanding the"
+}

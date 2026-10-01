@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/what-should-i-consider-regarding-boat-access-and-size-restrictions-for-a-waterfr",
+  "name": "What should I consider regarding boat access and size restrictions for a waterfront property?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What should I consider regarding boat access and size restrictions for a waterfront property?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "When evaluating waterfront property, consider your boat's size and draft, as these dictate suitable properties. Canal depths, bridge clearances, and proximity to open water vary significantly, even within the same county. Some properties in areas like Fort Lauderdale or Pompano Beach are ideal for large yachts, while others only accommodate smaller vessels. Ensure the property's water access aligns with your specific boating needs.",
+        "@type": "Answer",
+        "description": "Consider your boat's size and draft when evaluating waterfront properties; canal depths, bridge clearances, and open water proximity vary and impact suitability."
+      }
+    }
+  ],
+  "description": "Consider your boat's size and draft when evaluating waterfront properties; canal depths, bridge clearances, and open water proximity vary and impact suitability"
+}

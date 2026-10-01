@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/what-should-i-look-for-in-a-real-estate-agent-when-selling-a-vacation-rental",
+  "name": "What should I look for in a real estate agent when selling a vacation rental?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What should I look for in a real estate agent when selling a vacation rental?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "When choosing a real estate agent to sell your vacation rental, look for someone with experience in investment properties and a deep understanding of the local vacation rental market. An agent familiar with specific zoning, short-term rental regulations, and buyer demographics in areas like Miami Beach or Naples can be invaluable. Kelby Contreras specializes in South Florida real estate, offering expertise in navigating the complexities of selling income-generating properties across our service areas.",
+        "@type": "Answer",
+        "description": "Seek an agent with investment property experience and local market knowledge, including regulations. Kelby Contreras offers this specialized expertise."
+      }
+    }
+  ],
+  "description": "Seek an agent with investment property experience and local market knowledge, including regulations. Kelby Contreras offers this specialized expertise."
+}

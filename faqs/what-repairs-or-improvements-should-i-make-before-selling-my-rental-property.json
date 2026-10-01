@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/what-repairs-or-improvements-should-i-make-before-selling-my-rental-property",
+  "name": "What repairs or improvements should I make before selling my rental property?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What repairs or improvements should I make before selling my rental property?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Before selling, focus on repairs and improvements that offer the highest return on investment and address immediate issues that could deter buyers. Prioritize essential repairs like HVAC, roofing, or plumbing, and consider cosmetic updates such as fresh paint or updated fixtures, especially in kitchens and bathrooms. These improvements can significantly enhance appeal and value, particularly for properties in competitive areas like Las Olas or Pinecrest, without overspending on renovations that may not be recouped. Kelby Contreras can advise on cost-effective improvements that resonate with local buyers.",
+        "@type": "Answer",
+        "description": "Prioritize essential repairs and cost-effective cosmetic updates, like fresh paint or kitchen/bathroom fixtures, to maximize return on investment before selling."
+      }
+    }
+  ],
+  "description": "Prioritize essential repairs and cost-effective cosmetic updates, like fresh paint or kitchen/bathroom fixtures, to maximize return on investment before selling"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/can-i-continue-to-operate-my-airbnb-while-it-s-listed-for-sale",
+  "name": "Can I continue to operate my Airbnb while it's listed for sale?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I continue to operate my Airbnb while it's listed for sale?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, you can typically continue to operate your Airbnb while it's listed for sale, but it requires careful management. The main practical tradeoff is balancing potential rental income with buyer viewing access. You'll need to coordinate showings around guest bookings, ensuring potential buyers can access the property without inconveniencing guests or violating privacy. It's often advisable to block out certain dates for showings or schedule them during turnovers. This approach can maintain your revenue stream during the sales process while still allowing prospective buyers to experience the property and assess its investment potential. Our agents can help coordinate these logistics effectively.",
+        "@type": "Answer",
+        "description": "Yes, you can operate your Airbnb while listed, but balance rental income with buyer viewings. Coordinate showings around guest bookings, blocking dates if needed, to maintain revenue and allow buyer access."
+      }
+    }
+  ],
+  "description": "Yes, you can operate your Airbnb while listed, but balance rental income with buyer viewings. Coordinate showings around guest bookings, blocking dates if neede"
+}

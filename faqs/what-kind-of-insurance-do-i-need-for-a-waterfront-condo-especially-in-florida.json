@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/what-kind-of-insurance-do-i-need-for-a-waterfront-condo-especially-in-florida",
+  "name": "What kind of insurance do I need for a waterfront condo, especially in Florida?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What kind of insurance do I need for a waterfront condo, especially in Florida?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Waterfront condos in Florida typically require specific insurance coverage due to their location. This generally includes standard hazard insurance, windstorm insurance, and potentially flood insurance if the property is in a designated flood zone. The association's master policy usually covers the building's structure, but individual unit owners are responsible for their interior and personal belongings (HO6 policy). A key preparation step is to thoroughly review the condo association's master policy and identify your individual coverage responsibilities, especially regarding flood and windstorm deductibles, which can be significantly higher in coastal areas like Sunny Isles Beach or Hollywood Beach.",
+        "@type": "Answer",
+        "description": "Waterfront condos in Florida require hazard, windstorm, and often flood insurance. Unit owners need an HO6 policy for interior coverage, complementing the association's master policy."
+      }
+    }
+  ],
+  "description": "Waterfront condos in Florida require hazard, windstorm, and often flood insurance. Unit owners need an HO6 policy for interior coverage, complementing the assoc"
+}

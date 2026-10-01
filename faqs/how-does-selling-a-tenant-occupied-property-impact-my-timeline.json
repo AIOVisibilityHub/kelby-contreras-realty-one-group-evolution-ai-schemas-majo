@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/how-does-selling-a-tenant-occupied-property-impact-my-timeline",
+  "name": "How does selling a tenant-occupied property impact my timeline?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How does selling a tenant-occupied property impact my timeline?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Selling a tenant-occupied property can extend the sales timeline compared to a vacant home. Factors include coordinating showings with tenants, the tenant's lease expiration date, and whether the buyer wants the property vacant or occupied. If a tenant's lease extends long past your desired closing date, it might limit your buyer pool to investors. Kelby Contreras works to streamline this process, setting realistic expectations and managing communications to minimize delays in areas like Aventura or Coral Gables.",
+        "@type": "Answer",
+        "description": "Selling with tenants often extends timelines due to showing coordination and lease terms. Lease expiration can influence buyer interest."
+      }
+    }
+  ],
+  "description": "Selling with tenants often extends timelines due to showing coordination and lease terms. Lease expiration can influence buyer interest."
+}

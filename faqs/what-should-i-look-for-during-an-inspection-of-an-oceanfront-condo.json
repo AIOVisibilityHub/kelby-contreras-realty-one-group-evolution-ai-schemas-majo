@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/what-should-i-look-for-during-an-inspection-of-an-oceanfront-condo",
+  "name": "What should I look for during an inspection of an oceanfront condo?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What should I look for during an inspection of an oceanfront condo?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "When inspecting an oceanfront condo, focus on potential issues related to saltwater exposure and humidity. Look for signs of corrosion on metal fixtures, water intrusion around windows and doors, and evidence of mold or mildew. Structural integrity, especially regarding balconies and concrete, is vital. Reviewing the building's maintenance records and the last structural inspection report from the HOA can provide valuable insights into ongoing upkeep and any past issues. This process clarity helps identify potential future repair costs, a practical tradeoff against a seemingly lower purchase price.",
+        "@type": "Answer",
+        "description": "Inspect for corrosion, water intrusion, mold, and structural issues common in saltwater environments. Review building maintenance records and prior inspection reports."
+      }
+    }
+  ],
+  "description": "Inspect for corrosion, water intrusion, mold, and structural issues common in saltwater environments. Review building maintenance records and prior inspection r"
+}

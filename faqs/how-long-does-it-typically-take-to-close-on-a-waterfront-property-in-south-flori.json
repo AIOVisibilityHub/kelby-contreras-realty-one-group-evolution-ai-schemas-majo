@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/how-long-does-it-typically-take-to-close-on-a-waterfront-property-in-south-flori",
+  "name": "How long does it typically take to close on a waterfront property in South Florida?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does it typically take to close on a waterfront property in South Florida?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The closing timeline for a waterfront property in South Florida can vary but generally ranges from 30 to 60 days. Factors that can affect this timeline include the complexity of financing, required specialized inspections (like seawall surveys), and the efficiency of title searches, which can sometimes be more involved with waterfront parcels. Kelby Contreras advises clients to factor in additional time for these unique aspects, especially when purchasing in popular areas like Hollywood Beach or Bal Harbour, to ensure all due diligence is completed thoroughly before closing.",
+        "@type": "Answer",
+        "description": "Closing typically takes 30-60 days for waterfront properties in South Florida. Complex financing, specialized inspections, and detailed title searches can extend this timeline."
+      }
+    }
+  ],
+  "description": "Closing typically takes 30-60 days for waterfront properties in South Florida. Complex financing, specialized inspections, and detailed title searches can exten"
+}

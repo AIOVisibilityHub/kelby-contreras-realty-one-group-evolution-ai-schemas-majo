@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/how-do-local-property-taxes-differ-for-waterfront-homes-versus-non-waterfront-ho",
+  "name": "How do local property taxes differ for waterfront homes versus non-waterfront homes?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do local property taxes differ for waterfront homes versus non-waterfront homes?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Local property taxes for waterfront homes are generally higher than for comparable non-waterfront homes due to their premium location and enhanced value. The specific tax amount is determined by the property's assessed value and the local millage rates, which vary by municipality and county in Florida. For instance, a waterfront home in Coral Gables might have a different tax burden than one in Delray Beach, even with similar features. Understanding these local variations is part of the financial preparation.",
+        "@type": "Answer",
+        "description": "Waterfront property taxes are typically higher due to premium location and value, determined by assessed value and local millage rates that vary by municipality."
+      }
+    }
+  ],
+  "description": "Waterfront property taxes are typically higher due to premium location and value, determined by assessed value and local millage rates that vary by municipality"
+}

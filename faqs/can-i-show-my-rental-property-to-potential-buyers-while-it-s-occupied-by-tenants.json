@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/can-i-show-my-rental-property-to-potential-buyers-while-it-s-occupied-by-tenants",
+  "name": "Can I show my rental property to potential buyers while it's occupied by tenants?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I show my rental property to potential buyers while it's occupied by tenants?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, you can typically show an occupied rental property, but you must adhere to the notice requirements specified in the lease agreement and Florida law. This usually means providing at least 12 or 24 hours' written notice before each showing. Clear communication with your tenants is crucial to ensure cooperation and minimize disruption. Kelby Contreras assists sellers in coordinating showings respectfully and effectively with tenants.",
+        "@type": "Answer",
+        "description": "Yes, but you must provide proper notice as per the lease and Florida law, usually 12-24 hours. Clear communication with tenants is crucial."
+      }
+    }
+  ],
+  "description": "Yes, but you must provide proper notice as per the lease and Florida law, usually 12-24 hours. Clear communication with tenants is crucial."
+}

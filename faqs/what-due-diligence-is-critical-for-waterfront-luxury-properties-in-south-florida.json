@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/what-due-diligence-is-critical-for-waterfront-luxury-properties-in-south-florida",
+  "name": "What due diligence is critical for waterfront luxury properties in South Florida?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What due diligence is critical for waterfront luxury properties in South Florida?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "For waterfront luxury properties in South Florida, critical due diligence includes assessing seawall condition, dock permits, potential for storm surge, and flood zone designations. It's essential to understand riparian rights and any specific regulations governing water access or marine structures. This extends beyond standard property inspections to specialized assessments of marine infrastructure. Given the unique environmental considerations in coastal areas like Sunny Isles Beach or Fort Lauderdale Beach, thorough investigation ensures the property meets expectations and avoids unforeseen liabilities related to its waterfront aspect.",
+        "@type": "Answer",
+        "description": "Critical due diligence for waterfront luxury properties includes assessing seawall condition, dock permits, storm surge potential, and flood zone designations."
+      }
+    }
+  ],
+  "description": "Critical due diligence for waterfront luxury properties includes assessing seawall condition, dock permits, storm surge potential, and flood zone designations."
+}

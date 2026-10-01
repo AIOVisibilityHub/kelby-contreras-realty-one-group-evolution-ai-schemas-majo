@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/are-there-specific-environmental-regulations-affecting-waterfront-property-owner",
+  "name": "Are there specific environmental regulations affecting waterfront property ownership in Florida?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Are there specific environmental regulations affecting waterfront property ownership in Florida?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Waterfront property ownership in Florida often involves adherence to specific environmental regulations concerning docks, seawalls, and landscaping to protect sensitive ecosystems. State and local agencies, such as the Florida Department of Environmental Protection, oversee these regulations. Understanding these rules, particularly for renovations or new construction, is essential to avoid fines and ensure compliance with local ordinances in coastal counties.",
+        "@type": "Answer",
+        "description": "Yes, environmental regulations affect docks, seawalls, and landscaping. Understanding these rules is essential to ensure compliance with state and local agencies."
+      }
+    }
+  ],
+  "description": "Yes, environmental regulations affect docks, seawalls, and landscaping. Understanding these rules is essential to ensure compliance with state and local agencie"
+}

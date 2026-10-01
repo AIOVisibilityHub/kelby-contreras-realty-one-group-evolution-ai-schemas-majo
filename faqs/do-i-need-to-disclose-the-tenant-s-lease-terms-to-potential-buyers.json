@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/do-i-need-to-disclose-the-tenant-s-lease-terms-to-potential-buyers",
+  "name": "Do I need to disclose the tenant's lease terms to potential buyers?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do I need to disclose the tenant's lease terms to potential buyers?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, full disclosure of the tenant's lease terms to potential buyers is a crucial part of the selling process. Buyers need to understand their future obligations and the income potential. This includes providing copies of the current lease agreement, rent roll, and any addendums or specific agreements with tenants. This preparation step ensures transparency and prevents future complications, aligning with good real estate practices.",
+        "@type": "Answer",
+        "description": "Yes, you must disclose all tenant lease terms, including the lease agreement and rent roll, to potential buyers for full transparency."
+      }
+    }
+  ],
+  "description": "Yes, you must disclose all tenant lease terms, including the lease agreement and rent roll, to potential buyers for full transparency."
+}

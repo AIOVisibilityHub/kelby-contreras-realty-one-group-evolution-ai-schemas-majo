@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/what-defines-a-luxury-condo-in-miami-beach",
+  "name": "What defines a luxury condo in Miami Beach?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What defines a luxury condo in Miami Beach?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Luxury condos in Miami Beach typically offer high-end finishes, premium amenities like private elevators, concierge services, and exclusive beach access. They often feature expansive floor plans, state-of-the-art appliances, and breathtaking views of the ocean or city. Beyond physical attributes, a luxury designation is also influenced by location within sought-after neighborhoods like South Beach or Bal Harbour, and the building's reputation for service and exclusivity.",
+        "@type": "Answer",
+        "description": "Luxury condos in Miami Beach feature high-end finishes, premium amenities, expansive views, and are located in exclusive neighborhoods known for service and exclusivity."
+      }
+    }
+  ],
+  "description": "Luxury condos in Miami Beach feature high-end finishes, premium amenities, expansive views, and are located in exclusive neighborhoods known for service and exc"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/how-long-does-it-typically-take-to-find-and-close-on-a-luxury-home-in-miami",
+  "name": "How long does it typically take to find and close on a luxury home in Miami?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does it typically take to find and close on a luxury home in Miami?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The timeline for finding and closing on a luxury home in Miami can vary significantly, often ranging from a few months to over a year. The search phase depends on market conditions, the uniqueness of your desired property, and inventory availability, particularly in highly sought-after areas like Fisher Island or Star Island. Once an offer is accepted, the closing process typically takes 30-60 days, though complex luxury transactions with extensive due diligence or financing can extend this timeframe. Open communication with your agent, such as Kelby Contreras, can help manage expectations throughout this process.",
+        "@type": "Answer",
+        "description": "Finding and closing on a luxury home in Miami can take months to over a year, depending on market conditions and desired property uniqueness. Closing typically takes 30-60 days."
+      }
+    }
+  ],
+  "description": "Finding and closing on a luxury home in Miami can take months to over a year, depending on market conditions and desired property uniqueness. Closing typically"
+}

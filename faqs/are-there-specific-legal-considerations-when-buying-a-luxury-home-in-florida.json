@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/are-there-specific-legal-considerations-when-buying-a-luxury-home-in-florida",
+  "name": "Are there specific legal considerations when buying a luxury home in Florida?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Are there specific legal considerations when buying a luxury home in Florida?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "While I cannot provide legal advice, specific legal considerations in Florida include understanding homestead exemptions, property tax assessment limitations (Save Our Homes Act), and potential implications of coastal construction control lines for waterfront properties. It's also crucial to review disclosure requirements for properties, especially those built before specific dates regarding lead paint or other hazards. Engaging a qualified real estate attorney experienced in Florida's luxury market is highly recommended to navigate these complexities and ensure all contractual obligations are met.",
+        "@type": "Answer",
+        "description": "Legal considerations in Florida include homestead exemptions, property tax assessment limitations, and coastal construction control lines. Consulting a real estate attorney is recommended."
+      }
+    }
+  ],
+  "description": "Legal considerations in Florida include homestead exemptions, property tax assessment limitations, and coastal construction control lines. Consulting a real est"
+}

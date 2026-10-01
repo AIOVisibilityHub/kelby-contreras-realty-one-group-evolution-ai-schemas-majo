@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/are-there-specific-legal-considerations-unique-to-penthouse-purchases",
+  "name": "Are there specific legal considerations unique to penthouse purchases?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Are there specific legal considerations unique to penthouse purchases?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "While general real estate laws apply, penthouse purchases might involve specific legal considerations, especially concerning property boundaries for unique outdoor spaces, shared amenities with different access tiers, or specific building covenants. Reviewing the condominium's governing documents (declaration, bylaws, rules, and regulations) is essential to understand any restrictions or special assessments related to the top-floor units. Kelby Contreras can help ensure you have all necessary documentation for review by your legal counsel.",
+        "@type": "Answer",
+        "description": "Penthouse purchases can have unique legal considerations regarding property boundaries for outdoor spaces, shared amenities, and specific building covenants, requiring careful review of condominium documents."
+      }
+    }
+  ],
+  "description": "Penthouse purchases can have unique legal considerations regarding property boundaries for outdoor spaces, shared amenities, and specific building covenants, re"
+}

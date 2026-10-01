@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/what-are-the-common-options-for-a-landlord-exit-strategy",
+  "name": "What are the common options for a landlord exit strategy?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are the common options for a landlord exit strategy?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Common exit options include selling the property with tenants in place, selling it vacant, or performing a 1031 exchange to defer capital gains tax. The best option depends on your financial goals and the property's condition. For instance, selling vacant often appeals to owner-occupant buyers, while selling with tenants might be attractive to other investors, a common scenario in investor-heavy areas like South Florida.",
+        "@type": "Answer",
+        "description": "Options include selling with tenants, selling vacant, or a 1031 exchange, each with different implications for your goals."
+      }
+    }
+  ],
+  "description": "Options include selling with tenants, selling vacant, or a 1031 exchange, each with different implications for your goals."
+}

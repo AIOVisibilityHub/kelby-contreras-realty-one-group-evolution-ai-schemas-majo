@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/can-i-purchase-a-luxury-condo-in-miami-as-a-foreign-investor",
+  "name": "Can I purchase a luxury condo in Miami as a foreign investor?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I purchase a luxury condo in Miami as a foreign investor?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, foreign investors can purchase luxury condos in Miami, and the market is historically welcoming to international buyers. The process typically involves obtaining an Individual Taxpayer Identification Number (ITIN) for tax purposes and potentially navigating different financing options, as some lenders have specific requirements for non-U.S. citizens. Working with a knowledgeable real estate professional and a legal expert experienced in international real estate transactions is advisable. They can help you understand the legal and financial implications, ensuring a compliant and smooth purchase.",
+        "@type": "Answer",
+        "description": "Foreign investors can buy luxury condos in Miami; the process involves ITIN, specific financing, and expert guidance for legal and financial compliance."
+      }
+    }
+  ],
+  "description": "Foreign investors can buy luxury condos in Miami; the process involves ITIN, specific financing, and expert guidance for legal and financial compliance."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/what-factors-influence-the-value-of-a-rental-property-with-tenants-in-miami-dade",
+  "name": "What factors influence the value of a rental property with tenants in Miami-Dade County?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What factors influence the value of a rental property with tenants in Miami-Dade County?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The value of a tenant-occupied rental property in Miami-Dade County is influenced by several factors, including the current rental income, the stability of the lease, property condition, market demand for investment properties, and comparable sales. The quality of the tenants and their payment history can also be a decision factor for investors. Kelby Contreras provides local market insights to help accurately price your property, considering these unique aspects within the South Florida market.",
+        "@type": "Answer",
+        "description": "Factors include rental income, lease stability, property condition, and market demand for investment properties. Tenant quality is also a decision factor."
+      }
+    }
+  ],
+  "description": "Factors include rental income, lease stability, property condition, and market demand for investment properties. Tenant quality is also a decision factor."
+}

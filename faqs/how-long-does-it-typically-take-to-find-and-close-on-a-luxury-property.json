@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/how-long-does-it-typically-take-to-find-and-close-on-a-luxury-property",
+  "name": "How long does it typically take to find and close on a luxury property?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does it typically take to find and close on a luxury property?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The timeline for finding and closing on a luxury property can vary significantly, often ranging from a few months to over a year, depending on market conditions, specific requirements, and the property's uniqueness. Custom-built estates or highly sought-after locations like Fisher Island or Las Olas may require more extended search periods. The due diligence phase itself can take several weeks. We prioritize efficiency while ensuring thoroughness, managing expectations regarding timing throughout your search in areas like Miami or Fort Lauderdale.",
+        "@type": "Answer",
+        "description": "Finding and closing on a luxury property can take several months to over a year, depending on market conditions and specific requirements."
+      }
+    }
+  ],
+  "description": "Finding and closing on a luxury property can take several months to over a year, depending on market conditions and specific requirements."
+}

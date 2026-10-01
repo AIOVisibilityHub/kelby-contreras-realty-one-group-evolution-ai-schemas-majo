@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/what-are-common-pet-restrictions-in-south-florida-gated-communities",
+  "name": "What are common pet restrictions in South Florida gated communities?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are common pet restrictions in South Florida gated communities?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Pet restrictions in gated communities across South Florida can vary significantly. Common limitations include rules on the number of pets allowed per household, often capping it at two. There are frequently breed restrictions, especially against certain larger or perceived aggressive breeds, and weight limits for dogs. Some communities may also require pets to be leashed at all times when outside and designate specific areas for pet relief. It is crucial to review the community's specific pet policy within the HOA documents to ensure your furry friends are welcome.",
+        "@type": "Answer",
+        "description": "Pet restrictions often include limits on number, breed, and weight of pets, as well as rules for leashing. Always check the specific HOA policy."
+      }
+    }
+  ],
+  "description": "Pet restrictions often include limits on number, breed, and weight of pets, as well as rules for leashing. Always check the specific HOA policy."
+}

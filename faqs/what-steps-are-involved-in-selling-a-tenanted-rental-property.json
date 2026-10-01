@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/what-steps-are-involved-in-selling-a-tenanted-rental-property",
+  "name": "What steps are involved in selling a tenanted rental property?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What steps are involved in selling a tenanted rental property?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Selling a tenanted rental property involves navigating tenant rights and lease agreements in addition to the standard selling process. Key steps include reviewing the lease for clauses regarding sale, providing proper notice to tenants for showings, and determining if the property will be sold with tenants in place or vacant. In Florida, specific tenant notification periods are required, so it's important to understand these regulations to ensure a smooth transaction and avoid delays. Your real estate agent can help coordinate this complex process.",
+        "@type": "Answer",
+        "description": "Selling a tenanted rental property involves reviewing leases, providing tenant notice for showings, and deciding whether to sell with or without tenants, adhering to Florida's regulations."
+      }
+    }
+  ],
+  "description": "Selling a tenanted rental property involves reviewing leases, providing tenant notice for showings, and deciding whether to sell with or without tenants, adheri"
+}

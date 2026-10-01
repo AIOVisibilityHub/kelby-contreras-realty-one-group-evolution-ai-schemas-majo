@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/can-i-sell-my-rental-property-while-tenants-are-still-under-lease",
+  "name": "Can I sell my rental property while tenants are still under lease?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I sell my rental property while tenants are still under lease?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, you can sell a rental property with tenants still under lease, but the new owner typically assumes the existing lease agreement. This means the buyer will become the new landlord and must honor the terms of the current lease. Practical considerations include adhering to landlord-tenant laws regarding property showings and ensuring tenants are properly informed, a process we guide our clients through in Miami-Dade and surrounding counties.",
+        "@type": "Answer",
+        "description": "Yes, you can sell with tenants under lease, but the buyer assumes the lease, and tenant rights must be respected."
+      }
+    }
+  ],
+  "description": "Yes, you can sell with tenants under lease, but the buyer assumes the lease, and tenant rights must be respected."
+}

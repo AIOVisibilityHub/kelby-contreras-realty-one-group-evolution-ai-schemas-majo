@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/how-important-is-seawall-condition-when-evaluating-a-waterfront-property",
+  "name": "How important is seawall condition when evaluating a waterfront property?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How important is seawall condition when evaluating a waterfront property?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The condition of the seawall is very important when evaluating a waterfront property, as it protects the land from erosion and water intrusion. A damaged or poorly maintained seawall can lead to significant repair costs and potential structural issues for the home. A thorough inspection by a qualified marine contractor is essential to assess its integrity and estimate any necessary repairs, impacting your overall investment.",
+        "@type": "Answer",
+        "description": "Seawall condition is crucial for protecting the property from erosion. A marine contractor inspection is vital to assess integrity and potential repair costs."
+      }
+    }
+  ],
+  "description": "Seawall condition is crucial for protecting the property from erosion. A marine contractor inspection is vital to assess integrity and potential repair costs."
+}

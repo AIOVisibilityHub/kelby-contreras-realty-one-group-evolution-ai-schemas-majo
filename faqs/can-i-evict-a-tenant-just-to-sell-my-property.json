@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/can-i-evict-a-tenant-just-to-sell-my-property",
+  "name": "Can I evict a tenant just to sell my property?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I evict a tenant just to sell my property?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Generally, you cannot evict a tenant solely for the purpose of selling a property, especially if they have a valid lease agreement in place. Eviction typically requires specific grounds such as non-payment of rent, lease violations, or the expiration of a lease that is not being renewed. Attempting a no-fault eviction can lead to legal complications and delays. It's essential to consult with a real estate professional like Kelby Contreras to understand your options and ensure any actions comply with Florida landlord-tenant laws.",
+        "@type": "Answer",
+        "description": "No, you generally cannot evict a tenant just to sell if they have a valid lease. Eviction requires specific legal grounds."
+      }
+    }
+  ],
+  "description": "No, you generally cannot evict a tenant just to sell if they have a valid lease. Eviction requires specific legal grounds."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/how-does-the-rental-history-of-my-property-impact-its-sale",
+  "name": "How does the rental history of my property impact its sale?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How does the rental history of my property impact its sale?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A strong and consistent rental history can significantly enhance the appeal and value of your vacation rental to potential buyers, particularly investors. It demonstrates proven income potential and demand. Buyers will closely examine occupancy rates, average daily rates, and net operating income. We recommend having detailed financial statements for the past 2-3 years ready, as this is a primary request from serious buyers, especially for properties in highly sought-after areas like Fort Lauderdale or Palm Beach.",
+        "@type": "Answer",
+        "description": "Strong rental history increases property appeal and value. Buyers will require detailed financial statements for due diligence."
+      }
+    }
+  ],
+  "description": "Strong rental history increases property appeal and value. Buyers will require detailed financial statements for due diligence."
+}

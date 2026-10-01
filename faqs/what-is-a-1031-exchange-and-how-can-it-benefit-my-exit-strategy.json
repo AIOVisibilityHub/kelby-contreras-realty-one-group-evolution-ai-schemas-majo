@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/what-is-a-1031-exchange-and-how-can-it-benefit-my-exit-strategy",
+  "name": "What is a 1031 exchange and how can it benefit my exit strategy?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is a 1031 exchange and how can it benefit my exit strategy?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A 1031 exchange allows you to defer capital gains taxes when you sell an investment property and reinvest the proceeds into a similar 'like-kind' property within a specific timeframe. This can be a powerful tool for growing your real estate portfolio without immediate tax implications. To successfully execute a 1031 exchange, you must identify potential replacement properties, possibly within areas like Palm Beach or Orange County, within 45 days of closing on the relinquished property.",
+        "@type": "Answer",
+        "description": "A 1031 exchange defers capital gains taxes by reinvesting sale proceeds into a 'like-kind' property within a set timeframe."
+      }
+    }
+  ],
+  "description": "A 1031 exchange defers capital gains taxes by reinvesting sale proceeds into a 'like-kind' property within a set timeframe."
+}

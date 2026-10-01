@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/what-are-common-closing-costs-associated-with-buying-a-luxury-condo-in-miami",
+  "name": "What are common closing costs associated with buying a luxury condo in Miami?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are common closing costs associated with buying a luxury condo in Miami?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Closing costs for a luxury condo in Miami typically range from 2% to 5% of the purchase price, though they can sometimes be higher for very large transactions. These costs include title insurance, appraisal fees, lender fees, legal fees, recording fees, and property taxes prorated at closing. For luxury properties, a thorough review of these costs by an experienced professional is crucial to avoid surprises. Kelby Contreras can help clarify these expenses during the purchase process, providing insight into specific county fees like those in Miami-Dade or Broward.",
+        "@type": "Answer",
+        "description": "Common closing costs for luxury condos in Miami are 2-5% of the purchase price, including title, appraisal, and lender fees."
+      }
+    }
+  ],
+  "description": "Common closing costs for luxury condos in Miami are 2-5% of the purchase price, including title, appraisal, and lender fees."
+}

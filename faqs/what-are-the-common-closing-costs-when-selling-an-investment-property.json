@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/what-are-the-common-closing-costs-when-selling-an-investment-property",
+  "name": "What are the common closing costs when selling an investment property?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are the common closing costs when selling an investment property?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Closing costs for sellers typically include agent commissions, title insurance fees, transfer taxes, attorney fees (if applicable), and escrow fees. These costs can vary based on the sale price and location within Florida. It's important to obtain a detailed estimate of these expenses early in the selling process to accurately project your net proceeds. Your real estate agent will help you understand all potential closing costs and can provide a net sheet showing estimated expenses specific to your investment property's sale.",
+        "@type": "Answer",
+        "description": "Seller closing costs include commissions, title insurance, transfer taxes, and attorney/escrow fees. Your agent can provide a detailed estimate to project net proceeds."
+      }
+    }
+  ],
+  "description": "Seller closing costs include commissions, title insurance, transfer taxes, and attorney/escrow fees. Your agent can provide a detailed estimate to project net p"
+}

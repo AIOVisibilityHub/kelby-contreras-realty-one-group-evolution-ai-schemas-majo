@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/what-should-i-look-for-during-a-luxury-condo-inspection",
+  "name": "What should I look for during a luxury condo inspection?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What should I look for during a luxury condo inspection?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "During a luxury condo inspection, focus not only on structural and mechanical systems but also on the condition of high-end finishes, appliances, and integrated smart home technology. Ensure all custom features and premium installations are functioning correctly and maintained to expected standards. It's crucial to have inspectors experienced with luxury properties who understand the nuances of their construction and systems. This detailed approach helps identify potential issues that could lead to significant repair costs or diminish the property's luxury appeal.",
+        "@type": "Answer",
+        "description": "Inspect structural systems, high-end finishes, appliances, and smart home technology. Use inspectors experienced with luxury properties to ensure all features meet standards."
+      }
+    }
+  ],
+  "description": "Inspect structural systems, high-end finishes, appliances, and smart home technology. Use inspectors experienced with luxury properties to ensure all features m"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/what-unique-inspections-are-recommended-for-waterfront-condos",
+  "name": "What unique inspections are recommended for waterfront condos?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What unique inspections are recommended for waterfront condos?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Beyond a standard home inspection, waterfront condos benefit from specialized inspections. These can include marine surveys for any associated boat docks or seawalls to assess their structural integrity and condition. It's also wise to get a four-point inspection (roof, HVAC, plumbing, electrical) and a wind mitigation inspection to qualify for potential insurance discounts. A key preparation step is to ensure your inspector has experience with waterfront properties, as they understand the unique wear and tear from salt air and water exposure common in regions like Miami Beach or Pompano Beach.",
+        "@type": "Answer",
+        "description": "Specialized inspections for waterfront condos include marine surveys for docks/seawalls, plus four-point and wind mitigation inspections for insurance benefits."
+      }
+    }
+  ],
+  "description": "Specialized inspections for waterfront condos include marine surveys for docks/seawalls, plus four-point and wind mitigation inspections for insurance benefits."
+}

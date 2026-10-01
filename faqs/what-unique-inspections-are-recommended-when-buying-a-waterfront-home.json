@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/what-unique-inspections-are-recommended-when-buying-a-waterfront-home",
+  "name": "What unique inspections are recommended when buying a waterfront home?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What unique inspections are recommended when buying a waterfront home?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Beyond a standard home inspection, unique inspections are highly recommended for waterfront properties. These include specialized assessments of seawalls, docks, and boat lifts by qualified marine contractors. Additionally, a survey confirming property lines and water access rights is crucial. These detailed inspections help identify potential issues that could impact the property's value or future maintenance costs, providing clarity on the overall condition.",
+        "@type": "Answer",
+        "description": "Beyond standard home inspections, specialized assessments of seawalls, docks, and boat lifts by marine contractors are recommended. A survey confirming property lines and water access rights is also crucial."
+      }
+    }
+  ],
+  "description": "Beyond standard home inspections, specialized assessments of seawalls, docks, and boat lifts by marine contractors are recommended. A survey confirming property"
+}

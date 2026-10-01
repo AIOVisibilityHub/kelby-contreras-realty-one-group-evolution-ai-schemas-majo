@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/how-do-i-calculate-the-potential-profit-from-selling-my-rental-property",
+  "name": "How do I calculate the potential profit from selling my rental property?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do I calculate the potential profit from selling my rental property?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Calculating potential profit involves subtracting your total investment (purchase price, closing costs, renovation expenses, and selling costs like commissions) from the final sale price. You should also account for any capital gains taxes, which can significantly impact your net proceeds. Understanding these figures is crucial for making informed decisions, especially when considering a 1031 exchange to defer some of these taxes, a strategy often utilized by investors in high-value areas such as Brickell or Coral Gables.",
+        "@type": "Answer",
+        "description": "To calculate potential profit, subtract your total investment and selling costs from the sale price, also accounting for capital gains taxes."
+      }
+    }
+  ],
+  "description": "To calculate potential profit, subtract your total investment and selling costs from the sale price, also accounting for capital gains taxes."
+}

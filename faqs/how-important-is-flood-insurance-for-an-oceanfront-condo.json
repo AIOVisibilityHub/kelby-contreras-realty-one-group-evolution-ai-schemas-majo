@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/how-important-is-flood-insurance-for-an-oceanfront-condo",
+  "name": "How important is flood insurance for an oceanfront condo?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How important is flood insurance for an oceanfront condo?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Flood insurance is highly important and often mandatory for oceanfront condos, especially if the property is in a designated flood zone and financed with a mortgage. Even if not required, it's a critical consideration due to the proximity to the ocean and potential for storm surges. Standard homeowner's insurance typically does not cover flood damage, so a separate flood policy is necessary for comprehensive protection. Understanding flood zone classifications and insurance requirements is a key step in evaluating an oceanfront property's true cost and risk.",
+        "@type": "Answer",
+        "description": "Flood insurance is critical and often mandatory for oceanfront condos in South Florida, as standard homeowner's policies exclude flood damage, protecting against potential storm surges."
+      }
+    }
+  ],
+  "description": "Flood insurance is critical and often mandatory for oceanfront condos in South Florida, as standard homeowner's policies exclude flood damage, protecting agains"
+}

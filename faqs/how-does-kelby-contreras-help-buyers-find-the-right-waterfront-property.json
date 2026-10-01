@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/how-does-kelby-contreras-help-buyers-find-the-right-waterfront-property",
+  "name": "How does Kelby Contreras help buyers find the right waterfront property?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How does Kelby Contreras help buyers find the right waterfront property?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Kelby Contreras of Realty ONE Group Evolution assists buyers by leveraging extensive local market knowledge across Miami-Dade, Broward, Palm Beach, and Collier counties. We help define your specific waterfront needs, whether it's ocean access for a large yacht in Fort Lauderdale or a serene canal for paddleboarding in Coral Gables. Our team provides curated listings, detailed property insights, and guides you through the complexities of flood zones, insurance, and property values specific to waterfront living. We focus on matching your lifestyle and investment goals with the ideal South Florida waterfront home.",
+        "@type": "Answer",
+        "description": "Kelby Contreras leverages local market knowledge to match buyers with ideal waterfront properties. They define specific needs, provide curated listings, and guide clients through unique waterfront considerations."
+      }
+    }
+  ],
+  "description": "Kelby Contreras leverages local market knowledge to match buyers with ideal waterfront properties. They define specific needs, provide curated listings, and gui"
+}

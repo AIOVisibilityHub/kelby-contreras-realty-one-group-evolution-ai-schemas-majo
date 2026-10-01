@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/how-do-showings-work-when-my-property-is-tenant-occupied",
+  "name": "How do showings work when my property is tenant-occupied?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do showings work when my property is tenant-occupied?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Coordinating showings with tenants requires careful planning and communication. In Florida, landlords must provide reasonable notice before entering the property, typically 12-24 hours, unless otherwise specified in the lease or in an emergency. It's best to establish clear showing protocols with your tenants early on, such as preferred days/times and how much notice they require. Offering incentives like gift cards for cooperation can also encourage tenant compliance and facilitate more showings, which is crucial for maximizing exposure in competitive markets like Palm Beach or Collier County.",
+        "@type": "Answer",
+        "description": "Showings require reasonable notice to tenants, typically 12-24 hours in Florida. Clear communication and potential incentives can aid cooperation."
+      }
+    }
+  ],
+  "description": "Showings require reasonable notice to tenants, typically 12-24 hours in Florida. Clear communication and potential incentives can aid cooperation."
+}

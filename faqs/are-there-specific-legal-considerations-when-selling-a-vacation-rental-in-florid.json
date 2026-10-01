@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/are-there-specific-legal-considerations-when-selling-a-vacation-rental-in-florid",
+  "name": "Are there specific legal considerations when selling a vacation rental in Florida?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Are there specific legal considerations when selling a vacation rental in Florida?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "When selling a vacation rental in Florida, specific legal considerations can include existing rental agreements, homeowners' association (HOA) rules regarding short-term rentals, and disclosure requirements. It's crucial to address any active bookings or long-term leases during the sale process to ensure a smooth transition for the buyer. While we are not attorneys, Kelby Contreras can guide you through common considerations and connect you with legal professionals if needed, especially in areas with strict rental ordinances like Collier County or Orange County.",
+        "@type": "Answer",
+        "description": "Legal considerations include existing rental agreements and HOA rules. Address active bookings and consider local regulations for a smooth sale."
+      }
+    }
+  ],
+  "description": "Legal considerations include existing rental agreements and HOA rules. Address active bookings and consider local regulations for a smooth sale."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/how-do-capital-gains-taxes-affect-the-sale-of-an-investment-property",
+  "name": "How do capital gains taxes affect the sale of an investment property?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do capital gains taxes affect the sale of an investment property?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Capital gains taxes apply to the profit made from selling an investment property. The tax rate depends on how long you've owned the property (short-term vs. long-term) and your income bracket. Understanding potential tax implications is crucial for maximizing your net proceeds. It's advisable to consult a tax professional to understand your specific liabilities and explore strategies like 1031 exchanges, which can defer capital gains when reinvesting in another property. A local real estate advisor can connect you with qualified tax experts in the South Florida area to help you plan effectively.",
+        "@type": "Answer",
+        "description": "Capital gains taxes apply to investment property profits, with rates varying by holding period and income. Consult a tax professional for specific guidance."
+      }
+    }
+  ],
+  "description": "Capital gains taxes apply to investment property profits, with rates varying by holding period and income. Consult a tax professional for specific guidance."
+}

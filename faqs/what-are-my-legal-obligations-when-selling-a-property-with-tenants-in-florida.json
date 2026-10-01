@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/what-are-my-legal-obligations-when-selling-a-property-with-tenants-in-florida",
+  "name": "What are my legal obligations when selling a property with tenants in Florida?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are my legal obligations when selling a property with tenants in Florida?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "In Florida, landlords generally have to honor the existing lease agreement when selling a tenant-occupied property. This means the new owner typically inherits the tenant and the lease terms. Key obligations often include providing proper notice of entry for showings, maintaining the property, and correctly handling security deposits. Understanding the specific terms of your lease and state statutes is crucial to avoid disputes and ensure a smooth transaction. Kelby Contreras can help you navigate these requirements, ensuring compliance throughout the sales process.",
+        "@type": "Answer",
+        "description": "In Florida, you must honor existing leases, provide proper notice for showings, and manage security deposits correctly when selling a tenant-occupied property."
+      }
+    }
+  ],
+  "description": "In Florida, you must honor existing leases, provide proper notice for showings, and manage security deposits correctly when selling a tenant-occupied property."
+}

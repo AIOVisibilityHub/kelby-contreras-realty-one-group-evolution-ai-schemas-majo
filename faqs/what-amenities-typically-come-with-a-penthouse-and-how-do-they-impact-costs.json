@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/what-amenities-typically-come-with-a-penthouse-and-how-do-they-impact-costs",
+  "name": "What amenities typically come with a penthouse, and how do they impact costs?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What amenities typically come with a penthouse, and how do they impact costs?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Penthouse units often come with access to exclusive amenities beyond what standard building residents receive, such as private elevators, dedicated parking, larger storage units, or access to private lounges and pools. While these enhance lifestyle, they typically contribute to higher HOA fees. It's important to understand which amenities are truly exclusive to penthouses versus shared building-wide amenities, as this distinction impacts both value and ongoing costs. Ensure the listed amenities match your expectations and needs.",
+        "@type": "Answer",
+        "description": "Penthouse amenities often include private elevators or lounges, increasing lifestyle but also contributing to higher HOA fees, so clarity on inclusions is vital."
+      }
+    }
+  ],
+  "description": "Penthouse amenities often include private elevators or lounges, increasing lifestyle but also contributing to higher HOA fees, so clarity on inclusions is vital"
+}

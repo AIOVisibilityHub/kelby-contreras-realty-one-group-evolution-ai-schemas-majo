@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/how-do-tenant-leases-affect-the-sale-of-my-rental-property",
+  "name": "How do tenant leases affect the sale of my rental property?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do tenant leases affect the sale of my rental property?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Tenant leases dictate the terms of occupancy and can significantly impact your sale. A lease typically transfers with the property to the new owner, meaning the buyer must honor its duration and terms. If the lease is month-to-month, it offers more flexibility for an owner-occupant buyer. Understanding these lease conditions is a key preparation step before listing. Kelby Contreras can review existing leases to strategize the best approach for marketing your property to potential buyers in Florida.",
+        "@type": "Answer",
+        "description": "Tenant leases transfer with the property and dictate occupancy terms, impacting buyer appeal. Understanding these terms is a key preparation step."
+      }
+    }
+  ],
+  "description": "Tenant leases transfer with the property and dictate occupancy terms, impacting buyer appeal. Understanding these terms is a key preparation step."
+}

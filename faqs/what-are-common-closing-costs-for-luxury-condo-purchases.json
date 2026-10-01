@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/what-are-common-closing-costs-for-luxury-condo-purchases",
+  "name": "What are common closing costs for luxury condo purchases?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are common closing costs for luxury condo purchases?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Common closing costs for luxury condo purchases typically include title insurance, escrow fees, appraisal fees, lender fees, and pro-rated property taxes and HOA dues. Due to the higher property values, these costs will be proportionally larger than for standard properties. Additionally, some luxury developments may have specific transfer fees or capital contribution requirements to the HOA. It's essential to budget for these expenses, which can often range from 2-5% of the purchase price. Your agent can provide a detailed breakdown specific to your transaction.",
+        "@type": "Answer",
+        "description": "Closing costs for luxury condos, including title insurance, escrow, and lender fees, are higher due to property value. Budget 2-5% of the purchase price, plus potential transfer fees."
+      }
+    }
+  ],
+  "description": "Closing costs for luxury condos, including title insurance, escrow, and lender fees, are higher due to property value. Budget 2-5% of the purchase price, plus p"
+}

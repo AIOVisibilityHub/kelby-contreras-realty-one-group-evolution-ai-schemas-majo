@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/what-should-i-look-for-in-an-oceanfront-condo-s-inspection-report",
+  "name": "What should I look for in an oceanfront condo's inspection report?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What should I look for in an oceanfront condo's inspection report?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "When reviewing an oceanfront condo inspection report, pay close attention to signs of water intrusion, structural integrity, and the condition of HVAC systems, especially given the corrosive coastal environment. Look for issues related to windows, balconies, roofs, and exterior walls, as these are critical for protection against the elements. Also, examine the electrical and plumbing systems for age and functionality. A detailed inspection helps identify potential maintenance issues or costly repairs, allowing you to make an informed decision before purchase.",
+        "@type": "Answer",
+        "description": "In an oceanfront condo inspection report, prioritize water intrusion, structural integrity, HVAC condition, and exterior components like windows and balconies due to the coastal environment."
+      }
+    }
+  ],
+  "description": "In an oceanfront condo inspection report, prioritize water intrusion, structural integrity, HVAC condition, and exterior components like windows and balconies d"
+}

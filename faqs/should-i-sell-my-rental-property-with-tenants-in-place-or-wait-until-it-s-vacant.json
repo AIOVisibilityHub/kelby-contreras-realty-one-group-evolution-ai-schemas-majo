@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/should-i-sell-my-rental-property-with-tenants-in-place-or-wait-until-it-s-vacant",
+  "name": "Should I sell my rental property with tenants in place or wait until it's vacant?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Should I sell my rental property with tenants in place or wait until it's vacant?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Selling with tenants in place can provide immediate rental income for the buyer and potentially attract investors, but it might limit the pool of potential buyers to those willing to take on an occupied property. Selling vacant could appeal to a broader market, including owner-occupants, but you would lose rental income during the listing period. A practical tradeoff to consider is the potential for higher sale price versus the guaranteed rental income until closing. Kelby Contreras can help evaluate current market conditions in areas like Miami-Dade and Broward County to advise on the best strategy for your property.",
+        "@type": "Answer",
+        "description": "Selling with tenants provides income but limits buyers; selling vacant broadens the market but sacrifices income. Consider market conditions for the best strategy."
+      }
+    }
+  ],
+  "description": "Selling with tenants provides income but limits buyers; selling vacant broadens the market but sacrifices income. Consider market conditions for the best strate"
+}

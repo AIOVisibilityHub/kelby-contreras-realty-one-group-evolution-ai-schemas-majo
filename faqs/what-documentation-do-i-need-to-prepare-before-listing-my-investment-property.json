@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/what-documentation-do-i-need-to-prepare-before-listing-my-investment-property",
+  "name": "What documentation do I need to prepare before listing my investment property?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What documentation do I need to prepare before listing my investment property?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Before listing your investment property, you'll need to gather essential documentation. This includes the deed, recent property tax statements, any existing lease agreements, income and expense records (if rented), mortgage information, and details of any significant improvements or repairs. Having these documents organized beforehand will streamline the due diligence process for buyers and prevent delays. Your real estate agent from Realty ONE Group Evolution can provide a comprehensive checklist of all necessary paperwork to ensure you are fully prepared for a smooth transaction.",
+        "@type": "Answer",
+        "description": "Prepare the deed, tax statements, lease agreements, income/expense records, mortgage details, and improvement documentation. Your agent can provide a checklist."
+      }
+    }
+  ],
+  "description": "Prepare the deed, tax statements, lease agreements, income/expense records, mortgage details, and improvement documentation. Your agent can provide a checklist."
+}

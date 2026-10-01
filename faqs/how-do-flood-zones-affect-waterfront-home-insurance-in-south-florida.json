@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/how-do-flood-zones-affect-waterfront-home-insurance-in-south-florida",
+  "name": "How do flood zones affect waterfront home insurance in South Florida?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do flood zones affect waterfront home insurance in South Florida?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Flood zones directly impact the cost and availability of flood insurance for waterfront homes in South Florida. Properties in higher-risk flood zones (e.g., AE, VE) typically have higher insurance premiums and stricter building requirements. It's essential to obtain a current flood elevation certificate and understand the specific zone designation for any property you consider. Kelby Contreras helps buyers navigate these details, providing insights into how flood zones in areas like Miami Beach or Fort Lauderdale Beach could affect your overall ownership costs and long-term financial planning.",
+        "@type": "Answer",
+        "description": "Flood zones directly influence insurance costs and availability; higher-risk zones mean higher premiums. An elevation certificate helps clarify specific zone designations and potential costs."
+      }
+    }
+  ],
+  "description": "Flood zones directly influence insurance costs and availability; higher-risk zones mean higher premiums. An elevation certificate helps clarify specific zone de"
+}

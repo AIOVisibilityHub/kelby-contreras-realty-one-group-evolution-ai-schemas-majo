@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/what-should-i-prepare-before-contacting-a-real-estate-agent-about-my-exit-strate",
+  "name": "What should I prepare before contacting a real estate agent about my exit strategy?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What should I prepare before contacting a real estate agent about my exit strategy?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Before contacting a real estate agent, you should gather important documents such as lease agreements, maintenance records, financial statements for the property, and details about any outstanding mortgages or liens. It's also helpful to have a clear understanding of your financial goals and desired timeline. This preparation allows Kelby Contreras to provide a more accurate valuation and tailored strategy for your specific property in areas like Miami or Fort Lauderdale.",
+        "@type": "Answer",
+        "description": "Gather lease agreements, maintenance records, financial statements, and clarify your goals before contacting an agent."
+      }
+    }
+  ],
+  "description": "Gather lease agreements, maintenance records, financial statements, and clarify your goals before contacting an agent."
+}

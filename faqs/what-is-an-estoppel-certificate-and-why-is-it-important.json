@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/what-is-an-estoppel-certificate-and-why-is-it-important",
+  "name": "What is an estoppel certificate and why is it important?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is an estoppel certificate and why is it important?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "An estoppel certificate is a legally binding document signed by the tenant that verifies the terms of the lease agreement, including rent amount, security deposit, and any existing agreements or disputes. It provides the buyer with an accurate snapshot of the tenancy, protecting them from unexpected claims or undisclosed issues after closing. It's a critical tool for ensuring transparency and can affect the clarity and success of your transaction. Kelby Contreras will guide you on when and how to obtain this document.",
+        "@type": "Answer",
+        "description": "An estoppel certificate is a tenant-signed document verifying lease terms for buyers, protecting them from undisclosed issues. It's key for transparency."
+      }
+    }
+  ],
+  "description": "An estoppel certificate is a tenant-signed document verifying lease terms for buyers, protecting them from undisclosed issues. It's key for transparency."
+}

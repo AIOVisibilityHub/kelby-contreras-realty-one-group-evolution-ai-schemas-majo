@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/what-are-common-closing-costs-when-purchasing-a-luxury-condo-in-miami-beach",
+  "name": "What are common closing costs when purchasing a luxury condo in Miami Beach?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are common closing costs when purchasing a luxury condo in Miami Beach?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Closing costs for a luxury condo in Miami Beach typically range from 2% to 5% of the purchase price, but can vary based on the specific transaction. These costs include title insurance, lender fees, appraisal fees, recording fees, and attorney fees. In Florida, documentary stamp taxes on the deed and mortgage are also significant components. It's important to obtain a detailed breakdown of all potential closing costs from your lender and real estate agent early in the process, as this will help you budget accurately and avoid surprises.",
+        "@type": "Answer",
+        "description": "Closing costs for a luxury condo in Miami Beach typically range from 2% to 5% of the purchase price, including title insurance, lender fees, and Florida documentary stamp taxes."
+      }
+    }
+  ],
+  "description": "Closing costs for a luxury condo in Miami Beach typically range from 2% to 5% of the purchase price, including title insurance, lender fees, and Florida documen"
+}

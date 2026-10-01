@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/what-is-a-cash-for-keys-agreement-when-selling-with-tenants",
+  "name": "What is a 'cash for keys' agreement when selling with tenants?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is a 'cash for keys' agreement when selling with tenants?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A 'cash for keys' agreement is a voluntary arrangement where a landlord offers a tenant a sum of money in exchange for vacating the property by a specific date. This strategy can be beneficial for sellers who need to deliver a vacant property to a buyer but cannot legally evict the tenant. It helps avoid the lengthy and costly eviction process while providing financial incentive for the tenant to move. This is a practical tradeoff, as you trade a financial cost for avoiding potential legal fees and delays.",
+        "@type": "Answer",
+        "description": "A 'cash for keys' agreement offers tenants money to vacate voluntarily, helping sellers deliver vacant properties and avoid eviction costs."
+      }
+    }
+  ],
+  "description": "A 'cash for keys' agreement offers tenants money to vacate voluntarily, helping sellers deliver vacant properties and avoid eviction costs."
+}

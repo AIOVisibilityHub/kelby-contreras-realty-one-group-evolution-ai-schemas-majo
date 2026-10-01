@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/how-do-i-decide-between-selling-my-rental-property-with-or-without-tenants",
+  "name": "How do I decide between selling my rental property with or without tenants?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do I decide between selling my rental property with or without tenants?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Deciding whether to sell with or without tenants involves weighing several factors. Selling vacant can sometimes command a higher price and offer more flexibility for showings, appealing to owner-occupants. However, selling with tenants provides consistent rental income until closing. A practical tradeoff is balancing the potential for a higher sale price against the costs and time associated with vacancy, such as lost rent and staging expenses.",
+        "@type": "Answer",
+        "description": "Selling vacant may fetch a higher price but costs rent; selling with tenants provides income but might limit buyer appeal."
+      }
+    }
+  ],
+  "description": "Selling vacant may fetch a higher price but costs rent; selling with tenants provides income but might limit buyer appeal."
+}

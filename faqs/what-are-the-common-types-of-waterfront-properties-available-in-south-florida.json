@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/what-are-the-common-types-of-waterfront-properties-available-in-south-florida",
+  "name": "What are the common types of waterfront properties available in South Florida?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are the common types of waterfront properties available in South Florida?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "South Florida offers various waterfront property types, including homes on canals with direct ocean access, properties on intracoastal waterways, and beachfront residences. Each type provides different advantages, such as specific boating access or direct beach enjoyment. Understanding your preferred water activity, like boating or swimming, can help determine which type of waterfront property in areas like Miami-Dade, Broward, or Palm Beach County best suits your lifestyle.",
+        "@type": "Answer",
+        "description": "Common types include canal-front, intracoastal, and beachfront properties, each offering unique access to water activities."
+      }
+    }
+  ],
+  "description": "Common types include canal-front, intracoastal, and beachfront properties, each offering unique access to water activities."
+}

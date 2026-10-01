@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/what-should-i-look-for-in-a-gated-community-s-hoa-documents-before-buying",
+  "name": "What should I look for in a gated community's HOA documents before buying?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What should I look for in a gated community's HOA documents before buying?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Before purchasing a home in a gated community, thoroughly review the Homeowners Association (HOA) documents, including the Covenants, Conditions, and Restrictions (CC&Rs), bylaws, and financial statements. These documents outline rules on property modifications, pet policies, rental restrictions, parking, and amenity usage. Pay attention to the budget and reserve funds to assess the financial health of the HOA and ensure future maintenance and repairs are adequately planned. Kelby Contreras can guide you through understanding these critical documents to avoid future surprises.",
+        "@type": "Answer",
+        "description": "Review HOA documents like CC&Rs and financial statements to understand rules, restrictions, and the association's financial health before buying."
+      }
+    }
+  ],
+  "description": "Review HOA documents like CC&Rs and financial statements to understand rules, restrictions, and the association's financial health before buying."
+}

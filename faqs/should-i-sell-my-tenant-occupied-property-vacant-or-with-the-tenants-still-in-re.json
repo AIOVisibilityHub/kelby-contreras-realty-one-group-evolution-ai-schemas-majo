@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/should-i-sell-my-tenant-occupied-property-vacant-or-with-the-tenants-still-in-re",
+  "name": "Should I sell my tenant-occupied property vacant or with the tenants still in residence?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Should I sell my tenant-occupied property vacant or with the tenants still in residence?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Deciding whether to sell a tenant-occupied property vacant or with tenants depends on your priorities and the market. Selling vacant can make the property more appealing to owner-occupants and allow for easier renovations or staging, potentially fetching a higher price. However, it means lost rental income during the vacancy period. Selling with tenants can attract investors seeking immediate rental income and avoids vacancy costs, but it might limit your buyer pool. Kelby Contreras can help you evaluate market conditions in areas like Miami-Dade or Broward County to determine the best approach for your specific property.",
+        "@type": "Answer",
+        "description": "Selling vacant may appeal to owner-occupants, but selling with tenants can attract investors. Consider lost income versus immediate returns."
+      }
+    }
+  ],
+  "description": "Selling vacant may appeal to owner-occupants, but selling with tenants can attract investors. Consider lost income versus immediate returns."
+}

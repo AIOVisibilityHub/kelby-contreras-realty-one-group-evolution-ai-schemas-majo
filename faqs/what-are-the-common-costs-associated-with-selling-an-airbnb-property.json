@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/what-are-the-common-costs-associated-with-selling-an-airbnb-property",
+  "name": "What are the common costs associated with selling an Airbnb property?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are the common costs associated with selling an Airbnb property?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Selling an Airbnb property involves various costs, including real estate agent commissions, closing costs, potential capital gains taxes, and any necessary repairs or staging expenses. While commissions are typically a percentage of the sale price, closing costs can encompass title insurance, escrow fees, and transfer taxes, which vary by location. For example, in our service areas like Broward County, these specific costs can differ. We provide a detailed breakdown of estimated expenses upfront, allowing you to accurately budget for the sale. Understanding these financial aspects beforehand helps in planning and setting a realistic net sale goal.",
+        "@type": "Answer",
+        "description": "Common costs when selling an Airbnb property include real estate agent commissions, closing costs (like title insurance and transfer taxes), potential capital gains taxes, and repair/staging expenses. These vary by location, such as within Broward County."
+      }
+    }
+  ],
+  "description": "Common costs when selling an Airbnb property include real estate agent commissions, closing costs (like title insurance and transfer taxes), potential capital g"
+}

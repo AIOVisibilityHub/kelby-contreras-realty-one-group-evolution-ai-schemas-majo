@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/how-does-hurricane-preparedness-affect-oceanfront-condo-ownership-and-what-respo",
+  "name": "How does hurricane preparedness affect oceanfront condo ownership and what responsibilities do owners have?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How does hurricane preparedness affect oceanfront condo ownership and what responsibilities do owners have?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Hurricane preparedness is a significant aspect of oceanfront condo ownership in Florida. The HOA is typically responsible for securing common areas and ensuring the building's structural integrity, often including impact-resistant windows and doors. Individual unit owners are usually responsible for securing their personal property within their unit and on their balcony. It's crucial to understand the building's hurricane plan and your individual responsibilities, which are often outlined in the HOA documents. Having a personal hurricane plan, including evacuation routes and supplies, is a vital preparation step for all South Florida residents.",
+        "@type": "Answer",
+        "description": "HOAs secure common areas and building structure, while owners secure personal property within their unit and balcony. Understanding the building's hurricane plan is key."
+      }
+    }
+  ],
+  "description": "HOAs secure common areas and building structure, while owners secure personal property within their unit and balcony. Understanding the building's hurricane pla"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/how-does-kelby-contreras-assist-buyers-interested-in-south-florida-oceanfront-co",
+  "name": "How does Kelby Contreras assist buyers interested in South Florida oceanfront condos?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How does Kelby Contreras assist buyers interested in South Florida oceanfront condos?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Kelby Contreras with Realty ONE Group Evolution assists buyers by providing extensive local market knowledge across Miami-Dade, Broward, Palm Beach, Collier, and Orange counties, covering areas from Aventura to West Palm Beach. We help identify properties that match your specific criteria, negotiate terms, and guide you through the complexities of coastal property transactions, including understanding HOA documents and local regulations. Our goal is to ensure a smooth and informed buying experience, leveraging our expertise in diverse South Florida oceanfront markets.",
+        "@type": "Answer",
+        "description": "Kelby Contreras assists buyers of South Florida oceanfront condos with local market expertise, property identification, negotiation, and guidance through complex coastal transactions, including HOA documents."
+      }
+    }
+  ],
+  "description": "Kelby Contreras assists buyers of South Florida oceanfront condos with local market expertise, property identification, negotiation, and guidance through comple"
+}

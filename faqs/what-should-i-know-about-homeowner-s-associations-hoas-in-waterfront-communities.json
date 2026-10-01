@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/what-should-i-know-about-homeowner-s-associations-hoas-in-waterfront-communities",
+  "name": "What should I know about homeowner's associations (HOAs) in waterfront communities?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What should I know about homeowner's associations (HOAs) in waterfront communities?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Many waterfront communities, particularly in areas like Aventura or Key Biscayne, are governed by homeowner's associations (HOAs). HOAs typically manage common areas, amenities, and enforce specific architectural or maintenance guidelines that can affect waterfront features. Reviewing HOA documents, including covenants, conditions, and restrictions (CC&Rs) and financial statements, is crucial to understand rules, fees, and potential future assessments before purchasing.",
+        "@type": "Answer",
+        "description": "HOAs in waterfront communities manage common areas and enforce guidelines. Reviewing HOA documents is crucial to understand rules, fees, and potential assessments."
+      }
+    }
+  ],
+  "description": "HOAs in waterfront communities manage common areas and enforce guidelines. Reviewing HOA documents is crucial to understand rules, fees, and potential assessmen"
+}

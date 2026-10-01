@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/can-i-sell-my-investment-property-with-tenants-living-in-it",
+  "name": "Can I sell my investment property with tenants living in it?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I sell my investment property with tenants living in it?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, you can sell an investment property with tenants, but it adds complexity. You must adhere to the terms of the existing lease agreement, which typically includes providing proper notice for showings and lease termination. The sale might also be contingent on the buyer accepting the current tenants, or you may need to negotiate a lease termination with your tenants. It's crucial to understand tenant rights and landlord obligations in Florida. Your real estate agent can help navigate these legal requirements and manage communication with tenants during the sale process.",
+        "@type": "Answer",
+        "description": "Selling with tenants is possible but requires adhering to lease terms and tenant rights. Your agent can help navigate these complexities."
+      }
+    }
+  ],
+  "description": "Selling with tenants is possible but requires adhering to lease terms and tenant rights. Your agent can help navigate these complexities."
+}

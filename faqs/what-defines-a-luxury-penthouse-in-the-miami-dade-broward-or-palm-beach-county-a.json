@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/what-defines-a-luxury-penthouse-in-the-miami-dade-broward-or-palm-beach-county-a",
+  "name": "What defines a luxury penthouse in the Miami-Dade, Broward, or Palm Beach County areas?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What defines a luxury penthouse in the Miami-Dade, Broward, or Palm Beach County areas?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A luxury penthouse typically offers premium features such as expansive square footage, often spanning entire top floors, and includes high-end finishes like gourmet kitchens, spa-like bathrooms, and private elevators. These properties frequently boast panoramic views of the ocean, city skyline, or Intracoastal Waterway. Beyond the unit itself, exclusive building amenities, such as concierge services, private pools, fitness centers, and resident lounges, contribute significantly to the luxury designation. When searching, consider the specific lifestyle elements important to you, as amenities and views can vary significantly by location within these counties.",
+        "@type": "Answer",
+        "description": "Luxury penthouses in South Florida are defined by expansive space, high-end finishes, panoramic views, and exclusive building amenities like concierge services and private pools."
+      }
+    }
+  ],
+  "description": "Luxury penthouses in South Florida are defined by expansive space, high-end finishes, panoramic views, and exclusive building amenities like concierge services"
+}

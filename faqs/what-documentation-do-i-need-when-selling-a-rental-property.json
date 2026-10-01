@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/what-documentation-do-i-need-when-selling-a-rental-property",
+  "name": "What documentation do I need when selling a rental property?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What documentation do I need when selling a rental property?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "When selling a tenant-occupied property, essential documentation includes the current lease agreement, tenant ledger (rent payment history), security deposit documentation, and any correspondence related to the tenancy. You'll also need standard property disclosures, maintenance records, and potentially an estoppel certificate from the tenant. Having these documents organized and readily available will expedite the due diligence process for potential buyers. Kelby Contreras can provide a checklist of necessary items specific to your transaction.",
+        "@type": "Answer",
+        "description": "You need the lease, tenant ledger, security deposit info, disclosures, and maintenance records. Organize these for smooth due diligence."
+      }
+    }
+  ],
+  "description": "You need the lease, tenant ledger, security deposit info, disclosures, and maintenance records. Organize these for smooth due diligence."
+}

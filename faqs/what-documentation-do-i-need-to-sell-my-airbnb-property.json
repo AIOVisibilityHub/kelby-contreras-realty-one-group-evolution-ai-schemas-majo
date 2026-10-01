@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/what-documentation-do-i-need-to-sell-my-airbnb-property",
+  "name": "What documentation do I need to sell my Airbnb property?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What documentation do I need to sell my Airbnb property?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "When selling an Airbnb property, you'll need standard real estate documents, plus specific records related to its rental operation. This includes property deeds, previous purchase agreements, and survey reports. Crucially, you should gather all financial records for the Airbnb business: income statements, expense reports, booking histories, occupancy rates, and details on any property management agreements. Buyers will want to see proof of profitability and operational efficiency. Having these documents meticulously organized in advance can significantly speed up due diligence and the overall selling process, as it provides transparency for potential investors.",
+        "@type": "Answer",
+        "description": "You need standard property documents like deeds, along with comprehensive financial records for your Airbnb business, including income statements, expense reports, booking histories, and occupancy rates. Organizing these documents accelerates the selling process and aids buyer due diligence."
+      }
+    }
+  ],
+  "description": "You need standard property documents like deeds, along with comprehensive financial records for your Airbnb business, including income statements, expense repor"
+}

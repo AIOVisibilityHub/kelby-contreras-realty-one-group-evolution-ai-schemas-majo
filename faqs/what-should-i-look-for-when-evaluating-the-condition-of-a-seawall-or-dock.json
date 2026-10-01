@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/what-should-i-look-for-when-evaluating-the-condition-of-a-seawall-or-dock",
+  "name": "What should I look for when evaluating the condition of a seawall or dock?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What should I look for when evaluating the condition of a seawall or dock?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "When evaluating a waterfront property, it's essential to inspect the condition of any existing seawall or dock. Look for cracks, shifting, erosion, or signs of deterioration, as repairs or replacements can be significant expenses. A specialized marine inspection by a qualified professional is recommended to assess structural integrity, material condition, and compliance with local regulations, particularly in areas prone to tidal and weather impacts.",
+        "@type": "Answer",
+        "description": "Inspect seawalls and docks for cracks, shifting, or deterioration. A specialized marine inspection is crucial to assess their condition and compliance."
+      }
+    }
+  ],
+  "description": "Inspect seawalls and docks for cracks, shifting, or deterioration. A specialized marine inspection is crucial to assess their condition and compliance."
+}

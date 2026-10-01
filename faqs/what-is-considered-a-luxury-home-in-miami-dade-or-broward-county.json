@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/what-is-considered-a-luxury-home-in-miami-dade-or-broward-county",
+  "name": "What is considered a luxury home in Miami-Dade or Broward County?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is considered a luxury home in Miami-Dade or Broward County?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Defining a luxury home often goes beyond a price point; it encompasses specific architectural styles, high-end finishes, extensive amenities, and prime locations. In areas like Aventura or Fort Lauderdale Beach, this typically includes custom designs, smart home technology, water views, and exclusive community access. We help buyers identify properties that align with their vision of luxury, considering both current market standards and their individual preferences for features like private docks or chef's kitchens.",
+        "@type": "Answer",
+        "description": "Luxury homes in Miami-Dade or Broward County typically feature custom architecture, high-end finishes, advanced amenities, and prime locations, often with water views or exclusive community access."
+      }
+    }
+  ],
+  "description": "Luxury homes in Miami-Dade or Broward County typically feature custom architecture, high-end finishes, advanced amenities, and prime locations, often with water"
+}

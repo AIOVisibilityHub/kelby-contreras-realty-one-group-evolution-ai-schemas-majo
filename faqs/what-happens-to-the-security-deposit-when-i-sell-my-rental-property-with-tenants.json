@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/what-happens-to-the-security-deposit-when-i-sell-my-rental-property-with-tenants",
+  "name": "What happens to the security deposit when I sell my rental property with tenants?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What happens to the security deposit when I sell my rental property with tenants?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "When you sell a rental property with tenants, the security deposit must be transferred to the new owner, along with an accounting of any interest accrued, according to Florida Statutes. The new owner then becomes responsible for holding and ultimately returning the deposit to the tenants per the lease terms and state law. This is a critical process clarity point, ensuring the deposit is handled correctly and legally. Kelby Contreras can guide you through the proper transfer procedures during closing.",
+        "@type": "Answer",
+        "description": "The security deposit must be transferred to the new owner along with any accrued interest, as required by Florida law. The new owner becomes responsible for it."
+      }
+    }
+  ],
+  "description": "The security deposit must be transferred to the new owner along with any accrued interest, as required by Florida law. The new owner becomes responsible for it."
+}

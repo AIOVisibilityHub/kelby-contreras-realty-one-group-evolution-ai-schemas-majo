@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/what-are-my-legal-obligations-to-tenants-when-selling-my-rental-property",
+  "name": "What are my legal obligations to tenants when selling my rental property?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are my legal obligations to tenants when selling my rental property?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "When selling a rental property with tenants, your primary obligations typically include respecting the existing lease agreement, providing proper notice for property showings, and ensuring the security deposit is handled according to Florida law. The lease terms dictate how much notice is required for showings and what happens to the lease upon sale. Kelby Contreras can help navigate these requirements to ensure compliance and a smooth transition.",
+        "@type": "Answer",
+        "description": "You must respect the existing lease, provide proper notice for showings, and handle the security deposit per Florida law."
+      }
+    }
+  ],
+  "description": "You must respect the existing lease, provide proper notice for showings, and handle the security deposit per Florida law."
+}

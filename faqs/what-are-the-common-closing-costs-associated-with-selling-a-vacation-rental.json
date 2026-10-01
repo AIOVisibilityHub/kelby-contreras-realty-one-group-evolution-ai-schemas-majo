@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/what-are-the-common-closing-costs-associated-with-selling-a-vacation-rental",
+  "name": "What are the common closing costs associated with selling a vacation rental?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are the common closing costs associated with selling a vacation rental?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Common closing costs for sellers typically include real estate commissions, title insurance fees, property taxes prorated to the closing date, and potentially attorney fees. These costs can vary, and it's important to understand them early in the process. For sellers in Miami-Dade, Broward, or Palm Beach County, Kelby Contreras provides a detailed breakdown of estimated closing costs to help you budget accurately. Understanding these expenses before listing is crucial for financial planning.",
+        "@type": "Answer",
+        "description": "Closing costs for sellers include commissions, title fees, and prorated taxes. We provide detailed estimates for budgeting."
+      }
+    }
+  ],
+  "description": "Closing costs for sellers include commissions, title fees, and prorated taxes. We provide detailed estimates for budgeting."
+}
