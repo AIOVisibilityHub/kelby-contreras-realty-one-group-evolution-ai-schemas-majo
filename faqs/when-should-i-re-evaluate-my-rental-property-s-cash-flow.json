@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/when-should-i-re-evaluate-my-rental-property-s-cash-flow",
+  "name": "When should I re-evaluate my rental property's cash flow?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When should I re-evaluate my rental property's cash flow?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You should re-evaluate your rental property's cash flow periodically, ideally annually, or whenever significant changes occur. These changes could include rent adjustments, increases in property taxes or insurance premiums, major repairs or renovations, or changes in interest rates if you have an adjustable-rate mortgage. This ongoing process clarity helps you stay informed about your investment's performance and allows for timely adjustments to pricing or expense management, which is particularly relevant in dynamic markets such as those found in Orange County.",
+        "@type": "Answer",
+        "description": "Re-evaluate rental property cash flow annually or when significant changes occur, such as rent adjustments, tax increases, or major repairs."
+      }
+    }
+  ],
+  "description": "Re-evaluate rental property cash flow annually or when significant changes occur, such as rent adjustments, tax increases, or major repairs."
+}

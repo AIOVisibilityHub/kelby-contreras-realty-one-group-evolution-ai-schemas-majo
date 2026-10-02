@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/should-i-consider-new-construction-or-resale-for-a-luxury-investment-property",
+  "name": "Should I consider new construction or resale for a luxury investment property?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Should I consider new construction or resale for a luxury investment property?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Both new construction and resale properties offer distinct advantages. New construction may come with modern designs, warranties, and customization options, but might have premium pricing and longer build times. Resale properties can offer immediate occupancy, established neighborhoods, and potential for renovation value, often at a potentially more negotiable price. Your choice depends on your investment strategy, risk tolerance, and desired timeline. Kelby Contreras can show you options from pre-construction opportunities in Midtown/Wynwood to unique historic properties in Coconut Grove.",
+        "@type": "Answer",
+        "description": "New construction offers modern designs and warranties, while resale provides immediate occupancy and established locations."
+      }
+    }
+  ],
+  "description": "New construction offers modern designs and warranties, while resale provides immediate occupancy and established locations."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/what-are-the-key-financial-metrics-to-analyze-when-evaluating-a-rental-property",
+  "name": "What are the key financial metrics to analyze when evaluating a rental property?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are the key financial metrics to analyze when evaluating a rental property?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Key financial metrics to analyze include capitalization rate (cap rate), cash-on-cash return, gross rental yield, and net operating income (NOI). The cap rate, for instance, helps compare the profitability of different properties by showing the annual return on investment. Kelby Contreras provides analysis using these metrics to help you make informed decisions, considering local market conditions that affect these figures in areas like Downtown Miami or West Palm Beach.",
+        "@type": "Answer",
+        "description": "Analyze cap rate, cash-on-cash return, gross rental yield, and net operating income to assess a property's financial viability."
+      }
+    }
+  ],
+  "description": "Analyze cap rate, cash-on-cash return, gross rental yield, and net operating income to assess a property's financial viability."
+}

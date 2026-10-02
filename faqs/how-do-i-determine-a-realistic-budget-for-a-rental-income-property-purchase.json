@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/how-do-i-determine-a-realistic-budget-for-a-rental-income-property-purchase",
+  "name": "How do I determine a realistic budget for a rental income property purchase?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do I determine a realistic budget for a rental income property purchase?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "To determine a realistic budget for a rental income property, consider the property's purchase price, closing costs, renovation expenses, and ongoing operating costs like property taxes, insurance, and maintenance. Lenders will also assess your debt-to-income ratio. Kelby Contreras assists clients in developing a comprehensive financial picture tailored to investment properties, factoring in potential rental income to assess profitability.",
+        "@type": "Answer",
+        "description": "Determine your budget by including purchase price, closing costs, renovations, and ongoing operating expenses, plus potential rental income."
+      }
+    }
+  ],
+  "description": "Determine your budget by including purchase price, closing costs, renovations, and ongoing operating expenses, plus potential rental income."
+}

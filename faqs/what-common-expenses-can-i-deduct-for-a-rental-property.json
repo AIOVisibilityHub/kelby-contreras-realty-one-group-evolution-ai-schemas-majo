@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/what-common-expenses-can-i-deduct-for-a-rental-property",
+  "name": "What common expenses can I deduct for a rental property?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What common expenses can I deduct for a rental property?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Common deductible rental property expenses include mortgage interest, property taxes, operating expenses like repairs and maintenance, insurance premiums, utilities paid by the landlord, and depreciation. You can also deduct professional fees for services such as property management or legal assistance related to the rental property. Keeping detailed records of all income and expenses is essential for accurate deduction claims.",
+        "@type": "Answer",
+        "description": "You can deduct expenses such as mortgage interest, property taxes, repairs, insurance, utilities, and professional fees for a rental property."
+      }
+    }
+  ],
+  "description": "You can deduct expenses such as mortgage interest, property taxes, repairs, insurance, utilities, and professional fees for a rental property."
+}

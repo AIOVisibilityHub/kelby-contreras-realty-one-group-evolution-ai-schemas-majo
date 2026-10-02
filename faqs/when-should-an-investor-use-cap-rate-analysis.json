@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/when-should-an-investor-use-cap-rate-analysis",
+  "name": "When should an investor use cap rate analysis?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When should an investor use cap rate analysis?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Investors should use cap rate analysis primarily when evaluating income-producing properties, such as commercial buildings, multi-family homes, or rental portfolios. It's especially useful for comparing similar properties in the same market to determine which offers a better relative return for its price. You might use it early in the property selection process to filter out properties that don't meet your return expectations. However, it's important to remember that cap rates don't account for financing costs or future property appreciation, so it serves as an initial screening tool rather than a comprehensive investment analysis.",
+        "@type": "Answer",
+        "description": "Cap rate analysis is best used when evaluating income-producing properties to compare potential returns and filter investment opportunities, especially early in the selection process."
+      }
+    }
+  ],
+  "description": "Cap rate analysis is best used when evaluating income-producing properties to compare potential returns and filter investment opportunities, especially early in"
+}

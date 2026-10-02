@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/what-are-the-typical-costs-associated-with-acquiring-a-luxury-investment-propert",
+  "name": "What are the typical costs associated with acquiring a luxury investment property?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are the typical costs associated with acquiring a luxury investment property?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Beyond the purchase price, expect costs such as closing fees, property taxes, insurance, potential HOA or condominium association fees, and ongoing maintenance. For luxury properties, these can be substantial, especially for waterfront or high-rise units with extensive amenities. Working with a knowledgeable agent is crucial for understanding the full financial commitment. Kelby Contreras helps clients understand the total cost of ownership for properties in areas like Aventura or Coral Gables, including local tax structures and premium insurance rates.",
+        "@type": "Answer",
+        "description": "Costs include purchase price, closing fees, property taxes, insurance, HOA fees, and maintenance, which are higher for luxury properties."
+      }
+    }
+  ],
+  "description": "Costs include purchase price, closing fees, property taxes, insurance, HOA fees, and maintenance, which are higher for luxury properties."
+}

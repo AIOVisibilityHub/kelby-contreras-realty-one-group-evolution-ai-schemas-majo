@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/what-metrics-are-used-in-a-cash-flow-property-analysis",
+  "name": "What metrics are used in a cash flow property analysis?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What metrics are used in a cash flow property analysis?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Key metrics used in cash flow property analysis include Gross Rental Income, Vacancy Rate, Operating Expenses (e.g., property taxes, insurance, maintenance), Net Operating Income (NOI), Debt Service, and ultimately, Cash Flow. Investors also often look at metrics like Capitalization Rate (Cap Rate) and Cash-on-Cash Return to compare different investment opportunities. These metrics help paint a comprehensive financial picture for properties in diverse South Florida locations.",
+        "@type": "Answer",
+        "description": "Key metrics include Gross Rental Income, Operating Expenses, Net Operating Income, Debt Service, and Cash Flow."
+      }
+    }
+  ],
+  "description": "Key metrics include Gross Rental Income, Operating Expenses, Net Operating Income, Debt Service, and Cash Flow."
+}

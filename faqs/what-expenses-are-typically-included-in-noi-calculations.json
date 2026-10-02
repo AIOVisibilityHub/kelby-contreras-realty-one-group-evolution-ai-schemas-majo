@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/what-expenses-are-typically-included-in-noi-calculations",
+  "name": "What expenses are typically included in NOI calculations?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What expenses are typically included in NOI calculations?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Expenses typically included in NOI calculations are those directly related to the operation and maintenance of the property. This includes property taxes, insurance premiums, utilities (if paid by the owner), maintenance and repair costs, property management fees, and general administrative expenses. Excluded expenses are capital expenditures (like a new roof or HVAC system), loan principal and interest payments, and income taxes, as these are considered separate from the property's day-to-day operations. When evaluating properties in the Miami-Dade or Broward County areas, we guide clients in identifying all relevant operating expenses specific to local market conditions.",
+        "@type": "Answer",
+        "description": "NOI expenses include property taxes, insurance, utilities, maintenance, and management fees; they exclude debt service and capital expenditures."
+      }
+    }
+  ],
+  "description": "NOI expenses include property taxes, insurance, utilities, maintenance, and management fees; they exclude debt service and capital expenditures."
+}

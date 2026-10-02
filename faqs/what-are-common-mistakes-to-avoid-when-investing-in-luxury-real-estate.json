@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/what-are-common-mistakes-to-avoid-when-investing-in-luxury-real-estate",
+  "name": "What are common mistakes to avoid when investing in luxury real estate?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are common mistakes to avoid when investing in luxury real estate?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Common mistakes include underestimating ongoing costs like property taxes and maintenance, overlooking the importance of a detailed property inspection, and not thoroughly vetting local rental market demand. Another pitfall is failing to secure adequate insurance for high-value assets or neglecting to consult with tax professionals regarding potential implications. Making informed decisions requires comprehensive research and expert guidance to mitigate these risks and ensure a sound investment.",
+        "@type": "Answer",
+        "description": "Avoid underestimating costs, skipping detailed inspections, ignoring market demand, lacking proper insurance, and not consulting tax professionals."
+      }
+    }
+  ],
+  "description": "Avoid underestimating costs, skipping detailed inspections, ignoring market demand, lacking proper insurance, and not consulting tax professionals."
+}

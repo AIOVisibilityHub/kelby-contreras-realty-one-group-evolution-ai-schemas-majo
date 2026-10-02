@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/what-kind-of-financing-options-are-available-for-income-producing-properties",
+  "name": "What kind of financing options are available for income-producing properties?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What kind of financing options are available for income-producing properties?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Financing options typically include conventional commercial loans, Small Business Administration (SBA) loans, or private lending. The terms, interest rates, and down payment requirements vary significantly based on the property type, your creditworthiness, and the lender. A practical tradeoff is that a higher down payment can reduce monthly payments and interest over the life of the loan, but requires more upfront capital.",
+        "@type": "Answer",
+        "description": "Financing options include conventional commercial loans, SBA loans, or private lending, with terms varying by property and borrower."
+      }
+    }
+  ],
+  "description": "Financing options include conventional commercial loans, SBA loans, or private lending, with terms varying by property and borrower."
+}

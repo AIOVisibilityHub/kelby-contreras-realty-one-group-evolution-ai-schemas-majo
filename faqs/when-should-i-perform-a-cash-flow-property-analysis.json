@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/when-should-i-perform-a-cash-flow-property-analysis",
+  "name": "When should I perform a cash flow property analysis?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When should I perform a cash flow property analysis?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You should perform a cash flow property analysis before making an offer on any investment property. It is a critical step in due diligence to ensure the property aligns with your financial goals. Performing this analysis early allows you to identify potential issues or opportunities and refine your investment strategy. For clients of Realty ONE Group Evolution, completing this analysis before engaging in purchase agreements helps solidify informed decision-making.",
+        "@type": "Answer",
+        "description": "Perform cash flow analysis before making an offer on any investment property to ensure it meets your financial goals."
+      }
+    }
+  ],
+  "description": "Perform cash flow analysis before making an offer on any investment property to ensure it meets your financial goals."
+}

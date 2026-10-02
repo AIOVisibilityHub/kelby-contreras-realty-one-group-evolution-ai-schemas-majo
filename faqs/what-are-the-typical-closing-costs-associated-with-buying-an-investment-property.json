@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/what-are-the-typical-closing-costs-associated-with-buying-an-investment-property",
+  "name": "What are the typical closing costs associated with buying an investment property?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are the typical closing costs associated with buying an investment property?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Typical closing costs for an investment property can range from 2% to 5% of the loan amount and include items such as title insurance, appraisal fees, lender fees, legal fees, and property transfer taxes. These costs are usually paid at the closing table and can vary based on the specific loan type and location. It's crucial to factor these into your budget, as they represent a significant upfront expense beyond the down payment, influencing your overall investment capital requirements.",
+        "@type": "Answer",
+        "description": "Closing costs for investment properties typically range from 2% to 5% of the loan amount, including title insurance, appraisal, and lender fees, and must be budgeted upfront."
+      }
+    }
+  ],
+  "description": "Closing costs for investment properties typically range from 2% to 5% of the loan amount, including title insurance, appraisal, and lender fees, and must be bud"
+}

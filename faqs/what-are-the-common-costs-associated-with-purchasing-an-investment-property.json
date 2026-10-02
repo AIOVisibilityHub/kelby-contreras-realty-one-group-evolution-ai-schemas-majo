@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/what-are-the-common-costs-associated-with-purchasing-an-investment-property",
+  "name": "What are the common costs associated with purchasing an investment property?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are the common costs associated with purchasing an investment property?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Purchasing an investment property involves costs beyond the down payment, including closing costs, property taxes, insurance, potential HOA fees, and maintenance reserves. Closing costs typically range from 2-5% of the purchase price. Additionally, investors should budget for property management fees if they plan to outsource day-to-day operations. Understanding these costs upfront is crucial for financial planning, and we can provide a detailed breakdown relevant to specific property types and locations within the South Florida market.",
+        "@type": "Answer",
+        "description": "Common costs include down payment, closing costs, property taxes, insurance, HOA fees, and maintenance reserves, all essential for financial planning."
+      }
+    }
+  ],
+  "description": "Common costs include down payment, closing costs, property taxes, insurance, HOA fees, and maintenance reserves, all essential for financial planning."
+}

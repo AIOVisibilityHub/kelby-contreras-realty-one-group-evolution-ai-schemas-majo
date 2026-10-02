@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/what-types-of-insurance-do-i-need-for-a-rental-property",
+  "name": "What types of insurance do I need for a rental property?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What types of insurance do I need for a rental property?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "For a rental property, you typically need landlord insurance (also known as a dwelling fire policy) which covers property damage, liability, and loss of rental income. This differs from standard homeowner's insurance. Depending on the property's location in South Florida, flood insurance or windstorm insurance may also be necessary due to hurricane risks. It's important to assess potential risks and ensure your coverage adequately protects your investment from common natural disasters in the region.",
+        "@type": "Answer",
+        "description": "You typically need landlord insurance, covering property damage, liability, and lost rent, and potentially flood or windstorm insurance in South Florida."
+      }
+    }
+  ],
+  "description": "You typically need landlord insurance, covering property damage, liability, and lost rent, and potentially flood or windstorm insurance in South Florida."
+}

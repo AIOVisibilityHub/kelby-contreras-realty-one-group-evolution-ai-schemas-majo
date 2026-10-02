@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/how-do-i-evaluate-the-potential-return-on-investment-roi-for-a-property",
+  "name": "How do I evaluate the potential return on investment (ROI) for a property?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do I evaluate the potential return on investment (ROI) for a property?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Evaluating ROI for an investment property involves assessing potential rental income, operating expenses, and expected appreciation. Key metrics include the cap rate, cash-on-cash return, and gross rent multiplier. You'll need to gather financial details like purchase price, projected rent, property taxes, insurance, maintenance costs, and any HOA fees. A practical tradeoff is balancing a higher initial cash flow with long-term appreciation potential; some properties may offer lower immediate returns but stronger growth. We assist clients in gathering and analyzing these numbers to make informed decisions.",
+        "@type": "Answer",
+        "description": "Evaluate ROI by assessing potential rental income, expenses, and appreciation using metrics like cap rate and cash-on-cash return, balancing cash flow with long-term growth."
+      }
+    }
+  ],
+  "description": "Evaluate ROI by assessing potential rental income, expenses, and appreciation using metrics like cap rate and cash-on-cash return, balancing cash flow with long"
+}

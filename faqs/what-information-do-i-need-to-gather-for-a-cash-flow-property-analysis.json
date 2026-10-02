@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/what-information-do-i-need-to-gather-for-a-cash-flow-property-analysis",
+  "name": "What information do I need to gather for a cash flow property analysis?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What information do I need to gather for a cash flow property analysis?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "To perform an accurate cash flow property analysis, you will need to gather several key pieces of information. This includes the property's purchase price, expected rental income, estimated operating expenses (such as property taxes, insurance, utilities, maintenance, and HOA fees if applicable), financing details (loan amount, interest rate, term), and potential vacancy rates. Having these details ready helps our team provide a more precise assessment for properties across Collier and Orange Counties.",
+        "@type": "Answer",
+        "description": "Gather purchase price, rental income, operating expenses, financing details, and potential vacancy rates for the analysis."
+      }
+    }
+  ],
+  "description": "Gather purchase price, rental income, operating expenses, financing details, and potential vacancy rates for the analysis."
+}

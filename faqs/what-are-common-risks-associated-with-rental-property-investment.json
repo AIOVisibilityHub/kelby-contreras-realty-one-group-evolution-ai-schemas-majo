@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/what-are-common-risks-associated-with-rental-property-investment",
+  "name": "What are common risks associated with rental property investment?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are common risks associated with rental property investment?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Common risks in rental property investment include tenant vacancies, property damage, unexpected maintenance costs, market downturns affecting property values or rental rates, and challenges with tenant management. Interest rate fluctuations can also impact financing costs. A key preparation step is to conduct thorough tenant screening and maintain adequate insurance coverage to mitigate many of these risks. Kelby Contreras advises clients on strategies to minimize exposure to these potential issues.",
+        "@type": "Answer",
+        "description": "Risks include vacancies, damage, unexpected maintenance, and market downturns. Mitigate through tenant screening and insurance."
+      }
+    }
+  ],
+  "description": "Risks include vacancies, damage, unexpected maintenance, and market downturns. Mitigate through tenant screening and insurance."
+}

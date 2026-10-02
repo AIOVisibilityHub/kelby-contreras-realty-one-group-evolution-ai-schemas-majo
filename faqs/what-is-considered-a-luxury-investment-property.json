@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/what-is-considered-a-luxury-investment-property",
+  "name": "What is considered a luxury investment property?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is considered a luxury investment property?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A luxury investment property is typically a high-value real estate asset that commands a premium price and offers unique features, prime locations, or exceptional amenities, often exceeding $1 million in value. These properties are acquired with the primary goal of generating financial returns through rental income, capital appreciation, or both. Investors often seek locations with strong market fundamentals, such as Miami-Dade County's upscale neighborhoods, to ensure sustained demand and value growth.",
+        "@type": "Answer",
+        "description": "A luxury investment property is a high-value real estate asset, often over $1 million, acquired for financial returns through rent or appreciation."
+      }
+    }
+  ],
+  "description": "A luxury investment property is a high-value real estate asset, often over $1 million, acquired for financial returns through rent or appreciation."
+}

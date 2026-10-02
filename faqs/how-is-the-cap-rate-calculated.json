@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/how-is-the-cap-rate-calculated",
+  "name": "How is the cap rate calculated?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How is the cap rate calculated?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cap rate is calculated using a straightforward formula: Net Operating Income (NOI) divided by the property's current market value or purchase price. NOI is derived by taking the property's total rental income and subtracting all operating expenses, excluding mortgage payments and income taxes. For example, if a property generates $100,000 in NOI and is valued at $1,000,000, its cap rate is 10%. Gathering accurate income and expense data is crucial for a reliable calculation, which often involves reviewing detailed financial statements and property records. This preparation ensures the resulting cap rate reflects the property's true financial performance.",
+        "@type": "Answer",
+        "description": "The cap rate is calculated by dividing a property's Net Operating Income (NOI) by its market value. Accurate income and expense data are essential for a reliable result."
+      }
+    }
+  ],
+  "description": "The cap rate is calculated by dividing a property's Net Operating Income (NOI) by its market value. Accurate income and expense data are essential for a reliabl"
+}

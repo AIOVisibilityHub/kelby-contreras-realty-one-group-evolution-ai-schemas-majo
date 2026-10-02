@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/what-is-cash-flow-property-analysis",
+  "name": "What is cash flow property analysis?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is cash flow property analysis?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Cash flow property analysis is the process of evaluating a property's potential to generate income that exceeds its expenses. This assessment helps investors understand the profitability and sustainability of a real estate investment before committing. It involves calculating projected rental income, operating costs, debt service, and taxes to determine net operating income and overall cash flow. Understanding this analysis is crucial for making informed investment decisions in markets like Miami-Dade and Broward Counties.",
+        "@type": "Answer",
+        "description": "Cash flow property analysis evaluates a property's income potential versus its expenses to determine profitability."
+      }
+    }
+  ],
+  "description": "Cash flow property analysis evaluates a property's income potential versus its expenses to determine profitability."
+}

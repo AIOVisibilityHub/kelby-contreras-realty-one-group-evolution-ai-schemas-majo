@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/how-do-i-calculate-the-potential-cash-flow-of-a-property",
+  "name": "How do I calculate the potential cash flow of a property?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do I calculate the potential cash flow of a property?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "To calculate potential cash flow, subtract all operating expenses from the gross rental income. Operating expenses typically include property taxes, insurance, maintenance, property management fees, and a vacancy allowance. It's crucial to factor in potential capital expenditures for long-term repairs. Kelby Contreras - Realty ONE Group Evolution can assist in gathering accurate local expense data, which varies significantly by area, especially in competitive markets like Miami or Fort Lauderdale.",
+        "@type": "Answer",
+        "description": "Calculate potential cash flow by subtracting all operating expenses from gross rental income, including taxes, insurance, and maintenance."
+      }
+    }
+  ],
+  "description": "Calculate potential cash flow by subtracting all operating expenses from gross rental income, including taxes, insurance, and maintenance."
+}

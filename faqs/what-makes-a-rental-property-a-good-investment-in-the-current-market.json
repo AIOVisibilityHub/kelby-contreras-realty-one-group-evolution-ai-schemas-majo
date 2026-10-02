@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/what-makes-a-rental-property-a-good-investment-in-the-current-market",
+  "name": "What makes a rental property a good investment in the current market?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What makes a rental property a good investment in the current market?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A good rental property investment in the current market typically exhibits strong tenant demand, positive cash flow potential after all expenses, and appreciation prospects. Key indicators include a favorable rent-to-price ratio, low vacancy rates in the area, and proximity to desirable amenities or job growth. Understanding local economic drivers in regions like Orange County or Collier County is a critical decision factor for long-term success. Kelby Contreras helps identify properties that align with current market conditions and investor objectives.",
+        "@type": "Answer",
+        "description": "A good rental property investment has strong tenant demand, positive cash flow, and appreciation potential, driven by local economic factors."
+      }
+    }
+  ],
+  "description": "A good rental property investment has strong tenant demand, positive cash flow, and appreciation potential, driven by local economic factors."
+}

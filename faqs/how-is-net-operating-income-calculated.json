@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/how-is-net-operating-income-calculated",
+  "name": "How is Net Operating Income calculated?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How is Net Operating Income calculated?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "NOI is calculated by taking the property's gross rental income, adding any other income (like laundry or parking fees), and then subtracting all operating expenses. Operating expenses typically include property taxes, insurance, utilities, property management fees, maintenance, and repairs. It does not include debt service (mortgage payments), capital expenditures, or income taxes. When we assist clients in analyzing properties in areas like Coral Gables or Boca Raton, we ensure all potential income sources and true operating costs are accurately factored in, providing a realistic assessment.",
+        "@type": "Answer",
+        "description": "NOI is calculated by subtracting operating expenses (property taxes, insurance, management, maintenance) from a property's gross income."
+      }
+    }
+  ],
+  "description": "NOI is calculated by subtracting operating expenses (property taxes, insurance, management, maintenance) from a property's gross income."
+}

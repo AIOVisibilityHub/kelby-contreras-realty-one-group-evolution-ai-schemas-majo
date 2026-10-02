@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/what-defines-a-luxury-investment-property",
+  "name": "What defines a luxury investment property?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What defines a luxury investment property?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A luxury investment property typically features high-end finishes, premium amenities, a desirable location, and significant potential for appreciation or rental income. These properties often require a higher capital investment but can offer strong returns and portfolio diversification. Kelby Contreras specializes in identifying properties in prime South Florida locations like Miami Beach or Bal Harbour that meet these criteria, focusing on assets with enduring value.",
+        "@type": "Answer",
+        "description": "Luxury investment properties feature high-end finishes, premium amenities, desirable locations, and appreciation potential."
+      }
+    }
+  ],
+  "description": "Luxury investment properties feature high-end finishes, premium amenities, desirable locations, and appreciation potential."
+}

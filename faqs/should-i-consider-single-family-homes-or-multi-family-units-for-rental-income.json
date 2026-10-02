@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/should-i-consider-single-family-homes-or-multi-family-units-for-rental-income",
+  "name": "Should I consider single-family homes or multi-family units for rental income?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Should I consider single-family homes or multi-family units for rental income?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The choice between single-family homes and multi-family units depends on your investment strategy and risk tolerance. Single-family homes often attract long-term tenants, while multi-family units can offer multiple income streams and potentially higher cash flow. Kelby Contreras can help compare the pros and cons of each type in specific South Florida submarkets, such as the potential for appreciation in areas like Coral Gables versus cash flow in parts of Fort Lauderdale.",
+        "@type": "Answer",
+        "description": "Single-family homes offer long-term tenants, while multi-family units provide multiple income streams; choose based on your investment strategy."
+      }
+    }
+  ],
+  "description": "Single-family homes offer long-term tenants, while multi-family units provide multiple income streams; choose based on your investment strategy."
+}

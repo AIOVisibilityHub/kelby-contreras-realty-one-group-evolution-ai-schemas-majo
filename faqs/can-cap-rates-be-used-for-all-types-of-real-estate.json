@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/can-cap-rates-be-used-for-all-types-of-real-estate",
+  "name": "Can cap rates be used for all types of real estate?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can cap rates be used for all types of real estate?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Cap rates are primarily used for income-producing properties where a clear Net Operating Income (NOI) can be established, such as multi-family apartments, office buildings, retail spaces, and industrial properties. They are generally not suitable for owner-occupied residential properties or undeveloped land, as these typically do not generate consistent rental income. For properties like single-family homes intended as rentals, cap rates can be applied, but their use is more common in commercial and larger residential investment contexts. Understanding this distinction is crucial to avoid misapplying the metric and making inaccurate investment assumptions.",
+        "@type": "Answer",
+        "description": "Cap rates are best suited for income-producing properties like apartments or commercial buildings, not owner-occupied homes or undeveloped land, due to the need for consistent NOI."
+      }
+    }
+  ],
+  "description": "Cap rates are best suited for income-producing properties like apartments or commercial buildings, not owner-occupied homes or undeveloped land, due to the need"
+}

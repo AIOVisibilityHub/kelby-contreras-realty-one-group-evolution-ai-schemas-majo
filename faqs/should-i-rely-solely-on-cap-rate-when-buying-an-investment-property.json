@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/should-i-rely-solely-on-cap-rate-when-buying-an-investment-property",
+  "name": "Should I rely solely on cap rate when buying an investment property?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Should I rely solely on cap rate when buying an investment property?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "No, you should not rely solely on the cap rate when buying an investment property. While it's a valuable initial metric for comparing potential returns, it provides an incomplete picture. Factors such as the property's physical condition, deferred maintenance, potential for value-add improvements, local market growth projections, and your financing structure are equally important. For example, a property with a high cap rate might hide significant repair costs or impending capital expenditures. Always conduct thorough due diligence, including property inspections, detailed financial analysis, and market research, to make a well-rounded investment decision. Our firm emphasizes a holistic approach to ensure all aspects of an investment are considered.",
+        "@type": "Answer",
+        "description": "No, do not rely solely on cap rate. It's an initial metric; consider physical condition, market growth, financing, and conduct thorough due diligence for a complete investment picture."
+      }
+    }
+  ],
+  "description": "No, do not rely solely on cap rate. It's an initial metric; consider physical condition, market growth, financing, and conduct thorough due diligence for a comp"
+}

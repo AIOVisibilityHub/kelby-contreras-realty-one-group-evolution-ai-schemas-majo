@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/how-do-i-determine-if-an-investment-property-is-a-good-deal",
+  "name": "How do I determine if an investment property is a good deal?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do I determine if an investment property is a good deal?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Determining a good investment property involves analyzing several factors beyond the listing price. Key considerations include the property's potential rental income, operating expenses (taxes, insurance, HOA fees, maintenance), vacancy rates, and market trends in areas like Brickell or Boca Raton. Financial metrics such as capitalization rate (cap rate) and cash-on-cash return can help compare different opportunities. It's crucial to evaluate the local market's demand for rentals or resales and align the property's potential with your personal investment strategy.",
+        "@type": "Answer",
+        "description": "Evaluate an investment property by analyzing potential rental income, operating expenses, market trends, and financial metrics like cap rate to ensure it aligns with your goals."
+      }
+    }
+  ],
+  "description": "Evaluate an investment property by analyzing potential rental income, operating expenses, market trends, and financial metrics like cap rate to ensure it aligns"
+}

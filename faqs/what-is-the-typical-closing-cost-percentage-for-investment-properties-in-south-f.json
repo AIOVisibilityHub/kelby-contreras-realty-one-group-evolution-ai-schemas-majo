@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/what-is-the-typical-closing-cost-percentage-for-investment-properties-in-south-f",
+  "name": "What is the typical closing cost percentage for investment properties in South Florida?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the typical closing cost percentage for investment properties in South Florida?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Closing costs for investment properties in South Florida typically range from 2% to 5% of the purchase price, but can vary. These include lender fees, title insurance, appraisal fees, recording fees, and attorney fees. It's crucial to budget for these expenses in addition to your down payment. We provide a detailed breakdown of estimated closing costs for any property you consider, ensuring transparency in your financial planning.",
+        "@type": "Answer",
+        "description": "Closing costs in South Florida investment properties typically range from 2% to 5% of the purchase price. We provide detailed estimates."
+      }
+    }
+  ],
+  "description": "Closing costs in South Florida investment properties typically range from 2% to 5% of the purchase price. We provide detailed estimates."
+}

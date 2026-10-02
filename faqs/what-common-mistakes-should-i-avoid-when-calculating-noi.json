@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/what-common-mistakes-should-i-avoid-when-calculating-noi",
+  "name": "What common mistakes should I avoid when calculating NOI?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What common mistakes should I avoid when calculating NOI?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Common mistakes when calculating NOI include inaccurately estimating vacancy rates, overlooking minor operating expenses, or incorrectly including non-operating expenses like mortgage payments or capital expenditures. Another error is failing to distinguish between actual and pro forma expenses, which can lead to unrealistic projections. It's also crucial to use current and accurate data for income and expenses. Our team helps clients in all our service areas, including Collier and Orange Counties, avoid these pitfalls by providing detailed due diligence on financial statements and market-specific expense benchmarks.",
+        "@type": "Answer",
+        "description": "Avoid mistakes like inaccurate vacancy rates, omitting operating expenses, including non-operating costs, or using incorrect data when calculating NOI."
+      }
+    }
+  ],
+  "description": "Avoid mistakes like inaccurate vacancy rates, omitting operating expenses, including non-operating costs, or using incorrect data when calculating NOI."
+}

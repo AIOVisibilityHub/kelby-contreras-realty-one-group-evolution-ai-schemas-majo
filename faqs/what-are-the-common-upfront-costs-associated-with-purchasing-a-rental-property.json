@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/what-are-the-common-upfront-costs-associated-with-purchasing-a-rental-property",
+  "name": "What are the common upfront costs associated with purchasing a rental property?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are the common upfront costs associated with purchasing a rental property?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Upfront costs for a rental property typically include the down payment, closing costs (such as title insurance, appraisal fees, and loan origination fees), and potentially initial repair or renovation expenses. Investors often budget for reserves to cover unexpected vacancies or maintenance. In Florida, specific closing costs can vary slightly by county, and securing competitive financing is a practical tradeoff that can reduce overall initial outlay. Kelby Contreras can guide you through these cost estimations.",
+        "@type": "Answer",
+        "description": "Upfront costs include down payment, closing costs, and initial repairs. Budget for reserves to cover vacancies or maintenance."
+      }
+    }
+  ],
+  "description": "Upfront costs include down payment, closing costs, and initial repairs. Budget for reserves to cover vacancies or maintenance."
+}

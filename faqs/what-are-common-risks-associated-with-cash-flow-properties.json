@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/what-are-common-risks-associated-with-cash-flow-properties",
+  "name": "What are common risks associated with cash flow properties?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are common risks associated with cash flow properties?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Common risks include unexpected vacancies, rising operating expenses (like property taxes or insurance), costly repairs, and market downturns affecting rental rates or property value. It's essential to perform thorough due diligence and have a contingency fund. One practical tradeoff to consider is balancing the desire for higher yields with the potential for increased risk in certain property types or neighborhoods, which our agents can help you assess in South Florida.",
+        "@type": "Answer",
+        "description": "Risks include vacancies, rising expenses, costly repairs, and market downturns. Due diligence and a contingency fund are crucial."
+      }
+    }
+  ],
+  "description": "Risks include vacancies, rising expenses, costly repairs, and market downturns. Due diligence and a contingency fund are crucial."
+}

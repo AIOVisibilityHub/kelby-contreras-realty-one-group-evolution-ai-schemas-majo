@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/what-due-diligence-should-i-perform-before-purchasing-an-income-producing-proper",
+  "name": "What due diligence should I perform before purchasing an income-producing property?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What due diligence should I perform before purchasing an income-producing property?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Thorough due diligence is essential and includes reviewing financial statements, lease agreements, property condition reports, and environmental assessments. You should also investigate zoning regulations and potential market risks in the specific area. A crucial preparation step is to gather all relevant property documents and engage professionals like inspectors, appraisers, and legal counsel to ensure you have a complete understanding of the asset before committing.",
+        "@type": "Answer",
+        "description": "Due diligence involves reviewing financials, leases, property reports, and zoning regulations, engaging professionals for comprehensive understanding."
+      }
+    }
+  ],
+  "description": "Due diligence involves reviewing financials, leases, property reports, and zoning regulations, engaging professionals for comprehensive understanding."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/what-is-a-cash-flow-property",
+  "name": "What is a cash flow property?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is a cash flow property?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A cash flow property is a real estate investment that generates more income than it costs to own and maintain. This net positive income, often from rental payments, provides a regular return on investment. Evaluating these properties involves a detailed analysis of potential rental income versus all operating expenses, including property taxes, insurance, maintenance, and vacancy rates. Our agency focuses on identifying such opportunities across Miami-Dade, Broward, Palm Beach, Collier, and Orange Counties.",
+        "@type": "Answer",
+        "description": "A cash flow property generates consistent income exceeding its expenses, providing a net positive return on investment."
+      }
+    }
+  ],
+  "description": "A cash flow property generates consistent income exceeding its expenses, providing a net positive return on investment."
+}

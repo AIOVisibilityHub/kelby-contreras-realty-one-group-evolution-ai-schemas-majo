@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/how-does-net-operating-income-differ-from-gross-operating-income",
+  "name": "How does Net Operating Income differ from Gross Operating Income?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How does Net Operating Income differ from Gross Operating Income?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Gross Operating Income (GOI) represents the total potential rental income a property could generate, minus any vacancy losses and credit losses from unpaid rent. It's the total income actually collected before any operating expenses are deducted. Net Operating Income (NOI), on the other hand, takes GOI and further subtracts all operating expenses. Therefore, NOI provides a more accurate measure of a property's actual profitability after all necessary costs of running the property are accounted for. When assessing multi-family units in areas like Doral or Aventura, understanding both GOI and NOI helps clarify a property's overall financial health.",
+        "@type": "Answer",
+        "description": "Gross Operating Income (GOI) is total collected income, while Net Operating Income (NOI) further subtracts operating expenses from GOI."
+      }
+    }
+  ],
+  "description": "Gross Operating Income (GOI) is total collected income, while Net Operating Income (NOI) further subtracts operating expenses from GOI."
+}

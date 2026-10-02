@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/what-is-an-income-producing-property",
+  "name": "What is an income-producing property?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is an income-producing property?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "An income-producing property is real estate purchased with the intent to generate consistent revenue through rental income, leasing, or other commercial activities. This can include residential multi-family units, commercial buildings, retail spaces, or industrial properties. The primary goal is financial return, often involving considerations like property management, tenant relations, and market demand specific to South Florida regions like Miami-Dade or Broward County.",
+        "@type": "Answer",
+        "description": "An income-producing property is real estate acquired to generate consistent revenue through rent or commercial activities."
+      }
+    }
+  ],
+  "description": "An income-producing property is real estate acquired to generate consistent revenue through rent or commercial activities."
+}

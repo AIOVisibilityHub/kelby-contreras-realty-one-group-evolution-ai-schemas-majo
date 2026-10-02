@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/what-due-diligence-should-i-perform-before-buying-a-condo-for-investment-in-aven",
+  "name": "What due diligence should I perform before buying a condo for investment in Aventura or Sunny Isles Beach?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What due diligence should I perform before buying a condo for investment in Aventura or Sunny Isles Beach?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Before buying a condo in Aventura or Sunny Isles Beach, thorough due diligence is essential. This includes reviewing the condominium association's financial statements, reserve funds, meeting minutes, and declarations of covenants, conditions, and restrictions (CC&Rs). You should also inspect the unit and common areas, and inquire about any pending special assessments or litigation. As a first-party insight, Kelby Contreras frequently advises clients to pay close attention to association rules regarding rentals, pet policies, and maintenance responsibilities, as these can significantly impact your investment's profitability and tenant experience.",
+        "@type": "Answer",
+        "description": "Before buying a condo in Aventura or Sunny Isles Beach, review HOA financials, CC&Rs, inspect the property, and check for special assessments or litigation."
+      }
+    }
+  ],
+  "description": "Before buying a condo in Aventura or Sunny Isles Beach, review HOA financials, CC&Rs, inspect the property, and check for special assessments or litigation."
+}

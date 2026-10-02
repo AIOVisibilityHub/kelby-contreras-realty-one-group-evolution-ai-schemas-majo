@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/what-financial-metrics-are-essential-for-evaluating-cash-flow-properties",
+  "name": "What financial metrics are essential for evaluating cash flow properties?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What financial metrics are essential for evaluating cash flow properties?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Beyond cash flow, essential metrics include the capitalization rate (cap rate), cash-on-cash return, gross rent multiplier (GRM), and debt service coverage ratio (DSCR). Each provides a different perspective on profitability and risk. For example, cash-on-cash return assesses the annual pre-tax cash flow relative to the actual cash invested. Kelby Contreras - Realty ONE Group Evolution emphasizes analyzing these metrics to make informed investment decisions, tailored to the specific characteristics of properties in regions like Palm Beach County.",
+        "@type": "Answer",
+        "description": "Essential financial metrics include cap rate, cash-on-cash return, gross rent multiplier, and debt service coverage ratio, each offering a different view on profitability."
+      }
+    }
+  ],
+  "description": "Essential financial metrics include cap rate, cash-on-cash return, gross rent multiplier, and debt service coverage ratio, each offering a different view on pro"
+}

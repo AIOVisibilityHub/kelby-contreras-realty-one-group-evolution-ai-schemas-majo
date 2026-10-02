@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/how-do-you-calculate-positive-vs-negative-cash-flow-for-a-rental-property",
+  "name": "How do you calculate positive vs. negative cash flow for a rental property?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do you calculate positive vs. negative cash flow for a rental property?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You calculate cash flow by subtracting total monthly expenses (operating expenses plus debt service) from the total monthly rental income. If the result is a positive number, the property has positive cash flow, meaning it generates more money than it costs to operate. If the result is negative, it's negative cash flow, indicating the property costs more than it earns. This comparison helps in the decision-making process for investors, as properties with consistent positive cash flow are generally more desirable, offering financial stability and potential for growth in markets like Fort Lauderdale or Palm Beach.",
+        "@type": "Answer",
+        "description": "Positive cash flow means income exceeds expenses; negative means expenses exceed income. It's calculated by subtracting total monthly expenses from total monthly rental income."
+      }
+    }
+  ],
+  "description": "Positive cash flow means income exceeds expenses; negative means expenses exceed income. It's calculated by subtracting total monthly expenses from total monthl"
+}

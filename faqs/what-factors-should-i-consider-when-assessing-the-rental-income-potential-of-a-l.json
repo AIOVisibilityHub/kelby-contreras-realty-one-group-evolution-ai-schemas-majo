@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/what-factors-should-i-consider-when-assessing-the-rental-income-potential-of-a-l",
+  "name": "What factors should I consider when assessing the rental income potential of a luxury property?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What factors should I consider when assessing the rental income potential of a luxury property?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Assess factors like location desirability, property features, local rental market rates for similar luxury units, and seasonal demand. High-end amenities, waterfront views, and proximity to cultural attractions or business districts can command premium rents. Understanding the target tenant demographic is also key. Kelby Contreras provides detailed rental comparable analyses for specific South Florida neighborhoods like Las Olas or Sunny Isles Beach, helping you project realistic rental income and occupancy rates.",
+        "@type": "Answer",
+        "description": "Assess location, features, local rental rates, and seasonal demand to determine luxury property rental income potential."
+      }
+    }
+  ],
+  "description": "Assess location, features, local rental rates, and seasonal demand to determine luxury property rental income potential."
+}

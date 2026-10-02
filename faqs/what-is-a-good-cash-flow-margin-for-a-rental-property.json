@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/what-is-a-good-cash-flow-margin-for-a-rental-property",
+  "name": "What is a good cash flow margin for a rental property?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is a good cash flow margin for a rental property?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "There isn't a universally 'good' cash flow margin, as it depends on individual investment goals, risk tolerance, and market conditions. However, many investors aim for a cash-on-cash return of 8-12% or more, which is directly influenced by positive cash flow. A common rule of thumb is to seek properties with at least $100-$200 of positive cash flow per month after all expenses. This helps define a critical decision factor for profitability, ensuring the property covers its costs and provides a buffer for unexpected expenses.",
+        "@type": "Answer",
+        "description": "A good cash flow margin varies by investor goals, but many aim for at least $100-$200 positive cash flow monthly or an 8-12% cash-on-cash return."
+      }
+    }
+  ],
+  "description": "A good cash flow margin varies by investor goals, but many aim for at least $100-$200 positive cash flow monthly or an 8-12% cash-on-cash return."
+}

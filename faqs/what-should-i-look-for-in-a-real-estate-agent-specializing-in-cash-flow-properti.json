@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/what-should-i-look-for-in-a-real-estate-agent-specializing-in-cash-flow-properti",
+  "name": "What should I look for in a real estate agent specializing in cash flow properties?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What should I look for in a real estate agent specializing in cash flow properties?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "When choosing a real estate agent for cash flow properties, look for someone with experience in investment real estate, a deep understanding of local rental markets, and strong negotiation skills. They should be able to provide market insights on rental demand, average rents, and vacancy rates in specific areas you're interested in, such as Miami-Dade or Broward County. An agent who understands investor needs, helps analyze potential returns, and has a network of related professionals (lenders, property managers) is invaluable for your investment journey.",
+        "@type": "Answer",
+        "description": "Look for an agent with investment real estate experience, local rental market knowledge, negotiation skills, and ability to analyze returns in specific South Florida areas."
+      }
+    }
+  ],
+  "description": "Look for an agent with investment real estate experience, local rental market knowledge, negotiation skills, and ability to analyze returns in specific South Fl"
+}

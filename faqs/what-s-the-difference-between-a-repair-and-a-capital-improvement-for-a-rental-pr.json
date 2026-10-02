@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/what-s-the-difference-between-a-repair-and-a-capital-improvement-for-a-rental-pr",
+  "name": "What's the difference between a repair and a capital improvement for a rental property?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What's the difference between a repair and a capital improvement for a rental property?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A repair maintains the property in good operating condition and is typically expensed in the year it occurs, like fixing a leaky faucet. A capital improvement, however, adds value, prolongs the property's useful life, or adapts it for a new use, such as installing a new roof or upgrading a kitchen. Capital improvements are depreciated over several years. The distinction is crucial because it affects how and when you can deduct these expenses from your taxes, impacting your cash flow and tax liability.",
+        "@type": "Answer",
+        "description": "Repairs maintain a property and are expensed immediately, while capital improvements add value or extend life and are depreciated over time."
+      }
+    }
+  ],
+  "description": "Repairs maintain a property and are expensed immediately, while capital improvements add value or extend life and are depreciated over time."
+}

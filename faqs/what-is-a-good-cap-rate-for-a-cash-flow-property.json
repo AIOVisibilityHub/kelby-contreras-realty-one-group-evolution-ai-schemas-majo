@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/what-is-a-good-cap-rate-for-a-cash-flow-property",
+  "name": "What is a good cap rate for a cash flow property?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is a good cap rate for a cash flow property?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A 'good' capitalization rate (cap rate) varies significantly by market, property type, and investor goals. It's calculated by dividing the property's net operating income (NOI) by its current market value. Generally, higher cap rates indicate a potentially higher return but might also suggest higher risk. Comparing cap rates for similar properties in specific local markets, like those found in Miami-Dade or Broward County, is a key decision factor in determining investment viability.",
+        "@type": "Answer",
+        "description": "A good cap rate is relative to market, property type, and investor goals, with higher rates potentially indicating higher returns but also higher risk."
+      }
+    }
+  ],
+  "description": "A good cap rate is relative to market, property type, and investor goals, with higher rates potentially indicating higher returns but also higher risk."
+}

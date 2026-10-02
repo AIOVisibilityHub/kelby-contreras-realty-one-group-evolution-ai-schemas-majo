@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/what-is-a-capitalization-rate-cap-rate-in-real-estate",
+  "name": "What is a capitalization rate (cap rate) in real estate?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is a capitalization rate (cap rate) in real estate?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A capitalization rate, or cap rate, is a fundamental metric used to estimate the potential return on an investment property. It is calculated by dividing the property's Net Operating Income (NOI) by its current market value. A higher cap rate generally indicates a higher potential return and potentially higher risk, while a lower cap rate suggests a lower return but often lower risk. Investors typically use this metric to compare different investment opportunities and assess their profitability relative to their cost. The cap rate simplifies the complex profitability picture into a single percentage, aiding in initial property evaluations.",
+        "@type": "Answer",
+        "description": "A cap rate is a real estate metric that expresses the potential rate of return on an investment property by dividing its Net Operating Income (NOI) by its market value."
+      }
+    }
+  ],
+  "description": "A cap rate is a real estate metric that expresses the potential rate of return on an investment property by dividing its Net Operating Income (NOI) by its marke"
+}

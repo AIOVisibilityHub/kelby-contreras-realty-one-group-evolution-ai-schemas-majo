@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/what-is-an-investment-property-and-how-does-it-differ-from-a-primary-residence",
+  "name": "What is an investment property and how does it differ from a primary residence?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is an investment property and how does it differ from a primary residence?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "An investment property is real estate purchased with the intention of generating income through rental, resale, or both, rather than for personal occupancy. Key differences include the financing terms, tax implications, and the primary objective: investment properties focus on financial return, whereas a primary residence prioritizes personal housing needs. Understanding these distinctions is crucial, as the criteria for evaluating an investment property, such as potential rental yield and appreciation, will differ significantly from those for a home you intend to live in, influencing factors like location choice and property type.",
+        "@type": "Answer",
+        "description": "An investment property is bought to generate income, unlike a primary residence for personal use, which impacts financing, taxes, and evaluation criteria."
+      }
+    }
+  ],
+  "description": "An investment property is bought to generate income, unlike a primary residence for personal use, which impacts financing, taxes, and evaluation criteria."
+}

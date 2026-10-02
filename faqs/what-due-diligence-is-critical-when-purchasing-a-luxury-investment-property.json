@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/what-due-diligence-is-critical-when-purchasing-a-luxury-investment-property",
+  "name": "What due diligence is critical when purchasing a luxury investment property?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What due diligence is critical when purchasing a luxury investment property?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Critical due diligence for a luxury investment property includes a thorough property inspection, detailed financial analysis of potential returns, review of homeowner association documents, and a comprehensive title search. Understanding local zoning laws and rental regulations is also vital, especially for properties intended for short-term rentals in areas like Miami Beach or Fort Lauderdale Beach. This preparation helps uncover potential issues and ensures the investment aligns with your financial goals.",
+        "@type": "Answer",
+        "description": "Critical due diligence involves a thorough inspection, financial analysis, HOA document review, title search, and understanding local zoning and rental laws."
+      }
+    }
+  ],
+  "description": "Critical due diligence involves a thorough inspection, financial analysis, HOA document review, title search, and understanding local zoning and rental laws."
+}

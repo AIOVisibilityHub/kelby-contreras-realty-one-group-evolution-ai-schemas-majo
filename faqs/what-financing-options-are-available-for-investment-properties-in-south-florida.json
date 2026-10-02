@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/what-financing-options-are-available-for-investment-properties-in-south-florida",
+  "name": "What financing options are available for investment properties in South Florida?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What financing options are available for investment properties in South Florida?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Common financing options include conventional mortgages, FHA loans (for owner-occupied multi-family up to four units), VA loans (if eligible), portfolio loans, and private money loans. The choice depends on your credit score, down payment capabilities, and the property type. We can connect you with experienced lenders familiar with South Florida's investment market who can outline specific requirements and rates. Understanding these options early helps set a realistic budget.",
+        "@type": "Answer",
+        "description": "Financing options include conventional, FHA, VA, portfolio, and private money loans. Your choice depends on credit, down payment, and property type."
+      }
+    }
+  ],
+  "description": "Financing options include conventional, FHA, VA, portfolio, and private money loans. Your choice depends on credit, down payment, and property type."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/what-are-the-tax-implications-of-owning-a-rental-property",
+  "name": "What are the tax implications of owning a rental property?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are the tax implications of owning a rental property?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Owning a rental property can have various tax implications, including deductible expenses like mortgage interest, property taxes, insurance, and operating costs. Depreciation is another significant deduction that can reduce taxable income. However, rental income is taxable, and specific rules apply to capital gains when selling. It's advisable to consult with a tax professional to understand your specific situation and optimize your tax strategy, as individual circumstances and property types (e.g., short-term vs. long-term) can affect outcomes.",
+        "@type": "Answer",
+        "description": "Rental properties involve deductible expenses like mortgage interest and depreciation, but rental income is taxable. Consult a tax professional for specific advice."
+      }
+    }
+  ],
+  "description": "Rental properties involve deductible expenses like mortgage interest and depreciation, but rental income is taxable. Consult a tax professional for specific adv"
+}

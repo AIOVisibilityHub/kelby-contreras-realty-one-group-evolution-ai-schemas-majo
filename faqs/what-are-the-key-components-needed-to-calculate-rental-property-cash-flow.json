@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/what-are-the-key-components-needed-to-calculate-rental-property-cash-flow",
+  "name": "What are the key components needed to calculate rental property cash flow?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are the key components needed to calculate rental property cash flow?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "To calculate rental property cash flow, you need to consider gross rental income, operating expenses, and debt service. Gross rental income includes all rent collected. Operating expenses cover property taxes, insurance, maintenance, vacancies, property management fees, and utilities not paid by tenants. Debt service is your monthly mortgage payment (principal and interest). Gathering accurate figures for all these components is a preparation step that is critical for obtaining a realistic cash flow projection, especially when evaluating diverse properties across different Florida counties where taxes and insurance can vary.",
+        "@type": "Answer",
+        "description": "Key components for cash flow calculation include gross rental income, operating expenses (taxes, insurance, maintenance, vacancies), and mortgage payments."
+      }
+    }
+  ],
+  "description": "Key components for cash flow calculation include gross rental income, operating expenses (taxes, insurance, maintenance, vacancies), and mortgage payments."
+}

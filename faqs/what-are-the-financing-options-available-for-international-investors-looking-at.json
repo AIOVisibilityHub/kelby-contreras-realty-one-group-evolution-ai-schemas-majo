@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/what-are-the-financing-options-available-for-international-investors-looking-at",
+  "name": "What are the financing options available for international investors looking at Miami properties?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are the financing options available for international investors looking at Miami properties?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "International investors can pursue various financing options for Miami properties, including specialized foreign national mortgage programs, private lenders, or cash purchases. These programs often require a larger down payment and may have stricter eligibility criteria compared to domestic loans. A practical tradeoff is that while a cash purchase simplifies the transaction and avoids interest payments, it ties up a significant amount of capital. Mortgages allow leverage but introduce interest costs and a more complex approval process. Evaluating your capital availability and desired leverage is key.",
+        "@type": "Answer",
+        "description": "International investors can use foreign national mortgages, private lenders, or cash. Mortgages offer leverage but cash simplifies the process and avoids interest."
+      }
+    }
+  ],
+  "description": "International investors can use foreign national mortgages, private lenders, or cash. Mortgages offer leverage but cash simplifies the process and avoids intere"
+}

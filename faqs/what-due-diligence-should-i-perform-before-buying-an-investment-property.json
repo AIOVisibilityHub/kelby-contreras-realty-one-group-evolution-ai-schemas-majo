@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/what-due-diligence-should-i-perform-before-buying-an-investment-property",
+  "name": "What due diligence should I perform before buying an investment property?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What due diligence should I perform before buying an investment property?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Before buying an investment property, thoroughly research the local market, including rental rates, vacancy rates, and comparable sales. A property inspection is crucial to identify potential repair costs, and reviewing leases if the property is already tenant-occupied is essential. For properties in areas like Key Biscayne or Fisher Island, understanding HOA rules, fees, and potential special assessments is a key preparation step. Kelby Contreras assists clients in navigating these due diligence steps to ensure informed decisions.",
+        "@type": "Answer",
+        "description": "Perform due diligence by researching the local market, conducting a property inspection, and reviewing leases and HOA documents."
+      }
+    }
+  ],
+  "description": "Perform due diligence by researching the local market, conducting a property inspection, and reviewing leases and HOA documents."
+}

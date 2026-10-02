@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/how-long-does-it-typically-take-to-find-and-close-on-a-rental-investment-propert",
+  "name": "How long does it typically take to find and close on a rental investment property?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does it typically take to find and close on a rental investment property?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The timeline to find and close on a rental investment property varies, usually ranging from a few weeks to several months. Finding the right property depends on market availability and your specific criteria. The closing process typically takes 30-60 days once an offer is accepted, influenced by loan processing, inspections, and appraisals. Market conditions in areas like Broward County or Palm Beach County can influence how quickly properties are secured, requiring swift action on desirable listings. Kelby Contreras guides clients through each stage to streamline the process.",
+        "@type": "Answer",
+        "description": "Finding and closing on a rental property typically takes a few weeks to several months, with closing itself often taking 30-60 days."
+      }
+    }
+  ],
+  "description": "Finding and closing on a rental property typically takes a few weeks to several months, with closing itself often taking 30-60 days."
+}

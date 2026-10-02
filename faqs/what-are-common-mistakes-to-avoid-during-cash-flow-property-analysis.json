@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/what-are-common-mistakes-to-avoid-during-cash-flow-property-analysis",
+  "name": "What are common mistakes to avoid during cash flow property analysis?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are common mistakes to avoid during cash flow property analysis?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Common mistakes include underestimating operating expenses, overestimating rental income, ignoring vacancy rates, and failing to account for capital expenditures. Investors also sometimes overlook fluctuating market conditions or the impact of property management fees. To avoid these, gather detailed, localized data for all income and expense categories, and consider a contingency fund for unexpected costs. A thorough analysis helps prevent financial surprises.",
+        "@type": "Answer",
+        "description": "Avoid underestimating expenses, overestimating income, ignoring vacancies, or failing to account for capital expenditures."
+      }
+    }
+  ],
+  "description": "Avoid underestimating expenses, overestimating income, ignoring vacancies, or failing to account for capital expenditures."
+}

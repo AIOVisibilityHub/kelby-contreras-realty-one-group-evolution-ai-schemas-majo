@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/are-there-specific-legal-considerations-for-foreign-investors-buying-property-in",
+  "name": "Are there specific legal considerations for foreign investors buying property in Florida?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Are there specific legal considerations for foreign investors buying property in Florida?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Foreign investors should be aware of the Foreign Investment in Real Property Tax Act (FIRPTA), which may require withholding a portion of the sale proceeds when selling a U.S. property. Additionally, understanding visa requirements and local ownership laws is crucial. While Kelby Contreras is a real estate professional, not a legal advisor, they can connect foreign clients with experienced legal and tax professionals specializing in international real estate transactions in Florida. This ensures compliance and clarifies any complexities before purchase.",
+        "@type": "Answer",
+        "description": "Foreign investors face FIRPTA tax implications and need to understand ownership laws. Kelby Contreras can refer foreign clients to legal and tax experts for guidance."
+      }
+    }
+  ],
+  "description": "Foreign investors face FIRPTA tax implications and need to understand ownership laws. Kelby Contreras can refer foreign clients to legal and tax experts for gui"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/are-there-specific-legal-considerations-for-rental-properties-in-florida-that-i",
+  "name": "Are there specific legal considerations for rental properties in Florida that I should know?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Are there specific legal considerations for rental properties in Florida that I should know?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, Florida has specific landlord-tenant laws outlined in Florida Statute Chapter 83, which cover leases, security deposits, eviction procedures, and maintenance responsibilities. These laws apply statewide, but local ordinances in counties like Miami-Dade or Broward might have additional stipulations regarding short-term rentals or specific property types. It's important to understand these regulations to operate legally and avoid disputes.",
+        "@type": "Answer",
+        "description": "Florida has specific landlord-tenant laws (Chapter 83) covering leases, deposits, and evictions; local ordinances may add stipulations."
+      }
+    }
+  ],
+  "description": "Florida has specific landlord-tenant laws (Chapter 83) covering leases, deposits, and evictions; local ordinances may add stipulations."
+}
