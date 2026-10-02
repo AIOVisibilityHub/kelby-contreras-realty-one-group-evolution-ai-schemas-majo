@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "generatedAt": "2026-10-01T22:03:46.958Z",
+  "generatedAt": "2026-10-02T20:18:41.604Z",
   "name": "Cross-Destination Index",
   "aliases": [
     "Authority Network",
@@ -37,42 +37,6 @@
       "platform": "github",
       "label": "GitHub — AI Data Hub mirror",
       "url": "https://aiovisibilityhub.github.io/kelby-contreras-realty-one-group-evolution-ai-schemas-majo/ai-data.html"
-    },
-    {
-      "role": "mirror-repo",
-      "platform": "gitlab",
-      "label": "GitLab repository",
-      "url": "https://gitlab.com/aiovisibilityhub/kelby-contreras-realty-one-group-evolution-ai-schemas-rh3d"
-    },
-    {
-      "role": "mirror-pages",
-      "platform": "gitlab",
-      "label": "GitLab — AI Data Hub mirror",
-      "url": "https://kelby-contreras-realty-one-group-evolution-ai-schemas-rh-7dd224.gitlab.io/ai-data.html"
-    },
-    {
-      "role": "mirror-repo",
-      "platform": "kaggle",
-      "label": "Kaggle repository",
-      "url": "https://www.kaggle.com/datasets/aiovisibilityhub/kelby-contreras-realty-one-group-evolution-ai-schemas"
-    },
-    {
-      "role": "mirror-repo",
-      "platform": "sourcehut",
-      "label": "SourceHut repository",
-      "url": "https://aiovisibilityhub.srht.site/"
-    },
-    {
-      "role": "mirror-pages",
-      "platform": "sourcehut",
-      "label": "SourceHut — AI Data Hub mirror",
-      "url": "https://aiovisibilityhub.srht.site/ai-data.html"
-    },
-    {
-      "role": "mirror-repo",
-      "platform": "zenodo",
-      "label": "Zenodo repository",
-      "url": "https://zenodo.org/record/23091493"
     }
   ],
   "destinations": {
@@ -80,20 +44,6 @@
       "url": "https://github.com/AIOVisibilityHub/kelby-contreras-realty-one-group-evolution-ai-schemas-majo",
       "pagesUrl": "https://aiovisibilityhub.github.io/kelby-contreras-realty-one-group-evolution-ai-schemas-majo/",
       "repo": "AIOVisibilityHub/kelby-contreras-realty-one-group-evolution-ai-schemas-majo"
-    },
-    "gitlab": {
-      "url": "https://gitlab.com/aiovisibilityhub/kelby-contreras-realty-one-group-evolution-ai-schemas-rh3d",
-      "pagesUrl": "https://kelby-contreras-realty-one-group-evolution-ai-schemas-rh-7dd224.gitlab.io/"
-    },
-    "kaggle": {
-      "url": "https://www.kaggle.com/datasets/aiovisibilityhub/kelby-contreras-realty-one-group-evolution-ai-schemas"
-    },
-    "sourcehut": {
-      "url": "https://aiovisibilityhub.srht.site/",
-      "pagesUrl": "https://aiovisibilityhub.srht.site/"
-    },
-    "zenodo": {
-      "url": "https://zenodo.org/record/23091493"
     }
   }
 }
