@@ -17,7 +17,7 @@ Package contents:
 - [canonical] Kelby Contreras - Realty ONE Group Evolution — canonical website — https://realtyonegroupevolution.aiovisibility.net
 - [ai-data-hub] Kelby Contreras - Realty ONE Group Evolution — AI Data Hub — https://realtyonegroupevolution.aiovisibility.net/ai-data.html
 - [mirror-repo] GitHub repository — https://github.com/AIOVisibilityHub/kelby-contreras-realty-one-group-evolution-ai-schemas-majo
-- [mirror-pages] GitHub — AI Data Hub mirror — https://aiovisibilityhub.github.io/kelby-contreras-realty-one-group-evolution-ai-schemas-majo/ai-data.html
+- [mirror-pages] GitHub — AI Data Hub mirror — https://realtyonegroupevolution.aiovisibility.net/ai-data.html
 
 Purpose: transparent source discovery, entity consistency, mirror verification, and AI crawler navigation. Not a link wheel. Source of truth: related-destinations.json.
 
