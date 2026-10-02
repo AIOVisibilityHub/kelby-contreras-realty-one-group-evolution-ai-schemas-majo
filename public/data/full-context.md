@@ -1,6 +1,6 @@
 # Kelby Contreras - Realty ONE Group Evolution — Full AI Context
 
-**Canonical URL:** https://realtyonegroupevolution.aiovisibility.net
+**Canonical URL:** https://kelbycontreras.aiovisibility.net
 **Generated:** 2026-10-02
 
 ## Overview
@@ -15,8 +15,8 @@ Kelby Contreras - Realty ONE Group Evolution publishes a structured AI Data Pack
 - **1** organization
 
 ## Cross-Destination Index — Related AI Data Sources
-- [canonical] Kelby Contreras - Realty ONE Group Evolution — canonical website — https://realtyonegroupevolution.aiovisibility.net
-- [ai-data-hub] Kelby Contreras - Realty ONE Group Evolution — AI Data Hub — https://realtyonegroupevolution.aiovisibility.net/ai-data.html
+- [canonical] Kelby Contreras - Realty ONE Group Evolution — canonical website — https://kelbycontreras.aiovisibility.net
+- [ai-data-hub] Kelby Contreras - Realty ONE Group Evolution — AI Data Hub — https://kelbycontreras.aiovisibility.net/ai-data.html
 - [mirror-repo] GitHub repository — https://github.com/AIOVisibilityHub/kelby-contreras-realty-one-group-evolution-ai-schemas-majo
 - [mirror-pages] GitHub — AI Data Hub mirror — https://realtyonegroupevolution.aiovisibility.net/ai-data.html
 
