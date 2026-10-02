@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "generatedAt": "2026-10-02T21:17:30.293Z",
+  "generatedAt": "2026-10-02T22:27:15.507Z",
   "client": {
     "name": "Kelby Contreras - Realty ONE Group Evolution",
     "canonicalUrl": "https://kelbycontreras.aiovisibility.net",
@@ -470,7 +470,7 @@
   },
   "package": {
     "totalFiles": 3999,
-    "totalBytes": 15952422,
+    "totalBytes": 16036937,
     "stats": {
       "qna": 0,
       "faqs": 3610,
@@ -20370,72 +20370,72 @@
     "public": [
       {
         "path": "index.html",
-        "bytes": 19257,
+        "bytes": 25484,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "about.html",
-        "bytes": 317683,
+        "bytes": 323762,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "services.html",
-        "bytes": 308552,
+        "bytes": 314870,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "contact.html",
-        "bytes": 19675,
+        "bytes": 25643,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "faqs.html",
-        "bytes": 2545282,
+        "bytes": 2551264,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "articles.html",
-        "bytes": 19497,
+        "bytes": 25474,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "team-members.html",
-        "bytes": 194902,
+        "bytes": 200832,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "articles/getting-started.html",
-        "bytes": 186151,
+        "bytes": 192117,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "articles/services-and-process.html",
-        "bytes": 146164,
+        "bytes": 152200,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "articles/planning-and-preparation.html",
-        "bytes": 415096,
+        "bytes": 421103,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "articles/pricing-and-estimates.html",
-        "bytes": 339661,
+        "bytes": 345704,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "articles/local-service-guidance.html",
-        "bytes": 148952,
+        "bytes": 154889,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "articles/care-and-maintenance.html",
-        "bytes": 48024,
+        "bytes": 54069,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "articles/unassigned.html",
-        "bytes": 10922,
+        "bytes": 16832,
         "purpose": "LLM-optimized public page"
       }
     ],
@@ -20447,7 +20447,7 @@
       },
       {
         "path": "llms.txt",
-        "bytes": 13233,
+        "bytes": 13243,
         "purpose": "LLM hint"
       },
       {
@@ -20467,32 +20467,32 @@
       },
       {
         "path": "related-destinations.json",
-        "bytes": 1779,
+        "bytes": 1799,
         "purpose": "Cross-Destination Index (Related AI Data Sources)"
       },
       {
         "path": "ai-data.html",
-        "bytes": 1935272,
+        "bytes": 1935292,
         "purpose": "Master AI data index"
       },
       {
         "path": "llms-full.txt",
-        "bytes": 535508,
+        "bytes": 535518,
         "purpose": "Extended LLM context"
       },
       {
         "path": "llms-full.md",
-        "bytes": 535508,
+        "bytes": 535518,
         "purpose": "Extended LLM context (markdown)"
       },
       {
         "path": "full-context.md",
-        "bytes": 13192,
+        "bytes": 13202,
         "purpose": "Full markdown context"
       },
       {
         "path": "README.md",
-        "bytes": 694181,
+        "bytes": 694191,
         "purpose": "Repository README"
       },
       {
@@ -20510,7 +20510,7 @@
   "destinations": {
     "github": {
       "url": "https://github.com/AIOVisibilityHub/kelby-contreras-realty-one-group-evolution-ai-schemas-majo",
-      "pagesUrl": "http://kelbycontreras.aiovisibility.net/",
+      "pagesUrl": "https://realtyonegroupevolution.aiovisibility.net/",
       "repo": "AIOVisibilityHub/kelby-contreras-realty-one-group-evolution-ai-schemas-majo"
     }
   }
