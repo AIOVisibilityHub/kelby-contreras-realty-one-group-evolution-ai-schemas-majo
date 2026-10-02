@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/what-specific-preparations-should-i-make-before-listing-my-waterfront-home-for-s",
+  "name": "What specific preparations should I make before listing my waterfront home for sale?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What specific preparations should I make before listing my waterfront home for sale?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Before listing your waterfront home, consider having a professional inspection of your seawall, dock, and any marine structures to identify potential issues. Buyers will often inquire about these critical components, so having recent maintenance records or inspection reports readily available can expedite the sale. You should also ensure clear title to any submerged land or dock rights. This preparation can provide process clarity by addressing potential buyer concerns upfront.",
+        "@type": "Answer",
+        "description": "Prepare by inspecting seawalls, docks, and marine structures, and gather maintenance records. Ensure clear title to any submerged land rights."
+      }
+    }
+  ],
+  "description": "Prepare by inspecting seawalls, docks, and marine structures, and gather maintenance records. Ensure clear title to any submerged land rights."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/what-is-the-role-of-an-itin-for-foreign-real-estate-buyers",
+  "name": "What is the role of an ITIN for foreign real estate buyers?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the role of an ITIN for foreign real estate buyers?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "An Individual Taxpayer Identification Number (ITIN) is a tax processing number issued by the IRS to individuals who are required to have a U.S. taxpayer identification number but who do not have, and are not eligible to obtain, a Social Security number. For foreign nationals, an ITIN is often necessary for various real estate transactions, including filing tax returns related to rental income or FIRPTA exemptions. Obtaining an ITIN is a process that often precedes or runs concurrently with property acquisition.",
+        "@type": "Answer",
+        "description": "An ITIN is an IRS tax processing number for foreign nationals needed for real estate tax filings, like rental income or FIRPTA."
+      }
+    }
+  ],
+  "description": "An ITIN is an IRS tax processing number for foreign nationals needed for real estate tax filings, like rental income or FIRPTA."
+}

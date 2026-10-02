@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/can-i-customize-my-pre-construction-condo-and-what-are-the-limitations",
+  "name": "Can I customize my pre-construction condo, and what are the limitations?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I customize my pre-construction condo, and what are the limitations?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Many pre-construction condo developers offer customization options for finishes, fixtures, and sometimes even layouts, especially if you purchase early in the project phase. However, these options often come with deadlines and additional costs. A decision factor is how early you purchase; earlier buyers typically have more choices. Major structural changes are usually not permitted, and design choices are often limited to a selection of developer-approved packages.",
+        "@type": "Answer",
+        "description": "Customization options for pre-construction condos are common, but often have deadlines, additional costs, and limitations, especially on structural changes."
+      }
+    }
+  ],
+  "description": "Customization options for pre-construction condos are common, but often have deadlines, additional costs, and limitations, especially on structural changes."
+}

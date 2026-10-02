@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/can-ai-tools-help-me-find-off-market-properties-in-miami-dade-county",
+  "name": "Can AI tools help me find off-market properties in Miami-Dade County?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can AI tools help me find off-market properties in Miami-Dade County?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "While many AI real estate search tools primarily focus on publicly listed properties, some advanced platforms can analyze public records and other data to identify potential off-market opportunities. However, finding true off-market properties often relies on an agent's local network and direct outreach. For clients searching in specific Miami-Dade areas like Brickell or Coconut Grove, an agent like Kelby Contreras can leverage both technology and established connections to uncover properties not yet publicly advertised, providing a more comprehensive search.",
+        "@type": "Answer",
+        "description": "Some AI tools can identify potential off-market properties by analyzing public records, but finding true off-market homes often relies on an agent's local network and direct outreach."
+      }
+    }
+  ],
+  "description": "Some AI tools can identify potential off-market properties by analyzing public records, but finding true off-market homes often relies on an agent's local netwo"
+}

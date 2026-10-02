@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/how-do-i-determine-the-right-asking-price-for-my-luxury-condo",
+  "name": "How do I determine the right asking price for my luxury condo?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do I determine the right asking price for my luxury condo?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Determining the right asking price involves a detailed comparative market analysis (CMA) of recently sold luxury condos in your specific area, such as Aventura or Key Biscayne. Factors like property features, amenities, view, and recent market trends are crucial. A professional real estate advisor, like Kelby Contreras, can provide an expert valuation, considering unique aspects of your condo and local market conditions to optimize your pricing strategy.",
+        "@type": "Answer",
+        "description": "The right asking price for a luxury condo is determined through a comparative market analysis (CMA), evaluating recent sales, property features, and market trends. A real estate advisor can provide an expert valuation."
+      }
+    }
+  ],
+  "description": "The right asking price for a luxury condo is determined through a comparative market analysis (CMA), evaluating recent sales, property features, and market tren"
+}

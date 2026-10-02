@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/should-i-make-renovations-before-selling-my-home",
+  "name": "Should I make renovations before selling my home?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Should I make renovations before selling my home?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Deciding whether to renovate before selling depends on the potential return on investment and the current condition of your home. Minor updates, like fresh paint or updated fixtures, often yield a good return. Major renovations may not always recoup their cost, especially if they don't align with local buyer preferences in areas like Coconut Grove or Pinecrest. Kelby Contreras can advise on cost-effective improvements that appeal to buyers in your specific market.",
+        "@type": "Answer",
+        "description": "Renovations before selling should focus on return on investment; minor updates often yield better results than major ones. Kelby Contreras can advise on impactful improvements for your market."
+      }
+    }
+  ],
+  "description": "Renovations before selling should focus on return on investment; minor updates often yield better results than major ones. Kelby Contreras can advise on impactf"
+}

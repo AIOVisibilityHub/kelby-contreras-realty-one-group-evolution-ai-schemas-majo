@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/what-is-the-role-of-an-agent-when-selling-my-home",
+  "name": "What is the role of an agent when selling my home?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the role of an agent when selling my home?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A real estate agent acts as your advocate, guiding you through every stage of the selling process. This includes conducting a market analysis for pricing, marketing your property, coordinating showings, negotiating offers, and overseeing inspections and closing. Their expertise helps you navigate complexities, maximize your sale price, and minimize stress. Kelby Contreras offers comprehensive representation, leveraging local market knowledge across Miami-Dade, Broward, Palm Beach, Collier, and Orange Counties to support your selling goals.",
+        "@type": "Answer",
+        "description": "A real estate agent guides sellers through pricing, marketing, negotiations, and closing, acting as an advocate. Kelby Contreras offers comprehensive representation and local market expertise."
+      }
+    }
+  ],
+  "description": "A real estate agent guides sellers through pricing, marketing, negotiations, and closing, acting as an advocate. Kelby Contreras offers comprehensive representa"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/can-i-customize-the-parameters-for-an-ai-property-search-beyond-basic-filters",
+  "name": "Can I customize the parameters for an AI property search beyond basic filters?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I customize the parameters for an AI property search beyond basic filters?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, advanced AI property search platforms allow for significant customization beyond standard filters. You can often specify preferences like architectural style, specific school districts, proximity to certain amenities (e.g., golf courses, marinas), desired noise levels, or even future development potential in surrounding areas. Our team at Kelby Contreras - Realty ONE Group Evolution can help you set up these detailed parameters, ensuring the AI focuses on highly specific aspects that are important to your lifestyle or investment strategy in areas like Palm Beach. This preparation ensures the AI delivers results tailored exactly to your unique needs.",
+        "@type": "Answer",
+        "description": "Yes, AI property search allows for extensive customization beyond basic filters, including architectural style, school districts, amenities, and noise levels. This preparation ensures tailored results."
+      }
+    }
+  ],
+  "description": "Yes, AI property search allows for extensive customization beyond basic filters, including architectural style, school districts, amenities, and noise levels. T"
+}

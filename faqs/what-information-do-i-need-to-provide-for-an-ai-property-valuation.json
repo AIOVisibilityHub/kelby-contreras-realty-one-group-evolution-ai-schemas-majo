@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/what-information-do-i-need-to-provide-for-an-ai-property-valuation",
+  "name": "What information do I need to provide for an AI property valuation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What information do I need to provide for an AI property valuation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "For an AI property valuation, you typically need to provide the property's address. The AI system then pulls data from public records and other databases. However, to enhance accuracy, it's helpful to have additional details ready, such as the number of bedrooms and bathrooms, square footage, lot size, and any significant renovations or upgrades not publicly recorded. This preparation helps ensure the AI considers all relevant factors for an accurate estimate, especially for unique homes in areas like Key Biscayne.",
+        "@type": "Answer",
+        "description": "You need the property address for an AI valuation; providing details like bedrooms, square footage, and renovations can improve accuracy."
+      }
+    }
+  ],
+  "description": "You need the property address for an AI valuation; providing details like bedrooms, square footage, and renovations can improve accuracy."
+}

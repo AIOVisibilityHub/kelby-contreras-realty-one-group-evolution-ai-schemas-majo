@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/what-costs-are-involved-when-selling-my-home",
+  "name": "What costs are involved when selling my home?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What costs are involved when selling my home?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "When selling your home, common costs include real estate agent commissions, closing costs such as title insurance and escrow fees, and potential repair costs identified during inspections. Depending on your sale agreement, you might also contribute to the buyer's closing costs. Preparing for these expenses in advance helps avoid surprises during the transaction. Kelby Contreras can provide an estimate of potential costs specific to your sale during an initial consultation.",
+        "@type": "Answer",
+        "description": "Selling costs typically include agent commissions, closing costs like title insurance, and potential repair expenses. Kelby Contreras can provide an estimate of these costs."
+      }
+    }
+  ],
+  "description": "Selling costs typically include agent commissions, closing costs like title insurance, and potential repair expenses. Kelby Contreras can provide an estimate of"
+}

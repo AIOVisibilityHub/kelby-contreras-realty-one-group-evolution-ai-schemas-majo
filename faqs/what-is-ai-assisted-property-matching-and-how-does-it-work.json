@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/what-is-ai-assisted-property-matching-and-how-does-it-work",
+  "name": "What is AI-assisted property matching and how does it work?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is AI-assisted property matching and how does it work?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "AI-assisted property matching uses artificial intelligence to analyze your preferences, budget, and desired locations, then compares this data against a vast database of available properties. This technology identifies properties that closely align with your criteria, often uncovering options you might not find through traditional search methods. For our clients in Miami-Dade, Broward, Palm Beach, Collier, and Orange Counties, this means a more efficient and personalized search experience, allowing you to focus on properties that genuinely fit your lifestyle.",
+        "@type": "Answer",
+        "description": "AI-assisted property matching uses artificial intelligence to analyze your preferences and available properties to find the best matches. It provides a more efficient and personalized property search."
+      }
+    }
+  ],
+  "description": "AI-assisted property matching uses artificial intelligence to analyze your preferences and available properties to find the best matches. It provides a more eff"
+}

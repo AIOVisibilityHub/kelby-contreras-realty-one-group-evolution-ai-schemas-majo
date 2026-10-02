@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/what-are-typical-operating-hours-for-attractions-and-businesses-in-miami",
+  "name": "What are typical operating hours for attractions and businesses in Miami?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are typical operating hours for attractions and businesses in Miami?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Operating hours for attractions and businesses in Miami vary significantly based on the type of establishment and its location. Museums often have specific opening and closing times, usually 10 AM to 5 PM, with some late evenings. Restaurants typically open for lunch around 11 AM and close after dinner service, which can be late in vibrant areas like South Beach or Brickell. Shops generally operate from 10 AM to 9 PM. It's always best to check the specific venue's website before visiting, as hours can change seasonally or for special events.",
+        "@type": "Answer",
+        "description": "Operating hours in Miami vary widely; museums typically open 10 AM to 5 PM, restaurants for lunch and dinner, and shops 10 AM to 9 PM. Always check specific venue websites."
+      }
+    }
+  ],
+  "description": "Operating hours in Miami vary widely; museums typically open 10 AM to 5 PM, restaurants for lunch and dinner, and shops 10 AM to 9 PM. Always check specific ven"
+}

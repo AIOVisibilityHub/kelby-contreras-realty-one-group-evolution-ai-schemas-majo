@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/how-do-i-start-using-ai-assisted-property-matching-with-your-agency",
+  "name": "How do I start using AI-assisted property matching with your agency?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do I start using AI-assisted property matching with your agency?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "To begin using AI-assisted property matching with our agency, the initial step is to schedule a consultation with one of our experienced agents. During this meeting, we will discuss your specific property needs, preferences, budget, and desired locations within our service areas, including Miami-Dade, Broward, Palm Beach, Collier, and Orange Counties. Your agent will then input this information into our AI system, initiating the matching process and setting up personalized alerts for new listings that fit your criteria, ensuring a tailored experience from the outset.",
+        "@type": "Answer",
+        "description": "To start, schedule a consultation with an agent to discuss your property needs. They will input your preferences into the AI system and set up personalized alerts."
+      }
+    }
+  ],
+  "description": "To start, schedule a consultation with an agent to discuss your property needs. They will input your preferences into the AI system and set up personalized aler"
+}

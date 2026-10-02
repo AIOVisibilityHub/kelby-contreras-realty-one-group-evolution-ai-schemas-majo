@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/what-is-a-relocation-buyer-guide",
+  "name": "What is a relocation buyer guide?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is a relocation buyer guide?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A relocation buyer guide is a comprehensive resource designed to assist individuals and families moving to a new area. It typically includes information on local neighborhoods, schools, amenities, housing market trends, and the home buying process. Our guides for areas like Miami-Dade, Broward, Palm Beach, Collier, and Orange Counties provide specific insights into these diverse regions, helping you understand the unique characteristics of each community.",
+        "@type": "Answer",
+        "description": "A relocation buyer guide is a comprehensive resource that helps individuals and families moving to a new area by providing information on neighborhoods, schools, housing, and the home buying process."
+      }
+    }
+  ],
+  "description": "A relocation buyer guide is a comprehensive resource that helps individuals and families moving to a new area by providing information on neighborhoods, schools"
+}

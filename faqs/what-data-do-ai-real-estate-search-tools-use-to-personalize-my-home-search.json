@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/what-data-do-ai-real-estate-search-tools-use-to-personalize-my-home-search",
+  "name": "What data do AI real estate search tools use to personalize my home search?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What data do AI real estate search tools use to personalize my home search?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "AI real estate search tools typically use a combination of criteria you provide, such as desired location, price range, number of bedrooms, and property type, along with your search history and interactions with listings. They might also incorporate external data like neighborhood demographics, school ratings, and local amenities. To maximize the effectiveness of these tools, preparation is key: clearly define your priorities and preferences, and consistently update your feedback on properties to refine the AI's understanding of your ideal home.",
+        "@type": "Answer",
+        "description": "AI tools use your search criteria, history, and external data like neighborhood demographics to personalize your home search. Clearly defining preferences and providing feedback refines their accuracy."
+      }
+    }
+  ],
+  "description": "AI tools use your search criteria, history, and external data like neighborhood demographics to personalize your home search. Clearly defining preferences and p"
+}

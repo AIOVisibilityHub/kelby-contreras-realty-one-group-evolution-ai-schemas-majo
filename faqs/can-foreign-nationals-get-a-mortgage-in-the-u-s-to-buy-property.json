@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/can-foreign-nationals-get-a-mortgage-in-the-u-s-to-buy-property",
+  "name": "Can foreign nationals get a mortgage in the U.S. to buy property?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can foreign nationals get a mortgage in the U.S. to buy property?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, foreign nationals can typically obtain a mortgage in the U.S., but the process differs from that for U.S. citizens. Lenders often require a larger down payment, usually 20-40%, and may have stricter eligibility criteria, such as a higher credit score or substantial financial reserves. Kelby Contreras - Realty ONE Group Evolution can connect buyers with lenders experienced in foreign national loans to explore suitable options in Florida.",
+        "@type": "Answer",
+        "description": "Yes, foreign nationals can get a mortgage, but generally require larger down payments and meet specific lender criteria."
+      }
+    }
+  ],
+  "description": "Yes, foreign nationals can get a mortgage, but generally require larger down payments and meet specific lender criteria."
+}

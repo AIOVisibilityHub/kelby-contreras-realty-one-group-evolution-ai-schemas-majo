@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/what-are-the-common-financing-options-for-purchasing-an-investment-property",
+  "name": "What are the common financing options for purchasing an investment property?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are the common financing options for purchasing an investment property?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Common financing options for investment properties include conventional loans, portfolio loans, and private money loans. Conventional loans typically require a larger down payment and have stricter approval criteria than primary residence mortgages due to higher perceived risk. When considering options, you should compare interest rates, down payment requirements, and repayment terms. A practical tradeoff is balancing a lower interest rate with a potentially higher down payment, as lenders often view investment properties as higher risk and adjust terms accordingly.",
+        "@type": "Answer",
+        "description": "Financing options for investment properties include conventional, portfolio, and private money loans, often requiring larger down payments and having stricter terms than primary residence mortgages."
+      }
+    }
+  ],
+  "description": "Financing options for investment properties include conventional, portfolio, and private money loans, often requiring larger down payments and having stricter t"
+}

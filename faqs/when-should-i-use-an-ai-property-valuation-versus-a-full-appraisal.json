@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/when-should-i-use-an-ai-property-valuation-versus-a-full-appraisal",
+  "name": "When should I use an AI property valuation versus a full appraisal?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When should I use an AI property valuation versus a full appraisal?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You should use an AI property valuation for preliminary research, to get a quick estimate before listing your home, or to understand market trends in specific areas like Palm Beach or Orange County. It's ideal for homeowners curious about their property's current worth or potential buyers conducting initial due diligence. A full appraisal is necessary when securing a mortgage, refinancing, settling an estate, or for any transaction requiring a legally recognized and detailed property assessment.",
+        "@type": "Answer",
+        "description": "Use AI valuation for quick estimates or preliminary research; opt for a full appraisal when a legally recognized valuation is required for transactions like mortgages."
+      }
+    }
+  ],
+  "description": "Use AI valuation for quick estimates or preliminary research; opt for a full appraisal when a legally recognized valuation is required for transactions like mor"
+}

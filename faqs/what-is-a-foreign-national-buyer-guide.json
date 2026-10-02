@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/what-is-a-foreign-national-buyer-guide",
+  "name": "What is a Foreign National Buyer Guide?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is a Foreign National Buyer Guide?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A Foreign National Buyer Guide is a resource designed to help individuals who are not U.S. citizens or permanent residents understand the process of purchasing real estate in the United States. It outlines specific considerations for international buyers, such as visa requirements, tax implications, financing options, and legal procedures that differ from those for domestic buyers. Kelby Contreras - Realty ONE Group Evolution provides these guides to clarify the unique steps involved in buying property in Florida.",
+        "@type": "Answer",
+        "description": "A Foreign National Buyer Guide explains the real estate purchase process for non-U.S. citizens, covering unique aspects like financing and legal procedures."
+      }
+    }
+  ],
+  "description": "A Foreign National Buyer Guide explains the real estate purchase process for non-U.S. citizens, covering unique aspects like financing and legal procedures."
+}

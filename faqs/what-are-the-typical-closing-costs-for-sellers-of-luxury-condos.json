@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/what-are-the-typical-closing-costs-for-sellers-of-luxury-condos",
+  "name": "What are the typical closing costs for sellers of luxury condos?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are the typical closing costs for sellers of luxury condos?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Sellers of luxury condos typically incur closing costs that can include real estate commissions, title insurance fees (for the owner's policy, if applicable), documentary stamp taxes on the deed, attorney fees, and prorated property taxes or HOA dues. These costs vary based on the sale price and specific terms of the transaction. A detailed estimate will be provided by your real estate agent and closing agent as your sale progresses.",
+        "@type": "Answer",
+        "description": "Luxury condo sellers face closing costs like real estate commissions, title insurance, documentary stamp taxes, and attorney fees. These vary by sale price and transaction terms."
+      }
+    }
+  ],
+  "description": "Luxury condo sellers face closing costs like real estate commissions, title insurance, documentary stamp taxes, and attorney fees. These vary by sale price and"
+}

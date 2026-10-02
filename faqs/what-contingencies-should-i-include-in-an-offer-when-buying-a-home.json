@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/what-contingencies-should-i-include-in-an-offer-when-buying-a-home",
+  "name": "What contingencies should I include in an offer when buying a home?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What contingencies should I include in an offer when buying a home?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Common contingencies to include in an offer are financing contingencies, allowing you to back out if you can't secure a mortgage; inspection contingencies, permitting you to renegotiate or withdraw based on inspection findings; and appraisal contingencies, protecting you if the home appraises for less than the offer price. These clauses are critical decision factors, as they provide an exit strategy or leverage for renegotiation, protecting your earnest money deposit during the transaction process.",
+        "@type": "Answer",
+        "description": "Include financing, inspection, and appraisal contingencies in your offer to protect your interests and provide options during the home buying process."
+      }
+    }
+  ],
+  "description": "Include financing, inspection, and appraisal contingencies in your offer to protect your interests and provide options during the home buying process."
+}

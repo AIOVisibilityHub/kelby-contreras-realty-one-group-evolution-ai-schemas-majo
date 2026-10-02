@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/can-ai-home-search-tools-help-me-find-off-market-properties",
+  "name": "Can AI home search tools help me find off-market properties?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can AI home search tools help me find off-market properties?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Most standard AI home search tools primarily pull data from publicly available listings, such as Multiple Listing Services (MLS). Therefore, they are generally not designed to discover off-market properties directly. However, they can help identify trends in specific neighborhoods like Pinecrest or Coral Gables that might indicate potential for future off-market opportunities. To access exclusive or pre-market listings, working with an experienced local agent who has a strong network is often more effective, as they often hear about properties before they hit the open market.",
+        "@type": "Answer",
+        "description": "AI tools typically focus on public listings, not off-market properties. A local real estate agent can better assist with finding exclusive or pre-market listings through their network."
+      }
+    }
+  ],
+  "description": "AI tools typically focus on public listings, not off-market properties. A local real estate agent can better assist with finding exclusive or pre-market listing"
+}

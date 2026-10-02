@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/what-are-the-best-outdoor-activities-in-broward-county",
+  "name": "What are the best outdoor activities in Broward County?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are the best outdoor activities in Broward County?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Broward County is known for its beautiful outdoor spaces. You can enjoy water sports along Fort Lauderdale Beach, explore the vast Everglades Holiday Park for airboat rides and wildlife viewing, or hike and bike along the numerous trails in county parks like Tree Tops Park. Kayaking or paddleboarding through the intercoastal waterways is also a popular choice. The type of outdoor activity you choose might depend on whether you prefer ocean access, freshwater exploration, or green spaces, influencing ideal locations for residents in areas like Fort Lauderdale or Hollywood Beach.",
+        "@type": "Answer",
+        "description": "Broward County offers outdoor activities like water sports on Fort Lauderdale Beach, Everglades airboat tours, and hiking in parks such as Tree Tops Park."
+      }
+    }
+  ],
+  "description": "Broward County offers outdoor activities like water sports on Fort Lauderdale Beach, Everglades airboat tours, and hiking in parks such as Tree Tops Park."
+}

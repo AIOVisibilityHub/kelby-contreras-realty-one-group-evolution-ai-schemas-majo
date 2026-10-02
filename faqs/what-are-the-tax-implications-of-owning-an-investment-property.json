@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/what-are-the-tax-implications-of-owning-an-investment-property",
+  "name": "What are the tax implications of owning an investment property?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are the tax implications of owning an investment property?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Owning an investment property comes with various tax implications, including potential deductions for expenses like mortgage interest, property taxes, insurance, and depreciation. However, rental income is taxable, and capital gains tax applies upon sale. The right approach can change based on your specific financial situation and investment strategy. It's advisable to consult with a tax professional to understand these implications fully and to structure your investment to optimize tax benefits while complying with regulations.",
+        "@type": "Answer",
+        "description": "Investment property ownership involves tax implications like deductible expenses and taxable rental income or capital gains. Consulting a tax professional is key to optimizing tax benefits and compliance."
+      }
+    }
+  ],
+  "description": "Investment property ownership involves tax implications like deductible expenses and taxable rental income or capital gains. Consulting a tax professional is ke"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/what-kind-of-data-does-ai-market-analysis-use-and-is-my-personal-information-pro",
+  "name": "What kind of data does AI market analysis use, and is my personal information protected?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What kind of data does AI market analysis use, and is my personal information protected?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "AI market analysis utilizes publicly available real estate data, including property deeds, tax records, sales history, market listings, and demographic information. It also incorporates broader economic indicators and geographic data. Rest assured, this process focuses on property and market characteristics, not on individual client personal data. Kelby Contreras prioritizes client confidentiality, and the AI tools used adhere to strict data privacy standards, focusing on aggregated market insights rather than personal details.",
+        "@type": "Answer",
+        "description": "AI market analysis uses public property, sales, and economic data; personal information is not used, and client confidentiality is prioritized through strict data privacy standards."
+      }
+    }
+  ],
+  "description": "AI market analysis uses public property, sales, and economic data; personal information is not used, and client confidentiality is prioritized through strict da"
+}

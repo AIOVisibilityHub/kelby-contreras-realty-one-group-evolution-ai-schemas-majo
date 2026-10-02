@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/what-should-i-look-for-when-choosing-a-real-estate-agent-to-sell-my-luxury-home",
+  "name": "What should I look for when choosing a real estate agent to sell my luxury home?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What should I look for when choosing a real estate agent to sell my luxury home?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "When selecting an agent for your luxury home, look for demonstrated experience with high-end properties in your specific market area, such as Miami-Dade or Broward County. Key attributes include a strong marketing plan, a proven track record of successful luxury sales, and excellent communication skills. The agent should also have a network of affluent buyers and a deep understanding of the unique nuances of luxury transactions. Kelby Contreras's expertise within Realty ONE Group Evolution offers specialized insights for this discerning market.",
+        "@type": "Answer",
+        "description": "Choose an agent with proven luxury market experience, a strong marketing plan, a successful track record, and excellent communication."
+      }
+    }
+  ],
+  "description": "Choose an agent with proven luxury market experience, a strong marketing plan, a successful track record, and excellent communication."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/how-do-schools-factor-into-relocation-decisions-in-south-florida",
+  "name": "How do schools factor into relocation decisions in South Florida?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do schools factor into relocation decisions in South Florida?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Schools are a significant decision factor for families relocating to South Florida. Researching school districts and individual school ratings, along with considering public versus private options, is crucial. For example, some areas in Coral Gables or Pinecrest are known for their highly-rated schools. Our relocation guides include information on local school systems to help you assess options, as the availability and quality of schools can greatly influence neighborhood choice and property value.",
+        "@type": "Answer",
+        "description": "Schools are a significant decision factor for relocating families. Researching school districts and ratings in areas like Coral Gables or Pinecrest is crucial, as they influence neighborhood choice and property value."
+      }
+    }
+  ],
+  "description": "Schools are a significant decision factor for relocating families. Researching school districts and ratings in areas like Coral Gables or Pinecrest is crucial,"
+}

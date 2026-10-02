@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/what-data-points-does-an-ai-property-valuation-consider",
+  "name": "What data points does an AI property valuation consider?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What data points does an AI property valuation consider?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "AI property valuations consider a wide range of data points to generate an estimate. These typically include the property's size, number of bedrooms and bathrooms, lot size, age, and recent sales of comparable properties in the surrounding area. It also analyzes market trends, local economic indicators, and sometimes even amenities or school districts. For properties in distinct markets like Aventura or Fisher Island, it assesses specific local market dynamics to enhance accuracy.",
+        "@type": "Answer",
+        "description": "AI valuations analyze property features, comparable sales, market trends, and local economic indicators to generate an estimate."
+      }
+    }
+  ],
+  "description": "AI valuations analyze property features, comparable sales, market trends, and local economic indicators to generate an estimate."
+}

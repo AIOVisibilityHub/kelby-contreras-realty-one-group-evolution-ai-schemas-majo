@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/what-kind-of-data-does-ai-analyze-for-real-estate-insights",
+  "name": "What kind of data does AI analyze for real estate insights?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What kind of data does AI analyze for real estate insights?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "AI in real estate analyzes a diverse range of data points to provide comprehensive insights. This includes historical sales data, property features, neighborhood demographics, local amenities, school ratings, crime statistics, and even environmental factors like flood zones in coastal areas such as Miami Beach or Fort Lauderdale. It also considers current market inventory, interest rates, and economic indicators. Understanding the depth of data analyzed helps you appreciate the nuanced valuations and forecasts AI can generate, offering a more complete picture of a property's potential.",
+        "@type": "Answer",
+        "description": "AI analyzes historical sales, property features, demographics, amenities, school ratings, and market trends for real estate insights."
+      }
+    }
+  ],
+  "description": "AI analyzes historical sales, property features, demographics, amenities, school ratings, and market trends for real estate insights."
+}

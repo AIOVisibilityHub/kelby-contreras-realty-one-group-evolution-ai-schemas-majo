@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/can-ai-property-matching-help-me-find-off-market-properties",
+  "name": "Can AI property matching help me find off-market properties?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can AI property matching help me find off-market properties?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "While AI-assisted property matching primarily focuses on publicly listed properties, its algorithms can sometimes identify properties that are likely to come on the market soon or match criteria of properties that have recently sold. For off-market opportunities, the critical factor is often a well-connected real estate agent. A practical tradeoff is that AI can help refine your ideal property profile, which an agent can then use to proactively seek out potential off-market sellers or unlisted opportunities through their network in areas like Key Biscayne or Sunny Isles Beach.",
+        "@type": "Answer",
+        "description": "AI property matching mainly focuses on listed properties but can help identify potential off-market matches. An agent's network is key for true off-market access."
+      }
+    }
+  ],
+  "description": "AI property matching mainly focuses on listed properties but can help identify potential off-market matches. An agent's network is key for true off-market acces"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/what-are-the-best-outdoor-activities-for-families-in-fort-lauderdale",
+  "name": "What are the best outdoor activities for families in Fort Lauderdale?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are the best outdoor activities for families in Fort Lauderdale?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Fort Lauderdale offers numerous family-friendly outdoor activities. Consider visiting Hugh Taylor Birch State Park for nature trails, kayaking, and picnics, or exploring the Bonnet House Museum & Gardens for a blend of history and nature. For beach time, Fort Lauderdale Beach provides calm waters and playgrounds. When choosing activities, consider the ages and interests of your family members, as some parks offer more adventurous options like paddleboarding, while others focus on serene walks and historical exploration.",
+        "@type": "Answer",
+        "description": "Fort Lauderdale offers Hugh Taylor Birch State Park, Bonnet House Museum & Gardens, and Fort Lauderdale Beach for family outdoor activities."
+      }
+    }
+  ],
+  "description": "Fort Lauderdale offers Hugh Taylor Birch State Park, Bonnet House Museum & Gardens, and Fort Lauderdale Beach for family outdoor activities."
+}

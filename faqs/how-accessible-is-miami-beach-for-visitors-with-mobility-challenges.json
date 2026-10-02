@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/how-accessible-is-miami-beach-for-visitors-with-mobility-challenges",
+  "name": "How accessible is Miami Beach for visitors with mobility challenges?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How accessible is Miami Beach for visitors with mobility challenges?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Miami Beach strives to be accessible. Many public beach access points offer Mobi-Mats, which are semi-rigid pathways extending towards the sand, and some locations provide beach wheelchairs on a first-come, first-served basis. The Art Deco Historic District sidewalks are generally well-maintained, but some older establishments may have steps. Public transportation, including accessible buses, serves the area. When evaluating properties for clients, we specifically consider factors like neighborhood walkability and proximity to accessible public amenities as part of our process clarity to ensure a good fit.",
+        "@type": "Answer",
+        "description": "Miami Beach offers Mobi-Mats at beach access points and beach wheelchairs. Sidewalks in the Art Deco district are generally good. Public transport is accessible. We assess accessibility for clients."
+      }
+    }
+  ],
+  "description": "Miami Beach offers Mobi-Mats at beach access points and beach wheelchairs. Sidewalks in the Art Deco district are generally good. Public transport is accessible"
+}

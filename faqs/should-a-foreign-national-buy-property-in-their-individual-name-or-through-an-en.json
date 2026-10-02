@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/should-a-foreign-national-buy-property-in-their-individual-name-or-through-an-en",
+  "name": "Should a foreign national buy property in their individual name or through an entity?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Should a foreign national buy property in their individual name or through an entity?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The decision to purchase property in an individual's name or through a legal entity (like an LLC or corporation) involves evaluating tax implications, liability protection, and estate planning considerations. For foreign nationals, owning property through an entity can sometimes offer advantages related to U.S. taxation and inheritance laws. This is a practical tradeoff that requires consultation with a tax advisor experienced in international real estate.",
+        "@type": "Answer",
+        "description": "Choosing between individual or entity ownership for foreign nationals depends on tax, liability, and estate planning considerations, a key practical tradeoff."
+      }
+    }
+  ],
+  "description": "Choosing between individual or entity ownership for foreign nationals depends on tax, liability, and estate planning considerations, a key practical tradeoff."
+}

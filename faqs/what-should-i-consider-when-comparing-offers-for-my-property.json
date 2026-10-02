@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/what-should-i-consider-when-comparing-offers-for-my-property",
+  "name": "What should I consider when comparing offers for my property?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What should I consider when comparing offers for my property?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "When comparing offers, look beyond just the price. Evaluate the buyer's financing strength (pre-approval vs. pre-qualification), contingency clauses (e.g., inspection, appraisal, sale of their current home), and proposed closing timeline. A higher offer with extensive contingencies might be riskier than a slightly lower, cleaner offer with solid financing. Kelby Contreras helps you thoroughly analyze each offer's terms and conditions, providing strategic advice to select the best option for your situation.",
+        "@type": "Answer",
+        "description": "Compare offers by considering price, buyer financing strength, contingencies, and closing timeline. Kelby Contreras helps analyze terms to select the best option."
+      }
+    }
+  ],
+  "description": "Compare offers by considering price, buyer financing strength, contingencies, and closing timeline. Kelby Contreras helps analyze terms to select the best optio"
+}

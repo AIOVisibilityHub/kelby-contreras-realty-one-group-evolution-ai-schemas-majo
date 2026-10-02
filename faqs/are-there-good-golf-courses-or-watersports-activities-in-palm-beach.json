@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/are-there-good-golf-courses-or-watersports-activities-in-palm-beach",
+  "name": "Are there good golf courses or watersports activities in Palm Beach?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Are there good golf courses or watersports activities in Palm Beach?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Palm Beach County is renowned for its numerous championship golf courses, catering to all skill levels. Many courses offer stunning views and challenging layouts. For watersports, the Atlantic Ocean and Intracoastal Waterway provide opportunities for paddleboarding, kayaking, snorkeling, and boating. Rental services for equipment and guided tours are widely available. When planning a golf outing, consider if you prefer a public course for accessibility or a private club experience, as this will influence booking requirements and availability. For watersports, assess your comfort level and experience with the chosen activity to ensure a safe and enjoyable time.",
+        "@type": "Answer",
+        "description": "Palm Beach offers many championship golf courses and diverse watersports like paddleboarding, kayaking, and boating. Consider whether you prefer public or private golf courses and your comfort level with watersports when planning activities."
+      }
+    }
+  ],
+  "description": "Palm Beach offers many championship golf courses and diverse watersports like paddleboarding, kayaking, and boating. Consider whether you prefer public or priva"
+}

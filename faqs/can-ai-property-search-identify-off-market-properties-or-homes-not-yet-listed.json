@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/can-ai-property-search-identify-off-market-properties-or-homes-not-yet-listed",
+  "name": "Can AI property search identify off-market properties or homes not yet listed?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can AI property search identify off-market properties or homes not yet listed?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "While AI property search primarily focuses on publicly available listing data, advanced AI tools can analyze patterns and market indicators to identify potential off-market opportunities. This might include properties with expiring listings, pre-foreclosures, or homes in neighborhoods with high turnover potential. However, directly accessing these properties often requires a real estate agent with local connections and proactive outreach. An agent from Kelby Contreras - Realty ONE Group Evolution can leverage their network in areas like Broward County to explore these possibilities, which is a practical tradeoff for clients seeking less competitive inventory.",
+        "@type": "Answer",
+        "description": "AI can identify potential off-market properties by analyzing market patterns, but direct access often requires a real estate agent's local connections and proactive outreach. Agents can explore these opportunities in competitive markets."
+      }
+    }
+  ],
+  "description": "AI can identify potential off-market properties by analyzing market patterns, but direct access often requires a real estate agent's local connections and proac"
+}

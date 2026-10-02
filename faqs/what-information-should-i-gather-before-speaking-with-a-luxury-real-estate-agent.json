@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/what-information-should-i-gather-before-speaking-with-a-luxury-real-estate-agent",
+  "name": "What information should I gather before speaking with a luxury real estate agent about selling my home?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What information should I gather before speaking with a luxury real estate agent about selling my home?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Before contacting a luxury real estate agent, it's beneficial to gather documentation related to your property's history. This includes any recent appraisals, renovation records, and details about property taxes and homeowner association fees. Understanding your financial goals, such as your desired sale price and timeline, will also help your agent tailor their approach. This preparation allows Kelby Contreras to provide more precise guidance and a customized strategy for your specific luxury property in areas like Miami-Dade or Palm Beach County.",
+        "@type": "Answer",
+        "description": "Gather property history, renovation records, tax details, and financial goals before meeting a luxury real estate agent."
+      }
+    }
+  ],
+  "description": "Gather property history, renovation records, tax details, and financial goals before meeting a luxury real estate agent."
+}

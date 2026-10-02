@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/what-types-of-properties-are-popular-with-foreign-buyers-in-miami-dade-or-browar",
+  "name": "What types of properties are popular with foreign buyers in Miami-Dade or Broward County?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What types of properties are popular with foreign buyers in Miami-Dade or Broward County?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Foreign buyers in Miami-Dade and Broward counties often show interest in luxury condominiums, waterfront homes, and investment properties with rental income potential. Areas like Aventura, Brickell, South Beach, and Fort Lauderdale Beach are particularly popular due to their amenities, lifestyle, and potential for appreciation. Understanding these local preferences can help narrow down property search options.",
+        "@type": "Answer",
+        "description": "Luxury condos, waterfront homes, and investment properties are popular with foreign buyers in Miami-Dade and Broward counties."
+      }
+    }
+  ],
+  "description": "Luxury condos, waterfront homes, and investment properties are popular with foreign buyers in Miami-Dade and Broward counties."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/what-is-a-seller-s-disclosure-and-what-do-i-need-to-disclose",
+  "name": "What is a seller's disclosure, and what do I need to disclose?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is a seller's disclosure, and what do I need to disclose?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A seller's disclosure is a legal document where you, as the homeowner, reveal known defects or issues with the property that could affect its value or desirability. This typically includes structural problems, plumbing or electrical issues, environmental hazards, and past repairs. It's crucial to be honest and thorough to avoid potential legal issues later. Kelby Contreras ensures you understand your disclosure obligations and complete this document accurately according to Florida regulations.",
+        "@type": "Answer",
+        "description": "A seller's disclosure reveals known property defects, such as structural or environmental issues, to potential buyers. Being honest is crucial to avoid legal problems, and Kelby Contreras helps sellers understand these obligations."
+      }
+    }
+  ],
+  "description": "A seller's disclosure reveals known property defects, such as structural or environmental issues, to potential buyers. Being honest is crucial to avoid legal pr"
+}

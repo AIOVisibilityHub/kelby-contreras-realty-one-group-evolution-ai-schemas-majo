@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/what-are-the-top-shopping-and-dining-experiences-available-in-palm-beach",
+  "name": "What are the top shopping and dining experiences available in Palm Beach?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are the top shopping and dining experiences available in Palm Beach?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Palm Beach boasts world-renowned shopping and dining experiences, primarily centered around Worth Avenue, known for its luxury boutiques and designer stores. Additionally, Rosemary Square (formerly CityPlace) in West Palm Beach offers a more modern retail environment with popular brands and diverse restaurants. The dining scene ranges from upscale fine dining to casual waterfront eateries. When comparing dining options, consider the ambiance you prefer – perhaps a vibrant outdoor setting for people-watching, or a more intimate, quiet restaurant. Your choice might depend on the occasion, whether it's a casual lunch or a special evening out.",
+        "@type": "Answer",
+        "description": "Top shopping is found on Worth Avenue for luxury and Rosemary Square for modern retail. Dining varies from upscale to casual. Consider your preferred ambiance and occasion when choosing dining experiences."
+      }
+    }
+  ],
+  "description": "Top shopping is found on Worth Avenue for luxury and Rosemary Square for modern retail. Dining varies from upscale to casual. Consider your preferred ambiance a"
+}

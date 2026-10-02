@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/are-there-specific-legal-considerations-when-selling-a-waterfront-home-in-miami",
+  "name": "Are there specific legal considerations when selling a waterfront home in Miami-Dade or Broward County?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Are there specific legal considerations when selling a waterfront home in Miami-Dade or Broward County?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "When selling a waterfront home in Miami-Dade or Broward County, understanding local regulations regarding docks, seawalls, and environmental zones is important. For instance, permits for marine structures must be current and transferable. Disclosures often include details about flood zones, coastal construction control lines, and any historical issues with erosion or repairs. This adds process clarity by ensuring all necessary documentation and disclosures are in order for a smooth transaction.",
+        "@type": "Answer",
+        "description": "Specific legal considerations in Miami-Dade/Broward include local regulations for docks, seawalls, environmental zones, and required flood zone disclosures."
+      }
+    }
+  ],
+  "description": "Specific legal considerations in Miami-Dade/Broward include local regulations for docks, seawalls, environmental zones, and required flood zone disclosures."
+}

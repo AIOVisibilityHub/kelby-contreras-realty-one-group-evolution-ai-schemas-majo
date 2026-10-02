@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/how-do-flood-insurance-and-flood-zones-impact-the-sale-of-a-waterfront-property",
+  "name": "How do flood insurance and flood zones impact the sale of a waterfront property?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do flood insurance and flood zones impact the sale of a waterfront property?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Flood insurance and flood zone designations significantly impact the sale of waterfront property. Buyers will factor in the cost of flood insurance, which can vary based on the property's elevation, flood zone, and any mitigation efforts. Providing accurate flood elevation certificates and information about the property's flood zone status upfront offers process clarity. This helps buyers understand potential costs and eases their decision-making process.",
+        "@type": "Answer",
+        "description": "Flood insurance costs and flood zone designations influence buyers; providing accurate elevation certificates and flood zone details is important."
+      }
+    }
+  ],
+  "description": "Flood insurance costs and flood zone designations influence buyers; providing accurate elevation certificates and flood zone details is important."
+}

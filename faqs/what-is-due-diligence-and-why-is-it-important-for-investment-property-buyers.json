@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/what-is-due-diligence-and-why-is-it-important-for-investment-property-buyers",
+  "name": "What is due diligence, and why is it important for investment property buyers?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is due diligence, and why is it important for investment property buyers?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Due diligence is the comprehensive research and investigation conducted before purchasing an investment property to assess its value, risks, and potential returns. This process typically involves property inspections, reviewing financial statements, verifying rental history, and understanding zoning regulations. It is essential for an investment property buyer to protect their investment by uncovering potential issues, liabilities, or unforeseen costs that could negatively impact profitability. This preparation is critical to avoid costly surprises post-purchase.",
+        "@type": "Answer",
+        "description": "Due diligence involves thorough research and investigation into an investment property's value, risks, and returns before purchase, including inspections and financial reviews, to avoid post-purchase issues."
+      }
+    }
+  ],
+  "description": "Due diligence involves thorough research and investigation into an investment property's value, risks, and returns before purchase, including inspections and fi"
+}

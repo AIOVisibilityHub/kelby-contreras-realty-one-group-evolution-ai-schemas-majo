@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/what-due-diligence-is-required-for-luxury-property-purchases",
+  "name": "What due diligence is required for luxury property purchases?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What due diligence is required for luxury property purchases?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Extensive due diligence is critical for luxury property purchases and often includes detailed property inspections, environmental assessments, and a thorough review of legal documents like title reports and surveys. For unique properties or those with specific features, specialized inspections (e.g., marine surveys for properties with docks) are common. Buyers should also investigate local development plans and neighborhood changes that could impact the property's future value or enjoyment, ensuring no unforeseen issues arise after closing.",
+        "@type": "Answer",
+        "description": "Luxury property due diligence requires detailed inspections, environmental assessments, legal document review, and investigation of local development plans to avoid unforeseen issues."
+      }
+    }
+  ],
+  "description": "Luxury property due diligence requires detailed inspections, environmental assessments, legal document review, and investigation of local development plans to a"
+}

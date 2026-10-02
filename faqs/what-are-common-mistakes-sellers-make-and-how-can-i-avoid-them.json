@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/what-are-common-mistakes-sellers-make-and-how-can-i-avoid-them",
+  "name": "What are common mistakes sellers make, and how can I avoid them?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are common mistakes sellers make, and how can I avoid them?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Common seller mistakes include overpricing, neglecting necessary repairs, poor staging, and ineffective marketing. Overpricing can deter buyers and lead to longer market times, while ignoring repairs might lead to lower offers or deal cancellations. Failing to properly stage or market your home can limit its appeal and exposure. Kelby Contreras helps sellers avoid these pitfalls by providing accurate pricing advice, recommending strategic preparations, and implementing robust marketing strategies specific to your property's needs.",
+        "@type": "Answer",
+        "description": "Sellers often make mistakes like overpricing, neglecting repairs, or poor marketing. Kelby Contreras helps avoid these by providing accurate pricing and strategic preparation advice."
+      }
+    }
+  ],
+  "description": "Sellers often make mistakes like overpricing, neglecting repairs, or poor marketing. Kelby Contreras helps avoid these by providing accurate pricing and strateg"
+}

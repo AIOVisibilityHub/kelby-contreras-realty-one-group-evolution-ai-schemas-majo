@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/should-i-repair-or-replace-my-seawall-or-dock-before-selling-my-waterfront-prope",
+  "name": "Should I repair or replace my seawall or dock before selling my waterfront property?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Should I repair or replace my seawall or dock before selling my waterfront property?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The decision to repair or replace a seawall or dock before selling is a key practical tradeoff. Repairing can be costly but might attract more buyers and potentially increase the sale price. However, not all repairs yield a positive return on investment. Consider obtaining quotes for both repair and replacement, then weigh these costs against the potential increase in property value and faster sale time. Often, minor cosmetic repairs are sufficient, while major structural issues might deter buyers.",
+        "@type": "Answer",
+        "description": "Decide whether to repair or replace a seawall/dock by comparing costs against potential value increase and faster sale time. Major issues may deter buyers."
+      }
+    }
+  ],
+  "description": "Decide whether to repair or replace a seawall/dock by comparing costs against potential value increase and faster sale time. Major issues may deter buyers."
+}

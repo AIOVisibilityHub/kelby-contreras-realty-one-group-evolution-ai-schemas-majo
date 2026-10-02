@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/what-is-ai-market-intelligence-in-real-estate",
+  "name": "What is AI Market Intelligence in real estate?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is AI Market Intelligence in real estate?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "AI Market Intelligence in real estate uses artificial intelligence to analyze vast amounts of data, including property listings, sales history, demographics, economic indicators, and local trends. This analysis provides insights into market conditions, property values, and investment opportunities. For clients of Kelby Contreras, it means leveraging advanced data analytics to make informed decisions about buying or selling properties in competitive markets like Miami-Dade and Broward Counties.",
+        "@type": "Answer",
+        "description": "AI Market Intelligence uses AI to analyze real estate data, providing insights into market conditions and property values."
+      }
+    }
+  ],
+  "description": "AI Market Intelligence uses AI to analyze real estate data, providing insights into market conditions and property values."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/what-information-do-i-need-to-provide-for-effective-ai-property-matching",
+  "name": "What information do I need to provide for effective AI property matching?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What information do I need to provide for effective AI property matching?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "To get the most accurate results from AI-assisted property matching, you should be prepared to provide detailed information about your ideal home. This typically includes your budget range, desired property type (e.g., condo, single-family home), number of bedrooms/bathrooms, specific amenities (e.g., pool, waterfront access), preferred school districts, and general location preferences within Miami-Dade, Broward, Palm Beach, Collier, or Orange Counties. The more specific details you share about your needs and lifestyle, the better the AI can tailor its property recommendations.",
+        "@type": "Answer",
+        "description": "Provide detailed information including budget, property type, amenities, and location preferences to ensure effective AI property matching. More specific details lead to better recommendations."
+      }
+    }
+  ],
+  "description": "Provide detailed information including budget, property type, amenities, and location preferences to ensure effective AI property matching. More specific detail"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/can-i-sell-my-luxury-home-discreetly-or-off-market",
+  "name": "Can I sell my luxury home discreetly or off-market?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I sell my luxury home discreetly or off-market?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, selling a luxury home discreetly or 'off-market' is an option for sellers who prioritize privacy or wish to test the market without broad public exposure. This approach relies heavily on an agent's exclusive network of high-net-worth buyers and targeted outreach. While it offers discretion, it might limit the pool of potential buyers compared to a widely publicized listing, potentially impacting the final sale price or timeline. Kelby Contreras can discuss the benefits and trade-offs of an off-market strategy for your specific property in South Florida.",
+        "@type": "Answer",
+        "description": "Yes, discreet or off-market sales prioritize privacy through an agent's network, but may limit buyer exposure compared to public listings."
+      }
+    }
+  ],
+  "description": "Yes, discreet or off-market sales prioritize privacy through an agent's network, but may limit buyer exposure compared to public listings."
+}

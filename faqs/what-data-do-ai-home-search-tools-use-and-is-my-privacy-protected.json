@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/what-data-do-ai-home-search-tools-use-and-is-my-privacy-protected",
+  "name": "What data do AI home search tools use, and is my privacy protected?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What data do AI home search tools use, and is my privacy protected?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "AI home search tools typically utilize publicly available real estate data, including past sales records, property characteristics, tax assessments, and demographic information. They also often incorporate user-input preferences to refine search results. Regarding privacy, reputable tools implement data security measures to protect user information. Before using any tool, it's advisable to review its privacy policy to understand how your personal data is collected, stored, and used. Understanding their data practices is a key preparation step to ensure your comfort.",
+        "@type": "Answer",
+        "description": "AI tools use public real estate data and user preferences. Always check a tool's privacy policy to understand how your data is protected."
+      }
+    }
+  ],
+  "description": "AI tools use public real estate data and user preferences. Always check a tool's privacy policy to understand how your data is protected."
+}

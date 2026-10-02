@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/what-is-the-difference-between-pre-qualification-and-pre-approval-for-a-mortgage",
+  "name": "What is the difference between pre-qualification and pre-approval for a mortgage?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the difference between pre-qualification and pre-approval for a mortgage?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Pre-qualification is an estimate of what you might be able to borrow, based on self-reported financial information, and doesn't involve a credit check. Pre-approval, on the other hand, is a more formal commitment from a lender, based on a thorough review of your financial documents and a credit check. Obtaining a pre-approval letter is a crucial preparation step, as it demonstrates to sellers in competitive markets like Palm Beach or Coral Gables that you are a serious and qualified buyer.",
+        "@type": "Answer",
+        "description": "Pre-qualification is an estimate, while pre-approval is a more formal lender commitment based on reviewed finances and a credit check, showing sellers you are a serious buyer."
+      }
+    }
+  ],
+  "description": "Pre-qualification is an estimate, while pre-approval is a more formal lender commitment based on reviewed finances and a credit check, showing sellers you are a"
+}

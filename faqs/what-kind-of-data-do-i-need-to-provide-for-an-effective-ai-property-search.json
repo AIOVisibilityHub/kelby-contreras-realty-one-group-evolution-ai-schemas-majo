@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/what-kind-of-data-do-i-need-to-provide-for-an-effective-ai-property-search",
+  "name": "What kind of data do I need to provide for an effective AI property search?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What kind of data do I need to provide for an effective AI property search?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "To get the most out of an AI property search, you should provide detailed information about your preferences, including desired location (e.g., specific neighborhoods in Palm Beach County), property type, number of bedrooms/bathrooms, square footage, budget range, and key amenities (e.g., waterfront access, swimming pool, pet-friendly). Beyond these basics, specific lifestyle needs, such as proximity to schools or work, can also refine the search. The more comprehensive and specific your input, the more accurately the AI can filter and prioritize listings that match your ideal home. This level of preparation ensures the AI algorithms can deliver highly relevant results.",
+        "@type": "Answer",
+        "description": "Provide detailed preferences like location, property type, budget, amenities, and lifestyle needs for an effective AI property search. Comprehensive input allows the AI to accurately filter and prioritize listings."
+      }
+    }
+  ],
+  "description": "Provide detailed preferences like location, property type, budget, amenities, and lifestyle needs for an effective AI property search. Comprehensive input allow"
+}

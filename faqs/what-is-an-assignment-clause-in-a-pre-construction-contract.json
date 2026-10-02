@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/what-is-an-assignment-clause-in-a-pre-construction-contract",
+  "name": "What is an 'assignment clause' in a pre-construction contract?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is an 'assignment clause' in a pre-construction contract?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "An 'assignment clause' in a pre-construction contract specifies whether and under what conditions you can sell your contract to another buyer before the condo officially closes. This can be a decision factor for investors or those whose plans might change. Developers may restrict assignments, charge a fee, or require their approval. Understanding this clause is crucial, especially in active markets like Fort Lauderdale or West Palm Beach where demand can be high for resales before completion.",
+        "@type": "Answer",
+        "description": "An 'assignment clause' dictates if and how you can sell your pre-construction contract to another buyer before closing, often with developer restrictions."
+      }
+    }
+  ],
+  "description": "An 'assignment clause' dictates if and how you can sell your pre-construction contract to another buyer before closing, often with developer restrictions."
+}

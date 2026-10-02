@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/what-are-the-typical-financial-commitments-and-payment-structures-for-a-pre-cons",
+  "name": "What are the typical financial commitments and payment structures for a pre-construction condo?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are the typical financial commitments and payment structures for a pre-construction condo?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Buying a pre-construction condo typically involves a series of deposit payments to the developer spread out over the construction period, rather than a single down payment at contract signing. These deposits can range from 10% to 50% of the purchase price, paid in installments. A practical tradeoff to consider is tying up capital over a longer period, but this also allows buyers to spread out their financial commitment before the final closing, which can be beneficial when planning your budget.",
+        "@type": "Answer",
+        "description": "Pre-construction condos typically require a series of deposit payments to the developer over the construction period, not a single down payment."
+      }
+    }
+  ],
+  "description": "Pre-construction condos typically require a series of deposit payments to the developer over the construction period, not a single down payment."
+}

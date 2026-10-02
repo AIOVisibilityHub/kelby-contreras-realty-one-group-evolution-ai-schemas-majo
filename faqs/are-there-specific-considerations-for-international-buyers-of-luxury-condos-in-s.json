@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/are-there-specific-considerations-for-international-buyers-of-luxury-condos-in-s",
+  "name": "Are there specific considerations for international buyers of luxury condos in South Florida?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Are there specific considerations for international buyers of luxury condos in South Florida?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "International buyers should be aware of specific tax implications, financing options, and legal requirements that differ from domestic purchases. This includes understanding the FIRPTA (Foreign Investment in Real Property Tax Act) for future sale, and navigating banking regulations for foreign funds. We can connect you with trusted professionals who specialize in these international aspects, ensuring you are fully prepared for the distinct requirements of purchasing property in areas popular with international investors like Miami and Fort Lauderdale.",
+        "@type": "Answer",
+        "description": "International buyers must consider unique tax implications, financing, and legal requirements like FIRPTA. We help connect buyers with professionals specializing in these aspects for South Florida purchases."
+      }
+    }
+  ],
+  "description": "International buyers must consider unique tax implications, financing, and legal requirements like FIRPTA. We help connect buyers with professionals specializin"
+}

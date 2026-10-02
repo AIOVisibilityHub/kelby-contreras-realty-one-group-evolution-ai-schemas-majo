@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/what-are-the-common-challenges-foreign-buyers-face-when-purchasing-u-s-real-esta",
+  "name": "What are the common challenges foreign buyers face when purchasing U.S. real estate?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are the common challenges foreign buyers face when purchasing U.S. real estate?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Common challenges include navigating unfamiliar legal and tax systems, securing financing with limited U.S. credit history, understanding currency exchange risks, and managing property from abroad. Kelby Contreras - Realty ONE Group Evolution addresses these by providing a clear process, connecting buyers with relevant professionals, and offering virtual tours and remote transaction support, mitigating typical hurdles.",
+        "@type": "Answer",
+        "description": "Foreign buyers face challenges like unfamiliar legal systems, financing without U.S. credit, and currency risks."
+      }
+    }
+  ],
+  "description": "Foreign buyers face challenges like unfamiliar legal systems, financing without U.S. credit, and currency risks."
+}

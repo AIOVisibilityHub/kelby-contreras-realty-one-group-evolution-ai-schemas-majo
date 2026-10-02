@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/what-kind-of-inspections-are-essential-for-a-waterfront-home",
+  "name": "What kind of inspections are essential for a waterfront home?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What kind of inspections are essential for a waterfront home?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Beyond a standard home inspection, waterfront homes require specialized inspections. These include marine inspections for seawalls, docks, and boat lifts to assess their structural integrity and maintenance needs. A comprehensive survey should also verify property lines relative to the water. Additionally, a flood elevation certificate is critical for insurance purposes. These detailed inspections help ensure you understand the full condition of the property you're considering.",
+        "@type": "Answer",
+        "description": "Essential inspections for waterfront homes include marine inspections for seawalls, docks, and boat lifts, plus a flood elevation certificate."
+      }
+    }
+  ],
+  "description": "Essential inspections for waterfront homes include marine inspections for seawalls, docks, and boat lifts, plus a flood elevation certificate."
+}

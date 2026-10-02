@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/how-do-i-determine-the-right-asking-price-for-my-home",
+  "name": "How do I determine the right asking price for my home?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do I determine the right asking price for my home?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Determining the right asking price involves a comprehensive comparative market analysis (CMA) of recently sold properties, active listings, and expired listings in your specific area, such as Aventura or Coral Gables. This analysis considers property features, condition, and current market trends. While online estimates can be a starting point, a professional CMA provides a more accurate valuation based on local market dynamics. Kelby Contreras provides a detailed CMA to help you price your home competitively.",
+        "@type": "Answer",
+        "description": "The right asking price is determined by a comparative market analysis (CMA) considering local market trends and property features. A professional CMA from Kelby Contreras offers an accurate valuation."
+      }
+    }
+  ],
+  "description": "The right asking price is determined by a comparative market analysis (CMA) considering local market trends and property features. A professional CMA from Kelby"
+}

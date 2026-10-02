@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/what-should-i-look-for-during-a-home-inspection",
+  "name": "What should I look for during a home inspection?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What should I look for during a home inspection?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "During a home inspection, you should look for any potential issues with the property's structure, systems (HVAC, plumbing, electrical), roof, and foundation. While the inspector will provide a detailed report, attending the inspection allows you to ask questions and observe any findings firsthand. In Florida, specific considerations include checking for hurricane preparedness features, roof condition, and potential water intrusion, which can be critical for areas like Fort Lauderdale Beach or Key Biscayne.",
+        "@type": "Answer",
+        "description": "During a home inspection, focus on structural integrity, system functionality, and potential issues, including hurricane preparedness and water intrusion in Florida."
+      }
+    }
+  ],
+  "description": "During a home inspection, focus on structural integrity, system functionality, and potential issues, including hurricane preparedness and water intrusion in Flo"
+}

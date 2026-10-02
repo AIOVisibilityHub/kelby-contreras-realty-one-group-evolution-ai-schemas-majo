@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/what-unique-water-based-activities-can-i-do-in-miami",
+  "name": "What unique water-based activities can I do in Miami?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What unique water-based activities can I do in Miami?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Miami's coastal location offers a plethora of unique water-based activities beyond traditional swimming. You can try paddleboarding or kayaking in tranquil Biscayne Bay, jet skiing or parasailing off South Beach, or even learn to kiteboard in shallow waters. Boat tours to view celebrity homes or snorkel trips to coral reefs are also popular. For those interested in buying property, proximity to marinas or waterfront access in areas like Key Biscayne or Sunny Isles Beach can be a significant factor, making these activities highly accessible.",
+        "@type": "Answer",
+        "description": "Unique Miami water activities include paddleboarding in Biscayne Bay, jet skiing off South Beach, kiteboarding, and boat tours to reefs or celebrity homes."
+      }
+    }
+  ],
+  "description": "Unique Miami water activities include paddleboarding in Biscayne Bay, jet skiing off South Beach, kiteboarding, and boat tours to reefs or celebrity homes."
+}

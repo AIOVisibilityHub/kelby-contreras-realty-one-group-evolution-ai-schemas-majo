@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/what-documents-do-foreign-nationals-need-to-buy-property-in-florida",
+  "name": "What documents do foreign nationals need to buy property in Florida?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What documents do foreign nationals need to buy property in Florida?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Foreign nationals typically need a valid passport, a valid visa (if applicable for their stay), proof of funds for the down payment and closing costs, and financial statements. If obtaining a mortgage, additional documents like international credit reports, bank statements, and income verification from their home country may be required. Ensuring all documentation is translated and notarized correctly is a crucial preparation step.",
+        "@type": "Answer",
+        "description": "Foreign nationals need a valid passport, visa, proof of funds, and financial statements, often with translations for U.S. transactions."
+      }
+    }
+  ],
+  "description": "Foreign nationals need a valid passport, visa, proof of funds, and financial statements, often with translations for U.S. transactions."
+}

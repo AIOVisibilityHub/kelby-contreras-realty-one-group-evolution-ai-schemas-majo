@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/what-costs-are-typically-involved-when-selling-a-luxury-home",
+  "name": "What costs are typically involved when selling a luxury home?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What costs are typically involved when selling a luxury home?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Selling a luxury home involves several costs, including agent commissions, which are typically a percentage of the sale price. Other expenses can include staging services, professional photography, marketing fees, and potential repair or renovation costs prior to listing. Closing costs, such as title insurance, transfer taxes, and attorney fees, also apply. These costs can vary by transaction and location within South Florida. Kelby Contreras provides a clear breakdown of potential expenses to ensure sellers are fully informed.",
+        "@type": "Answer",
+        "description": "Selling a luxury home involves agent commissions, staging, marketing, potential repairs, and closing costs like title insurance and transfer taxes."
+      }
+    }
+  ],
+  "description": "Selling a luxury home involves agent commissions, staging, marketing, potential repairs, and closing costs like title insurance and transfer taxes."
+}

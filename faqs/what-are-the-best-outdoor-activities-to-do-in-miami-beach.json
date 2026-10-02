@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/what-are-the-best-outdoor-activities-to-do-in-miami-beach",
+  "name": "What are the best outdoor activities to do in Miami Beach?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are the best outdoor activities to do in Miami Beach?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Miami Beach offers a wide range of outdoor activities, from relaxing on its famous sandy beaches like South Beach to exploring the Art Deco Historic District on foot or bike. You can also enjoy watersports such as paddleboarding, kayaking in Biscayne Bay, or jet skiing. For nature lovers, South Pointe Park provides scenic views, a pier for fishing, and green spaces. When considering relocating, understanding local recreational options helps visualize your daily life and community engagement, which is a key factor we discuss with clients looking for homes in Miami-Dade County.",
+        "@type": "Answer",
+        "description": "Enjoy beaches like South Beach, explore the Art Deco district, or try watersports in Biscayne Bay. South Pointe Park offers scenic views and fishing."
+      }
+    }
+  ],
+  "description": "Enjoy beaches like South Beach, explore the Art Deco district, or try watersports in Biscayne Bay. South Pointe Park offers scenic views and fishing."
+}

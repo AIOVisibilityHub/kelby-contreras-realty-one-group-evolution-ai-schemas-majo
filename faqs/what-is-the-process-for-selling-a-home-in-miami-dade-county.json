@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/what-is-the-process-for-selling-a-home-in-miami-dade-county",
+  "name": "What is the process for selling a home in Miami-Dade County?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the process for selling a home in Miami-Dade County?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The process for selling a home in Miami-Dade County typically begins with a consultation to determine your goals and property value. Next, we prepare your home for market, including professional photography and staging advice, followed by listing and marketing. Once offers are received, we negotiate on your behalf, and after an offer is accepted, we guide you through inspections, appraisals, and closing. Understanding these steps early helps set expectations for a smooth transaction. Kelby Contreras assists sellers throughout this entire process.",
+        "@type": "Answer",
+        "description": "Selling a home in Miami-Dade County involves consultation, market preparation, listing, offer negotiation, and closing. Kelby Contreras guides sellers through each step."
+      }
+    }
+  ],
+  "description": "Selling a home in Miami-Dade County involves consultation, market preparation, listing, offer negotiation, and closing. Kelby Contreras guides sellers through e"
+}

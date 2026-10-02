@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/are-there-specific-taxes-for-foreign-national-property-owners-in-the-u-s",
+  "name": "Are there specific taxes for foreign national property owners in the U.S.?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Are there specific taxes for foreign national property owners in the U.S.?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, foreign nationals are subject to U.S. tax laws, including potential income tax on rental income and capital gains tax upon selling the property. The Foreign Investment in Real Property Tax Act (FIRPTA) requires a percentage of the sale price to be withheld at closing when a foreign person sells U.S. real estate. Understanding these tax implications early is a key decision factor.",
+        "@type": "Answer",
+        "description": "Foreign nationals face U.S. taxes on rental income and capital gains; FIRPTA withholds sale proceeds, so early tax planning is crucial."
+      }
+    }
+  ],
+  "description": "Foreign nationals face U.S. taxes on rental income and capital gains; FIRPTA withholds sale proceeds, so early tax planning is crucial."
+}

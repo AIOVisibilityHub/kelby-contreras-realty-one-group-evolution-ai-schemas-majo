@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/what-should-i-look-for-in-a-pre-construction-condo-contract",
+  "name": "What should I look for in a pre-construction condo contract?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What should I look for in a pre-construction condo contract?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "When reviewing a pre-construction condo contract, pay close attention to clauses regarding completion dates, deposit structures, penalty clauses for delays, and the developer's right to make changes to the plans or finishes. Preparation is key; you should meticulously examine the 'right to assign' clause if you plan to sell before closing, and ensure all specified inclusions and finishes are clearly detailed to avoid surprises at delivery.",
+        "@type": "Answer",
+        "description": "Review clauses on completion dates, deposits, penalties for delays, and the developer's right to make changes in a pre-construction condo contract."
+      }
+    }
+  ],
+  "description": "Review clauses on completion dates, deposits, penalties for delays, and the developer's right to make changes in a pre-construction condo contract."
+}

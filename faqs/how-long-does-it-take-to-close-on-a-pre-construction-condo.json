@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/how-long-does-it-take-to-close-on-a-pre-construction-condo",
+  "name": "How long does it take to close on a pre-construction condo?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does it take to close on a pre-construction condo?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The timeline for closing on a pre-construction condo can vary significantly, usually ranging from one to several years, depending on the project's construction schedule. The closing process typically begins once the building receives its Certificate of Occupancy. Process clarity is important here, as unexpected construction delays can push back your move-in date. It's crucial to understand the developer's estimated completion date and any clauses in the contract regarding extensions.",
+        "@type": "Answer",
+        "description": "Closing on a pre-construction condo can take one to several years, depending on the construction schedule and when the building receives its Certificate of Occupancy."
+      }
+    }
+  ],
+  "description": "Closing on a pre-construction condo can take one to several years, depending on the construction schedule and when the building receives its Certificate of Occu"
+}

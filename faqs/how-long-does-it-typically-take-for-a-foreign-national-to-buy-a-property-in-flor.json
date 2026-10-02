@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/how-long-does-it-typically-take-for-a-foreign-national-to-buy-a-property-in-flor",
+  "name": "How long does it typically take for a foreign national to buy a property in Florida?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long does it typically take for a foreign national to buy a property in Florida?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The timeline for a foreign national to purchase property in Florida can vary, but typically ranges from 45 to 90 days. Factors that can affect this timeline include the complexity of securing foreign national financing, the need for international document verification, and the efficiency of legal and tax consultations. Having all necessary funds and documents prepared in advance can help expedite the closing process.",
+        "@type": "Answer",
+        "description": "Purchasing property in Florida as a foreign national typically takes 45-90 days, influenced by financing and document verification."
+      }
+    }
+  ],
+  "description": "Purchasing property in Florida as a foreign national typically takes 45-90 days, influenced by financing and document verification."
+}
