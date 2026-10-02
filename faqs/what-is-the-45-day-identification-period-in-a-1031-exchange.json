@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/what-is-the-45-day-identification-period-in-a-1031-exchange",
+  "name": "What is the 45-day identification period in a 1031 exchange?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the 45-day identification period in a 1031 exchange?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The 45-day identification period is a critical timeline in a 1031 exchange where an investor must formally identify potential replacement properties. This period begins on the day you close on the sale of your relinquished property. It's crucial to identify properties that meet IRS regulations, including the three-property rule or the 200% rule, to ensure your exchange remains valid. Failing to identify properties within this timeframe can disqualify your exchange, making the entire gain immediately taxable. As a real estate agency specializing in investment properties, we often guide clients through this precise identification process.",
+        "@type": "Answer",
+        "description": "The 45-day identification period requires investors to formally identify potential replacement properties after selling their relinquished property. Failure to do so invalidates the 1031 exchange."
+      }
+    }
+  ],
+  "description": "The 45-day identification period requires investors to formally identify potential replacement properties after selling their relinquished property. Failure to"
+}

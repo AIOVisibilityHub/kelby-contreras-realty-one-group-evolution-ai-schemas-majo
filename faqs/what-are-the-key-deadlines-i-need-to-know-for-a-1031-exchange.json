@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/what-are-the-key-deadlines-i-need-to-know-for-a-1031-exchange",
+  "name": "What are the key deadlines I need to know for a 1031 exchange?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are the key deadlines I need to know for a 1031 exchange?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "There are two critical deadlines in a 1031 exchange: the 45-day identification period and the 180-day exchange period. Within 45 days of selling your relinquished property, you must formally identify potential replacement properties. The entire exchange must be completed within 180 days of the sale. Missing these deadlines, which are strict and rarely extended, will cause the exchange to fail, making careful planning and timely action crucial for investors in fast-paced markets.",
+        "@type": "Answer",
+        "description": "You must identify replacement properties within 45 days and complete the exchange within 180 days of selling your relinquished property."
+      }
+    }
+  ],
+  "description": "You must identify replacement properties within 45 days and complete the exchange within 180 days of selling your relinquished property."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/what-should-i-look-for-in-an-insurance-policy-when-buying-an-investment-property",
+  "name": "What should I look for in an insurance policy when buying an investment property in coastal areas like Miami Beach or Fort Lauderdale?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What should I look for in an insurance policy when buying an investment property in coastal areas like Miami Beach or Fort Lauderdale?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "When buying an investment property in coastal areas like Miami Beach or Fort Lauderdale, prioritize robust windstorm coverage, often with a separate hurricane deductible, and comprehensive flood insurance. Look for policies that cover potential storm surge, rising waters, and wind damage, including contents if furnished. Due to the high risk in these areas, comparing multiple quotes and understanding specific exclusions or limitations, particularly regarding named storms, is a crucial preparation step to protect your asset.",
+        "@type": "Answer",
+        "description": "In coastal areas like Miami Beach, prioritize robust windstorm and flood coverage, including storm surge and wind damage, and compare quotes carefully."
+      }
+    }
+  ],
+  "description": "In coastal areas like Miami Beach, prioritize robust windstorm and flood coverage, including storm surge and wind damage, and compare quotes carefully."
+}

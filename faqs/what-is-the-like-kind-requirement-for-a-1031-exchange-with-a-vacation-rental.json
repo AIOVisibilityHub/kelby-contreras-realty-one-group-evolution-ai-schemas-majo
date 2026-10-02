@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/what-is-the-like-kind-requirement-for-a-1031-exchange-with-a-vacation-rental",
+  "name": "What is the 'like-kind' requirement for a 1031 exchange with a vacation rental?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the 'like-kind' requirement for a 1031 exchange with a vacation rental?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The 'like-kind' requirement means that the relinquished property and the replacement property must be of the same nature or character, even if they differ in grade or quality. For real estate, this broadly means any real property held for investment or business use is 'like-kind' to other real property held for investment or business use. For example, a vacation rental in Miami-Dade County can be exchanged for a commercial property in Broward County, as long as both are held for investment. It does not mean they have to be the exact same type of property.",
+        "@type": "Answer",
+        "description": "Like-kind refers to properties of the same nature or character for investment or business use, not necessarily the exact same type."
+      }
+    }
+  ],
+  "description": "Like-kind refers to properties of the same nature or character for investment or business use, not necessarily the exact same type."
+}

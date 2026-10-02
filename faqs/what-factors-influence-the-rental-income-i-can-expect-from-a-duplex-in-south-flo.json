@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/what-factors-influence-the-rental-income-i-can-expect-from-a-duplex-in-south-flo",
+  "name": "What factors influence the rental income I can expect from a duplex in South Florida?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What factors influence the rental income I can expect from a duplex in South Florida?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Expected rental income for a duplex in South Florida is influenced by several factors, including location, property condition, amenities, and local market demand. Areas like Miami Beach or Fort Lauderdale Beach, with high demand for rentals, typically command higher rents. The number of bedrooms, bathrooms, and features like updated kitchens or outdoor space also play a role. Kelby Contreras can help analyze comparable rental properties to provide a realistic estimate of potential income in your chosen area.",
+        "@type": "Answer",
+        "description": "Rental income depends on location, property condition, amenities, and local market demand in South Florida."
+      }
+    }
+  ],
+  "description": "Rental income depends on location, property condition, amenities, and local market demand in South Florida."
+}

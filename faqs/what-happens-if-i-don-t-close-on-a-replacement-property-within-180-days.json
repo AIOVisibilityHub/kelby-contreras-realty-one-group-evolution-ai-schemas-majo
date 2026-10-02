@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/what-happens-if-i-don-t-close-on-a-replacement-property-within-180-days",
+  "name": "What happens if I don't close on a replacement property within 180 days?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What happens if I don't close on a replacement property within 180 days?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "If you fail to close on a replacement property within the 180-day timeframe for a 1031 exchange, the exchange will be disqualified. This means the capital gains from the sale of your relinquished property become immediately taxable in the year of the sale, eliminating the tax-deferral benefit. Understanding the strict nature of this deadline is a critical preparation step for any investor considering a 1031 exchange, as it directly impacts your tax obligations and investment strategy.",
+        "@type": "Answer",
+        "description": "Failure to close within 180 days disqualifies the 1031 exchange, making the capital gains from your relinquished property immediately taxable."
+      }
+    }
+  ],
+  "description": "Failure to close within 180 days disqualifies the 1031 exchange, making the capital gains from your relinquished property immediately taxable."
+}

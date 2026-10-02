@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/what-documentation-do-i-need-to-keep-for-rental-property-expenses",
+  "name": "What documentation do I need to keep for rental property expenses?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What documentation do I need to keep for rental property expenses?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You need to keep meticulous records of all income and expenses for your rental property. This includes receipts, invoices, bank statements, canceled checks, and lease agreements. For repairs and improvements, document the nature of the work, the cost, and the date it was completed. This detailed documentation is crucial for tax purposes and can also be vital if you ever face an audit or need to provide proof of expenses for insurance claims or property valuations. Organize these documents systematically for easy retrieval.",
+        "@type": "Answer",
+        "description": "Keep detailed records of all income and expenses, including receipts, invoices, bank statements, and lease agreements, for tax and auditing purposes."
+      }
+    }
+  ],
+  "description": "Keep detailed records of all income and expenses, including receipts, invoices, bank statements, and lease agreements, for tax and auditing purposes."
+}

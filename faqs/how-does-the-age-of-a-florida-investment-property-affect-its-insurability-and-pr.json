@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/how-does-the-age-of-a-florida-investment-property-affect-its-insurability-and-pr",
+  "name": "How does the age of a Florida investment property affect its insurability and premiums?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How does the age of a Florida investment property affect its insurability and premiums?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The age of a Florida investment property significantly affects its insurability and premiums. Older homes, particularly those built before 2002, may have higher premiums or be harder to insure due to outdated building codes, plumbing, wiring, and roofing systems. Insurers often require four-point inspections for properties 40 years or older. Our clients frequently consider the age of the property's core systems (roof, electrical, plumbing, HVAC) as a key decision factor, knowing that newer systems can lead to lower insurance costs and easier policy acquisition.",
+        "@type": "Answer",
+        "description": "Older properties, especially those built before 2002, can have higher premiums or be harder to insure due to outdated systems, often requiring inspections."
+      }
+    }
+  ],
+  "description": "Older properties, especially those built before 2002, can have higher premiums or be harder to insure due to outdated systems, often requiring inspections."
+}

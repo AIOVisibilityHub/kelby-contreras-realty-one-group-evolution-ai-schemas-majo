@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/can-the-180-day-deadline-for-a-1031-exchange-be-extended",
+  "name": "Can the 180-day deadline for a 1031 exchange be extended?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can the 180-day deadline for a 1031 exchange be extended?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Generally, the 180-day deadline for a 1031 exchange is very rigid and cannot be extended under normal circumstances. There are rare exceptions, primarily in cases of federally declared disaster areas, where the IRS may issue specific relief extending certain deadlines. For investors in areas like Collier County or Palm Beach County, preparing for the strict 180-day window is essential. It's a key process clarity factor, ensuring all acquisition steps are meticulously planned to avoid delays.",
+        "@type": "Answer",
+        "description": "The 180-day 1031 exchange deadline is generally not extendable, with rare exceptions for federally declared disasters."
+      }
+    }
+  ],
+  "description": "The 180-day 1031 exchange deadline is generally not extendable, with rare exceptions for federally declared disasters."
+}

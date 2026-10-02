@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/does-the-180-day-rule-include-weekends-and-holidays",
+  "name": "Does the 180-day rule include weekends and holidays?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Does the 180-day rule include weekends and holidays?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, the 180-day clock for a 1031 exchange includes all calendar days, including weekends and holidays. There are no provisions for extending the deadline if it falls on a weekend or holiday. This continuous counting emphasizes the importance of precise planning and coordination with all parties involved, including your real estate agent, qualified intermediary, and title company. Kelby Contreras advises clients to factor in these continuous days when planning their property acquisition strategy across dynamic markets like Fort Lauderdale and Miami.",
+        "@type": "Answer",
+        "description": "Yes, the 180-day rule for a 1031 exchange includes all calendar days, such as weekends and holidays, without extension."
+      }
+    }
+  ],
+  "description": "Yes, the 180-day rule for a 1031 exchange includes all calendar days, such as weekends and holidays, without extension."
+}

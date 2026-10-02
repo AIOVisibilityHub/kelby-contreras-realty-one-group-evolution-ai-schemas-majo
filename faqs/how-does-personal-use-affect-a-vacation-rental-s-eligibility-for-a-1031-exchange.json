@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/how-does-personal-use-affect-a-vacation-rental-s-eligibility-for-a-1031-exchange",
+  "name": "How does personal use affect a vacation rental's eligibility for a 1031 exchange?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How does personal use affect a vacation rental's eligibility for a 1031 exchange?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Personal use is a critical factor for 1031 exchange eligibility. The IRS considers a vacation home an investment property if it is rented for 14 days or more per year and your personal use does not exceed the greater of 14 days or 10% of the total days it is rented. Exceeding these personal use limits can jeopardize the property's qualification as being 'held for productive use in a trade or business or for investment,' potentially disqualifying it from the exchange. Reviewing your usage history is a key preparation step.",
+        "@type": "Answer",
+        "description": "Excessive personal use (more than 14 days or 10% of rental days) can disqualify a vacation rental from a 1031 exchange."
+      }
+    }
+  ],
+  "description": "Excessive personal use (more than 14 days or 10% of rental days) can disqualify a vacation rental from a 1031 exchange."
+}

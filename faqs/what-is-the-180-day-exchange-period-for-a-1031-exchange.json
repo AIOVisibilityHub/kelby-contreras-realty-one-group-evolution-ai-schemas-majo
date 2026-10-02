@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/what-is-the-180-day-exchange-period-for-a-1031-exchange",
+  "name": "What is the 180-day exchange period for a 1031 exchange?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the 180-day exchange period for a 1031 exchange?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The 180-day exchange period is the maximum time allowed to close on one or more of your identified replacement properties. This 180-day period runs concurrently with the 45-day identification period and begins on the day you close on your relinquished property. Both deadlines are critical for a successful exchange. If the 180th day falls on a weekend or holiday, the deadline is not extended to the next business day. You'll need to secure financing and complete all closing procedures within this timeframe.",
+        "@type": "Answer",
+        "description": "The 180-day exchange period is the deadline to close on your replacement property, starting from the sale of your relinquished property and running concurrently with the 45-day identification period."
+      }
+    }
+  ],
+  "description": "The 180-day exchange period is the deadline to close on your replacement property, starting from the sale of your relinquished property and running concurrently"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/what-tax-considerations-should-i-be-aware-of-as-a-rental-property-owner",
+  "name": "What tax considerations should I be aware of as a rental property owner?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What tax considerations should I be aware of as a rental property owner?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "As a rental property owner, you may be able to deduct expenses such as mortgage interest, property taxes, insurance, repairs, and depreciation. However, you will also need to report rental income. It's advisable to consult with a tax professional to understand specific deductions, potential tax liabilities, and to ensure compliance with IRS regulations. We encourage all our clients to seek expert tax advice tailored to their investment strategy.",
+        "@type": "Answer",
+        "description": "Rental property owners can deduct expenses like mortgage interest and taxes but must report rental income. Consult a tax professional for specific advice and compliance."
+      }
+    }
+  ],
+  "description": "Rental property owners can deduct expenses like mortgage interest and taxes but must report rental income. Consult a tax professional for specific advice and co"
+}

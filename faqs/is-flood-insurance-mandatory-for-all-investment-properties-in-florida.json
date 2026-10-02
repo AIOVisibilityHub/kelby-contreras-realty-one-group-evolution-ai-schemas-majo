@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/is-flood-insurance-mandatory-for-all-investment-properties-in-florida",
+  "name": "Is flood insurance mandatory for all investment properties in Florida?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Is flood insurance mandatory for all investment properties in Florida?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Flood insurance is not mandatory for all investment properties in Florida, but it is typically required if the property is located in a high-risk flood zone (Zone A or V) and has a federally backed mortgage. Even if not mandated, it's highly recommended for many Florida properties due to the state's susceptibility to flooding, regardless of zone designation. We often help clients understand flood zone maps and connect them with local insurance professionals to assess their specific flood risk and coverage needs.",
+        "@type": "Answer",
+        "description": "Flood insurance is typically mandatory only in high-risk flood zones with federally backed mortgages, but often recommended due to Florida's flood susceptibility."
+      }
+    }
+  ],
+  "description": "Flood insurance is typically mandatory only in high-risk flood zones with federally backed mortgages, but often recommended due to Florida's flood susceptibilit"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/how-important-is-the-value-of-the-replacement-property-compared-to-the-relinquis",
+  "name": "How important is the value of the replacement property compared to the relinquished property in a 1031 exchange?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How important is the value of the replacement property compared to the relinquished property in a 1031 exchange?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "To achieve full tax deferral in a 1031 exchange, the replacement property's net purchase price and the amount of debt assumed on it must be equal to or greater than the net sales price and debt of the relinquished property. If you acquire a replacement property of lesser value or take on less debt, the difference, known as 'boot,' may be taxable. It's important to analyze these values carefully to avoid unexpected tax liabilities. Our team helps clients evaluate potential replacement properties to minimize or eliminate boot, ensuring the most advantageous exchange.",
+        "@type": "Answer",
+        "description": "For full tax deferral, the replacement property's net purchase price and debt must be equal to or greater than the relinquished property's."
+      }
+    }
+  ],
+  "description": "For full tax deferral, the replacement property's net purchase price and debt must be equal to or greater than the relinquished property's."
+}

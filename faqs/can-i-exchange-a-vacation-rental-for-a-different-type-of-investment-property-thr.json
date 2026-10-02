@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/can-i-exchange-a-vacation-rental-for-a-different-type-of-investment-property-thr",
+  "name": "Can I exchange a vacation rental for a different type of investment property through a 1031 exchange?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I exchange a vacation rental for a different type of investment property through a 1031 exchange?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, you can exchange a vacation rental property for another type of investment property, as long as both properties are considered 'like-kind' and are held for productive use in a trade or business or for investment. For example, you could exchange a vacation rental in Hollywood Beach for a multi-family unit in Coral Gables or a vacant land parcel in Orange County, provided your intent for the replacement property is also for investment. This flexibility allows investors to adjust their portfolios according to market conditions or personal investment goals.",
+        "@type": "Answer",
+        "description": "Yes, a vacation rental can be exchanged for another 'like-kind' investment property, such as multi-family or vacant land, if both are held for investment."
+      }
+    }
+  ],
+  "description": "Yes, a vacation rental can be exchanged for another 'like-kind' investment property, such as multi-family or vacant land, if both are held for investment."
+}

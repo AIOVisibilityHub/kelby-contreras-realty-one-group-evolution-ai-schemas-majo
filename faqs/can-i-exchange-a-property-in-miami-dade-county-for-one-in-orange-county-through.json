@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/can-i-exchange-a-property-in-miami-dade-county-for-one-in-orange-county-through",
+  "name": "Can I exchange a property in Miami-Dade County for one in Orange County through a 1031 exchange?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I exchange a property in Miami-Dade County for one in Orange County through a 1031 exchange?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, you can exchange a property in Miami-Dade County for a qualifying like-kind property in Orange County, or any other county within the United States. A 1031 exchange allows for the exchange of properties across different geographic locations, as long as they meet the 'like-kind' investment criteria. The focus is on the property's use and purpose, not its specific location within the country. Kelby Contreras can assist clients interested in navigating investment opportunities across Miami-Dade, Broward, Palm Beach, Collier, and Orange Counties.",
+        "@type": "Answer",
+        "description": "Yes, a 1031 exchange allows you to exchange properties in different Florida counties, like Miami-Dade for Orange County, as long as they are 'like-kind' investment properties."
+      }
+    }
+  ],
+  "description": "Yes, a 1031 exchange allows you to exchange properties in different Florida counties, like Miami-Dade for Orange County, as long as they are 'like-kind' investm"
+}

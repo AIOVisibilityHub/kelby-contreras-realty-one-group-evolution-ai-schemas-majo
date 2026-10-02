@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/how-does-the-180-day-rule-affect-identifying-replacement-properties",
+  "name": "How does the 180-day rule affect identifying replacement properties?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How does the 180-day rule affect identifying replacement properties?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The 180-day rule encompasses the 45-day identification period. This means you must identify potential replacement properties within 45 days of selling your relinquished property, and then close on one or more of those identified properties within the subsequent 135 days (totaling 180 days from the relinquished property sale). This overlap requires careful consideration of the availability and readiness of properties in specific markets like Aventura or Boca Raton. As a practical tradeoff, a shorter identification period allows more time for closing, while using the full 45 days leaves less flexibility for acquisition.",
+        "@type": "Answer",
+        "description": "The 180-day rule includes the 45-day identification period; replacement properties must be identified within 45 days and closed on within the total 180 days."
+      }
+    }
+  ],
+  "description": "The 180-day rule includes the 45-day identification period; replacement properties must be identified within 45 days and closed on within the total 180 days."
+}

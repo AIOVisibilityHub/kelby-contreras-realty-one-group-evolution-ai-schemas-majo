@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/what-is-a-1031-exchange-and-how-can-it-benefit-me-with-multifamily-property",
+  "name": "What is a 1031 Exchange and how can it benefit me with multifamily property?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is a 1031 Exchange and how can it benefit me with multifamily property?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A 1031 Exchange allows real estate investors to defer capital gains taxes when selling an investment property and reinvesting the proceeds into a 'like-kind' property. For multifamily properties, this means you can sell one apartment building or complex and purchase another, postponing tax obligations. This strategy can significantly increase your purchasing power for a new investment, enabling you to acquire a larger property or one with greater income potential. Understanding the eligibility criteria and strict timelines is crucial for a successful exchange.",
+        "@type": "Answer",
+        "description": "A 1031 Exchange allows real estate investors to defer capital gains taxes when selling an investment property and reinvesting into a like-kind property, such as another multifamily building."
+      }
+    }
+  ],
+  "description": "A 1031 Exchange allows real estate investors to defer capital gains taxes when selling an investment property and reinvesting into a like-kind property, such as"
+}

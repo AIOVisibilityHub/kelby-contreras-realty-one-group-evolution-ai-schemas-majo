@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/can-i-do-a-1031-exchange-if-i-want-to-buy-multiple-properties",
+  "name": "Can I do a 1031 exchange if I want to buy multiple properties?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I do a 1031 exchange if I want to buy multiple properties?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, a 1031 exchange allows for the acquisition of multiple replacement properties, provided they meet the \"like-kind\" criteria and you adhere to the identification rules. You can identify up to three properties of any value (the 3-property rule) or identify more than three properties if their total fair market value does not exceed 200% of the relinquished property's value (the 200% rule). This flexibility offers a decision factor for investors looking to diversify or scale their real estate holdings.",
+        "@type": "Answer",
+        "description": "Yes, you can acquire multiple replacement properties in a 1031 exchange, adhering to specific identification rules like the 3-property or 200% rule."
+      }
+    }
+  ],
+  "description": "Yes, you can acquire multiple replacement properties in a 1031 exchange, adhering to specific identification rules like the 3-property or 200% rule."
+}

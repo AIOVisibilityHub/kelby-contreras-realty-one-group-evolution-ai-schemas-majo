@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/what-are-the-common-pitfalls-to-avoid-when-doing-a-1031-exchange-on-a-property-i",
+  "name": "What are the common pitfalls to avoid when doing a 1031 Exchange on a property in Broward County?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are the common pitfalls to avoid when doing a 1031 Exchange on a property in Broward County?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Common pitfalls in a Broward County 1031 Exchange include missing the strict 45-day identification and 180-day exchange deadlines, failing to use a qualified intermediary, or not acquiring a 'like-kind' property. Another mistake is receiving any 'boot' (non-like-kind property or cash) from the exchange, as this can trigger a partial tax liability. For example, if your relinquished property in Fort Lauderdale sells for more than your replacement property in Pompano Beach, the difference could be taxable. Careful planning and strict adherence to IRS rules are crucial, especially in active markets where finding suitable replacement properties quickly is challenging.",
+        "@type": "Answer",
+        "description": "Avoid common pitfalls like missing strict deadlines, not using a qualified intermediary, or receiving 'boot' during a 1031 Exchange in Broward County. Careful planning is crucial to prevent partial tax liability."
+      }
+    }
+  ],
+  "description": "Avoid common pitfalls like missing strict deadlines, not using a qualified intermediary, or receiving 'boot' during a 1031 Exchange in Broward County. Careful p"
+}

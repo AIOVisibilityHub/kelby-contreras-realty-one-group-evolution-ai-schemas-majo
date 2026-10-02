@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/can-i-exchange-a-multifamily-property-in-miami-for-one-in-orlando-using-a-1031-e",
+  "name": "Can I exchange a multifamily property in Miami for one in Orlando using a 1031 Exchange?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I exchange a multifamily property in Miami for one in Orlando using a 1031 Exchange?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, a 1031 Exchange does not require the replacement property to be in the same geographic area as the relinquished one, as long as it is considered 'like-kind' real estate held for investment purposes. You can exchange a multifamily property in Miami-Dade County for one in Orange County, for example. The key is that both properties are investment real estate. Investors often use this flexibility to diversify their portfolio across different Florida markets, such as shifting from coastal properties to those in central Florida.",
+        "@type": "Answer",
+        "description": "Yes, you can exchange a multifamily property in one Florida county for another in a different Florida county, as long as both are 'like-kind' investment properties."
+      }
+    }
+  ],
+  "description": "Yes, you can exchange a multifamily property in one Florida county for another in a different Florida county, as long as both are 'like-kind' investment propert"
+}

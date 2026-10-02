@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/what-happens-if-i-don-t-identify-a-replacement-property-within-45-days",
+  "name": "What happens if I don't identify a replacement property within 45 days?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What happens if I don't identify a replacement property within 45 days?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "If you fail to identify replacement properties within the 45-day period, your 1031 exchange will fail. This means that the entire capital gain from the sale of your relinquished property becomes immediately taxable in the year of the sale, rather than being deferred. This can result in a significant tax liability. It's essential to have a clear strategy and potential properties in mind even before selling your relinquished property to mitigate this risk. Working with an experienced real estate professional can help you stay on track and avoid this pitfall.",
+        "@type": "Answer",
+        "description": "Failing to identify a replacement property within 45 days causes the 1031 exchange to fail, making the capital gain immediately taxable."
+      }
+    }
+  ],
+  "description": "Failing to identify a replacement property within 45 days causes the 1031 exchange to fail, making the capital gain immediately taxable."
+}

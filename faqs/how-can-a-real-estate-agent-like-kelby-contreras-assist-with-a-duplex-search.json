@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/how-can-a-real-estate-agent-like-kelby-contreras-assist-with-a-duplex-search",
+  "name": "How can a real estate agent like Kelby Contreras assist with a duplex search?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How can a real estate agent like Kelby Contreras assist with a duplex search?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A real estate agent like Kelby Contreras can significantly assist with a duplex search by providing access to off-market listings, conducting thorough market analysis, and negotiating on your behalf. Kelby can help identify properties that align with your financial and investment goals, navigate the complexities of multi-unit property transactions, and connect you with local professionals like lenders and inspectors experienced in duplexes across Miami-Dade, Broward, Palm Beach, Collier, and Orange Counties.",
+        "@type": "Answer",
+        "description": "A real estate agent assists with listings, market analysis, negotiation, and connecting you with relevant professionals for duplex searches."
+      }
+    }
+  ],
+  "description": "A real estate agent assists with listings, market analysis, negotiation, and connecting you with relevant professionals for duplex searches."
+}

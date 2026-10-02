@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/what-is-the-45-day-identification-period-for-a-like-kind-exchange",
+  "name": "What is the 45-day identification period for a like-kind exchange?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the 45-day identification period for a like-kind exchange?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The 45-day identification period is a critical deadline in a 1031 exchange. From the date you close on the sale of your relinquished property, you have exactly 45 calendar days to identify potential replacement properties in writing. This identification must be unambiguous and delivered to a person involved in the exchange, such as your qualified intermediary. Missing this deadline will disqualify your exchange. It's crucial to start your property search early, even before selling your current property, to ensure you have ample time to identify suitable options within the various South Florida and Central Florida markets we serve.",
+        "@type": "Answer",
+        "description": "You have 45 calendar days from the sale of your relinquished property to identify potential replacement properties in writing."
+      }
+    }
+  ],
+  "description": "You have 45 calendar days from the sale of your relinquished property to identify potential replacement properties in writing."
+}

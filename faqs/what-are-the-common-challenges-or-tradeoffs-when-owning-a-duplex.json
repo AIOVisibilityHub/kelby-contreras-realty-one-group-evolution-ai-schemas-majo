@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/what-are-the-common-challenges-or-tradeoffs-when-owning-a-duplex",
+  "name": "What are the common challenges or tradeoffs when owning a duplex?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are the common challenges or tradeoffs when owning a duplex?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Owning a duplex involves managing tenants, which can include handling maintenance requests, collecting rent, and addressing disputes. There's also the responsibility of maintaining two units, potentially doubling some upkeep tasks compared to a single-family home. You might also encounter challenges in finding suitable tenants or dealing with vacancies. It's important to weigh the potential for rental income against the time and effort required for property management, or consider hiring a property manager.",
+        "@type": "Answer",
+        "description": "Challenges include tenant management and increased maintenance responsibilities, balancing these with rental income benefits."
+      }
+    }
+  ],
+  "description": "Challenges include tenant management and increased maintenance responsibilities, balancing these with rental income benefits."
+}

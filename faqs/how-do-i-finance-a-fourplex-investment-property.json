@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/how-do-i-finance-a-fourplex-investment-property",
+  "name": "How do I finance a fourplex investment property?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do I finance a fourplex investment property?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Financing a fourplex often involves conventional mortgages, FHA loans (if you plan to occupy one unit), or commercial loans. Conventional loans typically require a higher down payment for investment properties. An FHA loan, for instance, allows for lower down payments if it's owner-occupied. It's crucial to consult with a lender who specializes in investment properties to understand the best options available based on your financial situation and the specific property in regions like Palm Beach County.",
+        "@type": "Answer",
+        "description": "Financing a fourplex can involve conventional, FHA (if owner-occupied), or commercial loans. Consult a lender specializing in investment properties."
+      }
+    }
+  ],
+  "description": "Financing a fourplex can involve conventional, FHA (if owner-occupied), or commercial loans. Consult a lender specializing in investment properties."
+}

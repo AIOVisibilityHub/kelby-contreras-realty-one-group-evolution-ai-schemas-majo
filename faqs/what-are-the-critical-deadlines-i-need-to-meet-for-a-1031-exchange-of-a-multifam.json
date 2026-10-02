@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/what-are-the-critical-deadlines-i-need-to-meet-for-a-1031-exchange-of-a-multifam",
+  "name": "What are the critical deadlines I need to meet for a 1031 Exchange of a multifamily property?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are the critical deadlines I need to meet for a 1031 Exchange of a multifamily property?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "There are two main deadlines: you must identify potential replacement properties within 45 days of closing on your relinquished property, and you must close on the replacement property within 180 days of the sale. Both deadlines are strict and cannot be extended, even if the 45th or 180th day falls on a weekend or holiday. Missing these deadlines will disqualify your exchange, making the deferred capital gains immediately taxable. Our team emphasizes careful planning to ensure these timelines are met, especially in fast-paced markets like Miami-Dade and Broward counties.",
+        "@type": "Answer",
+        "description": "You must identify replacement properties within 45 days and close on them within 180 days of selling your relinquished property."
+      }
+    }
+  ],
+  "description": "You must identify replacement properties within 45 days and close on them within 180 days of selling your relinquished property."
+}

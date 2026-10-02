@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/what-kind-of-properties-qualify-for-a-1031-exchange-within-the-180-day-rule",
+  "name": "What kind of properties qualify for a 1031 exchange within the 180-day rule?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What kind of properties qualify for a 1031 exchange within the 180-day rule?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "To qualify for a 1031 exchange, both the relinquished and replacement properties must be 'like-kind' and held for productive use in a trade or business or for investment. This broad definition typically includes commercial real estate, rental properties, and raw land. However, it generally excludes primary residences and 'fix and flip' properties. When working with Kelby Contreras in areas like Orlando or Delray Beach, investors should discuss their property types early on, as this is a critical decision factor for eligibility and ensures compliance with the exchange requirements.",
+        "@type": "Answer",
+        "description": "Properties must be 'like-kind' and held for investment or business use to qualify for a 1031 exchange within the 180-day rule."
+      }
+    }
+  ],
+  "description": "Properties must be 'like-kind' and held for investment or business use to qualify for a 1031 exchange within the 180-day rule."
+}

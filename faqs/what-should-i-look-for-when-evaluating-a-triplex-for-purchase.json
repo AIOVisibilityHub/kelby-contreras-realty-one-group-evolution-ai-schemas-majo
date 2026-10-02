@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/what-should-i-look-for-when-evaluating-a-triplex-for-purchase",
+  "name": "What should I look for when evaluating a triplex for purchase?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What should I look for when evaluating a triplex for purchase?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "When evaluating a triplex, consider its location, the condition of each unit, potential rental income, and local market demand. Inspect major systems like plumbing, electrical, and HVAC, and assess the roof's condition. Research comparable rental rates and property values in the neighborhood. A key decision factor is the zoning regulations in areas like Aventura or Coral Gables, which dictate allowed uses and potential future development. Understanding these local regulations is crucial before making an offer.",
+        "@type": "Answer",
+        "description": "Look for location, unit condition, rental potential, and local market demand, paying close attention to zoning regulations."
+      }
+    }
+  ],
+  "description": "Look for location, unit condition, rental potential, and local market demand, paying close attention to zoning regulations."
+}

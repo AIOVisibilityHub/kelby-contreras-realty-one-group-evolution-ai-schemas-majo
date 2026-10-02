@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/what-is-a-1031-exchange-and-how-does-it-apply-to-south-florida-properties",
+  "name": "What is a 1031 Exchange and how does it apply to South Florida properties?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is a 1031 Exchange and how does it apply to South Florida properties?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A 1031 Exchange, also known as a like-kind exchange, allows real estate investors to defer capital gains taxes when selling an investment property and reinvesting the proceeds into a new 'like-kind' property. In South Florida, this means you can sell an investment property in Miami-Dade and acquire another qualifying investment property in Broward, Palm Beach, or even Collier County, deferring the tax on the sale. The key is that both properties must be held for productive use in a trade or business or for investment, not as a primary residence or flip. Working with a qualified intermediary is crucial for successful execution.",
+        "@type": "Answer",
+        "description": "A 1031 Exchange allows real estate investors to defer capital gains taxes by reinvesting proceeds from an investment property sale into another 'like-kind' property in South Florida. This applies to investment properties across Miami-Dade, Broward, Palm Beach, and Collier Counties."
+      }
+    }
+  ],
+  "description": "A 1031 Exchange allows real estate investors to defer capital gains taxes by reinvesting proceeds from an investment property sale into another 'like-kind' prop"
+}

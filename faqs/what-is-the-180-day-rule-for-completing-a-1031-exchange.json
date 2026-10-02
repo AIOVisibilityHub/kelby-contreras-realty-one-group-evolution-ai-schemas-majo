@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/what-is-the-180-day-rule-for-completing-a-1031-exchange",
+  "name": "What is the 180-day rule for completing a 1031 exchange?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the 180-day rule for completing a 1031 exchange?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The 180-day rule, also known as the exchange period, requires you to complete the purchase of one or more of the identified replacement properties within 180 days of selling your relinquished property, or by the due date of your tax return for the year of the transfer, whichever is earlier. This period runs concurrently with the 45-day identification period. It's essential to have a clear acquisition strategy and be prepared for potential closing delays. Working with an experienced real estate agent like Kelby Contreras can help streamline the process and manage timelines effectively.",
+        "@type": "Answer",
+        "description": "You must acquire your replacement property within 180 days of selling your relinquished property, or by your tax return due date, whichever comes first."
+      }
+    }
+  ],
+  "description": "You must acquire your replacement property within 180 days of selling your relinquished property, or by your tax return due date, whichever comes first."
+}

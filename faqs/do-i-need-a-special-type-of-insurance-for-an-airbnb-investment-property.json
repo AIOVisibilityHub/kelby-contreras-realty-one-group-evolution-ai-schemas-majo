@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/do-i-need-a-special-type-of-insurance-for-an-airbnb-investment-property",
+  "name": "Do I need a special type of insurance for an Airbnb investment property?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do I need a special type of insurance for an Airbnb investment property?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, standard homeowner's insurance typically does not cover commercial activities like short-term rentals. You will likely need a specific type of insurance policy designed for Airbnb or short-term rental properties, which provides coverage for liability, property damage, and loss of income due to unforeseen circumstances. It's important to consult with an insurance professional early in the process to ensure adequate coverage tailored to your property and the specific requirements for short-term rentals in your chosen area, like Miami or Fort Lauderdale.",
+        "@type": "Answer",
+        "description": "Yes, standard homeowner's insurance is insufficient for Airbnb; you need a specific short-term rental policy for liability, damage, and income loss coverage."
+      }
+    }
+  ],
+  "description": "Yes, standard homeowner's insurance is insufficient for Airbnb; you need a specific short-term rental policy for liability, damage, and income loss coverage."
+}

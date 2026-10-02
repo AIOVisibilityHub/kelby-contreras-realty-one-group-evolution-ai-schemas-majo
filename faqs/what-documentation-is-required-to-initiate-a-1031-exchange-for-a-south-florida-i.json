@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/what-documentation-is-required-to-initiate-a-1031-exchange-for-a-south-florida-i",
+  "name": "What documentation is required to initiate a 1031 Exchange for a South Florida investment property?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What documentation is required to initiate a 1031 Exchange for a South Florida investment property?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "To initiate a 1031 Exchange for a South Florida investment property, you'll need to formally engage a qualified intermediary before closing on your relinquished property. Key documents will include the exchange agreement with your QI, the purchase agreements for both the relinquished and replacement properties, and assignment agreements. It's also important to have clear records proving the relinquished property was held for investment. We can help ensure your sale and purchase contracts are structured to accommodate the exchange, working closely with your QI to ensure all necessary paperwork is in order for a smooth transition from properties in areas like Miami to replacement properties in Orange County.",
+        "@type": "Answer",
+        "description": "Initiating a 1031 Exchange requires engaging a qualified intermediary before closing, an exchange agreement, and purchase/assignment agreements for both properties. Ensure proper documentation proving the investment nature of your property."
+      }
+    }
+  ],
+  "description": "Initiating a 1031 Exchange requires engaging a qualified intermediary before closing, an exchange agreement, and purchase/assignment agreements for both propert"
+}

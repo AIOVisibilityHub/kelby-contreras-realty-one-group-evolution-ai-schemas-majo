@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/what-is-the-role-of-a-qualified-intermediary-qi-in-a-1031-exchange-for-multifami",
+  "name": "What is the role of a Qualified Intermediary (QI) in a 1031 Exchange for multifamily properties?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the role of a Qualified Intermediary (QI) in a 1031 Exchange for multifamily properties?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A Qualified Intermediary (QI) is a neutral third party that facilitates the exchange by holding the proceeds from the sale of your relinquished property and using them to purchase your replacement property. This prevents you from having 'actual or constructive receipt' of the funds, which would disqualify the exchange and trigger a taxable event. The QI ensures all transaction documents comply with IRS regulations. Engaging a reliable QI early in the process is a critical step to maintain the integrity of your exchange.",
+        "@type": "Answer",
+        "description": "A Qualified Intermediary (QI) holds sale proceeds and facilitates the purchase of the replacement property to prevent constructive receipt, which is essential for a valid 1031 Exchange."
+      }
+    }
+  ],
+  "description": "A Qualified Intermediary (QI) holds sale proceeds and facilitates the purchase of the replacement property to prevent constructive receipt, which is essential f"
+}

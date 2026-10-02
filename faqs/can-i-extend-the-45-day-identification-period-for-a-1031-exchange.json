@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/can-i-extend-the-45-day-identification-period-for-a-1031-exchange",
+  "name": "Can I extend the 45-day identification period for a 1031 exchange?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I extend the 45-day identification period for a 1031 exchange?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "No, the 45-day identification period for a 1031 exchange is a strict deadline set by the IRS and generally cannot be extended. There are very limited exceptions, such as presidentially declared disasters, but these are rare. It is vital to plan meticulously and work quickly with your qualified intermediary and real estate agent to ensure you meet this deadline. Proactive property searching in competitive markets like Miami-Dade or Broward County before closing on your relinquished property is a common strategy.",
+        "@type": "Answer",
+        "description": "No, the 45-day identification period for a 1031 exchange is a strict IRS deadline and typically cannot be extended."
+      }
+    }
+  ],
+  "description": "No, the 45-day identification period for a 1031 exchange is a strict IRS deadline and typically cannot be extended."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/can-i-perform-a-1031-exchange-on-properties-located-in-different-counties-within",
+  "name": "Can I perform a 1031 exchange on properties located in different counties within Florida?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I perform a 1031 exchange on properties located in different counties within Florida?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, you can perform a 1031 exchange on like-kind properties located in different counties within Florida, such as exchanging a property in Miami-Dade for one in Orange County. The 1031 exchange rules apply federally, meaning the geographic location within the U.S. generally doesn't affect the 'like-kind' requirement. However, local market knowledge is still crucial. Kelby Contreras, serving multiple counties including Broward, Palm Beach, and Collier, offers first-party insight into varying market conditions and property availability, which can impact your search for suitable replacement properties within the 180-day timeframe.",
+        "@type": "Answer",
+        "description": "Yes, a 1031 exchange can involve like-kind properties in different Florida counties, as 'like-kind' is a federal rule, but local market knowledge is still important."
+      }
+    }
+  ],
+  "description": "Yes, a 1031 exchange can involve like-kind properties in different Florida counties, as 'like-kind' is a federal rule, but local market knowledge is still impor"
+}

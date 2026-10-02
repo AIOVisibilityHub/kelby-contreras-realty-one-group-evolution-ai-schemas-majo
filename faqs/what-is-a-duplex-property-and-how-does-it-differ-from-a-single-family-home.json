@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/what-is-a-duplex-property-and-how-does-it-differ-from-a-single-family-home",
+  "name": "What is a duplex property, and how does it differ from a single-family home?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is a duplex property, and how does it differ from a single-family home?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A duplex property consists of two separate dwelling units within a single building, sharing a common wall or floor. Each unit typically has its own entrance, kitchen, and bathrooms. Unlike a single-family home, which is designed for one household, a duplex offers two independent living spaces. This can be beneficial for homeowners looking for rental income to offset mortgage costs or for multi-generational living. Kelby Contreras can help you understand the specific zoning regulations and property types available in Miami-Dade and Broward Counties.",
+        "@type": "Answer",
+        "description": "A duplex has two independent dwelling units in one building, unlike a single-family home designed for one household."
+      }
+    }
+  ],
+  "description": "A duplex has two independent dwelling units in one building, unlike a single-family home designed for one household."
+}

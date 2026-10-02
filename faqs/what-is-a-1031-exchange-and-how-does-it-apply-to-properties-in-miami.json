@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/what-is-a-1031-exchange-and-how-does-it-apply-to-properties-in-miami",
+  "name": "What is a 1031 exchange and how does it apply to properties in Miami?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is a 1031 exchange and how does it apply to properties in Miami?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A 1031 exchange, also known as a like-kind exchange, allows an investor to defer capital gains taxes when selling an investment property and reinvesting the proceeds into a new 'like-kind' investment property. In Miami, this applies to various investment properties, including residential rentals, commercial buildings, and land held for investment. It's crucial that both the relinquished property and the replacement property are located within the United States. Our team frequently assists clients with identifying suitable replacement properties across Miami-Dade, Broward, and Palm Beach Counties that meet these criteria.",
+        "@type": "Answer",
+        "description": "A 1031 exchange defers capital gains taxes on investment property sales by reinvesting in a 'like-kind' property, applicable to various investment types in Miami."
+      }
+    }
+  ],
+  "description": "A 1031 exchange defers capital gains taxes on investment property sales by reinvesting in a 'like-kind' property, applicable to various investment types in Miam"
+}

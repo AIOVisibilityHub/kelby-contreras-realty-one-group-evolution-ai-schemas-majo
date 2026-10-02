@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/what-should-i-look-for-when-searching-for-a-duplex-in-miami-dade-county",
+  "name": "What should I look for when searching for a duplex in Miami-Dade County?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What should I look for when searching for a duplex in Miami-Dade County?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "When searching for a duplex in Miami-Dade County, focus on location, condition of both units, and potential rental income. Evaluate neighborhood desirability, proximity to amenities, and school districts, as these impact rental demand and property value. It's also important to consider the condition of shared utilities, roofing, and structural elements. Kelby Contreras can provide insights into local market trends and help identify properties with strong rental potential and growth in areas like Brickell or Coral Gables.",
+        "@type": "Answer",
+        "description": "Look for good location, condition of both units, and strong rental income potential."
+      }
+    }
+  ],
+  "description": "Look for good location, condition of both units, and strong rental income potential."
+}

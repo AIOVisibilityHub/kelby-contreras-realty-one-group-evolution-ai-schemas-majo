@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/how-does-a-triplex-compare-to-a-duplex-or-fourplex-for-investment",
+  "name": "How does a triplex compare to a duplex or fourplex for investment?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How does a triplex compare to a duplex or fourplex for investment?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A triplex offers a middle ground between a duplex (two units) and a fourplex (four units) in terms of income potential and management complexity. A duplex provides fewer income streams but might be simpler to manage, while a fourplex offers more income but increased management demands. The decision factor often hinges on your investment goals, risk tolerance, and capacity for property management. Triplexes can be a good entry point into multi-family investing without the full complexity of larger buildings.",
+        "@type": "Answer",
+        "description": "A triplex balances income potential and management complexity between a duplex and a fourplex, suitable for various investment goals."
+      }
+    }
+  ],
+  "description": "A triplex balances income potential and management complexity between a duplex and a fourplex, suitable for various investment goals."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/do-i-need-a-qualified-intermediary-for-a-1031-exchange",
+  "name": "Do I need a Qualified Intermediary for a 1031 exchange?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do I need a Qualified Intermediary for a 1031 exchange?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, a Qualified Intermediary (QI) is legally required for most 1031 exchanges to avoid \"constructive receipt\" of funds. The QI holds the proceeds from the sale of your relinquished property and uses them to purchase your replacement property. This critical step ensures you never directly touch the funds, maintaining the tax-deferred status. Choosing an experienced and reputable QI is a decision factor that can significantly impact the success and compliance of your exchange.",
+        "@type": "Answer",
+        "description": "Yes, a Qualified Intermediary is legally required to hold exchange funds, preventing constructive receipt and preserving tax-deferred status."
+      }
+    }
+  ],
+  "description": "Yes, a Qualified Intermediary is legally required to hold exchange funds, preventing constructive receipt and preserving tax-deferred status."
+}

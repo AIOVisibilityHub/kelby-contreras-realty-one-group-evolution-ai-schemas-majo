@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/what-information-should-i-request-about-an-hoa-before-purchasing-an-investment-p",
+  "name": "What information should I request about an HOA before purchasing an investment property?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What information should I request about an HOA before purchasing an investment property?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Before purchasing, you should request the HOA's governing documents (CC&Rs, bylaws), recent financial statements, budget, and meeting minutes. These documents provide insight into the HOA's financial health, rules and regulations for owners and tenants, and any pending special assessments or litigation. Understanding these details is a crucial preparation step to avoid future surprises and ensure the property aligns with your investment goals.",
+        "@type": "Answer",
+        "description": "Request governing documents, financial statements, budgets, and meeting minutes from an HOA. This helps understand financial health, rules, and potential issues."
+      }
+    }
+  ],
+  "description": "Request governing documents, financial statements, budgets, and meeting minutes from an HOA. This helps understand financial health, rules, and potential issues"
+}

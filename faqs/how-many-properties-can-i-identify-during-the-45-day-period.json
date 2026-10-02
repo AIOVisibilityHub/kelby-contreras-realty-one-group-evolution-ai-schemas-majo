@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/how-many-properties-can-i-identify-during-the-45-day-period",
+  "name": "How many properties can I identify during the 45-day period?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How many properties can I identify during the 45-day period?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The IRS provides specific rules for how many properties you can identify during the 45-day period. The most common is the 'three-property rule,' allowing you to identify up to three properties of any value. Alternatively, you can use the '200% rule,' which allows you to identify any number of properties, provided their aggregate fair market value does not exceed 200% of the relinquished property's value. Choosing the right rule depends on the specific market conditions and your investment strategy, especially in diverse markets like South Florida where property values can vary significantly.",
+        "@type": "Answer",
+        "description": "You can identify up to three properties (three-property rule) or any number of properties whose total value does not exceed 200% of the relinquished property's value (200% rule)."
+      }
+    }
+  ],
+  "description": "You can identify up to three properties (three-property rule) or any number of properties whose total value does not exceed 200% of the relinquished property's"
+}

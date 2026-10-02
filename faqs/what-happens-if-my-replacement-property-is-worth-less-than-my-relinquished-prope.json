@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/what-happens-if-my-replacement-property-is-worth-less-than-my-relinquished-prope",
+  "name": "What happens if my replacement property is worth less than my relinquished property?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What happens if my replacement property is worth less than my relinquished property?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "If the replacement property you acquire is of lesser value than the relinquished property, or if you take cash out of the transaction, that difference is considered \"boot.\" Boot is taxable in the year of the exchange, meaning you will incur capital gains tax on that specific portion rather than deferring it. To achieve full tax deferral, you must acquire a replacement property of equal or greater value and reinvest all the net proceeds. Managing this expectation is a practical tradeoff in exchange planning.",
+        "@type": "Answer",
+        "description": "If your replacement property is worth less or you take cash, the difference is \"boot\" and becomes taxable in the year of the exchange."
+      }
+    }
+  ],
+  "description": "If your replacement property is worth less or you take cash, the difference is \"boot\" and becomes taxable in the year of the exchange."
+}

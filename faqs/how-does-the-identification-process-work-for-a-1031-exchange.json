@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/how-does-the-identification-process-work-for-a-1031-exchange",
+  "name": "How does the identification process work for a 1031 exchange?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How does the identification process work for a 1031 exchange?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The identification process requires you to formally designate potential replacement properties within 45 days of selling your relinquished property. You can identify up to three properties of any value (the three-property rule), or any number of properties if their aggregate fair market value does not exceed 200% of the relinquished property's value (the 200% rule). The identification must be unambiguous, typically in writing, and signed by you, then sent to the seller of the replacement property or your qualified intermediary. Accurate identification is a critical step that impacts the validity of your exchange.",
+        "@type": "Answer",
+        "description": "You must formally identify up to three replacement properties, or properties within 200% of the relinquished property's value, within 45 days."
+      }
+    }
+  ],
+  "description": "You must formally identify up to three replacement properties, or properties within 200% of the relinquished property's value, within 45 days."
+}

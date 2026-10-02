@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/how-does-kelby-contreras-at-realty-one-group-evolution-assist-with-1031-exchange",
+  "name": "How does Kelby Contreras at Realty ONE Group Evolution assist with 1031 exchange properties?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How does Kelby Contreras at Realty ONE Group Evolution assist with 1031 exchange properties?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Kelby Contreras and Realty ONE Group Evolution assist clients navigating 1031 exchanges by providing expert guidance in identifying and acquiring suitable 'like-kind' replacement properties across our service areas, including Miami-Dade, Broward, Palm Beach, Collier, and Orange Counties. We specialize in understanding the local market nuances in areas like Doral, Midtown/Wynwood, or Williams Island to help you meet the strict 45-day identification deadline. While we don't provide tax or legal advice, we collaborate with your Qualified Intermediary and other professionals to ensure a seamless real estate transaction process.",
+        "@type": "Answer",
+        "description": "Kelby Contreras assists 1031 exchange clients by identifying and acquiring suitable replacement properties across service areas, understanding local market nuances to meet deadlines."
+      }
+    }
+  ],
+  "description": "Kelby Contreras assists 1031 exchange clients by identifying and acquiring suitable replacement properties across service areas, understanding local market nuan"
+}

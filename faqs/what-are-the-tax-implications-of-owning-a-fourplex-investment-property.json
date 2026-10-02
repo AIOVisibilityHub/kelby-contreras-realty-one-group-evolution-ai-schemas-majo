@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/what-are-the-tax-implications-of-owning-a-fourplex-investment-property",
+  "name": "What are the tax implications of owning a fourplex investment property?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are the tax implications of owning a fourplex investment property?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Owning a fourplex comes with several tax implications, including potential deductions for mortgage interest, property taxes, operating expenses, and depreciation. Rental income is taxable, but these deductions can significantly reduce your taxable income. It's essential to consult with a qualified tax professional to understand your specific situation and optimize your tax strategy for real estate investments, particularly given varying local tax codes across Florida counties.",
+        "@type": "Answer",
+        "description": "Tax implications include taxable rental income and potential deductions for mortgage interest, property taxes, expenses, and depreciation. Consult a tax professional."
+      }
+    }
+  ],
+  "description": "Tax implications include taxable rental income and potential deductions for mortgage interest, property taxes, expenses, and depreciation. Consult a tax profess"
+}

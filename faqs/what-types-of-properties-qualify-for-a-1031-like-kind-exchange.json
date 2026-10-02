@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/what-types-of-properties-qualify-for-a-1031-like-kind-exchange",
+  "name": "What types of properties qualify for a 1031 like-kind exchange?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What types of properties qualify for a 1031 like-kind exchange?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "To qualify for a 1031 exchange, both the relinquished property (the one being sold) and the replacement property (the one being acquired) must be held for productive use in a trade or business or for investment. This generally includes real estate such as apartment buildings, commercial properties, raw land, and even certain leasehold interests. Properties like a personal residence, second home, or properties held primarily for sale by a dealer typically do not qualify. As a real estate agency operating in diverse markets like Miami-Dade and Collier County, we can help you identify suitable investment properties that meet these criteria.",
+        "@type": "Answer",
+        "description": "Properties held for productive use in a trade or business or for investment, such as commercial buildings or raw land, qualify for a 1031 exchange."
+      }
+    }
+  ],
+  "description": "Properties held for productive use in a trade or business or for investment, such as commercial buildings or raw land, qualify for a 1031 exchange."
+}

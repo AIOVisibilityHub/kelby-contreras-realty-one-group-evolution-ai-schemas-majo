@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/are-there-any-specific-requirements-for-identifying-replacement-properties-in-fl",
+  "name": "Are there any specific requirements for identifying replacement properties in Florida for a 1031 Exchange?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Are there any specific requirements for identifying replacement properties in Florida for a 1031 Exchange?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, the IRS has strict rules for identifying replacement properties within the 45-day period. You can identify up to three properties of any value (the 'Three Property Rule'), or identify more than three properties if their aggregate fair market value does not exceed 200% of the fair market value of the relinquished property (the '200% Rule'). Once identified, you must acquire at least one of these properties. This process clarity point is crucial, as improper identification can invalidate your entire exchange, requiring precise documentation submitted to your Qualified Intermediary.",
+        "@type": "Answer",
+        "description": "You must identify replacement properties within 45 days, following the 'Three Property Rule' or '200% Rule', ensuring precise documentation for a valid exchange."
+      }
+    }
+  ],
+  "description": "You must identify replacement properties within 45 days, following the 'Three Property Rule' or '200% Rule', ensuring precise documentation for a valid exchange"
+}

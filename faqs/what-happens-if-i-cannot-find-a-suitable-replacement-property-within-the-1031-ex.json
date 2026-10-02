@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/what-happens-if-i-cannot-find-a-suitable-replacement-property-within-the-1031-ex",
+  "name": "What happens if I cannot find a suitable replacement property within the 1031 exchange timeline?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What happens if I cannot find a suitable replacement property within the 1031 exchange timeline?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "If you fail to identify or acquire a suitable replacement property within the strict 45-day identification and 180-day exchange periods, your 1031 exchange will fail. This means that the capital gains from the sale of your relinquished property will become immediately taxable in the year of the sale. It's crucial to have a backup plan and to work with experienced professionals who can help you exhaust all options within the given timelines. Diligent planning and an aggressive property search strategy are key to avoiding this outcome.",
+        "@type": "Answer",
+        "description": "If you don't find a replacement property within the 1031 timelines, your exchange fails, and capital gains become immediately taxable."
+      }
+    }
+  ],
+  "description": "If you don't find a replacement property within the 1031 timelines, your exchange fails, and capital gains become immediately taxable."
+}

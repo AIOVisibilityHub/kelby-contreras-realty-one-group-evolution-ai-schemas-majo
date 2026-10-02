@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/should-i-consider-a-1031-exchange-even-if-i-plan-to-retire-soon",
+  "name": "Should I consider a 1031 exchange even if I plan to retire soon?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Should I consider a 1031 exchange even if I plan to retire soon?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Considering a 1031 exchange close to retirement requires careful planning and consultation with tax and financial advisors. While it defers capital gains, it also commits you to owning another investment property. Factors to consider include your long-term financial goals, your desire to continue managing investment properties, and how this fits into your overall estate plan. An advantage is that if you hold the property until death, your heirs receive a stepped-up basis, potentially eliminating the deferred capital gains tax. Evaluate the commitment to property management against your retirement objectives.",
+        "@type": "Answer",
+        "description": "Consider a 1031 exchange near retirement carefully; it defers taxes but commits you to new property ownership, impacting long-term financial and estate planning."
+      }
+    }
+  ],
+  "description": "Consider a 1031 exchange near retirement carefully; it defers taxes but commits you to new property ownership, impacting long-term financial and estate planning"
+}

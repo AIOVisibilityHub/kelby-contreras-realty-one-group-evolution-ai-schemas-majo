@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/how-do-weekends-and-holidays-affect-1031-exchange-deadlines",
+  "name": "How do weekends and holidays affect 1031 exchange deadlines?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do weekends and holidays affect 1031 exchange deadlines?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The 45-day identification period and the 180-day exchange period for a 1031 exchange include weekends and holidays. There are no automatic extensions for deadlines falling on non-business days. This means that if your 45th or 180th day falls on a Saturday, Sunday, or federal holiday, that is still your deadline. Careful planning and working with an experienced real estate professional are essential to ensure all actions are taken on time. Kelby Contreras - Realty ONE Group Evolution helps clients in South Florida navigate these precise timelines.",
+        "@type": "Answer",
+        "description": "1031 exchange deadlines include weekends and holidays; there are no automatic extensions for non-business days."
+      }
+    }
+  ],
+  "description": "1031 exchange deadlines include weekends and holidays; there are no automatic extensions for non-business days."
+}

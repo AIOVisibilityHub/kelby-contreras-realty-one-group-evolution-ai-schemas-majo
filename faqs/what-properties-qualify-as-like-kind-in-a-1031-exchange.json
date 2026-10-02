@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/what-properties-qualify-as-like-kind-in-a-1031-exchange",
+  "name": "What properties qualify as 'like-kind' in a 1031 exchange?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What properties qualify as 'like-kind' in a 1031 exchange?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "In a 1031 exchange, 'like-kind' refers to the nature or character of the property, not its grade or quality. For example, a rental house can be exchanged for a commercial building, or raw land for an apartment complex, as long as both are held for investment or productive use in a business. The most important factor is that both the relinquished and replacement properties are real estate held for investment purposes. It's essential to confirm the investment intent of both properties with your real estate advisor to ensure eligibility.",
+        "@type": "Answer",
+        "description": "Properties are 'like-kind' if they are both real estate held for investment or business use; specific types like a rental home for commercial property can qualify."
+      }
+    }
+  ],
+  "description": "Properties are 'like-kind' if they are both real estate held for investment or business use; specific types like a rental home for commercial property can quali"
+}

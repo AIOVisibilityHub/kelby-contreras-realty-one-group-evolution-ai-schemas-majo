@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/how-do-i-identify-a-replacement-property-for-a-1031-exchange-involving-a-vacatio",
+  "name": "How do I identify a replacement property for a 1031 exchange involving a vacation rental?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do I identify a replacement property for a 1031 exchange involving a vacation rental?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Identifying a replacement property involves adhering to IRS rules, primarily the 3-property rule or the 200% rule. Under the 3-property rule, you can identify up to three properties of any value. Under the 200% rule, you can identify any number of properties, provided their aggregate fair market value does not exceed 200% of the relinquished property's value. Kelby Contreras assists clients in the Miami, Fort Lauderdale, and Palm Beach areas in identifying suitable like-kind properties that align with these IRS identification requirements and their investment goals.",
+        "@type": "Answer",
+        "description": "Identify replacement properties using the 3-property rule or 200% rule within 45 days of selling your relinquished property."
+      }
+    }
+  ],
+  "description": "Identify replacement properties using the 3-property rule or 200% rule within 45 days of selling your relinquished property."
+}

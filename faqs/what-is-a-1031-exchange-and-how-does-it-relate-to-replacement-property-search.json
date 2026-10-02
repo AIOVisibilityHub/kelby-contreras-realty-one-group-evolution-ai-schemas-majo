@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/what-is-a-1031-exchange-and-how-does-it-relate-to-replacement-property-search",
+  "name": "What is a 1031 exchange and how does it relate to replacement property search?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is a 1031 exchange and how does it relate to replacement property search?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A 1031 exchange, or like-kind exchange, allows an investor to defer capital gains taxes when selling an investment property by reinvesting the proceeds into a new, similar investment property within a specific timeframe. The replacement property search is the crucial step of identifying and acquiring this new property to complete the exchange. Understanding the 'like-kind' requirements for your replacement property is a critical preparation step, as it determines which properties qualify for the deferral.",
+        "@type": "Answer",
+        "description": "A 1031 exchange defers capital gains tax when selling an investment property by reinvesting in a like-kind replacement property."
+      }
+    }
+  ],
+  "description": "A 1031 exchange defers capital gains tax when selling an investment property by reinvesting in a like-kind replacement property."
+}

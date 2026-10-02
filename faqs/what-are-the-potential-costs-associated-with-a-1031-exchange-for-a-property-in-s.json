@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/what-are-the-potential-costs-associated-with-a-1031-exchange-for-a-property-in-s",
+  "name": "What are the potential costs associated with a 1031 exchange for a property in South Florida?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are the potential costs associated with a 1031 exchange for a property in South Florida?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Costs for a 1031 exchange typically include Qualified Intermediary fees, appraisal fees, inspection costs, title insurance, and standard closing costs for both the relinquished and replacement properties. These costs can vary based on the transaction's complexity and the property's value. While a 1031 exchange defers capital gains taxes, these transaction-related expenses are still incurred. Our team helps clients understand these various costs as they evaluate properties in areas like Fort Lauderdale Beach, Las Olas, or Pompano Beach.",
+        "@type": "Answer",
+        "description": "1031 exchange costs include Qualified Intermediary fees, appraisal, inspection, title insurance, and closing costs for both properties involved."
+      }
+    }
+  ],
+  "description": "1031 exchange costs include Qualified Intermediary fees, appraisal, inspection, title insurance, and closing costs for both properties involved."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/what-happens-if-the-replacement-property-costs-less-than-the-relinquished-proper",
+  "name": "What happens if the replacement property costs less than the relinquished property?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What happens if the replacement property costs less than the relinquished property?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "If the replacement property has a lower value or less equity than the relinquished property, you will have 'boot.' Boot is taxable, meaning you will owe capital gains tax on the difference. To achieve a fully tax-deferred exchange, the replacement property's net purchase price and the new mortgage amount must be equal to or greater than that of the relinquished property. It's a key consideration for clients to ensure their exchange meets their investment goals and tax deferral objectives.",
+        "@type": "Answer",
+        "description": "If the replacement property costs less, the difference, known as 'boot,' becomes taxable. To avoid this, the replacement property's value and equity should be equal to or greater than the relinquished property."
+      }
+    }
+  ],
+  "description": "If the replacement property costs less, the difference, known as 'boot,' becomes taxable. To avoid this, the replacement property's value and equity should be e"
+}

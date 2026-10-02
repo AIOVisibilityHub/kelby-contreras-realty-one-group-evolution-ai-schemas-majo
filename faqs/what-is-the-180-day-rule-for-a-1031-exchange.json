@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/what-is-the-180-day-rule-for-a-1031-exchange",
+  "name": "What is the 180-day rule for a 1031 exchange?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the 180-day rule for a 1031 exchange?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The 180-day rule for a 1031 exchange refers to the maximum time allowed to complete the entire exchange process, from the sale of the relinquished property to the acquisition of all identified replacement properties. This 180-day period runs concurrently with the 45-day identification period. It's crucial for investors to understand this timeline, as missing the deadline means the exchange fails, making the deferred gains immediately taxable. Kelby Contreras, with expertise across South Florida markets like Miami-Dade and Broward County, often guides clients through these tight deadlines to ensure a smooth transition between properties.",
+        "@type": "Answer",
+        "description": "The 180-day rule is the maximum time (180 days) to complete a 1031 exchange, including the identification and acquisition of replacement properties."
+      }
+    }
+  ],
+  "description": "The 180-day rule is the maximum time (180 days) to complete a 1031 exchange, including the identification and acquisition of replacement properties."
+}

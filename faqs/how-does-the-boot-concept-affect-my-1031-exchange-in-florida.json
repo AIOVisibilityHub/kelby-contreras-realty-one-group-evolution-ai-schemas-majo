@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/how-does-the-boot-concept-affect-my-1031-exchange-in-florida",
+  "name": "How does the 'boot' concept affect my 1031 exchange in Florida?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How does the 'boot' concept affect my 1031 exchange in Florida?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "'Boot' refers to non-like-kind property received in an exchange, which can be in the form of cash, mortgage relief, or personal property. Receiving boot will trigger a taxable event, reducing the amount of deferred capital gains. To achieve a fully tax-deferred exchange, you generally need to acquire a replacement property of equal or greater value and debt. Understanding how 'boot' might arise is a key consideration our clients discuss when comparing potential replacement properties in areas like Key Biscayne or Pinecrest.",
+        "@type": "Answer",
+        "description": "'Boot' is non-like-kind property received in an exchange, such as cash or mortgage relief, which becomes taxable and reduces deferred gains."
+      }
+    }
+  ],
+  "description": "'Boot' is non-like-kind property received in an exchange, such as cash or mortgage relief, which becomes taxable and reduces deferred gains."
+}

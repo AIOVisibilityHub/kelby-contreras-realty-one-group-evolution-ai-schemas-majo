@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/what-are-the-tax-implications-of-owning-a-vacation-rental-property",
+  "name": "What are the tax implications of owning a vacation rental property?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are the tax implications of owning a vacation rental property?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The tax implications of owning a vacation rental property can be complex, involving deductions for expenses, depreciation, and potential self-employment taxes if actively managed. It's essential to distinguish between active and passive income for tax purposes, as this impacts deductible losses. Consulting with a qualified tax professional is recommended to understand the specific implications for your investment.",
+        "@type": "Answer",
+        "description": "Tax implications include deductions for expenses and depreciation, with potential self-employment taxes. Consult a tax professional for personalized advice."
+      }
+    }
+  ],
+  "description": "Tax implications include deductions for expenses and depreciation, with potential self-employment taxes. Consult a tax professional for personalized advice."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/what-should-i-do-if-my-identified-replacement-property-falls-through-after-45-da",
+  "name": "What should I do if my identified replacement property falls through after 45 days?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What should I do if my identified replacement property falls through after 45 days?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "If an identified replacement property falls through after the 45-day identification period, you generally cannot identify new properties. You are limited to acquiring one of the properties you identified within the initial 45 days. This is why many investors identify multiple backup properties within the permissible limits. If all identified properties fall through, the exchange will fail, and the deferred gain will become taxable. Proactive identification of a few strong options provides crucial flexibility.",
+        "@type": "Answer",
+        "description": "After 45 days, you cannot identify new properties. If an identified property falls through, you must proceed with another identified property, or the exchange may fail."
+      }
+    }
+  ],
+  "description": "After 45 days, you cannot identify new properties. If an identified property falls through, you must proceed with another identified property, or the exchange m"
+}

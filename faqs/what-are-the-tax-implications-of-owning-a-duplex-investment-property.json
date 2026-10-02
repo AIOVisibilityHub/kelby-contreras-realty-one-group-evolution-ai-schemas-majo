@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/what-are-the-tax-implications-of-owning-a-duplex-investment-property",
+  "name": "What are the tax implications of owning a duplex investment property?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are the tax implications of owning a duplex investment property?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Owning a duplex investment property can have various tax implications, including deductible expenses for property taxes, mortgage interest, insurance, maintenance, and depreciation. Rental income is taxable, but these deductions can significantly reduce your taxable income. It's essential to keep meticulous records of all income and expenses. Due to the complexity, consulting with a qualified tax professional is always recommended to understand how current tax laws apply to your specific situation. Kelby Contreras can refer you to local tax experts familiar with investment properties in Florida.",
+        "@type": "Answer",
+        "description": "Duplex ownership offers tax deductions for expenses like taxes, interest, and depreciation, offsetting taxable rental income. Consult a tax professional for specific guidance."
+      }
+    }
+  ],
+  "description": "Duplex ownership offers tax deductions for expenses like taxes, interest, and depreciation, offsetting taxable rental income. Consult a tax professional for spe"
+}

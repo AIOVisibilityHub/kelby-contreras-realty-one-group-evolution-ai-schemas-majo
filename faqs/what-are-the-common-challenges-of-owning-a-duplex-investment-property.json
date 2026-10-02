@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/what-are-the-common-challenges-of-owning-a-duplex-investment-property",
+  "name": "What are the common challenges of owning a duplex investment property?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are the common challenges of owning a duplex investment property?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Owning a duplex can present challenges such as managing two sets of tenants, handling maintenance for a larger property, and navigating local landlord-tenant laws. Vacancy in one unit can impact your cash flow, and property management can be more demanding than a single-family home. Understanding local regulations in areas like Miami-Dade or Broward County regarding leases, evictions, and property standards is crucial. Kelby Contreras helps clients anticipate these challenges and offers insights into effective property management strategies, or connects them with reliable local property management services.",
+        "@type": "Answer",
+        "description": "Challenges include managing multiple tenants, increased maintenance, and navigating complex landlord-tenant laws. Local regulations can vary significantly, impacting property management."
+      }
+    }
+  ],
+  "description": "Challenges include managing multiple tenants, increased maintenance, and navigating complex landlord-tenant laws. Local regulations can vary significantly, impa"
+}

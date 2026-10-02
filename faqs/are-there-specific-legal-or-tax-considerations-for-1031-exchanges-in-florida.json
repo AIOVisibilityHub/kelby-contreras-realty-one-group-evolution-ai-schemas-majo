@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/are-there-specific-legal-or-tax-considerations-for-1031-exchanges-in-florida",
+  "name": "Are there specific legal or tax considerations for 1031 exchanges in Florida?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Are there specific legal or tax considerations for 1031 exchanges in Florida?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "While the core rules for 1031 exchanges are federal, specific state laws regarding property transfer, taxation (e.g., documentary stamp taxes), and local real estate practices can influence the process in Florida. It's important to understand state-specific closing costs and local market conditions in areas like Palm Beach or Collier County, as these can impact the overall economics of your exchange. While Kelby Contreras provides real estate guidance, consulting with a tax advisor and legal counsel familiar with Florida real estate and 1031 exchanges is recommended for specific legal and tax implications.",
+        "@type": "Answer",
+        "description": "Federal rules govern 1031 exchanges, but Florida-specific closing costs and property laws can influence the process; consult local tax and legal advisors."
+      }
+    }
+  ],
+  "description": "Federal rules govern 1031 exchanges, but Florida-specific closing costs and property laws can influence the process; consult local tax and legal advisors."
+}

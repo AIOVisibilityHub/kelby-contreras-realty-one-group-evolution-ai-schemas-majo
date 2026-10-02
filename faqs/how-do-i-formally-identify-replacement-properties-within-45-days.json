@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/how-do-i-formally-identify-replacement-properties-within-45-days",
+  "name": "How do I formally identify replacement properties within 45 days?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do I formally identify replacement properties within 45 days?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "To formally identify replacement properties, you must provide an unambiguous written designation to your qualified intermediary (QI) by midnight of the 45th day. This designation should clearly describe the properties, typically including the street address. While identifying the properties, it's beneficial to consider their investment potential and alignment with market trends in your desired areas, such as the growing markets in Orange County or Collier County. Your real estate agent can assist in preparing this identification list.",
+        "@type": "Answer",
+        "description": "Formally identify replacement properties by providing a clear, written description (e.g., street address) to your qualified intermediary by the 45-day deadline."
+      }
+    }
+  ],
+  "description": "Formally identify replacement properties by providing a clear, written description (e.g., street address) to your qualified intermediary by the 45-day deadline."
+}

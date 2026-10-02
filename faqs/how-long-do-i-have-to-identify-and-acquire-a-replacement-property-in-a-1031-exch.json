@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/how-long-do-i-have-to-identify-and-acquire-a-replacement-property-in-a-1031-exch",
+  "name": "How long do I have to identify and acquire a replacement property in a 1031 exchange?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long do I have to identify and acquire a replacement property in a 1031 exchange?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You have 45 days from the closing of your relinquished property to identify potential replacement properties. After identification, you have a total of 180 days from the closing of the relinquished property, or the due date of your tax return for the year the relinquished property was sold (including extensions), whichever is earlier, to acquire the new property. Missing these deadlines can disqualify your exchange. It's crucial to begin your property search early, especially in competitive markets like South Florida, to ensure you have sufficient time to evaluate options and negotiate a purchase.",
+        "@type": "Answer",
+        "description": "You have 45 days to identify a replacement property and 180 days to acquire it after selling your relinquished property."
+      }
+    }
+  ],
+  "description": "You have 45 days to identify a replacement property and 180 days to acquire it after selling your relinquished property."
+}

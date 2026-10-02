@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/what-is-a-duplex-investment-property",
+  "name": "What is a duplex investment property?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is a duplex investment property?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A duplex investment property consists of two separate living units within a single building, typically sharing one property title. Investors often purchase duplexes to live in one unit and rent out the other, or to rent out both units for income. This type of property can offer dual income streams and potential tax advantages, making it an attractive option for those looking to start or expand their real estate portfolio. Kelby Contreras specializes in identifying suitable duplex investment opportunities throughout Miami-Dade, Broward, Palm Beach, Collier, and Orange Counties, helping clients understand the local market nuances.",
+        "@type": "Answer",
+        "description": "A duplex is a single building with two separate living units. It allows investors to generate rental income from one or both units."
+      }
+    }
+  ],
+  "description": "A duplex is a single building with two separate living units. It allows investors to generate rental income from one or both units."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/what-is-the-timeline-for-completing-a-1031-exchange-for-a-vacation-rental",
+  "name": "What is the timeline for completing a 1031 exchange for a vacation rental?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the timeline for completing a 1031 exchange for a vacation rental?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "There are strict deadlines for completing a 1031 exchange. You must identify potential replacement properties within 45 days of selling your relinquished property, and the exchange must be completed within 180 days of the sale. Both deadlines are critical and cannot be extended, even if the 180-day period extends into the next tax year. Careful planning and prompt action are essential to meet these timeframes, especially when navigating the competitive South Florida real estate market.",
+        "@type": "Answer",
+        "description": "A 1031 exchange requires identifying replacement properties within 45 days and completing the exchange within 180 days of sale."
+      }
+    }
+  ],
+  "description": "A 1031 exchange requires identifying replacement properties within 45 days and completing the exchange within 180 days of sale."
+}

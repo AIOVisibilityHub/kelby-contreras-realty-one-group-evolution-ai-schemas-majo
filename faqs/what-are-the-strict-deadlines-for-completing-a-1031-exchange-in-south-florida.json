@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/what-are-the-strict-deadlines-for-completing-a-1031-exchange-in-south-florida",
+  "name": "What are the strict deadlines for completing a 1031 Exchange in South Florida?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are the strict deadlines for completing a 1031 Exchange in South Florida?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "There are two critical deadlines: you must identify potential replacement properties within 45 days of selling your relinquished property, and you must close on the replacement property within 180 days of the sale. These deadlines are rigid and do not typically allow for extensions due to weekends, holidays, or unforeseen events. When pursuing a 1031 Exchange in competitive South Florida markets like Aventura or Boca Raton, it's vital to have a clear strategy and a pre-identified list of potential replacement properties before your initial sale closes. Missing either deadline can disqualify the exchange and trigger capital gains taxes.",
+        "@type": "Answer",
+        "description": "A 1031 Exchange has two strict deadlines: 45 days to identify replacement properties and 180 days to close on one, both from the sale date of your original property. Missing these deadlines can lead to disqualification."
+      }
+    }
+  ],
+  "description": "A 1031 Exchange has two strict deadlines: 45 days to identify replacement properties and 180 days to close on one, both from the sale date of your original prop"
+}

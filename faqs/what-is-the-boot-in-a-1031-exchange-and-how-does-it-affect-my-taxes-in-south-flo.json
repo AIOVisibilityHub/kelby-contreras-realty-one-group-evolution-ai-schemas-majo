@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/what-is-the-boot-in-a-1031-exchange-and-how-does-it-affect-my-taxes-in-south-flo",
+  "name": "What is the 'boot' in a 1031 Exchange, and how does it affect my taxes in South Florida?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the 'boot' in a 1031 Exchange, and how does it affect my taxes in South Florida?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "In a 1031 Exchange, 'boot' refers to any non-like-kind property or cash received during the exchange. If you receive boot, it becomes taxable up to the amount of gain realized on the sale of your relinquished property. For example, if you sell an investment property in South Beach for $1 million and purchase a replacement property for $900,000, the $100,000 difference is considered cash boot and is taxable. To fully defer capital gains, you must reinvest all of your net equity and replace any debt of the relinquished property with equal or greater debt on the replacement property.",
+        "@type": "Answer",
+        "description": "'Boot' in a 1031 Exchange is any non-like-kind property or cash received, making that amount taxable up to your realized gain. To fully defer taxes, reinvest all net equity and replace debt with equal or greater debt on the new property."
+      }
+    }
+  ],
+  "description": "'Boot' in a 1031 Exchange is any non-like-kind property or cash received, making that amount taxable up to your realized gain. To fully defer taxes, reinvest al"
+}

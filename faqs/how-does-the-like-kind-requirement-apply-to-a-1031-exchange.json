@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/how-does-the-like-kind-requirement-apply-to-a-1031-exchange",
+  "name": "How does the \"like-kind\" requirement apply to a 1031 exchange?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How does the \"like-kind\" requirement apply to a 1031 exchange?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The term \"like-kind\" in a 1031 exchange refers to the nature or character of the property, not its grade or quality. For example, an apartment building can be exchanged for undeveloped land, or a retail space for an industrial warehouse. All these are considered real property. This flexibility means investors in diverse Florida markets like Palm Beach and Collier Counties have broad options for reinvesting, but it's important to understand that real property cannot be exchanged for personal property.",
+        "@type": "Answer",
+        "description": "Like-kind refers to the nature of the property, meaning real estate can be exchanged for other real estate, regardless of specific type."
+      }
+    }
+  ],
+  "description": "Like-kind refers to the nature of the property, meaning real estate can be exchanged for other real estate, regardless of specific type."
+}

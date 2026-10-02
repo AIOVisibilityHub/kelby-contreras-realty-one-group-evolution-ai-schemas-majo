@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/when-does-the-1031-exchange-timeline-officially-begin",
+  "name": "When does the 1031 exchange timeline officially begin?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When does the 1031 exchange timeline officially begin?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The 1031 exchange timeline officially begins on the date the relinquished property is transferred to the buyer. This is typically the closing date of the sale. From this date, both the 45-day identification period and the 180-day exchange period start running concurrently. It's crucial to mark this date precisely on your calendar and communicate it clearly with all parties involved, including your qualified intermediary and real estate agent. Kelby Contreras - Realty ONE Group Evolution always confirms this start date with clients to ensure accurate deadline tracking.",
+        "@type": "Answer",
+        "description": "The 1031 exchange timeline officially begins on the date your relinquished property is transferred to the buyer, usually the closing date."
+      }
+    }
+  ],
+  "description": "The 1031 exchange timeline officially begins on the date your relinquished property is transferred to the buyer, usually the closing date."
+}

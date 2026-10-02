@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/what-is-a-1031-exchange-for-rental-property",
+  "name": "What is a 1031 exchange for rental property?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is a 1031 exchange for rental property?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A 1031 exchange, also known as a like-kind exchange, allows real estate investors to defer capital gains taxes when selling an investment property and reinvesting the proceeds into another 'like-kind' investment property. This tax-deferred exchange is primarily used for properties held for productive use in a trade or business, or for investment. The primary benefit is the deferral of capital gains, which can allow for greater reinvestment into a new property. Understanding whether your properties qualify and the specific timeline requirements is crucial for a successful exchange.",
+        "@type": "Answer",
+        "description": "A 1031 exchange allows real estate investors to defer capital gains taxes when selling one investment property and reinvesting in another 'like-kind' property."
+      }
+    }
+  ],
+  "description": "A 1031 exchange allows real estate investors to defer capital gains taxes when selling one investment property and reinvesting in another 'like-kind' property."
+}

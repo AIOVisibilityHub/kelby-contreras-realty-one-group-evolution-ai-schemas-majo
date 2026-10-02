@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/what-are-the-potential-costs-involved-in-a-1031-exchange",
+  "name": "What are the potential costs involved in a 1031 exchange?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are the potential costs involved in a 1031 exchange?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "While a 1031 exchange defers capital gains taxes, there are associated costs. These typically include Qualified Intermediary fees, appraisal fees, title insurance, escrow fees, and real estate commissions for both the relinquished and replacement properties. These costs can vary, and it's important for investors to budget for them when planning an exchange. Understanding these expenses upfront is a practical tradeoff, as they reduce the net reinvestment amount but facilitate significant tax deferral.",
+        "@type": "Answer",
+        "description": "Costs for a 1031 exchange include Qualified Intermediary fees, appraisal fees, title insurance, and real estate commissions."
+      }
+    }
+  ],
+  "description": "Costs for a 1031 exchange include Qualified Intermediary fees, appraisal fees, title insurance, and real estate commissions."
+}

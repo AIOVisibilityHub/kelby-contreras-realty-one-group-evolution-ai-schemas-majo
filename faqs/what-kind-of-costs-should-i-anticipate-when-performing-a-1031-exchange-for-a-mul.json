@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/what-kind-of-costs-should-i-anticipate-when-performing-a-1031-exchange-for-a-mul",
+  "name": "What kind of costs should I anticipate when performing a 1031 Exchange for a multifamily property?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What kind of costs should I anticipate when performing a 1031 Exchange for a multifamily property?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Beyond standard real estate transaction costs like commissions, closing fees, and title insurance, you will also incur fees for the Qualified Intermediary (QI). These QI fees can range from a few hundred to a few thousand dollars, depending on the complexity of the exchange. It's also wise to budget for potential legal or tax advisory fees to ensure compliance. While these costs exist, the potential tax deferral benefits often far outweigh them, especially for high-value multifamily properties in areas like Palm Beach or Collier County.",
+        "@type": "Answer",
+        "description": "Anticipate standard real estate transaction costs, plus fees for the Qualified Intermediary (QI) and potential legal or tax advisory services, when conducting a 1031 Exchange."
+      }
+    }
+  ],
+  "description": "Anticipate standard real estate transaction costs, plus fees for the Qualified Intermediary (QI) and potential legal or tax advisory services, when conducting a"
+}

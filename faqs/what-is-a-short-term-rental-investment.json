@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/what-is-a-short-term-rental-investment",
+  "name": "What is a short-term rental investment?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is a short-term rental investment?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A short-term rental investment involves purchasing a property with the primary goal of renting it out for short durations, typically less than 30 days, to guests. This can include vacation homes, apartments, or other residential units listed on platforms like Airbnb or Vrbo. The objective is to generate rental income, often exceeding that of long-term rentals, while also benefiting from potential property appreciation. Understanding local zoning and regulations is a critical preparation step, as rules vary significantly by area, impacting feasibility and profitability.",
+        "@type": "Answer",
+        "description": "A short-term rental investment is buying a property to rent out for short periods, often for vacationers, to generate income and benefit from appreciation. Local regulations are key to consider."
+      }
+    }
+  ],
+  "description": "A short-term rental investment is buying a property to rent out for short periods, often for vacationers, to generate income and benefit from appreciation. Loca"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/what-is-the-45-day-rule-in-a-1031-exchange",
+  "name": "What is the 45-day rule in a 1031 exchange?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the 45-day rule in a 1031 exchange?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The 45-day rule, or identification period, requires you to identify potential replacement properties within 45 days after selling your relinquished property. This deadline is strict and includes weekends and holidays. Failing to identify properties within this timeframe can invalidate your 1031 exchange, making the sale taxable. Kelby Contreras - Realty ONE Group Evolution can help you understand what constitutes a valid identification and guide you in finding suitable properties within this crucial period in areas like Miami-Dade or Broward County.",
+        "@type": "Answer",
+        "description": "You must identify potential replacement properties within 45 days of selling your relinquished property to qualify for a 1031 exchange."
+      }
+    }
+  ],
+  "description": "You must identify potential replacement properties within 45 days of selling your relinquished property to qualify for a 1031 exchange."
+}

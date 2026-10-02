@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/when-should-i-consider-buying-a-duplex-for-investment-purposes",
+  "name": "When should I consider buying a duplex for investment purposes?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When should I consider buying a duplex for investment purposes?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You should consider buying a duplex for investment purposes if you're looking to generate passive income, build equity, and potentially live in one unit while renting the other. It's a strategic move if you have the capital for a down payment, are comfortable with landlord responsibilities, or plan to hire a property manager. This approach is particularly attractive in growth markets like Orange County where rental demand is consistent.",
+        "@type": "Answer",
+        "description": "Consider a duplex for investment if you want passive income, equity growth, and are prepared for landlord responsibilities."
+      }
+    }
+  ],
+  "description": "Consider a duplex for investment if you want passive income, equity growth, and are prepared for landlord responsibilities."
+}

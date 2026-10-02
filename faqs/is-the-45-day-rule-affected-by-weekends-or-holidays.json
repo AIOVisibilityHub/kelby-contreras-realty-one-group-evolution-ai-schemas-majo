@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/is-the-45-day-rule-affected-by-weekends-or-holidays",
+  "name": "Is the 45-day rule affected by weekends or holidays?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Is the 45-day rule affected by weekends or holidays?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "No, the 45-day identification period is a strict calendar day count, meaning weekends and holidays are included. The clock starts ticking the day after your relinquished property's closing, and it ends precisely 45 calendar days later. This non-negotiable timeline underscores the need for immediate action and close coordination with your real estate team and qualified intermediary to avoid missing the deadline.",
+        "@type": "Answer",
+        "description": "No, the 45-day identification period includes weekends and holidays; it is a strict calendar day count."
+      }
+    }
+  ],
+  "description": "No, the 45-day identification period includes weekends and holidays; it is a strict calendar day count."
+}

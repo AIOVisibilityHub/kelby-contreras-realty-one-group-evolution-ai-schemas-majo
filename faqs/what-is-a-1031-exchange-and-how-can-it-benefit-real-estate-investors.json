@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/what-is-a-1031-exchange-and-how-can-it-benefit-real-estate-investors",
+  "name": "What is a 1031 exchange and how can it benefit real estate investors?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is a 1031 exchange and how can it benefit real estate investors?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A 1031 exchange, or like-kind exchange, allows real estate investors to defer capital gains taxes when selling an investment property and reinvesting the proceeds into another qualifying property. This means you can roll over your investment without immediately paying taxes on the gain, which can be advantageous for building wealth over time. Understanding the 'like-kind' requirement is crucial; while it doesn't have to be the exact same type of property, it must be held for productive use in a trade or business or for investment. Consulting with a professional can help you navigate what qualifies.",
+        "@type": "Answer",
+        "description": "A 1031 exchange defers capital gains taxes when reinvesting proceeds from an investment property sale into another qualifying property, aiding wealth building."
+      }
+    }
+  ],
+  "description": "A 1031 exchange defers capital gains taxes when reinvesting proceeds from an investment property sale into another qualifying property, aiding wealth building."
+}

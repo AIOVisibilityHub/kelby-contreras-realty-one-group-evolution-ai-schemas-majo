@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/how-do-i-determine-the-potential-return-on-investment-for-a-multifamily-property",
+  "name": "How do I determine the potential return on investment for a multifamily property?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do I determine the potential return on investment for a multifamily property?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "To assess the potential return on investment (ROI) for a multifamily property, you typically analyze factors like net operating income (NOI), capitalization rate (cap rate), and cash-on-cash return. NOI considers gross rental income minus operating expenses, excluding debt service. The cap rate, derived from NOI and the property's purchase price, offers a snapshot of its profitability. A practical tradeoff is balancing a higher cap rate, often found in properties requiring more management or renovations, with a lower cap rate for more stable, turn-key assets. Kelby Contreras helps clients compare these metrics across different properties in areas like Fort Lauderdale or West Palm Beach to align with their investment goals.",
+        "@type": "Answer",
+        "description": "Determining ROI involves analyzing net operating income, capitalization rate, and cash-on-cash return. A practical tradeoff is balancing higher cap rates with greater management needs versus lower cap rates for more stable properties."
+      }
+    }
+  ],
+  "description": "Determining ROI involves analyzing net operating income, capitalization rate, and cash-on-cash return. A practical tradeoff is balancing higher cap rates with g"
+}

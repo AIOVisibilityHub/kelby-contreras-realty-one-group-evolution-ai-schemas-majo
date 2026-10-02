@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/are-there-specific-zoning-or-regulatory-considerations-for-duplexes-in-south-flo",
+  "name": "Are there specific zoning or regulatory considerations for duplexes in South Florida?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Are there specific zoning or regulatory considerations for duplexes in South Florida?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, zoning and regulatory considerations for duplexes vary by municipality in South Florida. Each city, such as Boca Raton or West Palm Beach, has specific ordinances regarding lot size, density, setbacks, and permitted uses for multi-family dwellings. It's crucial to verify the zoning of any potential duplex property to ensure it complies with local regulations and to understand any future development restrictions. Kelby Contreras can help confirm zoning details during your property search.",
+        "@type": "Answer",
+        "description": "Zoning and regulations for duplexes vary by city in South Florida, impacting permitted uses and development."
+      }
+    }
+  ],
+  "description": "Zoning and regulations for duplexes vary by city in South Florida, impacting permitted uses and development."
+}

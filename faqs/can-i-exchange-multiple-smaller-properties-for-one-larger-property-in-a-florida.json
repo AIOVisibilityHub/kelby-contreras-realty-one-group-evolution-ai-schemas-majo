@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/can-i-exchange-multiple-smaller-properties-for-one-larger-property-in-a-florida",
+  "name": "Can I exchange multiple smaller properties for one larger property in a Florida 1031 Exchange?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I exchange multiple smaller properties for one larger property in a Florida 1031 Exchange?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, you can exchange multiple relinquished properties for one replacement property, or vice versa, in a 1031 Exchange, provided all properties are held for investment or business use. This is often done to consolidate investments or diversify. The key is that the total net value and equity of the replacement property (or properties) must be equal to or greater than the relinquished property (or properties) to achieve a fully tax-deferred exchange. This offers a practical tradeoff, allowing investors flexibility in managing their portfolio size and types across various Florida markets we serve.",
+        "@type": "Answer",
+        "description": "Yes, you can exchange multiple Florida investment properties for one larger one, or vice versa, in a 1031 Exchange, provided values are equal or greater for deferral."
+      }
+    }
+  ],
+  "description": "Yes, you can exchange multiple Florida investment properties for one larger one, or vice versa, in a 1031 Exchange, provided values are equal or greater for def"
+}

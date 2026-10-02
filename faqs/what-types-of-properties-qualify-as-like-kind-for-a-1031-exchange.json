@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/what-types-of-properties-qualify-as-like-kind-for-a-1031-exchange",
+  "name": "What types of properties qualify as 'like-kind' for a 1031 exchange?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What types of properties qualify as 'like-kind' for a 1031 exchange?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "In a 1031 exchange, 'like-kind' refers to the nature or character of the property, not its grade or quality. Most real properties held for productive use in a trade or business, or for investment, are considered like-kind. This includes raw land, commercial buildings, industrial properties, and rental homes. For example, you could exchange a rental apartment in Aventura for a commercial office building in Coral Gables. However, personal property, primary residences, or properties held primarily for sale (like developer inventory) generally do not qualify. Our expertise spans various property types in the South Florida market to help identify suitable like-kind options.",
+        "@type": "Answer",
+        "description": "Like-kind properties for a 1031 exchange are those held for productive use in business or for investment, such as rental homes or commercial buildings."
+      }
+    }
+  ],
+  "description": "Like-kind properties for a 1031 exchange are those held for productive use in business or for investment, such as rental homes or commercial buildings."
+}

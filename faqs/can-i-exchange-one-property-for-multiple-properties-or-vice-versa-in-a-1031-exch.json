@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/can-i-exchange-one-property-for-multiple-properties-or-vice-versa-in-a-1031-exch",
+  "name": "Can I exchange one property for multiple properties, or vice versa, in a 1031 exchange?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I exchange one property for multiple properties, or vice versa, in a 1031 exchange?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, you can exchange one relinquished property for multiple replacement properties, or multiple relinquished properties for one replacement property, as long as the like-kind requirements and value thresholds are met. This flexibility can be beneficial for portfolio diversification or consolidation. When identifying multiple properties, you must adhere to either the 'three-property rule' (identifying up to three properties regardless of their fair market value) or the '200% rule' (identifying any number of properties as long as their aggregate fair market value does not exceed 200% of the relinquished property's value). Our expertise in South Florida can assist you in finding suitable multiple properties across various sub-markets.",
+        "@type": "Answer",
+        "description": "You can exchange one property for multiple properties, or multiple for one, as long as like-kind and value rules are met, following either the three-property or 200% rule."
+      }
+    }
+  ],
+  "description": "You can exchange one property for multiple properties, or multiple for one, as long as like-kind and value rules are met, following either the three-property or"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/what-are-the-strict-timelines-for-completing-a-1031-exchange",
+  "name": "What are the strict timelines for completing a 1031 exchange?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are the strict timelines for completing a 1031 exchange?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "There are two critical timelines in a 1031 exchange. First, you must identify potential replacement properties within 45 days of selling your relinquished property. This identification must be in writing and unambiguous. Second, you must close on the replacement property within 180 days of selling your relinquished property, or by the due date of your tax return for the year of the transfer, whichever is earlier. Missing either deadline will disqualify the exchange, making careful planning and proactive property identification essential for investors in markets like Miami-Dade or Broward County.",
+        "@type": "Answer",
+        "description": "A 1031 exchange requires identifying replacement properties within 45 days and closing on them within 180 days of selling the original property."
+      }
+    }
+  ],
+  "description": "A 1031 exchange requires identifying replacement properties within 45 days and closing on them within 180 days of selling the original property."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/what-is-the-role-of-a-real-estate-agent-in-a-1031-exchange-for-a-property-in-col",
+  "name": "What is the role of a real estate agent in a 1031 Exchange for a property in Collier County?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the role of a real estate agent in a 1031 Exchange for a property in Collier County?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "As your real estate agent for a 1031 Exchange in Collier County, our role is primarily to help you find and acquire suitable replacement properties that meet the 'like-kind' and value requirements. We can assist in identifying investment opportunities in areas like Naples or Marco Island, negotiate purchase terms, and facilitate the transaction alongside your qualified intermediary and other professionals. We also help ensure the closing process aligns with the strict 180-day deadline. While we provide market expertise, we do not act as the qualified intermediary or offer tax or legal advice, so you'll need to engage those specialists separately.",
+        "@type": "Answer",
+        "description": "As your real estate agent in a Collier County 1031 Exchange, we help find and acquire suitable 'like-kind' replacement properties, negotiate terms, and facilitate the transaction to meet deadlines. We do not provide tax or legal advice or act as the qualified intermediary."
+      }
+    }
+  ],
+  "description": "As your real estate agent in a Collier County 1031 Exchange, we help find and acquire suitable 'like-kind' replacement properties, negotiate terms, and facilita"
+}

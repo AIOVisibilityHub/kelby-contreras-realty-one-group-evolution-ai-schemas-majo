@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/what-types-of-properties-qualify-for-a-1031-exchange",
+  "name": "What types of properties qualify for a 1031 exchange?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What types of properties qualify for a 1031 exchange?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "For a property to qualify for a 1031 exchange, it generally must be held for productive use in a trade or business or for investment. This can include commercial buildings, vacant land, rental homes, or multi-family properties. Personal residences, 'flipping' properties, or properties held primarily for sale generally do not qualify. A key decision factor is the intent behind holding the property; it must be genuinely for investment or business purposes. Kelby Contreras can assist in identifying suitable investment properties in areas like Miami-Dade and Broward counties that align with these 'like-kind' requirements.",
+        "@type": "Answer",
+        "description": "Investment properties like rental homes, commercial buildings, and vacant land typically qualify for a 1031 exchange, but personal residences do not."
+      }
+    }
+  ],
+  "description": "Investment properties like rental homes, commercial buildings, and vacant land typically qualify for a 1031 exchange, but personal residences do not."
+}

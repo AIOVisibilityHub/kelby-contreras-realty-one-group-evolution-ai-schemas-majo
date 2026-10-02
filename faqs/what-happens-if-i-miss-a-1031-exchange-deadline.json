@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/what-happens-if-i-miss-a-1031-exchange-deadline",
+  "name": "What happens if I miss a 1031 exchange deadline?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What happens if I miss a 1031 exchange deadline?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Missing either the 45-day identification deadline or the 180-day exchange deadline will typically disqualify your transaction as a 1031 exchange. If disqualified, the deferred capital gains from the sale of your relinquished property become immediately taxable in the year of the sale. This can result in a significant tax liability. It is crucial to monitor these dates closely and work with experienced professionals to avoid common pitfalls. Kelby Contreras - Realty ONE Group Evolution emphasizes proactive planning to help clients stay on track.",
+        "@type": "Answer",
+        "description": "Missing a 1031 exchange deadline usually disqualifies your transaction, making the deferred capital gains immediately taxable."
+      }
+    }
+  ],
+  "description": "Missing a 1031 exchange deadline usually disqualifies your transaction, making the deferred capital gains immediately taxable."
+}

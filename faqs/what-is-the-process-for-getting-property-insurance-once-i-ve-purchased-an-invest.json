@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/what-is-the-process-for-getting-property-insurance-once-i-ve-purchased-an-invest",
+  "name": "What is the process for getting property insurance once I've purchased an investment property in Florida?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the process for getting property insurance once I've purchased an investment property in Florida?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Once you've purchased an investment property in Florida, the process for getting insurance involves providing your chosen insurer with detailed property information, including the closing date, inspection reports (like 4-point and wind mitigation), and tenant occupancy details if applicable. The insurer will then issue a policy, and the premium is often paid at closing or financed into your mortgage escrow. We ensure clients have all necessary documentation and connect them with trusted insurance partners to streamline this essential step after closing.",
+        "@type": "Answer",
+        "description": "After purchasing, provide property details and inspection reports to your insurer to get a policy, with premiums often paid at closing."
+      }
+    }
+  ],
+  "description": "After purchasing, provide property details and inspection reports to your insurer to get a policy, with premiums often paid at closing."
+}

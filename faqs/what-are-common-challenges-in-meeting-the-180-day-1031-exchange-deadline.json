@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/what-are-common-challenges-in-meeting-the-180-day-1031-exchange-deadline",
+  "name": "What are common challenges in meeting the 180-day 1031 exchange deadline?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are common challenges in meeting the 180-day 1031 exchange deadline?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Common challenges in meeting the 180-day 1031 exchange deadline include difficulty identifying suitable replacement properties within the 45-day window, unexpected delays in financing, issues during property inspections, or title complications. Market conditions, such as limited inventory in sought-after areas like Key Biscayne or Fisher Island, can also pose significant hurdles. It's a critical preparation step to anticipate these potential delays and have backup options to navigate them effectively, ensuring the exchange remains on track.",
+        "@type": "Answer",
+        "description": "Challenges include identifying properties, financing delays, inspection issues, or title problems, all of which can impact meeting the 180-day deadline."
+      }
+    }
+  ],
+  "description": "Challenges include identifying properties, financing delays, inspection issues, or title problems, all of which can impact meeting the 180-day deadline."
+}

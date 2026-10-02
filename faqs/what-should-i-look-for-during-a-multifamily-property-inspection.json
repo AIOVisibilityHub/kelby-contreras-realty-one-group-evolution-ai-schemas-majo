@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/what-should-i-look-for-during-a-multifamily-property-inspection",
+  "name": "What should I look for during a multifamily property inspection?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What should I look for during a multifamily property inspection?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "During a multifamily property inspection, you should look for structural integrity, roof condition, HVAC systems, plumbing, electrical, and potential environmental concerns like mold or pest infestations. Additionally, assess the condition of individual units, common areas, and amenities. A practical tradeoff to consider is prioritizing major structural or system issues over cosmetic repairs, as these can incur significant unexpected costs. Kelby Contreras advises clients to engage experienced inspectors familiar with multifamily properties to ensure a thorough assessment and uncover any potential issues that could impact future operating expenses or tenant satisfaction in locations like Coconut Grove or Sunny Isles Beach.",
+        "@type": "Answer",
+        "description": "Look for structural integrity, system conditions (HVAC, plumbing, electrical), and environmental concerns during inspection. Prioritize major issues over cosmetic ones, as they can lead to significant unexpected costs."
+      }
+    }
+  ],
+  "description": "Look for structural integrity, system conditions (HVAC, plumbing, electrical), and environmental concerns during inspection. Prioritize major issues over cosmet"
+}

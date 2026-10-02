@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/how-do-i-ensure-my-multifamily-property-qualifies-as-like-kind-for-a-1031-exchan",
+  "name": "How do I ensure my multifamily property qualifies as 'like-kind' for a 1031 Exchange?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do I ensure my multifamily property qualifies as 'like-kind' for a 1031 Exchange?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "For a multifamily property to qualify as 'like-kind,' it generally means any real estate held for productive use in a trade or business or for investment. You could exchange an apartment building for another apartment building, or even for undeveloped land intended for future investment. It does not mean the properties must be identical in type or class, but rather that their nature or character is the same. Consulting with a real estate professional experienced in 1031 Exchanges is vital to confirm both properties meet the IRS definition of 'like-kind' before proceeding.",
+        "@type": "Answer",
+        "description": "To qualify as 'like-kind,' both properties must be real estate held for productive use in a trade or business or for investment, regardless of their specific type."
+      }
+    }
+  ],
+  "description": "To qualify as 'like-kind,' both properties must be real estate held for productive use in a trade or business or for investment, regardless of their specific ty"
+}

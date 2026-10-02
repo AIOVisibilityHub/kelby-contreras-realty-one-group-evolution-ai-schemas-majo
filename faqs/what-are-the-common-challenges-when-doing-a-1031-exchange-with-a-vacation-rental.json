@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/what-are-the-common-challenges-when-doing-a-1031-exchange-with-a-vacation-rental",
+  "name": "What are the common challenges when doing a 1031 exchange with a vacation rental?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are the common challenges when doing a 1031 exchange with a vacation rental?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Common challenges include ensuring the vacation rental meets the 'held for investment' criteria, strictly adhering to identification and exchange timelines, and finding suitable like-kind replacement properties. The fast-paced markets in areas like Aventura or Miami Beach can make finding and securing a replacement property within 180 days particularly challenging. Additionally, understanding the nuances of the 'like-kind' requirement and potential tax implications is crucial. Working with an experienced real estate professional is key to navigating these complexities.",
+        "@type": "Answer",
+        "description": "Challenges include meeting 'held for investment' criteria, strict timelines, finding like-kind properties, and navigating competitive markets."
+      }
+    }
+  ],
+  "description": "Challenges include meeting 'held for investment' criteria, strict timelines, finding like-kind properties, and navigating competitive markets."
+}

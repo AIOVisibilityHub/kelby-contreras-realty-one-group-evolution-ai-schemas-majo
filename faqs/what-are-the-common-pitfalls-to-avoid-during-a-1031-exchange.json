@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/what-are-the-common-pitfalls-to-avoid-during-a-1031-exchange",
+  "name": "What are the common pitfalls to avoid during a 1031 exchange?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are the common pitfalls to avoid during a 1031 exchange?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Common pitfalls in a 1031 exchange include missing the strict 45-day identification and 180-day closing deadlines, failing to use a qualified intermediary, and misinterpreting the 'like-kind' requirement. Another frequent issue is taking constructive receipt of the sale proceeds, which can disqualify the exchange. It's crucial to ensure the replacement property is of equal or greater value than the relinquished property to fully defer taxes. Working with an experienced real estate professional who understands the nuances of 1031 exchanges can help navigate these complexities.",
+        "@type": "Answer",
+        "description": "Avoid missing deadlines, misinterpreting 'like-kind' rules, taking constructive receipt of funds, and failing to use a qualified intermediary."
+      }
+    }
+  ],
+  "description": "Avoid missing deadlines, misinterpreting 'like-kind' rules, taking constructive receipt of funds, and failing to use a qualified intermediary."
+}

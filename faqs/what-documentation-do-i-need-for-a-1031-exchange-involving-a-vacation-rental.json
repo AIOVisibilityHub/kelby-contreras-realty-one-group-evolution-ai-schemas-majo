@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/what-documentation-do-i-need-for-a-1031-exchange-involving-a-vacation-rental",
+  "name": "What documentation do I need for a 1031 exchange involving a vacation rental?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What documentation do I need for a 1031 exchange involving a vacation rental?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You will need documentation proving the investment intent of your vacation rental, such as rental agreements, income and expense records, and marketing efforts. For the exchange itself, a qualified intermediary agreement is essential, along with purchase and sale agreements for both the relinquished and replacement properties. It's also important to maintain clear records of all transaction costs. Kelby Contreras can guide you on the necessary real estate documentation required to facilitate a smooth exchange process.",
+        "@type": "Answer",
+        "description": "Documentation includes proof of investment intent, rental records, qualified intermediary agreement, and purchase/sale agreements."
+      }
+    }
+  ],
+  "description": "Documentation includes proof of investment intent, rental records, qualified intermediary agreement, and purchase/sale agreements."
+}

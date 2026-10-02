@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/can-i-exchange-multiple-relinquished-properties-for-one-replacement-property-or",
+  "name": "Can I exchange multiple relinquished properties for one replacement property, or vice versa?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I exchange multiple relinquished properties for one replacement property, or vice versa?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, a 1031 exchange allows for flexibility in the number of properties. You can exchange multiple relinquished properties for one replacement property, or one relinquished property for multiple replacement properties, provided all properties meet the 'like-kind' criteria and the exchange rules are followed. This flexibility is a practical tradeoff, offering greater strategic options for investors looking to consolidate or diversify their holdings across areas like Palm Beach or Orange County.",
+        "@type": "Answer",
+        "description": "Yes, you can exchange multiple properties for one, or one for multiple, in a 1031 exchange if rules are met."
+      }
+    }
+  ],
+  "description": "Yes, you can exchange multiple properties for one, or one for multiple, in a 1031 exchange if rules are met."
+}

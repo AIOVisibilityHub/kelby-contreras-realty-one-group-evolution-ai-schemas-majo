@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/what-kind-of-insurance-do-i-need-for-a-short-term-rental-property",
+  "name": "What kind of insurance do I need for a short-term rental property?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What kind of insurance do I need for a short-term rental property?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "For a short-term rental property, standard homeowner's insurance is typically insufficient. Investors generally need specialized short-term rental insurance or a commercial policy that covers the risks associated with transient guests. This includes liability coverage for guest injuries, property damage caused by guests, and loss of income due during unforeseen events. As a Preparation step, it's crucial to consult with an insurance professional to ensure adequate coverage before listing your property, as policies vary significantly in scope and cost.",
+        "@type": "Answer",
+        "description": "Standard homeowner's insurance is usually inadequate for short-term rentals; specialized or commercial policies are needed. Consult an insurance professional for proper coverage before listing."
+      }
+    }
+  ],
+  "description": "Standard homeowner's insurance is usually inadequate for short-term rentals; specialized or commercial policies are needed. Consult an insurance professional fo"
+}

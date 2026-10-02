@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/what-is-boot-in-a-1031-exchange-and-how-does-it-affect-my-taxes",
+  "name": "What is 'boot' in a 1031 exchange and how does it affect my taxes?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is 'boot' in a 1031 exchange and how does it affect my taxes?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Boot refers to any non-like-kind property or cash received by the exchanger in a 1031 exchange. This can include excess cash, mortgage relief, or personal property. If you receive boot, that portion of the exchange is taxable. For example, if your replacement property is less valuable than your relinquished property, the difference in equity received would be considered taxable boot. A practical tradeoff to consider is whether maximizing tax deferral by acquiring a property of equal or greater value outweighs receiving cash sooner, which would trigger immediate taxes.",
+        "@type": "Answer",
+        "description": "Boot is non-like-kind property or cash received in a 1031 exchange; it is taxable and can reduce the tax deferral benefits."
+      }
+    }
+  ],
+  "description": "Boot is non-like-kind property or cash received in a 1031 exchange; it is taxable and can reduce the tax deferral benefits."
+}

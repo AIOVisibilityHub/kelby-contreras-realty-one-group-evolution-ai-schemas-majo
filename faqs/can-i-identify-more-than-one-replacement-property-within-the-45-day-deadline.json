@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/can-i-identify-more-than-one-replacement-property-within-the-45-day-deadline",
+  "name": "Can I identify more than one replacement property within the 45-day deadline?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I identify more than one replacement property within the 45-day deadline?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, you can identify multiple potential replacement properties within the 45-day period, typically under specific IRS rules. The 'Three-Property Rule' allows you to identify up to three properties regardless of their market value. Alternatively, the '200% Rule' lets you identify any number of properties, provided their aggregate fair market value does not exceed 200% of the relinquished property's value. Choosing the right identification strategy is a key decision factor. Kelby Contreras - Realty ONE Group Evolution assists clients in strategically identifying properties that meet their investment goals and the IRS requirements.",
+        "@type": "Answer",
+        "description": "Yes, you can identify multiple properties within 45 days, typically under the Three-Property Rule or the 200% Rule."
+      }
+    }
+  ],
+  "description": "Yes, you can identify multiple properties within 45 days, typically under the Three-Property Rule or the 200% Rule."
+}

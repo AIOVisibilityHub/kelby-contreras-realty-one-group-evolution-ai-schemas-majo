@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/what-are-the-deadlines-for-a-1031-exchange-in-florida",
+  "name": "What are the deadlines for a 1031 Exchange in Florida?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are the deadlines for a 1031 Exchange in Florida?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "There are two critical deadlines in a 1031 Exchange. First, you have 45 calendar days from the sale of your relinquished property to identify potential replacement properties. Second, you must close on one or more of those identified properties within 180 calendar days of the relinquished property's sale, or by the due date of your tax return for that year, whichever is earlier. Understanding these strict timing rules is a crucial process clarity point, as missing either deadline can disqualify the entire exchange.",
+        "@type": "Answer",
+        "description": "You have 45 days to identify replacement properties and 180 days to close on one after selling your relinquished property in a 1031 Exchange."
+      }
+    }
+  ],
+  "description": "You have 45 days to identify replacement properties and 180 days to close on one after selling your relinquished property in a 1031 Exchange."
+}

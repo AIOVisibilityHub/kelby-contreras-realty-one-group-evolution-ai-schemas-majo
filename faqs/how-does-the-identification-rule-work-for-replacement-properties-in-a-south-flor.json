@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/how-does-the-identification-rule-work-for-replacement-properties-in-a-south-flor",
+  "name": "How does the 'identification rule' work for replacement properties in a South Florida 1031 Exchange?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How does the 'identification rule' work for replacement properties in a South Florida 1031 Exchange?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The identification rule requires you to formally identify potential replacement properties within 45 calendar days of closing on your relinquished property. You must deliver a written, unambiguous identification to your qualified intermediary. There are typically three rules for identification: the 'Three Property Rule' (identify up to three properties regardless of value), the '200% Rule' (identify any number of properties as long as their aggregate fair market value does not exceed 200% of the relinquished property's value), or the '95% Rule' (acquire at least 95% of the fair market value of all properties identified, regardless of number). We can assist in sourcing potential properties across our service areas that fit these criteria.",
+        "@type": "Answer",
+        "description": "Within 45 days of selling your property, you must formally identify replacement properties to your qualified intermediary using one of three IRS rules: the Three Property Rule, the 200% Rule, or the 95% Rule. This identification must be written and unambiguous."
+      }
+    }
+  ],
+  "description": "Within 45 days of selling your property, you must formally identify replacement properties to your qualified intermediary using one of three IRS rules: the Thre"
+}

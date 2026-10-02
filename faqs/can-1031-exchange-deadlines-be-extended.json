@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/can-1031-exchange-deadlines-be-extended",
+  "name": "Can 1031 exchange deadlines be extended?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can 1031 exchange deadlines be extended?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Generally, 1031 exchange deadlines are strict and cannot be extended under normal circumstances. However, in specific federally declared disaster areas, the IRS may issue notices providing relief and extending these deadlines for affected taxpayers. Such extensions are rare and are not granted for individual circumstances. It's critical to assume deadlines are firm when planning your exchange. Kelby Contreras - Realty ONE Group Evolution always advises clients to plan with the firm deadlines in mind, rather than hoping for an extension.",
+        "@type": "Answer",
+        "description": "1031 exchange deadlines are generally strict and cannot be extended, except in specific federally declared disaster situations."
+      }
+    }
+  ],
+  "description": "1031 exchange deadlines are generally strict and cannot be extended, except in specific federally declared disaster situations."
+}

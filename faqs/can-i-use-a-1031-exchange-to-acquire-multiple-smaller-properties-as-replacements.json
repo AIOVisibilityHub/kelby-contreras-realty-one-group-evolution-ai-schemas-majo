@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/can-i-use-a-1031-exchange-to-acquire-multiple-smaller-properties-as-replacements",
+  "name": "Can I use a 1031 exchange to acquire multiple smaller properties as replacements?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I use a 1031 exchange to acquire multiple smaller properties as replacements?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, you can acquire multiple smaller replacement properties in a 1031 exchange, provided they meet the 'like-kind' requirement and adhere to the identification rules. For instance, you could exchange one large commercial building for several smaller rental units or vice versa. When identifying multiple properties, you generally must comply with either the three-property rule or the 200% rule. This strategy can be beneficial for portfolio diversification, allowing you to spread risk across different assets or locations within our service areas like Miami-Dade or Palm Beach County.",
+        "@type": "Answer",
+        "description": "Yes, you can acquire multiple like-kind properties as replacements in a 1031 exchange, following specific identification rules for diversification."
+      }
+    }
+  ],
+  "description": "Yes, you can acquire multiple like-kind properties as replacements in a 1031 exchange, following specific identification rules for diversification."
+}

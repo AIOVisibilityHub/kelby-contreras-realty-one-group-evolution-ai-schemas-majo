@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/how-do-i-calculate-the-potential-return-on-investment-roi-for-a-rental-property",
+  "name": "How do I calculate the potential return on investment (ROI) for a rental property?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do I calculate the potential return on investment (ROI) for a rental property?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "ROI is typically calculated by dividing the annual net profit (rental income minus expenses) by the initial investment cost, then multiplying by 100 to get a percentage. Expenses include property taxes, insurance, maintenance, and property management fees. Understanding these costs upfront is crucial. We assist clients in gathering comprehensive data on properties in our service areas, such as Palm Beach or Orange County, to help forecast potential returns accurately.",
+        "@type": "Answer",
+        "description": "Calculate ROI by dividing annual net profit by initial investment. We help gather data for properties in our service areas like Palm Beach or Orange County to forecast returns."
+      }
+    }
+  ],
+  "description": "Calculate ROI by dividing annual net profit by initial investment. We help gather data for properties in our service areas like Palm Beach or Orange County to f"
+}

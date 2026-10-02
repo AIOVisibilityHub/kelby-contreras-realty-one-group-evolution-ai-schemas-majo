@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/how-does-financing-a-triplex-differ-from-a-single-family-home",
+  "name": "How does financing a triplex differ from a single-family home?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How does financing a triplex differ from a single-family home?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Financing a triplex typically involves different loan products than a single-family home, often falling under multi-unit residential or commercial lending categories. Lenders may evaluate the property's potential rental income as part of the qualification process, which can influence loan terms and interest rates. You may need to provide rent rolls or projected rental income statements. Preparation for financing should include gathering detailed financial statements and understanding potential down payment requirements, which might be higher for multi-unit properties.",
+        "@type": "Answer",
+        "description": "Financing a triplex often involves multi-unit loan products, with lenders considering potential rental income during qualification."
+      }
+    }
+  ],
+  "description": "Financing a triplex often involves multi-unit loan products, with lenders considering potential rental income during qualification."
+}

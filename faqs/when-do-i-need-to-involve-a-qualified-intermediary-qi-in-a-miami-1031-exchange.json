@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/when-do-i-need-to-involve-a-qualified-intermediary-qi-in-a-miami-1031-exchange",
+  "name": "When do I need to involve a Qualified Intermediary (QI) in a Miami 1031 exchange?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When do I need to involve a Qualified Intermediary (QI) in a Miami 1031 exchange?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You must engage a Qualified Intermediary (QI) before the close of escrow on your relinquished property. The QI holds the proceeds from the sale to prevent 'constructive receipt' of funds, which would invalidate the exchange. Their role is critical in facilitating a compliant exchange by handling the funds according to IRS rules. While we don't provide QI services, we can guide you on the typical steps involved and help coordinate with your chosen QI during the property transaction stages in Miami.",
+        "@type": "Answer",
+        "description": "A Qualified Intermediary (QI) must be engaged before closing on your relinquished property to hold funds and facilitate a compliant 1031 exchange."
+      }
+    }
+  ],
+  "description": "A Qualified Intermediary (QI) must be engaged before closing on your relinquished property to hold funds and facilitate a compliant 1031 exchange."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/can-i-exchange-a-multi-family-property-for-a-commercial-property-in-palm-beach-c",
+  "name": "Can I exchange a multi-family property for a commercial property in Palm Beach County?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I exchange a multi-family property for a commercial property in Palm Beach County?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, you can exchange a multi-family property for a commercial property in Palm Beach County, as both are considered 'like-kind' real estate for 1031 Exchange purposes. The IRS defines 'like-kind' broadly, focusing on the nature or character of the property, not its grade or quality. For example, you could exchange an apartment complex in West Palm Beach for an office building in Boca Raton, provided both are held for investment. It's important to ensure that the replacement property's value and equity meet or exceed those of the relinquished property to defer 100% of the capital gains.",
+        "@type": "Answer",
+        "description": "Yes, a multi-family property can be exchanged for a commercial property in Palm Beach County under a 1031 Exchange, as both are considered 'like-kind' real estate. Ensure the replacement property's value meets or exceeds the relinquished property."
+      }
+    }
+  ],
+  "description": "Yes, a multi-family property can be exchanged for a commercial property in Palm Beach County under a 1031 Exchange, as both are considered 'like-kind' real esta"
+}

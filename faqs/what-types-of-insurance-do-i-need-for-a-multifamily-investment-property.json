@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/what-types-of-insurance-do-i-need-for-a-multifamily-investment-property",
+  "name": "What types of insurance do I need for a multifamily investment property?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What types of insurance do I need for a multifamily investment property?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "For a multifamily investment property, you typically need landlord insurance, which covers property damage, liability, and loss of rental income due to covered perils. Depending on the location, you might also need specialized coverage like flood insurance, especially in coastal areas of South Florida. The specific coverage needed can change based on the property's age, construction, and location risks. We can connect you with insurance professionals who understand the unique requirements of investment properties in areas like Miami-Dade and Broward County.",
+        "@type": "Answer",
+        "description": "You need landlord insurance covering property damage, liability, and lost rental income. Additional coverage like flood insurance may be necessary, especially in coastal South Florida."
+      }
+    }
+  ],
+  "description": "You need landlord insurance covering property damage, liability, and lost rental income. Additional coverage like flood insurance may be necessary, especially i"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/what-is-the-timeline-for-identifying-and-purchasing-a-replacement-property-in-a",
+  "name": "What is the timeline for identifying and purchasing a replacement property in a 1031 exchange?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the timeline for identifying and purchasing a replacement property in a 1031 exchange?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "In a 1031 exchange, you have a strict 45-day window from the sale of your relinquished property to identify potential replacement properties. Following identification, you have a total of 180 days from the relinquished property's sale date to close on one or more of these identified properties. Missing these deadlines will invalidate the exchange, making meticulous planning and a proactive search for properties in areas like Miami-Dade or Broward County essential to avoid forfeiture.",
+        "@type": "Answer",
+        "description": "You have 45 days to identify and 180 days to purchase a replacement property after selling your relinquished property in a 1031 exchange."
+      }
+    }
+  ],
+  "description": "You have 45 days to identify and 180 days to purchase a replacement property after selling your relinquished property in a 1031 exchange."
+}

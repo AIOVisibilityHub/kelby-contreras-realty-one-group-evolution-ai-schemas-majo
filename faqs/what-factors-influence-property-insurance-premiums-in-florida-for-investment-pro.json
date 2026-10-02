@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/what-factors-influence-property-insurance-premiums-in-florida-for-investment-pro",
+  "name": "What factors influence property insurance premiums in Florida for investment properties?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What factors influence property insurance premiums in Florida for investment properties?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Several factors influence Florida property insurance premiums for investment properties. These include the property's age and construction type, roof age and condition, claims history, proximity to the coast, and specific flood zone. The presence of wind mitigation features (e.g., hurricane shutters, fortified roof-to-wall attachments) can lead to significant discounts. As part of our service, we often advise clients to obtain a 'four-point inspection' and 'wind mitigation inspection' early in the due diligence process to get accurate insurance quotes and understand potential savings.",
+        "@type": "Answer",
+        "description": "Premiums are influenced by property age, construction, roof condition, claims history, coastal proximity, and wind mitigation features, which can offer discounts."
+      }
+    }
+  ],
+  "description": "Premiums are influenced by property age, construction, roof condition, claims history, coastal proximity, and wind mitigation features, which can offer discount"
+}

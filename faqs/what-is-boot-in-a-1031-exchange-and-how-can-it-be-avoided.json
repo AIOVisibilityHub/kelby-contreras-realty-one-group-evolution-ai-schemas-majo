@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/what-is-boot-in-a-1031-exchange-and-how-can-it-be-avoided",
+  "name": "What is 'boot' in a 1031 exchange and how can it be avoided?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is 'boot' in a 1031 exchange and how can it be avoided?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "In a 1031 exchange, 'boot' refers to any non-like-kind property or cash received by the exchanger. This can include cash from the sale, debt relief (when the debt on the replacement property is less than on the relinquished property), or personal property. Any boot received is taxable to the extent of the gain realized on the exchange. To avoid boot and defer all capital gains, you must acquire a replacement property of equal or greater value and equal or greater debt than your relinquished property. Our real estate agents in areas like Miami, Fort Lauderdale, and Palm Beach can help you structure deals to minimize or eliminate boot.",
+        "@type": "Answer",
+        "description": "'Boot' is non-like-kind property or cash received in an exchange, which is taxable. To avoid it, acquire a replacement property of equal or greater value and debt."
+      }
+    }
+  ],
+  "description": "'Boot' is non-like-kind property or cash received in an exchange, which is taxable. To avoid it, acquire a replacement property of equal or greater value and de"
+}

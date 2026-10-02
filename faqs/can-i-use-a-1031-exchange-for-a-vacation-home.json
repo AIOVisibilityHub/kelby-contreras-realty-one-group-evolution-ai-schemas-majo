@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/can-i-use-a-1031-exchange-for-a-vacation-home",
+  "name": "Can I use a 1031 exchange for a vacation home?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I use a 1031 exchange for a vacation home?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Generally, a vacation home does not qualify for a 1031 exchange unless it meets specific IRS requirements for being held primarily for investment. This typically means the property must be rented out for a significant portion of the year (at least 14 days) and personal use must be limited (not more than 14 days or 10% of the days rented, whichever is greater). The property must be demonstrably held for investment purposes. It's important to differentiate between personal enjoyment and investment intent, as the IRS scrutinizes these exchanges closely.",
+        "@type": "Answer",
+        "description": "A vacation home generally qualifies for a 1031 exchange only if it meets strict IRS criteria for investment intent, including rental and limited personal use."
+      }
+    }
+  ],
+  "description": "A vacation home generally qualifies for a 1031 exchange only if it meets strict IRS criteria for investment intent, including rental and limited personal use."
+}

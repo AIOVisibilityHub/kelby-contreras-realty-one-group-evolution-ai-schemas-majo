@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/what-key-financial-metrics-should-i-consider-before-investing-in-a-vacation-rent",
+  "name": "What key financial metrics should I consider before investing in a vacation rental?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What key financial metrics should I consider before investing in a vacation rental?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Before investing, consider key financial metrics such as capitalization rate (cap rate), cash-on-cash return, and projected occupancy rates. The cap rate helps assess the property's potential return relative to its purchase price, while cash-on-cash return measures the annual return on the actual cash invested. Evaluating these metrics alongside expected operating expenses is crucial for a comprehensive financial assessment of your investment.",
+        "@type": "Answer",
+        "description": "Key financial metrics for vacation rentals include cap rate, cash-on-cash return, and projected occupancy rates to assess profitability."
+      }
+    }
+  ],
+  "description": "Key financial metrics for vacation rentals include cap rate, cash-on-cash return, and projected occupancy rates to assess profitability."
+}

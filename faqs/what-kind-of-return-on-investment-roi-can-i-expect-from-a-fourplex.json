@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/what-kind-of-return-on-investment-roi-can-i-expect-from-a-fourplex",
+  "name": "What kind of return on investment (ROI) can I expect from a fourplex?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What kind of return on investment (ROI) can I expect from a fourplex?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The ROI on a fourplex varies significantly based on purchase price, rental income, operating expenses, and market conditions. Generally, investors look for a positive cash flow after all expenses, including mortgage, taxes, insurance, and maintenance. Calculating a realistic ROI requires a thorough analysis of comparable rental properties in specific markets like Collier or Orange County and understanding local vacancy rates.",
+        "@type": "Answer",
+        "description": "ROI for a fourplex depends on purchase price, rental income, and expenses, varying by market. Analyze local comparables for a realistic estimate."
+      }
+    }
+  ],
+  "description": "ROI for a fourplex depends on purchase price, rental income, and expenses, varying by market. Analyze local comparables for a realistic estimate."
+}

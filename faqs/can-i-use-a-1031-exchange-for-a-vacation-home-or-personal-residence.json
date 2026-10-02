@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/can-i-use-a-1031-exchange-for-a-vacation-home-or-personal-residence",
+  "name": "Can I use a 1031 exchange for a vacation home or personal residence?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I use a 1031 exchange for a vacation home or personal residence?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Generally, a vacation home or personal residence does not qualify for a 1031 exchange because the properties must be held for investment or productive use in a trade or business. However, there are specific IRS guidelines (Revenue Procedure 2008-16) that outline circumstances where a dwelling unit might qualify if it meets certain rental and personal use thresholds. For example, it must be rented for at least 14 days in each of the two 12-month periods preceding and following the exchange, with personal use not exceeding 14 days or 10% of the rental days. Discussing your specific situation with a real estate professional and a tax advisor is crucial to determine eligibility, especially in popular vacation areas like Fort Lauderdale Beach or Key Biscayne.",
+        "@type": "Answer",
+        "description": "Typically, vacation homes or personal residences do not qualify; they must be held for investment or business use. Specific IRS rules apply to dwelling units that may be considered investment properties."
+      }
+    }
+  ],
+  "description": "Typically, vacation homes or personal residences do not qualify; they must be held for investment or business use. Specific IRS rules apply to dwelling units th"
+}

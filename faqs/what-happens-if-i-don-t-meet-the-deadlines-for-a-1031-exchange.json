@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/what-happens-if-i-don-t-meet-the-deadlines-for-a-1031-exchange",
+  "name": "What happens if I don't meet the deadlines for a 1031 exchange?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What happens if I don't meet the deadlines for a 1031 exchange?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "If you fail to meet either the 45-day identification period or the 180-day exchange period deadline, your 1031 exchange will fail. This means that the sale of your relinquished property will be treated as a taxable event, and you will be responsible for paying capital gains taxes and potentially depreciation recapture taxes on the proceeds. There are very few exceptions to these deadlines, so strict adherence is crucial. To avoid this, it's wise to have backup identified properties and a clear strategy, which our agency can help you develop as you navigate the market for replacement properties.",
+        "@type": "Answer",
+        "description": "Missing the 45-day identification or 180-day exchange deadline will cause your 1031 exchange to fail, making the sale a taxable event."
+      }
+    }
+  ],
+  "description": "Missing the 45-day identification or 180-day exchange deadline will cause your 1031 exchange to fail, making the sale a taxable event."
+}

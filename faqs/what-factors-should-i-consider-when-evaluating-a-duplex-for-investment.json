@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/what-factors-should-i-consider-when-evaluating-a-duplex-for-investment",
+  "name": "What factors should I consider when evaluating a duplex for investment?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What factors should I consider when evaluating a duplex for investment?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "When evaluating a duplex, consider the location's rental demand, property condition, potential rental income, and operating expenses (taxes, insurance, utilities, maintenance). Research comparable rental rates and sales prices in the specific neighborhood. Also, assess the layout and appeal of each unit to attract quality tenants. Kelby Contreras assists clients by providing detailed market analyses for various South Florida communities, including Aventura, Boca Raton, and Coral Gables, highlighting properties with strong rental income potential and appreciation prospects.",
+        "@type": "Answer",
+        "description": "Key factors include location, property condition, potential rental income, and operating expenses. Understanding local market comparables is crucial for an accurate evaluation."
+      }
+    }
+  ],
+  "description": "Key factors include location, property condition, potential rental income, and operating expenses. Understanding local market comparables is crucial for an accu"
+}

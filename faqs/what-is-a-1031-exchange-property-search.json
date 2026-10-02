@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/what-is-a-1031-exchange-property-search",
+  "name": "What is a 1031 exchange property search?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is a 1031 exchange property search?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A 1031 exchange property search is the process of identifying and acquiring a replacement property to defer capital gains taxes on the sale of a relinquished investment property. It is governed by Section 1031 of the Internal Revenue Code. For investors in areas like Miami-Dade, Broward, Palm Beach, Collier, or Orange County, this involves finding a like-kind investment within specific timelines. The search must adhere to strict identification and exchange deadlines to qualify for tax deferral. We assist clients in navigating the local market to find suitable replacement properties.",
+        "@type": "Answer",
+        "description": "A 1031 exchange property search identifies a replacement property to defer capital gains taxes on an investment property sale."
+      }
+    }
+  ],
+  "description": "A 1031 exchange property search identifies a replacement property to defer capital gains taxes on an investment property sale."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/what-kind-of-insurance-do-i-need-for-a-vacation-rental-property",
+  "name": "What kind of insurance do I need for a vacation rental property?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What kind of insurance do I need for a vacation rental property?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "For a vacation rental property, standard homeowner's insurance is often insufficient. You will likely need specialized insurance that covers short-term rentals, sometimes referred to as landlord insurance with short-term rental endorsements, or commercial general liability policies. This coverage protects against damages from guests, loss of income, and liability. It is important to compare policy options that specifically address the risks associated with transient occupancy.",
+        "@type": "Answer",
+        "description": "Standard homeowner's insurance is usually insufficient for vacation rentals; you'll need specialized short-term rental insurance to cover damages, liability, and loss of income."
+      }
+    }
+  ],
+  "description": "Standard homeowner's insurance is usually insufficient for vacation rentals; you'll need specialized short-term rental insurance to cover damages, liability, an"
+}

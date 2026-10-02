@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/what-information-should-i-gather-before-starting-a-1031-exchange-property-search",
+  "name": "What information should I gather before starting a 1031 exchange property search?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What information should I gather before starting a 1031 exchange property search?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Before initiating a 1031 exchange property search, you should gather details about your relinquished property, including its net equity, potential capital gains, and your desired investment goals for the replacement property. It's also vital to have a clear understanding of the funds available for the new acquisition. Consulting with a qualified intermediary and tax advisor early is crucial to understand the rules and your specific situation. This preparation helps us efficiently narrow down suitable options within your budget and timeline in our service areas.",
+        "@type": "Answer",
+        "description": "Before searching, gather details on your relinquished property's equity and capital gains, define investment goals, and understand available funds."
+      }
+    }
+  ],
+  "description": "Before searching, gather details on your relinquished property's equity and capital gains, define investment goals, and understand available funds."
+}

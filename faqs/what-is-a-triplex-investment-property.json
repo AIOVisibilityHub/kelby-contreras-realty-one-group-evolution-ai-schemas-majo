@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/what-is-a-triplex-investment-property",
+  "name": "What is a triplex investment property?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is a triplex investment property?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A triplex investment property is a single building divided into three separate residential units, each with its own entrance, kitchen, and bathroom. Investing in a triplex allows an owner to live in one unit while renting out the other two, or rent all three for maximum income potential. This type of property is often attractive for investors seeking multiple income streams from a single asset. When considering a triplex in areas like Miami-Dade or Broward County, evaluating local rental demand for multi-family units is a key decision factor.",
+        "@type": "Answer",
+        "description": "A triplex is a single building with three separate residential units, offering multiple income streams for investors."
+      }
+    }
+  ],
+  "description": "A triplex is a single building with three separate residential units, offering multiple income streams for investors."
+}

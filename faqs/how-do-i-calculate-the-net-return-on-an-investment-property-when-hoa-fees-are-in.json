@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/how-do-i-calculate-the-net-return-on-an-investment-property-when-hoa-fees-are-in",
+  "name": "How do I calculate the net return on an investment property when HOA fees are involved?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do I calculate the net return on an investment property when HOA fees are involved?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "To calculate the net return, you must subtract HOA fees along with other operating expenses (like property taxes, insurance, and maintenance) from your gross rental income. The remaining amount is your net operating income. You can then compare this to your initial investment to determine your cash-on-cash return or cap rate. Kelby Contreras can help you analyze potential properties in areas like Miami-Dade or Broward County, providing a clear financial picture that includes all recurring costs for an accurate return assessment.",
+        "@type": "Answer",
+        "description": "Subtract HOA fees and all other operating expenses from gross rental income to find net operating income, then compare to your investment for true return calculation."
+      }
+    }
+  ],
+  "description": "Subtract HOA fees and all other operating expenses from gross rental income to find net operating income, then compare to your investment for true return calcul"
+}

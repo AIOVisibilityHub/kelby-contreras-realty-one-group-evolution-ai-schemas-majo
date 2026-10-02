@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/what-costs-are-involved-when-searching-for-and-acquiring-a-replacement-property",
+  "name": "What costs are involved when searching for and acquiring a replacement property in a 1031 exchange?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What costs are involved when searching for and acquiring a replacement property in a 1031 exchange?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Costs for a replacement property search and acquisition are similar to a standard real estate purchase, including appraisal fees, inspection costs, title insurance, and closing costs. Additionally, there may be fees for a Qualified Intermediary (QI), which is a mandatory preparation step to facilitate the exchange. These costs should be factored into your investment strategy to avoid unexpected expenses.",
+        "@type": "Answer",
+        "description": "Costs include standard closing fees, appraisal, inspection, title insurance, and Qualified Intermediary fees for a 1031 exchange."
+      }
+    }
+  ],
+  "description": "Costs include standard closing fees, appraisal, inspection, title insurance, and Qualified Intermediary fees for a 1031 exchange."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/what-is-a-multifamily-investment-property",
+  "name": "What is a multifamily investment property?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is a multifamily investment property?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A multifamily investment property is a residential building with multiple separate housing units, such as a duplex, triplex, or apartment complex, purchased primarily for rental income or capital appreciation. Investors generate revenue through rent payments from tenants inhabiting each unit. Understanding the local market dynamics in areas like Miami-Dade or Broward County is crucial, as property types and rental demand can vary significantly, influencing investment strategy and potential returns. It is an income-generating asset offering diversification within a real estate portfolio.",
+        "@type": "Answer",
+        "description": "A multifamily investment property is a residential building with multiple units bought for rental income or appreciation. These properties provide regular cash flow from tenants."
+      }
+    }
+  ],
+  "description": "A multifamily investment property is a residential building with multiple units bought for rental income or appreciation. These properties provide regular cash"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/can-i-obtain-a-property-insurance-quote-before-making-an-offer-on-a-florida-inve",
+  "name": "Can I obtain a property insurance quote before making an offer on a Florida investment property?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I obtain a property insurance quote before making an offer on a Florida investment property?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, you can and should obtain a property insurance quote before making an offer on a Florida investment property. While you may not have all the exact details, a preliminary quote provides a crucial estimate of one of your largest carrying costs. This preparation allows you to factor potential insurance expenses into your offer and financial projections. We often recommend getting an 'estimated' quote early in the search process by providing public property information to an insurance agent to avoid surprises.",
+        "@type": "Answer",
+        "description": "Yes, you can and should obtain a preliminary property insurance quote before offering on a Florida investment property to estimate carrying costs."
+      }
+    }
+  ],
+  "description": "Yes, you can and should obtain a preliminary property insurance quote before offering on a Florida investment property to estimate carrying costs."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/can-i-use-a-1031-exchange-for-a-vacation-rental-property-in-florida",
+  "name": "Can I use a 1031 Exchange for a vacation rental property in Florida?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I use a 1031 Exchange for a vacation rental property in Florida?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Whether a vacation rental property qualifies for a 1031 Exchange depends on its primary use. To qualify, the property must be held for investment purposes and not primarily for personal use. The IRS has specific safe harbor guidelines, such as renting the property for at least 14 days per year and limiting personal use to 14 days or 10% of the total days rented. A practical tradeoff is that meticulous record-keeping of rental income and personal use days is essential to demonstrate investment intent and avoid disqualification.",
+        "@type": "Answer",
+        "description": "A Florida vacation rental can qualify for a 1031 Exchange if primarily held for investment, adhering to specific IRS guidelines on rental and personal use days."
+      }
+    }
+  ],
+  "description": "A Florida vacation rental can qualify for a 1031 Exchange if primarily held for investment, adhering to specific IRS guidelines on rental and personal use days."
+}

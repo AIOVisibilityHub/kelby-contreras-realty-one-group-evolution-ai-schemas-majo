@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/what-is-the-role-of-a-qualified-intermediary-qi-in-a-1031-exchange-for-a-vacatio",
+  "name": "What is the role of a Qualified Intermediary (QI) in a 1031 exchange for a vacation rental?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the role of a Qualified Intermediary (QI) in a 1031 exchange for a vacation rental?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A Qualified Intermediary (QI), also known as an accommodator, is essential for a valid 1031 exchange. The QI holds the proceeds from the sale of your relinquished property and uses them to purchase your replacement property. This prevents you from having constructive receipt of the funds, which would make the transaction taxable. The QI ensures adherence to IRS regulations throughout the exchange process, handling the legal documentation and managing the funds in an escrow account. Selecting a reputable QI is a crucial step to avoid common pitfalls in the exchange.",
+        "@type": "Answer",
+        "description": "A Qualified Intermediary (QI) holds sale proceeds and facilitates the purchase of the replacement property to ensure a tax-deferred 1031 exchange."
+      }
+    }
+  ],
+  "description": "A Qualified Intermediary (QI) holds sale proceeds and facilitates the purchase of the replacement property to ensure a tax-deferred 1031 exchange."
+}

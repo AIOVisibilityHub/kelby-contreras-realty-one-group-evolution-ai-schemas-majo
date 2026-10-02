@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/do-i-have-to-buy-property-of-equal-or-greater-value-in-a-1031-exchange",
+  "name": "Do I have to buy property of equal or greater value in a 1031 exchange?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do I have to buy property of equal or greater value in a 1031 exchange?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, to defer 100% of the capital gains tax in a 1031 exchange, the net sales price of the replacement property must be equal to or greater than the net sales price of the relinquished property. Additionally, the debt on the replacement property should be equal to or greater than the debt on the relinquished property, or the difference must be offset by adding cash to the purchase. Failing to acquire property of equal or greater value or debt can result in 'boot,' which is taxable. Our team in areas like Broward County can help you evaluate properties to meet these value requirements.",
+        "@type": "Answer",
+        "description": "To fully defer capital gains, the replacement property's net sales price and debt must be equal to or greater than the relinquished property's."
+      }
+    }
+  ],
+  "description": "To fully defer capital gains, the replacement property's net sales price and debt must be equal to or greater than the relinquished property's."
+}

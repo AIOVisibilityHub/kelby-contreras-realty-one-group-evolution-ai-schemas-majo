@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/what-kind-of-financing-options-are-available-for-investment-properties",
+  "name": "What kind of financing options are available for investment properties?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What kind of financing options are available for investment properties?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Financing options typically include conventional mortgages, FHA loans (if the property meets specific criteria and you intend to occupy it), VA loans for eligible veterans, or portfolio loans from private lenders. Down payment requirements for investment properties are generally higher than for primary residences. We can connect you with local lenders familiar with the South Florida market who specialize in investment property financing.",
+        "@type": "Answer",
+        "description": "Financing options include conventional, FHA, VA, or portfolio loans. Down payments are generally higher for investment properties. We connect clients with local lenders in South Florida specializing in investment property financing."
+      }
+    }
+  ],
+  "description": "Financing options include conventional, FHA, VA, or portfolio loans. Down payments are generally higher for investment properties. We connect clients with local"
+}

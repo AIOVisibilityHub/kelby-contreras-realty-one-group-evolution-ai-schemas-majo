@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/what-kind-of-financing-options-are-available-for-multifamily-properties",
+  "name": "What kind of financing options are available for multifamily properties?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What kind of financing options are available for multifamily properties?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Financing options for multifamily properties include conventional bank loans, FHA loans (for properties up to four units if owner-occupied), commercial mortgages, and portfolio loans. The choice often depends on the property size, your creditworthiness, and whether you intend to occupy one of the units. A key decision factor is the loan-to-value (LTV) ratio, which impacts the down payment required, and the interest rate. Kelby Contreras works with various lenders to help clients explore options suitable for different property sizes and investment strategies across South Florida, from Aventura to Doral.",
+        "@type": "Answer",
+        "description": "Financing options include conventional, FHA, and commercial mortgages, depending on property size and occupancy. The loan-to-value ratio is a key decision factor affecting down payment and interest rates."
+      }
+    }
+  ],
+  "description": "Financing options include conventional, FHA, and commercial mortgages, depending on property size and occupancy. The loan-to-value ratio is a key decision facto"
+}

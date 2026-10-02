@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/how-does-the-loan-application-process-differ-for-a-duplex-compared-to-a-single-f",
+  "name": "How does the loan application process differ for a duplex compared to a single-family home?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How does the loan application process differ for a duplex compared to a single-family home?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The loan application process for a duplex often requires a lender to assess the property's potential rental income, which can be factored into your borrowing capacity. Lenders may require a larger down payment for multi-unit properties and will scrutinize the property's condition and marketability more closely. It's advisable to get pre-approved and work with a lender experienced in investment properties to understand specific requirements for duplexes in areas like Palm Beach County.",
+        "@type": "Answer",
+        "description": "Lenders assess rental income for duplex loans, which may require a larger down payment and closer scrutiny."
+      }
+    }
+  ],
+  "description": "Lenders assess rental income for duplex loans, which may require a larger down payment and closer scrutiny."
+}

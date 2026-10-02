@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/what-are-the-common-challenges-during-a-1031-exchange-replacement-property-searc",
+  "name": "What are the common challenges during a 1031 exchange replacement property search?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are the common challenges during a 1031 exchange replacement property search?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Common challenges include the strict timelines, identifying suitable like-kind properties in a competitive market, and ensuring proper documentation. A significant process clarity challenge is navigating potential bidding wars or limited inventory, especially in popular markets like Aventura or Coral Gables, which can make meeting the 45-day identification deadline difficult without expert guidance.",
+        "@type": "Answer",
+        "description": "Challenges include strict timelines, finding suitable properties in a competitive market, and documentation."
+      }
+    }
+  ],
+  "description": "Challenges include strict timelines, finding suitable properties in a competitive market, and documentation."
+}

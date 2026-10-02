@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/can-i-change-my-identified-properties-after-the-45-day-period",
+  "name": "Can I change my identified properties after the 45-day period?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I change my identified properties after the 45-day period?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "No, once the 45-day identification period concludes, your list of identified properties becomes final. You cannot add new properties or substitute properties that were not on your original list. You must acquire one or more of the properties you identified within that initial timeframe. This inflexibility highlights the importance of thorough due diligence and strategic identification during the initial 45 days, especially in dynamic markets like Palm Beach County where new opportunities emerge frequently.",
+        "@type": "Answer",
+        "description": "No, you cannot change or add new identified properties after the 45-day period; the list becomes final."
+      }
+    }
+  ],
+  "description": "No, you cannot change or add new identified properties after the 45-day period; the list becomes final."
+}

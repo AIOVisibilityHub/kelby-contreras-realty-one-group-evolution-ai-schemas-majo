@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/what-types-of-properties-can-i-identify-within-the-45-day-period",
+  "name": "What types of properties can I identify within the 45-day period?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What types of properties can I identify within the 45-day period?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Within the 45-day identification period, you must identify like-kind replacement properties. These can include various types of real estate held for investment or productive use in a trade or business, such as commercial buildings, vacant land, or rental properties. The identified properties do not need to be under contract during this period, but they must be clearly designated. It's crucial that the identified properties genuinely align with your investment goals and meet the 'like-kind' criteria, which an experienced real estate advisor can help you confirm.",
+        "@type": "Answer",
+        "description": "You can identify 'like-kind' replacement properties, such as investment or business real estate, within the 45-day period. They do not need to be under contract yet."
+      }
+    }
+  ],
+  "description": "You can identify 'like-kind' replacement properties, such as investment or business real estate, within the 45-day period. They do not need to be under contract"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/what-is-the-difference-between-the-identification-period-and-the-exchange-period",
+  "name": "What is the difference between the identification period and the exchange period?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the difference between the identification period and the exchange period?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The identification period is the first 45 days after selling your relinquished property, during which you must formally identify potential replacement properties. The exchange period is the subsequent 135 days (totaling 180 days from the sale date) during which you must close on one or more of the identified properties. Both deadlines are crucial and run concurrently. Kelby Contreras - Realty ONE Group Evolution helps clients understand these distinct but overlapping phases to ensure compliance and a successful exchange, particularly for complex transactions in areas like Palm Beach or Collier County.",
+        "@type": "Answer",
+        "description": "The identification period is 45 days to name replacement properties, while the exchange period is 180 days (total) to close on them."
+      }
+    }
+  ],
+  "description": "The identification period is 45 days to name replacement properties, while the exchange period is 180 days (total) to close on them."
+}

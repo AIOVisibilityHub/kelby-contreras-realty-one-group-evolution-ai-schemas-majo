@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/what-is-the-role-of-a-qualified-intermediary-qi-in-a-1031-exchange",
+  "name": "What is the role of a qualified intermediary (QI) in a 1031 exchange?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the role of a qualified intermediary (QI) in a 1031 exchange?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A qualified intermediary (QI), also known as an accommodator, is essential for a valid 1031 exchange. The QI holds the proceeds from the sale of your relinquished property and uses them to purchase your replacement property. This prevents you from having 'constructive receipt' of the funds, which would make the exchange taxable. The QI also prepares the necessary exchange documents and ensures compliance with IRS regulations. Selecting a reputable and experienced QI is a critical preparation step before you even list your property, ensuring the entire process, including property searches in regions like Orange County, runs smoothly.",
+        "@type": "Answer",
+        "description": "A qualified intermediary holds sale proceeds and facilitates the exchange to prevent taxable constructive receipt of funds."
+      }
+    }
+  ],
+  "description": "A qualified intermediary holds sale proceeds and facilitates the exchange to prevent taxable constructive receipt of funds."
+}

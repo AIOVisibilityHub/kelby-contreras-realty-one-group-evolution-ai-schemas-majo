@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/what-is-the-consequence-of-identifying-too-many-properties-under-the-45-day-rule",
+  "name": "What is the consequence of identifying too many properties under the 45-day rule?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the consequence of identifying too many properties under the 45-day rule?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "If you identify more properties than allowed by the IRS rules (either the three-property rule or the 200% rule), your 1031 exchange will fail. This means that the entire capital gain from your relinquished property becomes immediately taxable. It's crucial to adhere strictly to these identification limits to preserve the tax-deferred status of your exchange. We emphasize the importance of careful planning and clear communication with your qualified intermediary and real estate agent to avoid this common mistake.",
+        "@type": "Answer",
+        "description": "Identifying more properties than IRS rules allow (three-property or 200% rule) will cause your 1031 exchange to fail, making the capital gain taxable."
+      }
+    }
+  ],
+  "description": "Identifying more properties than IRS rules allow (three-property or 200% rule) will cause your 1031 exchange to fail, making the capital gain taxable."
+}

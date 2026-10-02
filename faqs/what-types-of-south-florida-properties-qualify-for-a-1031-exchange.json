@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/what-types-of-south-florida-properties-qualify-for-a-1031-exchange",
+  "name": "What types of South Florida properties qualify for a 1031 Exchange?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What types of South Florida properties qualify for a 1031 Exchange?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Generally, any real property held for investment or productive use in a trade or business can qualify for a 1031 Exchange. This includes rental homes, commercial buildings, vacant land, and industrial properties. In South Florida, for instance, you could exchange a rental condo in Fort Lauderdale for a commercial property in Doral, or undeveloped land in Palm Beach County for another income-generating property. The critical factor is that both the relinquished and replacement properties must be 'like-kind,' meaning they are real property, regardless of their specific type or grade. Personal residences do not qualify.",
+        "@type": "Answer",
+        "description": "Most real properties held for investment or business use in South Florida qualify for a 1031 Exchange, including rental homes, commercial buildings, and vacant land. Both the relinquished and replacement properties must be considered 'like-kind' real property."
+      }
+    }
+  ],
+  "description": "Most real properties held for investment or business use in South Florida qualify for a 1031 Exchange, including rental homes, commercial buildings, and vacant"
+}
