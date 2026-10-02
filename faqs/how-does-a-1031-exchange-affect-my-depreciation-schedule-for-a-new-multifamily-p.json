@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/how-does-a-1031-exchange-affect-my-depreciation-schedule-for-a-new-multifamily-p",
+  "name": "How does a 1031 Exchange affect my depreciation schedule for a new multifamily property?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How does a 1031 Exchange affect my depreciation schedule for a new multifamily property?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "When you complete a 1031 Exchange, the depreciable basis of your new replacement property will generally carry over from your relinquished property, adjusted for any additional cash or debt involved in the transaction. This means you effectively continue depreciating the original basis. If you exchange into a higher-value property, the additional value can be depreciated separately. Understanding these implications is important for tax planning, and it's advisable to consult with a tax professional to determine the exact impact on your depreciation schedule.",
+        "@type": "Answer",
+        "description": "The depreciable basis of your new multifamily property typically carries over from the relinquished property, adjusted for any additional cash or debt."
+      }
+    }
+  ],
+  "description": "The depreciable basis of your new multifamily property typically carries over from the relinquished property, adjusted for any additional cash or debt."
+}

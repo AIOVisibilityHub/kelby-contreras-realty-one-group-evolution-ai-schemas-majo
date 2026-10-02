@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/can-i-use-a-1031-exchange-for-investment-properties-located-in-miami-dade-county",
+  "name": "Can I use a 1031 Exchange for investment properties located in Miami-Dade County?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I use a 1031 Exchange for investment properties located in Miami-Dade County?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, you can utilize a 1031 Exchange for qualifying investment properties located in Miami-Dade County, or any of our service areas including Broward, Palm Beach, Collier, and Orange Counties. The eligibility for a 1031 Exchange is determined by federal tax law and applies nationwide, as long as both the relinquished and replacement properties are held for productive use in a trade or business or for investment. Location within Florida does not affect its federal tax deferral eligibility, but local property laws and market conditions will influence your real estate choices.",
+        "@type": "Answer",
+        "description": "Yes, you can use a 1031 Exchange for qualifying investment properties in Miami-Dade County and other service areas, as eligibility is based on federal tax law for properties held for business or investment use."
+      }
+    }
+  ],
+  "description": "Yes, you can use a 1031 Exchange for qualifying investment properties in Miami-Dade County and other service areas, as eligibility is based on federal tax law f"
+}

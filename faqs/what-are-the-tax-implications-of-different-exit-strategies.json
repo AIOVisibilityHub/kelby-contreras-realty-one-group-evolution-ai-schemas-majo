@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/what-are-the-tax-implications-of-different-exit-strategies",
+  "name": "What are the tax implications of different exit strategies?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are the tax implications of different exit strategies?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The tax implications vary significantly by exit strategy. Selling a property typically incurs capital gains taxes, which can be long-term or short-term depending on how long you owned the asset. Holding a property as a rental provides depreciation deductions and potential passive income, but sale still incurs capital gains. A 1031 exchange can defer these taxes. It's essential to consult with a tax advisor to understand the specific tax consequences for your situation, as real estate tax laws are complex.",
+        "@type": "Answer",
+        "description": "Tax implications differ for each exit strategy; selling incurs capital gains, while a 1031 exchange can defer them. Consult a tax advisor for specific guidance."
+      }
+    }
+  ],
+  "description": "Tax implications differ for each exit strategy; selling incurs capital gains, while a 1031 exchange can defer them. Consult a tax advisor for specific guidance."
+}

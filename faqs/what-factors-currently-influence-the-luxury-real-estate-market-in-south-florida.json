@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/what-factors-currently-influence-the-luxury-real-estate-market-in-south-florida",
+  "name": "What factors currently influence the luxury real estate market in South Florida?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What factors currently influence the luxury real estate market in South Florida?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Current luxury real estate market trends in South Florida are influenced by factors such as limited inventory, strong buyer demand from out-of-state migration, and the area's appeal as a second-home or investment location. Interest rates and global economic conditions also play a role, affecting buyer confidence and access to capital. When considering market entry or exit, understanding these local dynamics is crucial for both buyers and sellers in regions like Miami-Dade and Broward Counties.",
+        "@type": "Answer",
+        "description": "South Florida's luxury market is driven by limited inventory, high demand from migration, and its appeal as an investment location, alongside global economic factors."
+      }
+    }
+  ],
+  "description": "South Florida's luxury market is driven by limited inventory, high demand from migration, and its appeal as an investment location, alongside global economic fa"
+}

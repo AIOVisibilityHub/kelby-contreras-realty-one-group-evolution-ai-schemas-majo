@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/what-information-should-i-provide-to-get-an-accurate-pre-construction-market-rep",
+  "name": "What information should I provide to get an accurate pre-construction market report?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What information should I provide to get an accurate pre-construction market report?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "To get an accurate report, provide details about your investment objectives, preferred locations, budget range, and any specific property features you are seeking. Information on your desired timeline for occupancy or resale is also helpful. This allows us to tailor the report's scope and focus, ensuring the analysis is highly relevant to your individual needs and provides actionable insights for your specific real estate goals within our service areas.",
+        "@type": "Answer",
+        "description": "Provide your investment objectives, preferred locations, budget, and desired property features to receive an accurate, tailored market report."
+      }
+    }
+  ],
+  "description": "Provide your investment objectives, preferred locations, budget, and desired property features to receive an accurate, tailored market report."
+}

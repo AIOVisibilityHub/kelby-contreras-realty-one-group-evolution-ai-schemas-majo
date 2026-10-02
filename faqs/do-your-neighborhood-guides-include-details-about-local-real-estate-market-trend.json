@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/do-your-neighborhood-guides-include-details-about-local-real-estate-market-trend",
+  "name": "Do your neighborhood guides include details about local real estate market trends?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do your neighborhood guides include details about local real estate market trends?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "While our neighborhood guides focus primarily on community features and lifestyle, they often incorporate general insights into the local real estate market's character, such as typical property types or average price points. For detailed, up-to-the-minute market trends, including pricing, inventory, and sales data specific to your home search, we provide separate, in-depth market analyses. This distinction helps keep our guides concise while offering comprehensive market data as a separate, more detailed resource tailored by Kelby Contreras for your specific needs.",
+        "@type": "Answer",
+        "description": "Guides include general market character like typical property types, but for detailed trends, we offer separate, in-depth market analyses. This ensures comprehensive, current market data for your specific needs."
+      }
+    }
+  ],
+  "description": "Guides include general market character like typical property types, but for detailed trends, we offer separate, in-depth market analyses. This ensures comprehe"
+}

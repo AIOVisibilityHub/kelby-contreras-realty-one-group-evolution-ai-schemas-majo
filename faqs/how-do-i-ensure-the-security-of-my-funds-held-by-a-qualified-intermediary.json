@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/how-do-i-ensure-the-security-of-my-funds-held-by-a-qualified-intermediary",
+  "name": "How do I ensure the security of my funds held by a Qualified Intermediary?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do I ensure the security of my funds held by a Qualified Intermediary?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "To ensure the security of your funds, inquire about the Qualified Intermediary's (QI) financial stability, insurance coverage, and how they segregate client funds. Reputable QIs will typically hold funds in qualified escrow accounts or qualified trust accounts, separate from their operating capital, often with a highly rated financial institution. You should also ask about fidelity bonds or errors and omissions insurance. Understanding these safeguards is a crucial practical tradeoff when selecting a QI, as it protects your investment during the exchange period.",
+        "@type": "Answer",
+        "description": "Ensure fund security by asking about the QI's financial stability, insurance, and if they use segregated qualified escrow or trust accounts with reputable institutions."
+      }
+    }
+  ],
+  "description": "Ensure fund security by asking about the QI's financial stability, insurance, and if they use segregated qualified escrow or trust accounts with reputable insti"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/what-information-should-i-provide-to-get-an-accurate-luxury-condo-market-report",
+  "name": "What information should I provide to get an accurate luxury condo market report?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What information should I provide to get an accurate luxury condo market report?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "To receive an accurate luxury condo market report, you should provide details such as your desired location (e.g., Brickell, Sunny Isles Beach), preferred property size or number of bedrooms, specific building preferences, and whether you are a buyer or a seller. The more specific information you can offer about your objectives and property criteria, the more precisely the report can be tailored to your needs, providing highly relevant data for your decision-making process.",
+        "@type": "Answer",
+        "description": "Provide your desired location, property size, building preferences, and whether you are buying or selling. Specific details ensure a tailored report."
+      }
+    }
+  ],
+  "description": "Provide your desired location, property size, building preferences, and whether you are buying or selling. Specific details ensure a tailored report."
+}

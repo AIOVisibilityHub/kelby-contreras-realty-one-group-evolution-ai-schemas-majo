@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/what-preparation-should-i-do-before-contacting-a-real-estate-agent-about-growing",
+  "name": "What preparation should I do before contacting a real estate agent about growing my investment portfolio?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What preparation should I do before contacting a real estate agent about growing my investment portfolio?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Before contacting a real estate agent like Kelby Contreras, it's beneficial to have a clear understanding of your investment goals, budget, and desired property types. Prepare a summary of your financial capacity, including access to capital and financing pre-approvals. Additionally, researching target neighborhoods or counties, such as Collier County, that align with your investment criteria can make initial discussions more productive. This preparation allows the agent to quickly identify properties that meet your specific needs and accelerate your portfolio growth.",
+        "@type": "Answer",
+        "description": "Before contacting an agent, define your investment goals, budget, property types, and financial capacity. Research target neighborhoods like Collier County."
+      }
+    }
+  ],
+  "description": "Before contacting an agent, define your investment goals, budget, property types, and financial capacity. Research target neighborhoods like Collier County."
+}

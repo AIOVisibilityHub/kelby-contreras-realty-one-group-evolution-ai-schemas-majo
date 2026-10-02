@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/what-factors-should-i-consider-when-determining-the-asking-price-for-my-luxury-p",
+  "name": "What factors should I consider when determining the asking price for my luxury property?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What factors should I consider when determining the asking price for my luxury property?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "When setting the asking price for a luxury property, consider factors such as recent comparable sales in your specific sub-market (e.g., Fisher Island vs. Pinecrest), unique property features, condition, amenities, and current market demand. Overpricing can lead to longer market times, while underpricing may leave money on the table. A professional market analysis, informed by local expertise, is essential to establish a competitive and realistic price. Kelby Contreras provides a comprehensive comparative market analysis for luxury homes in our service areas, including Miami-Dade and Broward Counties.",
+        "@type": "Answer",
+        "description": "Consider comparable sales, unique features, condition, amenities, and market demand when pricing a luxury property; a professional market analysis is essential."
+      }
+    }
+  ],
+  "description": "Consider comparable sales, unique features, condition, amenities, and market demand when pricing a luxury property; a professional market analysis is essential."
+}

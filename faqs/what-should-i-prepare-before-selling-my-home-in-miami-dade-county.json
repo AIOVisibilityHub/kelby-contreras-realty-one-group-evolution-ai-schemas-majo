@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/what-should-i-prepare-before-selling-my-home-in-miami-dade-county",
+  "name": "What should I prepare before selling my home in Miami-Dade County?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What should I prepare before selling my home in Miami-Dade County?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Before selling your home in Miami-Dade County, gather all necessary documentation such as property deeds, recent utility bills, and any renovation records. Consider professional staging and minor repairs to enhance curb appeal. Kelby Contreras at Realty ONE Group Evolution offers a checklist to help sellers prepare their property effectively, ensuring it presents optimally to potential buyers and streamlines the transaction process.",
+        "@type": "Answer",
+        "description": "Before selling your home, prepare documentation, consider staging, and make minor repairs. Realty ONE Group Evolution provides a checklist to assist sellers."
+      }
+    }
+  ],
+  "description": "Before selling your home, prepare documentation, consider staging, and make minor repairs. Realty ONE Group Evolution provides a checklist to assist sellers."
+}

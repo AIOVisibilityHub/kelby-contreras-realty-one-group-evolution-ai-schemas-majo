@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/what-is-the-process-for-obtaining-a-luxury-condo-market-report",
+  "name": "What is the process for obtaining a luxury condo market report?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the process for obtaining a luxury condo market report?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "To obtain a luxury condo market report, you typically consult with a real estate agent specializing in luxury properties. We compile these reports using data from multiple listing services, public records, and proprietary market analysis tools. The process involves identifying your specific geographic area of interest and property type, then generating a customized report that highlights relevant trends and statistics. Preparing your specific criteria helps us deliver the most targeted and useful market insights.",
+        "@type": "Answer",
+        "description": "Obtain a report by consulting a luxury real estate agent. We use MLS and public data to generate customized reports based on your specific property and area interests."
+      }
+    }
+  ],
+  "description": "Obtain a report by consulting a luxury real estate agent. We use MLS and public data to generate customized reports based on your specific property and area int"
+}

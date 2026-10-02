@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/when-should-i-obtain-a-pre-construction-market-report",
+  "name": "When should I obtain a pre-construction market report?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When should I obtain a pre-construction market report?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You should obtain a pre-construction market report early in your decision-making process, ideally before making any commitments or visiting sales centers for specific projects. This allows you to evaluate potential investment opportunities with an objective overview of the market conditions and projected growth. Obtaining a report early helps you prioritize which areas or types of developments align with your investment goals, especially in competitive markets across Palm Beach and Orange Counties.",
+        "@type": "Answer",
+        "description": "Obtain a pre-construction market report early in your decision-making, before making commitments, to objectively evaluate investment opportunities."
+      }
+    }
+  ],
+  "description": "Obtain a pre-construction market report early in your decision-making, before making commitments, to objectively evaluate investment opportunities."
+}

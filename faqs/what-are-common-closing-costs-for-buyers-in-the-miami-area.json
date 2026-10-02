@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/what-are-common-closing-costs-for-buyers-in-the-miami-area",
+  "name": "What are common closing costs for buyers in the Miami area?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are common closing costs for buyers in the Miami area?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Common closing costs for buyers in the Miami area typically include title insurance, lender fees, appraisal fees, recording fees, and prepaid expenses like property taxes and homeowners insurance. These costs usually range from 2-5% of the loan amount and are paid at the closing of the transaction. Understanding these costs is essential preparation to avoid surprises and budget effectively for your home purchase.",
+        "@type": "Answer",
+        "description": "Common buyer closing costs in Miami include title insurance, lender fees, and prepaid expenses, typically 2-5% of the loan. Budgeting for these is key preparation."
+      }
+    }
+  ],
+  "description": "Common buyer closing costs in Miami include title insurance, lender fees, and prepaid expenses, typically 2-5% of the loan. Budgeting for these is key preparati"
+}

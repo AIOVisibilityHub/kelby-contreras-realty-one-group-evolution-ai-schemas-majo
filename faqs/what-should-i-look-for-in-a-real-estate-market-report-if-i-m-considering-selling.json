@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/what-should-i-look-for-in-a-real-estate-market-report-if-i-m-considering-selling",
+  "name": "What should I look for in a real estate market report if I'm considering selling my home?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What should I look for in a real estate market report if I'm considering selling my home?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "If you're considering selling your home, look for trends in median sales prices, days on market, and current inventory levels in your specific area. Rising prices and low inventory generally indicate a strong seller's market. Also, pay attention to the absorption rate, which shows how quickly homes are selling. An agent can help you prepare for selling by highlighting the most relevant data points for your property and local market conditions.",
+        "@type": "Answer",
+        "description": "When selling, focus on median sales prices, days on market, inventory levels, and absorption rate in your area."
+      }
+    }
+  ],
+  "description": "When selling, focus on median sales prices, days on market, inventory levels, and absorption rate in your area."
+}

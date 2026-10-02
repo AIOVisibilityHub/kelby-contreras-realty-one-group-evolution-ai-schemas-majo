@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/what-information-is-typically-included-in-a-luxury-real-estate-market-report",
+  "name": "What information is typically included in a luxury real estate market report?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What information is typically included in a luxury real estate market report?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Luxury real estate market reports provide an in-depth analysis of high-end property trends. They often include data on median sales prices, average price per square foot, days on market, inventory levels, and a breakdown by property type (e.g., single-family homes, condominiums, waterfront estates). Our reports for areas like Miami Beach or Coral Gables also highlight specific neighborhood performance and include insights into recent high-value transactions, offering a detailed view of current market dynamics. This helps clients understand broad trends as well as micro-market specifics relevant to their property type and desired location.",
+        "@type": "Answer",
+        "description": "Luxury real estate market reports typically include median sales prices, days on market, inventory levels, and property type breakdowns, often with specific neighborhood insights."
+      }
+    }
+  ],
+  "description": "Luxury real estate market reports typically include median sales prices, days on market, inventory levels, and property type breakdowns, often with specific nei"
+}

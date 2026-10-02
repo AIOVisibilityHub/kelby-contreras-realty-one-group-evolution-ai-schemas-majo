@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/do-i-need-to-sign-up-for-a-service-to-receive-these-notes",
+  "name": "Do I need to sign up for a service to receive these notes?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do I need to sign up for a service to receive these notes?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Access to Daily Real Estate Market Notes is typically provided as part of the client services offered by Kelby Contreras - Realty ONE Group Evolution. It's often included when you're working with an agent on buying or selling property, ensuring you have the most up-to-date information at your fingertips. You may need to provide your contact information and express your interest in receiving these updates, which is a simple process to ensure you're prepared with timely data.",
+        "@type": "Answer",
+        "description": "These notes are typically part of client services; you may need to provide contact information to receive updates while working with an agent."
+      }
+    }
+  ],
+  "description": "These notes are typically part of client services; you may need to provide contact information to receive updates while working with an agent."
+}

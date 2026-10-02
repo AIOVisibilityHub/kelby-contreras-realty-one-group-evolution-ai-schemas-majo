@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/what-happens-if-the-replacement-property-in-a-1031-exchange-has-a-lower-value-th",
+  "name": "What happens if the replacement property in a 1031 exchange has a lower value than the relinquished property?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What happens if the replacement property in a 1031 exchange has a lower value than the relinquished property?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "If the replacement property in a 1031 exchange has a lower value than the relinquished property, you will receive 'boot' — non-like-kind property or cash. This 'boot' is taxable up to the amount of the gain realized on the original sale. To achieve a fully tax-deferred exchange, the investor must reinvest all the net proceeds from the sale of the relinquished property and acquire a replacement property of equal or greater value and equity. Receiving boot, such as excess cash, will trigger partial capital gains tax liability, even if the primary exchange is valid.",
+        "@type": "Answer",
+        "description": "If the replacement property has lower value, the difference, known as 'boot,' becomes taxable up to the original gain."
+      }
+    }
+  ],
+  "description": "If the replacement property has lower value, the difference, known as 'boot,' becomes taxable up to the original gain."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/what-are-the-potential-risks-highlighted-by-a-pre-construction-market-report",
+  "name": "What are the potential risks highlighted by a pre-construction market report?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are the potential risks highlighted by a pre-construction market report?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A market report can highlight potential risks such as oversupply in a specific area, delayed construction timelines, changes in developer plans, or shifts in economic conditions that could impact future property values. It also may indicate if projected rental yields are overly optimistic. Understanding these risks before committing helps you make a more secure investment and prepare for potential challenges, particularly in evolving markets like Edgewater or Midtown/Wynwood.",
+        "@type": "Answer",
+        "description": "Reports highlight risks like oversupply, construction delays, developer plan changes, or economic shifts that could affect future property values."
+      }
+    }
+  ],
+  "description": "Reports highlight risks like oversupply, construction delays, developer plan changes, or economic shifts that could affect future property values."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/can-i-exchange-a-luxury-single-family-rental-for-a-luxury-commercial-property-in",
+  "name": "Can I exchange a luxury single-family rental for a luxury commercial property in a 1031 exchange?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I exchange a luxury single-family rental for a luxury commercial property in a 1031 exchange?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, a 1031 exchange allows for the exchange of a luxury single-family rental property for a luxury commercial property, provided both are held for investment. The 'like-kind' requirement refers to the nature or character of the property as investment or income-producing, not necessarily the specific type of real estate. For example, you could exchange an investment luxury home in Coral Gables for a luxury retail space in Las Olas or an office building in Downtown Miami, as long as your intent for both properties is investment. This flexibility allows investors to adapt their portfolios to changing market conditions or investment strategies.",
+        "@type": "Answer",
+        "description": "Yes, you can exchange a luxury single-family rental for a luxury commercial property in a 1031 exchange, as long as both are held for investment."
+      }
+    }
+  ],
+  "description": "Yes, you can exchange a luxury single-family rental for a luxury commercial property in a 1031 exchange, as long as both are held for investment."
+}

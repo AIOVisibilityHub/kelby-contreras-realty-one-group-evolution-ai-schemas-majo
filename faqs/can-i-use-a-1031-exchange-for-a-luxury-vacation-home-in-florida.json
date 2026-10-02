@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/can-i-use-a-1031-exchange-for-a-luxury-vacation-home-in-florida",
+  "name": "Can I use a 1031 exchange for a luxury vacation home in Florida?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I use a 1031 exchange for a luxury vacation home in Florida?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A luxury vacation home can qualify for a 1031 exchange if it is held primarily for investment purposes rather than personal use. The IRS has specific guidelines, generally requiring the property to be rented for at least 14 days per year and that the owner's personal use does not exceed the greater of 14 days or 10% of the days the property is rented at fair market value. For luxury properties in areas like Naples or Fort Lauderdale Beach, demonstrating this investment intent through consistent rental activity and management is key. Proper documentation of rental income and limited personal use is essential for the exchange to be valid.",
+        "@type": "Answer",
+        "description": "A luxury vacation home can qualify for a 1031 exchange if held primarily for investment, meeting specific IRS rental and personal use requirements."
+      }
+    }
+  ],
+  "description": "A luxury vacation home can qualify for a 1031 exchange if held primarily for investment, meeting specific IRS rental and personal use requirements."
+}

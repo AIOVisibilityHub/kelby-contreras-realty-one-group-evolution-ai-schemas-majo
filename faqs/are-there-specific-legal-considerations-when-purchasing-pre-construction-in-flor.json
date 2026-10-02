@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/are-there-specific-legal-considerations-when-purchasing-pre-construction-in-flor",
+  "name": "Are there specific legal considerations when purchasing pre-construction in Florida?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Are there specific legal considerations when purchasing pre-construction in Florida?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, Florida has specific regulations governing pre-construction sales, particularly concerning deposit protections and rescission periods. For instance, buyers typically have a 15-day rescission period after signing the purchase agreement to review documents and cancel without penalty. It is crucial to understand the developer's escrow arrangements for your deposits, as these are regulated by state law. Kelby Contreras, based in South Florida, offers first-party insight into these local regulations and helps clients navigate the legal nuances to ensure compliance and protection throughout the purchasing process.",
+        "@type": "Answer",
+        "description": "Florida has specific pre-construction regulations, including deposit protections and a 15-day rescission period. Understanding developer escrow arrangements and state laws is crucial."
+      }
+    }
+  ],
+  "description": "Florida has specific pre-construction regulations, including deposit protections and a 15-day rescission period. Understanding developer escrow arrangements and"
+}

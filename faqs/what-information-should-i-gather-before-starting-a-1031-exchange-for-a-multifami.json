@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/what-information-should-i-gather-before-starting-a-1031-exchange-for-a-multifami",
+  "name": "What information should I gather before starting a 1031 Exchange for a multifamily property?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What information should I gather before starting a 1031 Exchange for a multifamily property?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Before initiating a 1031 Exchange, you should gather all relevant financial documents for your current multifamily property, including acquisition costs, depreciation schedules, and any capital improvements made. You'll also need a clear understanding of its current market value and your equity position. Furthermore, begin outlining your investment goals for a replacement property, including desired location, size, and income potential. This preparation allows us to effectively identify suitable replacement properties and coordinate with a Qualified Intermediary, streamlining the process for properties in areas like Broward and Palm Beach counties.",
+        "@type": "Answer",
+        "description": "Gather financial documents for your current multifamily property, including acquisition costs and depreciation, and define your investment goals for a replacement property."
+      }
+    }
+  ],
+  "description": "Gather financial documents for your current multifamily property, including acquisition costs and depreciation, and define your investment goals for a replaceme"
+}

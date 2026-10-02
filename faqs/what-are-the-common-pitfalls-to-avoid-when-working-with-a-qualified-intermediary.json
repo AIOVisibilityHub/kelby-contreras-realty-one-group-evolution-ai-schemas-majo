@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/what-are-the-common-pitfalls-to-avoid-when-working-with-a-qualified-intermediary",
+  "name": "What are the common pitfalls to avoid when working with a Qualified Intermediary?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are the common pitfalls to avoid when working with a Qualified Intermediary?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Common pitfalls include failing to identify replacement properties within the 45-day deadline, exceeding the 180-day exchange period, and receiving funds directly before the QI takes control. Another risk is choosing a QI without adequate financial safeguards, which can endanger your exchange funds. It's essential to understand the timelines precisely and ensure all documentation is handled correctly to avoid these errors. Verifying the QI's experience and financial stability helps mitigate these risks.",
+        "@type": "Answer",
+        "description": "Avoid pitfalls like missing identification or exchange deadlines, receiving funds directly, or choosing an unreliable QI; understand timelines and verify QI safeguards."
+      }
+    }
+  ],
+  "description": "Avoid pitfalls like missing identification or exchange deadlines, receiving funds directly, or choosing an unreliable QI; understand timelines and verify QI saf"
+}

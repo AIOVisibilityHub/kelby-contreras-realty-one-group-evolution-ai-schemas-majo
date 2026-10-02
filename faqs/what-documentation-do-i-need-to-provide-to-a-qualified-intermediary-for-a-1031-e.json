@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/what-documentation-do-i-need-to-provide-to-a-qualified-intermediary-for-a-1031-e",
+  "name": "What documentation do I need to provide to a Qualified Intermediary for a 1031 Exchange?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What documentation do I need to provide to a Qualified Intermediary for a 1031 Exchange?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You will typically need to provide the Qualified Intermediary with copies of your sales contract for the relinquished property, the purchase contract for the replacement property, and contact information for all parties involved, including attorneys, title companies, and lenders. The QI will also require your taxpayer identification information. Providing these documents promptly allows the QI to prepare the necessary exchange agreements and assignment documents, ensuring the exchange process can proceed smoothly without delays.",
+        "@type": "Answer",
+        "description": "You need to provide your sales and purchase contracts, contact information for all parties, and taxpayer identification to the Qualified Intermediary."
+      }
+    }
+  ],
+  "description": "You need to provide your sales and purchase contracts, contact information for all parties, and taxpayer identification to the Qualified Intermediary."
+}

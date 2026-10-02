@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/can-i-see-examples-of-homes-sold-recently-in-the-neighborhoods-featured-in-your",
+  "name": "Can I see examples of homes sold recently in the neighborhoods featured in your guides?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I see examples of homes sold recently in the neighborhoods featured in your guides?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "While our neighborhood guides provide general context, they typically do not include specific recent sales data. However, Kelby Contreras can readily provide you with detailed information on recently sold homes, including prices and property characteristics, within any neighborhood we serve. This is a crucial step in understanding current market values and ensuring you're making an informed offer. This first-party insight allows us to provide targeted, real-time data to complement the broader overview from our guides, aiding your decision-making.",
+        "@type": "Answer",
+        "description": "Our guides don't include recent sales data, but Kelby Contreras can provide detailed information on recently sold homes in any neighborhood. This offers real-time data to aid your decision-making."
+      }
+    }
+  ],
+  "description": "Our guides don't include recent sales data, but Kelby Contreras can provide detailed information on recently sold homes in any neighborhood. This offers real-ti"
+}

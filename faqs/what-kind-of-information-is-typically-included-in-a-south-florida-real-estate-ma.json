@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/what-kind-of-information-is-typically-included-in-a-south-florida-real-estate-ma",
+  "name": "What kind of information is typically included in a South Florida real estate market report?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What kind of information is typically included in a South Florida real estate market report?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "South Florida real estate market reports typically include data on median sales prices, active listings, new listings, days on market, and absorption rates for specific property types and areas. These reports often break down data by county (e.g., Miami-Dade, Broward, Palm Beach, Collier, Orange) or even by city/neighborhood to provide a more localized view. Understanding these details can help identify current market trends and conditions, which is crucial for making informed buying or selling decisions.",
+        "@type": "Answer",
+        "description": "Market reports provide data on sales prices, listings, days on market, and absorption rates, often broken down by county or neighborhood."
+      }
+    }
+  ],
+  "description": "Market reports provide data on sales prices, listings, days on market, and absorption rates, often broken down by county or neighborhood."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/what-qualifies-as-a-replacement-property-for-a-1031-exchange",
+  "name": "What qualifies as a replacement property for a 1031 exchange?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What qualifies as a replacement property for a 1031 exchange?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A replacement property for a 1031 exchange must be 'like-kind' to the relinquished property. This generally means it must be real property held for investment or productive use in a trade or business. For example, an apartment building can be exchanged for vacant land, as both are considered real property. The exact interpretation of 'like-kind' can vary, and it's essential to understand that this does not require the properties to be identical in type or quality, but rather in nature or character. Kelby Contreras can help identify suitable like-kind properties across Miami-Dade, Broward, Palm Beach, Collier, and Orange Counties.",
+        "@type": "Answer",
+        "description": "A replacement property must be 'like-kind' real estate held for investment or business use. This means properties of the same nature or character, not necessarily identical."
+      }
+    }
+  ],
+  "description": "A replacement property must be 'like-kind' real estate held for investment or business use. This means properties of the same nature or character, not necessari"
+}

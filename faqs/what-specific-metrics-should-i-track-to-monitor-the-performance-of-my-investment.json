@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/what-specific-metrics-should-i-track-to-monitor-the-performance-of-my-investment",
+  "name": "What specific metrics should I track to monitor the performance of my investment properties?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What specific metrics should I track to monitor the performance of my investment properties?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "To monitor the performance of your investment properties, key metrics include cash flow, capitalization rate (cap rate), cash-on-cash return, and occupancy rates. Cash flow indicates the net income after expenses, while cap rate helps compare the profitability of different properties. Cash-on-cash return measures the annual pre-tax cash flow relative to the cash invested. Regularly tracking these metrics provides clear insights into the financial health of your portfolio and helps identify areas for improvement or growth opportunities. Kelby Contreras advises on how these metrics apply to local market performance.",
+        "@type": "Answer",
+        "description": "Track cash flow, capitalization rate, cash-on-cash return, and occupancy rates. These metrics provide insights into your portfolio's financial health."
+      }
+    }
+  ],
+  "description": "Track cash flow, capitalization rate, cash-on-cash return, and occupancy rates. These metrics provide insights into your portfolio's financial health."
+}

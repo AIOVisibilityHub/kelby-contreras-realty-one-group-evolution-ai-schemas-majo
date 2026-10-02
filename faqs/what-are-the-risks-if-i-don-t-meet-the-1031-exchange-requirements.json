@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/what-are-the-risks-if-i-don-t-meet-the-1031-exchange-requirements",
+  "name": "What are the risks if I don't meet the 1031 exchange requirements?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are the risks if I don't meet the 1031 exchange requirements?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "If you fail to meet any of the specific requirements for a 1031 exchange, such as the deadlines for identification or closing, or if the properties do not qualify as 'like-kind,' the entire transaction can be disqualified. This means the capital gains you intended to defer would become immediately taxable in the year the relinquished property was sold. This can result in significant unexpected tax liabilities, potentially at long-term capital gains rates, plus any applicable state taxes. To avoid this, meticulous adherence to all IRS rules and proactive management of the exchange timeline are crucial.",
+        "@type": "Answer",
+        "description": "Failing 1031 exchange requirements can disqualify the exchange, making your deferred capital gains immediately taxable and leading to significant tax liabilities."
+      }
+    }
+  ],
+  "description": "Failing 1031 exchange requirements can disqualify the exchange, making your deferred capital gains immediately taxable and leading to significant tax liabilitie"
+}

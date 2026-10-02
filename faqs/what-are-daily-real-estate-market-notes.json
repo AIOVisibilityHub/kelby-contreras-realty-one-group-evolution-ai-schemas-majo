@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/what-are-daily-real-estate-market-notes",
+  "name": "What are Daily Real Estate Market Notes?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are Daily Real Estate Market Notes?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Daily Real Estate Market Notes provide a concise summary of the most recent trends, news, and data points impacting local real estate markets. These notes typically cover factors like new listings, pending sales, price changes, and interest rate fluctuations, offering a snapshot of current conditions. Kelby Contreras - Realty ONE Group Evolution compiles these notes to help clients stay informed about the dynamic real estate landscape in Miami-Dade, Broward, Palm Beach, Collier, and Orange Counties, which can influence buying or selling strategies.",
+        "@type": "Answer",
+        "description": "Daily Real Estate Market Notes offer concise summaries of current trends, news, and data affecting local real estate markets."
+      }
+    }
+  ],
+  "description": "Daily Real Estate Market Notes offer concise summaries of current trends, news, and data affecting local real estate markets."
+}

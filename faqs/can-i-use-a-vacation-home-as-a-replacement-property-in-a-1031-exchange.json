@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/can-i-use-a-vacation-home-as-a-replacement-property-in-a-1031-exchange",
+  "name": "Can I use a vacation home as a replacement property in a 1031 exchange?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I use a vacation home as a replacement property in a 1031 exchange?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A vacation home can qualify as a replacement property for a 1031 exchange, but it must be held primarily for investment purposes, not personal use. The IRS has specific guidelines, generally requiring the property to be rented for at least 14 days per year and limiting personal use to 14 days or 10% of the rental days, whichever is greater. Careful documentation of rental income and personal use is essential to satisfy these criteria. This distinction is a common point of confusion for clients considering such properties in areas like Fort Lauderdale Beach or Sunny Isles Beach.",
+        "@type": "Answer",
+        "description": "A vacation home can qualify if held primarily for investment, typically meaning it's rented out for a significant portion of the year with limited personal use, according to IRS guidelines."
+      }
+    }
+  ],
+  "description": "A vacation home can qualify if held primarily for investment, typically meaning it's rented out for a significant portion of the year with limited personal use,"
+}

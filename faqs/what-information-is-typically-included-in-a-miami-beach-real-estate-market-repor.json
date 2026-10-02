@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/what-information-is-typically-included-in-a-miami-beach-real-estate-market-repor",
+  "name": "What information is typically included in a Miami Beach real estate market report?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What information is typically included in a Miami Beach real estate market report?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A Miami Beach real estate market report typically includes data on average sale prices, median list prices, inventory levels, days on market, and absorption rates for various property types like single-family homes, condos, and multi-family units. These reports often break down data by neighborhoods within Miami Beach to provide more localized insights. When reviewing a report, consider the specific neighborhoods it covers, as market conditions can vary significantly even within Miami Beach, impacting your decision on where to focus your search or listing.",
+        "@type": "Answer",
+        "description": "Miami Beach real estate market reports include data on sale prices, inventory, days on market, and absorption rates, often broken down by neighborhood."
+      }
+    }
+  ],
+  "description": "Miami Beach real estate market reports include data on sale prices, inventory, days on market, and absorption rates, often broken down by neighborhood."
+}

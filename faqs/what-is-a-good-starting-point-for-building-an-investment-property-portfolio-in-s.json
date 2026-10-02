@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/what-is-a-good-starting-point-for-building-an-investment-property-portfolio-in-s",
+  "name": "What is a good starting point for building an investment property portfolio in South Florida?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is a good starting point for building an investment property portfolio in South Florida?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A strong starting point involves defining your financial goals, risk tolerance, and investment timeline. Many new investors in South Florida begin with single-family homes or condominiums, particularly in growing areas with good rental demand such as Fort Lauderdale or Miami. Considering properties that offer immediate cash flow or those with appreciation potential are common strategies. Kelby Contreras can help identify suitable opportunities based on these factors, considering local market dynamics and your specific investment objectives.",
+        "@type": "Answer",
+        "description": "Define your financial goals and risk tolerance, then consider single-family homes or condominiums in high-demand areas like Fort Lauderdale or Miami."
+      }
+    }
+  ],
+  "description": "Define your financial goals and risk tolerance, then consider single-family homes or condominiums in high-demand areas like Fort Lauderdale or Miami."
+}

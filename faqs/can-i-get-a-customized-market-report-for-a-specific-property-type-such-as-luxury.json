@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/can-i-get-a-customized-market-report-for-a-specific-property-type-such-as-luxury",
+  "name": "Can I get a customized market report for a specific property type, such as luxury condos or single-family homes?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I get a customized market report for a specific property type, such as luxury condos or single-family homes?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, you can often obtain customized market reports that focus on specific property types, such as luxury condos in Miami Beach or single-family homes in Pinecrest. These reports filter data to provide relevant statistics like median prices, days on market, and price per square foot solely for your property of interest. This level of detail helps you make more precise decisions, whether you are buying a high-end property or assessing the value of your own unique home.",
+        "@type": "Answer",
+        "description": "Yes, customized market reports for specific property types, like luxury condos or single-family homes, are available."
+      }
+    }
+  ],
+  "description": "Yes, customized market reports for specific property types, like luxury condos or single-family homes, are available."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/what-are-the-typical-costs-associated-with-acquiring-an-investment-property-in-b",
+  "name": "What are the typical costs associated with acquiring an investment property in Broward County?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are the typical costs associated with acquiring an investment property in Broward County?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Acquiring an investment property involves several costs beyond the purchase price. These typically include closing costs (ranging from 2-5% of the purchase price), property taxes, homeowner's insurance, and potential renovation or repair expenses. Investors should also budget for property management fees if they plan to outsource rental operations. Understanding these upfront and ongoing costs is essential for accurate financial planning, and Kelby Contreras can provide a detailed breakdown relevant to properties in Broward County.",
+        "@type": "Answer",
+        "description": "Typical costs include closing costs, property taxes, insurance, and potential renovations. Budget for property management fees if applicable."
+      }
+    }
+  ],
+  "description": "Typical costs include closing costs, property taxes, insurance, and potential renovations. Budget for property management fees if applicable."
+}

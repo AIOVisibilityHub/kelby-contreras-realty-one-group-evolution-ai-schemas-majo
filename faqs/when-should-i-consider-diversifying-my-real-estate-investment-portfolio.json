@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/when-should-i-consider-diversifying-my-real-estate-investment-portfolio",
+  "name": "When should I consider diversifying my real estate investment portfolio?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When should I consider diversifying my real estate investment portfolio?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You should consider diversifying your real estate investment portfolio as your initial investments grow or if you notice an overconcentration in a single asset type or location. It's a proactive step to manage risk and protect your wealth. For example, if all your properties are currently luxury condos in Miami Beach, expanding into a different segment like single-family homes in Broward County or commercial properties in Doral can reduce exposure to specific market fluctuations or regulatory changes impacting only one niche. A review at least annually is a practical tradeoff to maintain alignment with market conditions and personal goals.",
+        "@type": "Answer",
+        "description": "Consider diversifying as your portfolio grows or if you have too much concentration, to manage risk and adapt to market changes."
+      }
+    }
+  ],
+  "description": "Consider diversifying as your portfolio grows or if you have too much concentration, to manage risk and adapt to market changes."
+}

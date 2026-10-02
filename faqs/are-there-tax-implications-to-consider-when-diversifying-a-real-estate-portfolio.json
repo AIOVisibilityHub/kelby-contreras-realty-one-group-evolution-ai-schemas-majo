@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/are-there-tax-implications-to-consider-when-diversifying-a-real-estate-portfolio",
+  "name": "Are there tax implications to consider when diversifying a real estate portfolio?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Are there tax implications to consider when diversifying a real estate portfolio?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, there can be significant tax implications when diversifying a real estate portfolio, especially if you are selling existing properties to acquire new ones. Actions such as a 1031 exchange can defer capital gains taxes, but strict rules and timelines apply. Understanding whether a property is classified as a primary residence, rental, or business asset will also affect depreciation and income tax liabilities. It's a preparation step to consult with a tax professional who specializes in real estate to understand how diversification strategies will impact your specific tax situation, particularly in Florida with its unique tax laws.",
+        "@type": "Answer",
+        "description": "Yes, tax implications like capital gains and depreciation vary with diversification; consult a tax professional for guidance."
+      }
+    }
+  ],
+  "description": "Yes, tax implications like capital gains and depreciation vary with diversification; consult a tax professional for guidance."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/how-do-interest-rate-changes-affect-what-s-shown-in-real-estate-market-reports",
+  "name": "How do interest rate changes affect what's shown in real estate market reports?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do interest rate changes affect what's shown in real estate market reports?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Interest rate changes significantly influence buyer affordability and, consequently, demand in the real estate market, which is then reflected in market reports. When rates rise, purchasing power decreases, often leading to slower sales activity, longer days on market, and potentially softening prices. Conversely, lower rates can stimulate demand and drive price increases. Reports will show these shifts in metrics like sales volume and median price. Understanding this correlation is crucial when interpreting reports and making decisions, as seen in fluctuating markets across Miami-Dade and Collier Counties.",
+        "@type": "Answer",
+        "description": "Interest rate changes impact buyer affordability and demand, leading to shifts in sales activity, days on market, and prices, all reflected in market reports."
+      }
+    }
+  ],
+  "description": "Interest rate changes impact buyer affordability and demand, leading to shifts in sales activity, days on market, and prices, all reflected in market reports."
+}

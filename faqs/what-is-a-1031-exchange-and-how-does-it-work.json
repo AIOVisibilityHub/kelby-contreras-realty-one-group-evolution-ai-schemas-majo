@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/what-is-a-1031-exchange-and-how-does-it-work",
+  "name": "What is a 1031 Exchange, and how does it work?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is a 1031 Exchange, and how does it work?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A 1031 Exchange, or like-kind exchange, allows real estate investors to defer capital gains taxes when selling an investment property by reinvesting the proceeds into a new 'like-kind' property within specific timeframes. This strategy is complex and requires strict adherence to IRS rules regarding identification and acquisition periods for the replacement property. It is often used by investors seeking to grow their portfolio without immediate tax implications. We can connect you with qualified intermediaries who specialize in facilitating these exchanges.",
+        "@type": "Answer",
+        "description": "A 1031 Exchange allows investors to defer capital gains taxes by reinvesting sale proceeds into a new 'like-kind' property under specific IRS rules."
+      }
+    }
+  ],
+  "description": "A 1031 Exchange allows investors to defer capital gains taxes by reinvesting sale proceeds into a new 'like-kind' property under specific IRS rules."
+}

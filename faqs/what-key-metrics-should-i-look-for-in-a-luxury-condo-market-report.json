@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/what-key-metrics-should-i-look-for-in-a-luxury-condo-market-report",
+  "name": "What key metrics should I look for in a luxury condo market report?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What key metrics should I look for in a luxury condo market report?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "When reviewing a luxury condo market report, key metrics to focus on include average price per square foot, median sales price, number of active listings, days on market, and sales volume. Analyzing these metrics can provide a comprehensive understanding of market health and property valuation trends. For buyers or sellers, understanding the absorption rate is also vital as it indicates how quickly current inventory would sell if no new units came to market, influencing negotiation strategies.",
+        "@type": "Answer",
+        "description": "Look for average price per square foot, median sales price, active listings, days on market, and sales volume. The absorption rate also indicates market pace."
+      }
+    }
+  ],
+  "description": "Look for average price per square foot, median sales price, active listings, days on market, and sales volume. The absorption rate also indicates market pace."
+}

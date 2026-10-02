@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/what-is-the-typical-process-for-working-with-a-qualified-intermediary",
+  "name": "What is the typical process for working with a Qualified Intermediary?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the typical process for working with a Qualified Intermediary?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The typical process involves several steps: First, you contract with a QI before closing on your relinquished property. The QI then drafts assignment documents and exchange agreements. At closing, the QI receives the sale proceeds and holds them in a segregated account. You then have 45 days to identify potential replacement properties and 180 days to close on one or more of them. The QI facilitates the purchase of the replacement property using the held funds. We can help connect you with reputable QIs who simplify this complex process.",
+        "@type": "Answer",
+        "description": "Working with a QI involves contracting before selling, the QI holding sale proceeds, identifying replacement properties within 45 days, and closing within 180 days, with the QI facilitating the purchase."
+      }
+    }
+  ],
+  "description": "Working with a QI involves contracting before selling, the QI holding sale proceeds, identifying replacement properties within 45 days, and closing within 180 d"
+}

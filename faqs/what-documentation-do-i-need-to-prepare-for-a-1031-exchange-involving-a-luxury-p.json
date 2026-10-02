@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/what-documentation-do-i-need-to-prepare-for-a-1031-exchange-involving-a-luxury-p",
+  "name": "What documentation do I need to prepare for a 1031 exchange involving a luxury property?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What documentation do I need to prepare for a 1031 exchange involving a luxury property?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "For a 1031 exchange involving a luxury property, you'll need to prepare several key documents. This includes the sales contract for your relinquished property, the purchase agreement for your replacement property, and a formal exchange agreement with your qualified intermediary. You'll also need documentation of your investment intent for both properties, such as rental agreements or business plans. Detailed financial statements, closing statements, and IRS Form 8824 are also critical. Keeping meticulous records and working closely with your qualified intermediary and tax advisor will help ensure all necessary paperwork is correctly completed and submitted.",
+        "@type": "Answer",
+        "description": "Key documents for a 1031 exchange include sales and purchase agreements, exchange agreement, proof of investment intent, financial statements, and IRS Form 8824."
+      }
+    }
+  ],
+  "description": "Key documents for a 1031 exchange include sales and purchase agreements, exchange agreement, proof of investment intent, financial statements, and IRS Form 8824"
+}

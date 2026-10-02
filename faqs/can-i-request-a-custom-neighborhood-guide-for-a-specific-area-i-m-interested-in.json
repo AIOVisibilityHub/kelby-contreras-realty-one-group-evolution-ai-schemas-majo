@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/can-i-request-a-custom-neighborhood-guide-for-a-specific-area-i-m-interested-in",
+  "name": "Can I request a custom neighborhood guide for a specific area I'm interested in?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I request a custom neighborhood guide for a specific area I'm interested in?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, Kelby Contreras and Realty ONE Group Evolution can often provide or tailor neighborhood insights based on your specific interests and desired locations within our service areas. While we have existing guides for popular communities, if you're exploring a less common area or have unique priorities, we can focus our resources to gather relevant information. This preparation step helps ensure that the information you receive is precisely what you need to assess your potential new home location effectively.",
+        "@type": "Answer",
+        "description": "Yes, we can often tailor neighborhood insights for specific areas within our service regions based on your unique interests. This ensures you get precisely the information you need for your home search."
+      }
+    }
+  ],
+  "description": "Yes, we can often tailor neighborhood insights for specific areas within our service regions based on your unique interests. This ensures you get precisely the"
+}

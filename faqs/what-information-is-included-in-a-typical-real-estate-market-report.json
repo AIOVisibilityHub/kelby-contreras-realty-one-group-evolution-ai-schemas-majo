@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/what-information-is-included-in-a-typical-real-estate-market-report",
+  "name": "What information is included in a typical real estate market report?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What information is included in a typical real estate market report?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A typical real estate market report provides an overview of current housing conditions. This includes metrics such as median sales prices, average days on market, inventory levels, and recent sales activity. These reports often break down data by property type and sometimes by specific neighborhoods or zip codes. Kelby Contreras - Realty ONE Group Evolution focuses on key areas like Miami-Dade, Broward, Palm Beach, and Collier Counties, tailoring reports to show relevant trends within these dynamic markets.",
+        "@type": "Answer",
+        "description": "Real estate market reports include median sales prices, days on market, inventory, and sales activity, often broken down by property type and location."
+      }
+    }
+  ],
+  "description": "Real estate market reports include median sales prices, days on market, inventory, and sales activity, often broken down by property type and location."
+}

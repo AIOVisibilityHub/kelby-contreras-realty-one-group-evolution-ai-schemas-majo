@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/when-is-the-best-time-to-consider-selling-an-investment-property-to-maximize-ret",
+  "name": "When is the best time to consider selling an investment property to maximize returns?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When is the best time to consider selling an investment property to maximize returns?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The optimal time to sell an investment property depends on market conditions, your financial goals, and the property's performance. Factors such as significant appreciation, changing local market dynamics (e.g., shifts in rental demand or property values), or a need to reallocate capital often trigger a sale. Preparing for a sale involves assessing current market value, understanding capital gains implications, and ensuring the property is in marketable condition. Kelby Contreras can provide a market analysis to help you make an informed decision.",
+        "@type": "Answer",
+        "description": "The best time to sell depends on market conditions, your goals, and property performance. Assess market value and understand capital gains implications."
+      }
+    }
+  ],
+  "description": "The best time to sell depends on market conditions, your goals, and property performance. Assess market value and understand capital gains implications."
+}

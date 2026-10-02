@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/can-i-exchange-an-investment-property-in-miami-dade-for-one-in-collier-county",
+  "name": "Can I exchange an investment property in Miami-Dade for one in Collier County?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I exchange an investment property in Miami-Dade for one in Collier County?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, you can exchange an investment property located in Miami-Dade County for one in Collier County, provided both are considered 'like-kind' real estate held for investment or productive use in a trade or business. The location within the United States generally does not affect the 'like-kind' determination. The crucial factor is that both properties are investment real estate. Kelby Contreras assists clients with exchanges between any of the areas served, including Miami-Dade, Broward, Palm Beach, Collier, and Orange Counties, ensuring seamless transitions across different Florida markets.",
+        "@type": "Answer",
+        "description": "Yes, exchanging investment properties between different Florida counties like Miami-Dade and Collier is permissible, as 'like-kind' status is based on property type (investment real estate), not geographic location."
+      }
+    }
+  ],
+  "description": "Yes, exchanging investment properties between different Florida counties like Miami-Dade and Collier is permissible, as 'like-kind' status is based on property"
+}

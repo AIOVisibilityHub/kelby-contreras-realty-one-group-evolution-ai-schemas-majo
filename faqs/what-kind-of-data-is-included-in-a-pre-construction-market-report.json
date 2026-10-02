@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/what-kind-of-data-is-included-in-a-pre-construction-market-report",
+  "name": "What kind of data is included in a pre-construction market report?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What kind of data is included in a pre-construction market report?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A comprehensive pre-construction market report includes data such as new development pipelines, projected completion dates, pricing trends for similar pre-construction projects, demographic shifts, and economic growth forecasts. It also details the competitive landscape and potential for rental income or resale value upon completion. This data assists clients in understanding the specific nuances of new construction in high-demand areas like Aventura, Brickell, or Sunny Isles Beach, informing their investment decisions.",
+        "@type": "Answer",
+        "description": "Reports include new development pipelines, projected completion dates, pricing trends, demographics, economic forecasts, and competitive landscape data."
+      }
+    }
+  ],
+  "description": "Reports include new development pipelines, projected completion dates, pricing trends, demographics, economic forecasts, and competitive landscape data."
+}

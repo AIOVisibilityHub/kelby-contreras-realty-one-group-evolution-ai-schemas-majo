@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/how-does-kelby-contreras-assist-with-1031-exchanges-for-luxury-properties-in-sou",
+  "name": "How does Kelby Contreras assist with 1031 exchanges for luxury properties in South Florida?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How does Kelby Contreras assist with 1031 exchanges for luxury properties in South Florida?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Kelby Contreras with Realty ONE Group Evolution assists clients in Miami-Dade, Broward, Palm Beach, and Collier Counties by identifying and securing suitable replacement luxury investment properties that meet 1031 exchange requirements. Our local market expertise means we can efficiently pinpoint properties, from Brickell penthouses to waterfront estates in Boca Raton, that align with your investment goals and the 'like-kind' criteria. We coordinate closely with your qualified intermediary and legal/tax advisors to ensure a smooth transaction, focusing on the strict deadlines for identification and closing. This specialized approach aims to simplify the complexities of deferring capital gains on high-value assets.",
+        "@type": "Answer",
+        "description": "Kelby Contreras helps clients in South Florida identify and secure qualifying luxury replacement properties for 1031 exchanges, coordinating with intermediaries and advisors."
+      }
+    }
+  ],
+  "description": "Kelby Contreras helps clients in South Florida identify and secure qualifying luxury replacement properties for 1031 exchanges, coordinating with intermediaries"
+}

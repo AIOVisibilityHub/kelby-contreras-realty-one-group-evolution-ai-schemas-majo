@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/what-is-the-primary-difference-between-a-forward-1031-exchange-and-a-reverse-103",
+  "name": "What is the primary difference between a forward 1031 exchange and a reverse 1031 exchange?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the primary difference between a forward 1031 exchange and a reverse 1031 exchange?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "In a forward 1031 exchange, you sell your relinquished property first and then identify and acquire your replacement property. Conversely, in a reverse 1031 exchange, you acquire the replacement property first before selling your relinquished property. Reverse exchanges are typically more complex and require an Exchange Accommodation Titleholder (EAT) to hold one of the properties. The choice between them depends on your specific circumstances and cash flow, but forward exchanges are more common due to their simpler structure and the predefined timeline after the sale.",
+        "@type": "Answer",
+        "description": "A forward exchange involves selling first then buying, while a reverse exchange involves buying the new property before selling the old one, making it more complex."
+      }
+    }
+  ],
+  "description": "A forward exchange involves selling first then buying, while a reverse exchange involves buying the new property before selling the old one, making it more comp"
+}

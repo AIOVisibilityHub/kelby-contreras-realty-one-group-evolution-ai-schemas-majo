@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/what-is-the-current-trend-of-home-prices-in-miami-dade-county",
+  "name": "What is the current trend of home prices in Miami-Dade County?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the current trend of home prices in Miami-Dade County?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Home prices in Miami-Dade County have experienced various trends, including periods of appreciation and stabilization. Factors like interest rates, inventory levels, and buyer demand all influence these movements. Understanding these trends helps assess market health. Kelby Contreras, with Realty ONE Group Evolution, monitors these local market indicators closely, providing insights into how current conditions might affect your property's value or potential purchase price.",
+        "@type": "Answer",
+        "description": "Home prices in Miami-Dade County fluctuate based on interest rates, inventory, and buyer demand. Kelby Contreras monitors these trends to provide current market insights."
+      }
+    }
+  ],
+  "description": "Home prices in Miami-Dade County fluctuate based on interest rates, inventory, and buyer demand. Kelby Contreras monitors these trends to provide current market"
+}

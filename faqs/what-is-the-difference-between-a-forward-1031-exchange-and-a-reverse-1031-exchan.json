@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/what-is-the-difference-between-a-forward-1031-exchange-and-a-reverse-1031-exchan",
+  "name": "What is the difference between a forward 1031 Exchange and a reverse 1031 Exchange for multifamily assets?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the difference between a forward 1031 Exchange and a reverse 1031 Exchange for multifamily assets?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "In a forward 1031 Exchange, you sell your existing multifamily property first and then purchase the replacement property. This is the most common type. A reverse 1031 Exchange, however, involves purchasing the replacement property *before* selling the relinquished one. Reverse exchanges are more complex and typically involve an Exchange Accommodation Titleholder (EAT) to 'park' one of the properties. While offering more flexibility, reverse exchanges also come with increased costs and scrutiny, making careful consideration essential for multifamily investors.",
+        "@type": "Answer",
+        "description": "A forward exchange sells first and then buys, while a reverse exchange buys the replacement property first before selling the relinquished one."
+      }
+    }
+  ],
+  "description": "A forward exchange sells first and then buys, while a reverse exchange buys the replacement property first before selling the relinquished one."
+}

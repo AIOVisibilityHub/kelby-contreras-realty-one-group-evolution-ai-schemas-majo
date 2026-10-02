@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/what-are-the-common-challenges-of-diversifying-a-real-estate-portfolio",
+  "name": "What are the common challenges of diversifying a real estate portfolio?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are the common challenges of diversifying a real estate portfolio?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Common challenges of diversifying a real estate portfolio include increased management complexity, needing higher capital investment, and requiring deeper market knowledge across different segments. For example, managing properties in both Miami-Dade and Collier County might necessitate separate local teams or a broader understanding of different rental laws and market trends. The practical tradeoff is that while diversification spreads risk, it also demands more time and resources to research and oversee disparate assets. Carefully assessing your capacity for management and capital availability is crucial before expanding your portfolio.",
+        "@type": "Answer",
+        "description": "Challenges include increased management complexity, higher capital needs, and broader market knowledge across different property types or locations."
+      }
+    }
+  ],
+  "description": "Challenges include increased management complexity, higher capital needs, and broader market knowledge across different property types or locations."
+}

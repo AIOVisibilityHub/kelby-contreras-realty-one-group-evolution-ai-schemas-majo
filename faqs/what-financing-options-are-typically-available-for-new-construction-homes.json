@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/what-financing-options-are-typically-available-for-new-construction-homes",
+  "name": "What financing options are typically available for new construction homes?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What financing options are typically available for new construction homes?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Various financing options are available for new construction, including conventional loans, FHA loans, VA loans, and sometimes specific builder-affiliated financing. Construction-to-permanent loans are also an option for custom builds, converting a construction loan into a standard mortgage upon completion. A key preparation step is to get pre-approved early to understand your budget and identify which loan types best suit your financial situation. Our network of trusted lenders can guide you through the process, even for homes not yet built.",
+        "@type": "Answer",
+        "description": "New construction financing options include conventional, FHA, VA, and builder-affiliated loans, as well as construction-to-permanent loans. Pre-approval is a key preparation step to determine your budget and suitable loan types."
+      }
+    }
+  ],
+  "description": "New construction financing options include conventional, FHA, VA, and builder-affiliated loans, as well as construction-to-permanent loans. Pre-approval is a ke"
+}

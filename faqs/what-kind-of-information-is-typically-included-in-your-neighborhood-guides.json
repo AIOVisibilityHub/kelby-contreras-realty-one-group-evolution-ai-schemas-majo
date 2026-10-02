@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/what-kind-of-information-is-typically-included-in-your-neighborhood-guides",
+  "name": "What kind of information is typically included in your neighborhood guides?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What kind of information is typically included in your neighborhood guides?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Our neighborhood guides include comprehensive details such as demographics, local schools and their ratings, nearby parks and recreational facilities, dining and shopping options, and transportation accessibility. They also touch on the general vibe and character of the community, helping you envision life there. We gather this information to provide a holistic view, helping clients like you understand areas from urban centers such as Brickell to coastal communities like Key Biscayne, ensuring a well-rounded understanding before you commit.",
+        "@type": "Answer",
+        "description": "Our guides provide demographics, school info, parks, dining, shopping, transportation, and community character. This helps you get a holistic view of areas from urban to coastal."
+      }
+    }
+  ],
+  "description": "Our guides provide demographics, school info, parks, dining, shopping, transportation, and community character. This helps you get a holistic view of areas from"
+}

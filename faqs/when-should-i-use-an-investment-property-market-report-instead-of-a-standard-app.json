@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/when-should-i-use-an-investment-property-market-report-instead-of-a-standard-app",
+  "name": "When should I use an investment property market report instead of a standard appraisal?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When should I use an investment property market report instead of a standard appraisal?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "An investment property market report provides a broad overview of market trends and potential for a region or property type, useful for strategic planning and identifying investment opportunities. A standard appraisal offers a precise valuation of a specific property at a given time, essential for securing financing or making an offer. You would use a market report when initially researching areas like Palm Beach or considering different asset classes, and an appraisal once you've identified a specific property. This process clarity helps guide your investment journey, ensuring you use the right tool at the right stage.",
+        "@type": "Answer",
+        "description": "Use a market report for broad strategic planning and opportunity identification, and an appraisal for precise valuation of a specific property for financing or an offer. This process clarity ensures the right tool is used at the right stage."
+      }
+    }
+  ],
+  "description": "Use a market report for broad strategic planning and opportunity identification, and an appraisal for precise valuation of a specific property for financing or"
+}

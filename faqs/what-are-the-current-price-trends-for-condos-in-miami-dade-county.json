@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/what-are-the-current-price-trends-for-condos-in-miami-dade-county",
+  "name": "What are the current price trends for condos in Miami-Dade County?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are the current price trends for condos in Miami-Dade County?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Condo prices in Miami-Dade County have experienced fluctuations influenced by demand, inventory levels, and interest rates. Generally, prices in desirable areas such as Brickell or South Beach have shown resilience. Understanding specific neighborhood trends is crucial, as areas like Doral or Aventura might have different market dynamics than Coconut Grove or Coral Gables. Kelby Contreras - Realty ONE Group Evolution can provide data tailored to specific Miami-Dade communities to help buyers and sellers make informed decisions based on current market conditions.",
+        "@type": "Answer",
+        "description": "Condo prices in Miami-Dade County vary by neighborhood, influenced by demand and inventory. Specific data can be provided for areas like Brickell, South Beach, or Doral."
+      }
+    }
+  ],
+  "description": "Condo prices in Miami-Dade County vary by neighborhood, influenced by demand and inventory. Specific data can be provided for areas like Brickell, South Beach,"
+}

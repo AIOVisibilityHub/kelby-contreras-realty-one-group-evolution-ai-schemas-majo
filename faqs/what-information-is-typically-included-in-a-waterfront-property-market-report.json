@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/what-information-is-typically-included-in-a-waterfront-property-market-report",
+  "name": "What information is typically included in a Waterfront Property Market Report?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What information is typically included in a Waterfront Property Market Report?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A Waterfront Property Market Report provides key insights into the current state of waterfront real estate. It typically includes data on recent sales prices, active listings, days on market, price per square foot, and inventory levels specifically for properties with water access. These reports often segment data by property type, such as single-family homes, condos, or vacant land, and can highlight trends in specific micro-markets within areas like Miami-Dade or Broward County. Understanding these components helps you gauge market performance and make informed decisions about buying or selling waterfront property.",
+        "@type": "Answer",
+        "description": "Waterfront Property Market Reports include data on sales prices, listings, days on market, and price per square foot for waterfront properties, often segmented by property type and micro-market."
+      }
+    }
+  ],
+  "description": "Waterfront Property Market Reports include data on sales prices, listings, days on market, and price per square foot for waterfront properties, often segmented"
+}

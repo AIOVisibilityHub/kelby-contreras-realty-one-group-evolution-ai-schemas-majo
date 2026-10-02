@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/what-are-the-costs-associated-with-using-a-qualified-intermediary-for-a-1031-exc",
+  "name": "What are the costs associated with using a Qualified Intermediary for a 1031 Exchange?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are the costs associated with using a Qualified Intermediary for a 1031 Exchange?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The costs for using a Qualified Intermediary (QI) typically involve a flat fee, which can range from a few hundred to a few thousand dollars, depending on the complexity of the exchange and the QI's services. Some QIs may also charge additional fees for specific services, such as facilitating multi-asset exchanges or providing specialized legal reviews. It's important to get a clear fee schedule upfront to understand the full cost, which will generally be a small fraction of the potential tax deferral benefits.",
+        "@type": "Answer",
+        "description": "Costs for a Qualified Intermediary are typically a flat fee, ranging from hundreds to thousands of dollars, depending on exchange complexity, and should be clarified upfront."
+      }
+    }
+  ],
+  "description": "Costs for a Qualified Intermediary are typically a flat fee, ranging from hundreds to thousands of dollars, depending on exchange complexity, and should be clar"
+}

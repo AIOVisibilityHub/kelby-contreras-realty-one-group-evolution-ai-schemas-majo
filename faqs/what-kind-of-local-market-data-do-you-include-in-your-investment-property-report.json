@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/what-kind-of-local-market-data-do-you-include-in-your-investment-property-report",
+  "name": "What kind of local market data do you include in your investment property reports for areas like Aventura or Coral Gables?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What kind of local market data do you include in your investment property reports for areas like Aventura or Coral Gables?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Our investment property reports for specific local markets like Aventura or Coral Gables incorporate granular data such as average price per square foot, days on market, inventory levels, rental demand for specific property types, and recent comparable sales. We also track local economic drivers, new developments, and zoning changes that can impact property values. This level of local insight is a first-party insight we provide, tailored to the unique characteristics and investment potential of each distinct community within Miami-Dade and Broward Counties.",
+        "@type": "Answer",
+        "description": "Our local investment reports for areas like Aventura or Coral Gables include specific data such as average price per square foot, inventory, rental demand, and recent sales. This first-party insight is tailored to each community's unique characteristics."
+      }
+    }
+  ],
+  "description": "Our local investment reports for areas like Aventura or Coral Gables include specific data such as average price per square foot, inventory, rental demand, and"
+}

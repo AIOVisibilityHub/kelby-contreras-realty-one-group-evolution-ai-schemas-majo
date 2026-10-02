@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/what-is-a-1031-exchange-qualified-intermediary-and-why-do-i-need-one",
+  "name": "What is a 1031 Exchange Qualified Intermediary and why do I need one?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is a 1031 Exchange Qualified Intermediary and why do I need one?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A 1031 Exchange Qualified Intermediary (QI) is a neutral third party that facilitates a 1031 exchange, holding the proceeds from your relinquished property and using them to acquire your replacement property. Their role is crucial to avoid constructive receipt of funds, which would disqualify the exchange and make the transaction taxable. You need a QI to ensure your transaction adheres to IRS rules and maintains its tax-deferred status, especially when coordinating property sales and purchases within specific timelines.",
+        "@type": "Answer",
+        "description": "A 1031 Exchange Qualified Intermediary (QI) is a neutral third party who holds sale proceeds to facilitate a tax-deferred exchange, preventing constructive receipt of funds that could disqualify the exchange."
+      }
+    }
+  ],
+  "description": "A 1031 Exchange Qualified Intermediary (QI) is a neutral third party who holds sale proceeds to facilitate a tax-deferred exchange, preventing constructive rece"
+}

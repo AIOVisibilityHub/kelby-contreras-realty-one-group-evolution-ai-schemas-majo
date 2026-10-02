@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/can-a-qualified-intermediary-help-with-a-reverse-1031-exchange",
+  "name": "Can a Qualified Intermediary help with a reverse 1031 Exchange?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can a Qualified Intermediary help with a reverse 1031 Exchange?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, many Qualified Intermediaries can facilitate a reverse 1031 Exchange, where you acquire the replacement property before selling the relinquished property. This type of exchange is more complex and typically involves the QI taking title to either the relinquished or replacement property through an Exchange Accommodation Titleholder (EAT) structure. The QI's role is critical in structuring this complex transaction to comply with IRS safe harbor rules. It is a more involved process and requires careful planning.",
+        "@type": "Answer",
+        "description": "Yes, Qualified Intermediaries can facilitate complex reverse 1031 Exchanges by structuring the transaction, often through an Exchange Accommodation Titleholder, to comply with IRS rules."
+      }
+    }
+  ],
+  "description": "Yes, Qualified Intermediaries can facilitate complex reverse 1031 Exchanges by structuring the transaction, often through an Exchange Accommodation Titleholder,"
+}

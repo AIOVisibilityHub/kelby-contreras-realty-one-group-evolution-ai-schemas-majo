@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/when-should-i-engage-a-qualified-intermediary-for-my-1031-exchange",
+  "name": "When should I engage a Qualified Intermediary for my 1031 Exchange?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When should I engage a Qualified Intermediary for my 1031 Exchange?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You should engage a Qualified Intermediary (QI) before closing on the sale of your relinquished property. The QI must be identified in the sale contract and assume the right to receive the sale proceeds directly from the closing agent. This is a critical step because if you receive the funds directly, even for a moment, the exchange can be disqualified. Initiating contact early allows for proper documentation and coordination with all parties involved.",
+        "@type": "Answer",
+        "description": "Engage a Qualified Intermediary before closing on your relinquished property sale to ensure they are properly identified in the contract and receive sale proceeds directly, preventing disqualification."
+      }
+    }
+  ],
+  "description": "Engage a Qualified Intermediary before closing on your relinquished property sale to ensure they are properly identified in the contract and receive sale procee"
+}

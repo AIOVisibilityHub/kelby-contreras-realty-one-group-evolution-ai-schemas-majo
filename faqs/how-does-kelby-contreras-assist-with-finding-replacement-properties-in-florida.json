@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/how-does-kelby-contreras-assist-with-finding-replacement-properties-in-florida",
+  "name": "How does Kelby Contreras assist with finding replacement properties in Florida?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How does Kelby Contreras assist with finding replacement properties in Florida?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Kelby Contreras with Realty ONE Group Evolution specializes in identifying suitable replacement properties across Miami-Dade, Broward, Palm Beach, Collier, and Orange Counties. Our local market knowledge allows us to pinpoint investment opportunities that align with your 1031 exchange requirements, including 'like-kind' criteria and value matching. We focus on areas that offer strong investment potential, such as Brickell, Coral Gables, or downtown Miami, helping you navigate the complexities of property identification within the strict 45-day window. Our process helps clients make informed decisions quickly.",
+        "@type": "Answer",
+        "description": "Kelby Contreras helps clients find suitable replacement properties in Florida's key counties, leveraging local market expertise to match 'like-kind' criteria and investment goals within the exchange deadlines."
+      }
+    }
+  ],
+  "description": "Kelby Contreras helps clients find suitable replacement properties in Florida's key counties, leveraging local market expertise to match 'like-kind' criteria an"
+}

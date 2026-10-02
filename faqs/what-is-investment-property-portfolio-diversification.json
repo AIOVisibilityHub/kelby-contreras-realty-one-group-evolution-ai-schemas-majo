@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/what-is-investment-property-portfolio-diversification",
+  "name": "What is investment property portfolio diversification?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is investment property portfolio diversification?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Investment property portfolio diversification is the strategy of spreading your real estate investments across different types of properties, locations, or asset classes to mitigate risk and potentially enhance returns. This can involve owning a mix of residential, commercial, or industrial properties, or investing in various neighborhoods within South Florida. For example, balancing properties in high-growth areas like Miami with more stable, income-generating assets in a different county like Broward can help smooth out overall portfolio performance, protecting against downturns in a single market segment.",
+        "@type": "Answer",
+        "description": "Diversification in real estate involves investing in various property types or locations to reduce risk and improve potential returns."
+      }
+    }
+  ],
+  "description": "Diversification in real estate involves investing in various property types or locations to reduce risk and improve potential returns."
+}

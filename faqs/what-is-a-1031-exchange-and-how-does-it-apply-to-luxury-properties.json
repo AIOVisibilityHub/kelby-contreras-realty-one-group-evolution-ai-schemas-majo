@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/what-is-a-1031-exchange-and-how-does-it-apply-to-luxury-properties",
+  "name": "What is a 1031 exchange and how does it apply to luxury properties?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is a 1031 exchange and how does it apply to luxury properties?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A 1031 exchange, or like-kind exchange, allows an investor to defer capital gains taxes on the sale of an investment property by reinvesting the proceeds into another 'like-kind' property within specific timelines. For luxury properties, this means you can sell a high-value investment asset, like a waterfront condo in Miami Beach or a large estate in Palm Beach, and use the funds to acquire another qualifying investment property without immediately paying capital gains tax. The 'like-kind' requirement typically refers to the nature or character of the property, not its grade or quality, so a luxury investment property can be exchanged for another luxury investment property, or even a less luxurious one, as long as it's held for investment.",
+        "@type": "Answer",
+        "description": "A 1031 exchange defers capital gains taxes when reinvesting sale proceeds from an investment property into another 'like-kind' investment property, applicable to luxury assets."
+      }
+    }
+  ],
+  "description": "A 1031 exchange defers capital gains taxes when reinvesting sale proceeds from an investment property into another 'like-kind' investment property, applicable t"
+}

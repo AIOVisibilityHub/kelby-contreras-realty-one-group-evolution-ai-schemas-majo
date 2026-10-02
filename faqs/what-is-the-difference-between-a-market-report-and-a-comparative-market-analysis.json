@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/what-is-the-difference-between-a-market-report-and-a-comparative-market-analysis",
+  "name": "What is the difference between a market report and a comparative market analysis (CMA)?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the difference between a market report and a comparative market analysis (CMA)?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A market report provides a broad overview of general trends across a wider geographic area or property type, offering a macro-level perspective. In contrast, a Comparative Market Analysis (CMA) is a more detailed, specific report prepared by a real estate agent for a particular property, comparing it to recently sold homes, active listings, and expired listings in its immediate vicinity. A CMA aims to determine a precise market value for a single property. Kelby Contreras - Realty ONE Group Evolution uses both: market reports for general insight and CMAs for granular property valuation.",
+        "@type": "Answer",
+        "description": "A market report offers broad trends, while a Comparative Market Analysis (CMA) provides a precise valuation for a specific property using local comparable sales."
+      }
+    }
+  ],
+  "description": "A market report offers broad trends, while a Comparative Market Analysis (CMA) provides a precise valuation for a specific property using local comparable sales"
+}

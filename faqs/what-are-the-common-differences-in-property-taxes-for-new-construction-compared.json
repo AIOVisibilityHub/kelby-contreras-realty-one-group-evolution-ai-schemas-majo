@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/what-are-the-common-differences-in-property-taxes-for-new-construction-compared",
+  "name": "What are the common differences in property taxes for new construction compared to existing homes in Broward County?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are the common differences in property taxes for new construction compared to existing homes in Broward County?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Property taxes for new construction in Broward County are typically assessed based on the home's completed value, which can be higher than older homes due to modern features and construction costs. Initially, taxes might be based on the lot value and then reassessed upon completion. A contextual relevance factor is that the Save Our Homes amendment limits annual increases for homesteaded properties, but new construction starts at full market value. Buyers should consider this initial higher assessment as part of their long-term homeownership costs, as the savings from the cap won't apply until the second year after homestead exemption is filed.",
+        "@type": "Answer",
+        "description": "Property taxes for new construction in Broward County are based on the completed value, often higher than older homes. While Save Our Homes limits future increases, new builds start at full market value, affecting initial costs."
+      }
+    }
+  ],
+  "description": "Property taxes for new construction in Broward County are based on the completed value, often higher than older homes. While Save Our Homes limits future increa"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/what-are-common-closing-costs-for-buyers-and-sellers-in-south-florida",
+  "name": "What are common closing costs for buyers and sellers in South Florida?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are common closing costs for buyers and sellers in South Florida?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Closing costs for buyers and sellers in South Florida typically range from 2-5% of the sales price, varying based on the transaction. Buyers usually face lender fees, title insurance, and appraisal costs, while sellers often pay real estate commissions, title insurance (for the buyer's policy), and prorated property taxes. It’s essential to budget for these additional expenses beyond the purchase price. Understanding these costs upfront helps both parties prepare financially for the transaction, and Kelby Contreras can provide a detailed estimate specific to your situation.",
+        "@type": "Answer",
+        "description": "Closing costs in South Florida, typically 2-5% of the sale price, include lender fees, title insurance, and commissions for buyers and sellers."
+      }
+    }
+  ],
+  "description": "Closing costs in South Florida, typically 2-5% of the sale price, include lender fees, title insurance, and commissions for buyers and sellers."
+}

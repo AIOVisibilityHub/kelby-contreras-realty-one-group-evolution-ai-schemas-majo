@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/what-are-the-deadlines-for-identifying-and-closing-on-a-replacement-property-in",
+  "name": "What are the deadlines for identifying and closing on a replacement property in a 1031 exchange?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are the deadlines for identifying and closing on a replacement property in a 1031 exchange?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "There are strict deadlines for a 1031 exchange. You must identify potential replacement properties within 45 days of selling your relinquished property. This identification must be in writing and unambiguously identify the properties. Then, you must close on one or more of those identified properties within 180 days of the sale date, or by the due date of your tax return for the year the relinquished property was sold, whichever is earlier. Failing to meet either of these deadlines will disqualify the exchange, making the deferred gains immediately taxable. When dealing with luxury properties, it's crucial to consider the potential for longer closing times or complex negotiations, which necessitates proactive planning.",
+        "@type": "Answer",
+        "description": "You have 45 days to identify replacement properties and 180 days from the relinquished property sale to close on a new one."
+      }
+    }
+  ],
+  "description": "You have 45 days to identify replacement properties and 180 days from the relinquished property sale to close on a new one."
+}

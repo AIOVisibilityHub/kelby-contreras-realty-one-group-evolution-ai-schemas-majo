@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/what-kind-of-due-diligence-is-necessary-before-committing-to-a-pre-construction",
+  "name": "What kind of due diligence is necessary before committing to a pre-construction purchase?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What kind of due diligence is necessary before committing to a pre-construction purchase?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Thorough due diligence for pre-construction includes researching the developer's past projects, reviewing the proposed plans and specifications, and understanding the HOA documents and fees. It's also vital to analyze the local market conditions and comparable sales. A key preparation step is to consult with a real estate professional to review all contract terms, including clauses regarding potential delays, material changes, and default provisions. Kelby Contreras assists clients in gathering and evaluating all necessary information to make an informed decision.",
+        "@type": "Answer",
+        "description": "Due diligence for pre-construction involves researching the developer, plans, HOA documents, and market. Preparation includes reviewing all contract terms with a real estate professional."
+      }
+    }
+  ],
+  "description": "Due diligence for pre-construction involves researching the developer, plans, HOA documents, and market. Preparation includes reviewing all contract terms with"
+}

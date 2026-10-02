@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/what-is-the-cost-of-obtaining-a-luxury-real-estate-market-report",
+  "name": "What is the cost of obtaining a luxury real estate market report?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the cost of obtaining a luxury real estate market report?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The cost of obtaining a luxury real estate market report can vary. For clients working with a real estate agent on a buying or selling transaction, these reports are often provided as a complimentary service. At Kelby Contreras - Realty ONE Group Evolution, we consider providing detailed market reports a core part of our client service. If you are not actively engaged in a transaction but require a bespoke, in-depth analysis for investment purposes, there might be a fee associated, depending on the complexity and scope requested. It's best to discuss your specific needs directly with one of our agents to understand the options.",
+        "@type": "Answer",
+        "description": "Luxury real estate market reports are often complimentary for clients engaged in a transaction; otherwise, a fee may apply for bespoke analyses depending on complexity."
+      }
+    }
+  ],
+  "description": "Luxury real estate market reports are often complimentary for clients engaged in a transaction; otherwise, a fee may apply for bespoke analyses depending on com"
+}

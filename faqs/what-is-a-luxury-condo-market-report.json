@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/what-is-a-luxury-condo-market-report",
+  "name": "What is a luxury condo market report?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is a luxury condo market report?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A luxury condo market report provides a detailed analysis of current trends, property values, inventory levels, and sales activity within the high-end condominium sector. It typically includes data on average price per square foot, days on market, and absorption rates. For clients in Miami-Dade, Broward, Palm Beach, Collier, and Orange counties, these reports offer insights into specific luxury submarkets like Aventura or Fisher Island, helping to inform investment decisions based on local market dynamics.",
+        "@type": "Answer",
+        "description": "A luxury condo market report analyzes trends, property values, and sales activity in the high-end condominium market, often tailored to specific local submarkets."
+      }
+    }
+  ],
+  "description": "A luxury condo market report analyzes trends, property values, and sales activity in the high-end condominium market, often tailored to specific local submarket"
+}

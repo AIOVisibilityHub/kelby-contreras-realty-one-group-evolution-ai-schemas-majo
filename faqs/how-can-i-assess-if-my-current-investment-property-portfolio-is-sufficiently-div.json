@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/how-can-i-assess-if-my-current-investment-property-portfolio-is-sufficiently-div",
+  "name": "How can I assess if my current investment property portfolio is sufficiently diversified?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How can I assess if my current investment property portfolio is sufficiently diversified?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "To assess if your portfolio is sufficiently diversified, you can evaluate the distribution of your investments across different property types, geographic locations (e.g., Miami vs. Fort Lauderdale vs. Orlando), and tenant demographics. Consider if a downturn in one specific market segment or a single geographic area would significantly impact your overall returns. A practical tradeoff is that a thorough assessment might involve analyzing various market indicators and property performance metrics. Consulting with a real estate professional can help you objectively measure your current risk exposure against your investment goals and identify potential gaps.",
+        "@type": "Answer",
+        "description": "Assess diversification by evaluating asset distribution across property types, locations, and tenant demographics, and checking for over-exposure to single market segments."
+      }
+    }
+  ],
+  "description": "Assess diversification by evaluating asset distribution across property types, locations, and tenant demographics, and checking for over-exposure to single mark"
+}

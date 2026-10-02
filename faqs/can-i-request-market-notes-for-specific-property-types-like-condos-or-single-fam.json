@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/can-i-request-market-notes-for-specific-property-types-like-condos-or-single-fam",
+  "name": "Can I request market notes for specific property types, like condos or single-family homes?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I request market notes for specific property types, like condos or single-family homes?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, you can often request market notes filtered by specific property types, such as condos in Sunny Isles Beach or single-family homes in Coconut Grove. This allows for a highly focused analysis that directly addresses your investment or living preferences. Knowing whether condo prices are moving differently than single-family homes in a given area can be a significant decision factor for your strategy.",
+        "@type": "Answer",
+        "description": "Yes, you can request market notes filtered by specific property types like condos or single-family homes, enabling focused analysis."
+      }
+    }
+  ],
+  "description": "Yes, you can request market notes filtered by specific property types like condos or single-family homes, enabling focused analysis."
+}

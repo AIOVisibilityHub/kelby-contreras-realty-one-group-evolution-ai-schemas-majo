@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/how-many-replacement-properties-can-i-identify-in-a-1031-exchange",
+  "name": "How many replacement properties can I identify in a 1031 exchange?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How many replacement properties can I identify in a 1031 exchange?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You can identify multiple replacement properties, typically following one of two rules: the Three Property Rule or the 200% Rule. The Three Property Rule allows you to identify up to three properties regardless of their fair market value. The 200% Rule allows you to identify any number of properties, provided their aggregate fair market value does not exceed 200% of the relinquished property's value. Understanding these rules is crucial, as exceeding them can invalidate your identification. Kelby Contreras can guide you through selecting and identifying properties within these parameters.",
+        "@type": "Answer",
+        "description": "You can identify up to three properties (Three Property Rule) or any number of properties whose total value is not more than 200% of the relinquished property's value (200% Rule)."
+      }
+    }
+  ],
+  "description": "You can identify up to three properties (Three Property Rule) or any number of properties whose total value is not more than 200% of the relinquished property's"
+}
