@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/what-are-the-common-property-types-available-in-fort-lauderdale",
+  "name": "What are the common property types available in Fort Lauderdale?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are the common property types available in Fort Lauderdale?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Fort Lauderdale offers a diverse range of property types to suit various preferences and budgets. You can find high-rise condominiums, particularly along Fort Lauderdale Beach and in downtown areas, offering amenities and often water views. Single-family homes are common in suburban neighborhoods, ranging from historic bungalows to modern estates. Waterfront properties, including homes with private docks for boats, are also a significant part of the market due to the city's extensive canal system. Your choice of property type often depends on your lifestyle, budget, and desired maintenance level, and Kelby Contreras can assist in finding the right fit.",
+        "@type": "Answer",
+        "description": "Fort Lauderdale features various property types including high-rise condominiums, single-family homes, and waterfront properties with boat access, catering to diverse preferences and budgets."
+      }
+    }
+  ],
+  "description": "Fort Lauderdale features various property types including high-rise condominiums, single-family homes, and waterfront properties with boat access, catering to d"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/what-s-the-typical-timeline-for-finding-and-purchasing-a-home-in-south-florida",
+  "name": "What's the typical timeline for finding and purchasing a home in South Florida?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What's the typical timeline for finding and purchasing a home in South Florida?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The typical timeline for finding and purchasing a home in South Florida can vary, but generally ranges from 2 to 4 months from initial search to closing. This includes time for property searches, offers, inspections, appraisals, and securing financing. Market conditions, such as high demand or limited inventory, can extend this process. Working with a real estate agent like Kelby Contreras can streamline your search and guide you through each stage, potentially speeding up the process.",
+        "@type": "Answer",
+        "description": "The home buying timeline in South Florida typically ranges from 2 to 4 months, affected by market conditions. A real estate agent can help streamline the process."
+      }
+    }
+  ],
+  "description": "The home buying timeline in South Florida typically ranges from 2 to 4 months, affected by market conditions. A real estate agent can help streamline the proces"
+}

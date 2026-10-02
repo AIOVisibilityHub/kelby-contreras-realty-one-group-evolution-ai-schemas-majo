@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/what-is-the-process-for-buying-a-waterfront-home-in-south-florida",
+  "name": "What is the process for buying a waterfront home in South Florida?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the process for buying a waterfront home in South Florida?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The process generally involves identifying your desired neighborhood and property type, securing financing, making an offer, conducting inspections (including specialized marine surveys if applicable), and navigating the closing procedures. Due diligence for waterfront properties often includes verifying seawall condition, dock permits, and flood zone status. Kelby Contreras guides clients through each step, from initial search in areas like Sunny Isles Beach or Coral Gables to successful closing, ensuring all waterfront-specific details are addressed.",
+        "@type": "Answer",
+        "description": "The process includes identifying property, financing, offer, inspections (marine surveys), and closing, with focus on seawall and dock diligence."
+      }
+    }
+  ],
+  "description": "The process includes identifying property, financing, offer, inspections (marine surveys), and closing, with focus on seawall and dock diligence."
+}

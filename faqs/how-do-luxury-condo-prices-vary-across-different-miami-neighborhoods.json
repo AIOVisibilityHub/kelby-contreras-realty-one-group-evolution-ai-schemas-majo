@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/how-do-luxury-condo-prices-vary-across-different-miami-neighborhoods",
+  "name": "How do luxury condo prices vary across different Miami neighborhoods?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do luxury condo prices vary across different Miami neighborhoods?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Luxury condo prices in Miami exhibit significant variation by neighborhood. Prime areas like Fisher Island, with its exclusive private island living, command some of the highest prices. Bal Harbour and Key Biscayne also feature premium pricing due to their prestigious addresses and oceanfront properties. In contrast, while still luxurious, areas like Brickell or Edgewater might offer a broader range of price points for high-rise units, often depending on factors like floor height, views, and specific building amenities. Researching recent sales in specific buildings within your target neighborhoods can provide a clearer picture.",
+        "@type": "Answer",
+        "description": "Luxury condo prices vary greatly in Miami; exclusive areas like Fisher Island and Bal Harbour are typically highest, while Brickell or Edgewater might offer a wider range."
+      }
+    }
+  ],
+  "description": "Luxury condo prices vary greatly in Miami; exclusive areas like Fisher Island and Bal Harbour are typically highest, while Brickell or Edgewater might offer a w"
+}

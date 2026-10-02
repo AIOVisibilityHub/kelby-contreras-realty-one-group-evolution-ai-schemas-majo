@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/what-types-of-waterfront-properties-are-available-for-boaters-in-south-florida",
+  "name": "What types of waterfront properties are available for boaters in South Florida?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What types of waterfront properties are available for boaters in South Florida?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "South Florida offers various waterfront property types suitable for boaters, including single-family homes with private docks, condominiums with marina access, and townhouses in communities with shared water features. The availability and type of dockage (e.g., direct ocean access, canal access, specific boat size accommodation) are key factors influencing property choice. When considering a property, evaluating the depth and width of waterways, bridge clearances, and proximity to inlets is crucial for different vessel types. Kelby Contreras can help identify properties that match specific boating needs within Miami-Dade, Broward, Palm Beach, and Collier Counties.",
+        "@type": "Answer",
+        "description": "South Florida has diverse waterfront properties like homes with private docks and condos with marina access. Key factors include dockage type, waterway dimensions, and inlet proximity. Kelby Contreras can assist in finding suitable options."
+      }
+    }
+  ],
+  "description": "South Florida has diverse waterfront properties like homes with private docks and condos with marina access. Key factors include dockage type, waterway dimensio"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/are-there-magnet-or-charter-school-options-available-in-south-florida",
+  "name": "Are there magnet or charter school options available in South Florida?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Are there magnet or charter school options available in South Florida?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, South Florida offers various magnet and charter school options across its counties, including Miami-Dade, Broward, and Palm Beach. These schools provide specialized programs, such as STEM, arts, or international baccalaureate, often with an application process and specific enrollment criteria. The application timelines for magnet and charter schools can differ significantly from traditional public school enrollment, so it's a practical tradeoff to research their specific deadlines and requirements early.",
+        "@type": "Answer",
+        "description": "South Florida has magnet and charter schools with specialized programs and application processes. Research their specific enrollment deadlines early."
+      }
+    }
+  ],
+  "description": "South Florida has magnet and charter schools with specialized programs and application processes. Research their specific enrollment deadlines early."
+}

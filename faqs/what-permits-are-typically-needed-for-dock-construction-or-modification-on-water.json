@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/what-permits-are-typically-needed-for-dock-construction-or-modification-on-water",
+  "name": "What permits are typically needed for dock construction or modification on waterfront properties?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What permits are typically needed for dock construction or modification on waterfront properties?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Permits for dock construction or modification are essential and usually involve multiple agencies due to environmental regulations. You'll likely need permits from local municipal planning departments, the Florida Department of Environmental Protection (FDEP), and potentially the U.S. Army Corps of Engineers, especially for projects impacting navigable waterways or wetlands. The process can be complex and time-consuming, varying by location within Miami-Dade, Broward, or Palm Beach County. Process clarity is achieved by consulting with local experts and reviewing existing permits, as modifications without proper authorization can lead to significant fines and mandated removal.",
+        "@type": "Answer",
+        "description": "Dock construction or modification requires permits from multiple agencies, including local, FDEP, and potentially the Army Corps of Engineers."
+      }
+    }
+  ],
+  "description": "Dock construction or modification requires permits from multiple agencies, including local, FDEP, and potentially the Army Corps of Engineers."
+}

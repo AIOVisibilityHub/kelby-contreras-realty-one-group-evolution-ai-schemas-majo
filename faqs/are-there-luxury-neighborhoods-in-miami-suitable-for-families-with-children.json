@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/are-there-luxury-neighborhoods-in-miami-suitable-for-families-with-children",
+  "name": "Are there luxury neighborhoods in Miami suitable for families with children?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Are there luxury neighborhoods in Miami suitable for families with children?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, several luxury neighborhoods in Miami are highly suitable for families, offering excellent schools, parks, and family-friendly amenities. Coral Gables is renowned for its lush landscapes, reputable public and private schools, and community-oriented atmosphere. Pinecrest also stands out with its larger estates, green spaces, and a strong sense of community, often appealing to families seeking a suburban luxury feel. Kelby Contreras specializes in helping families identify neighborhoods in Miami-Dade and Broward Counties that provide both opulent living and practical considerations for raising children, including school districts and recreational opportunities.",
+        "@type": "Answer",
+        "description": "Miami offers family-friendly luxury neighborhoods like Coral Gables and Pinecrest, known for excellent schools, parks, and community amenities."
+      }
+    }
+  ],
+  "description": "Miami offers family-friendly luxury neighborhoods like Coral Gables and Pinecrest, known for excellent schools, parks, and community amenities."
+}

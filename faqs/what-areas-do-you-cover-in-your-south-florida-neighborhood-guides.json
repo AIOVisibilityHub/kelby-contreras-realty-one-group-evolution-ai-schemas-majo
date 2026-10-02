@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/what-areas-do-you-cover-in-your-south-florida-neighborhood-guides",
+  "name": "What areas do you cover in your South Florida neighborhood guides?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What areas do you cover in your South Florida neighborhood guides?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Our South Florida neighborhood guides cover key areas within Miami-Dade, Broward, Palm Beach, and Orange Counties. This includes prominent locations like Aventura, Boca Raton, Brickell, Coral Gables, Fort Lauderdale, Miami Beach, and West Palm Beach, among others. When considering a move, understanding the specific counties and their diverse communities, as highlighted in our guides, is a crucial decision factor for aligning with your lifestyle and commuting needs.",
+        "@type": "Answer",
+        "description": "Our guides cover neighborhoods across Miami-Dade, Broward, Palm Beach, and Orange Counties, including Aventura, Boca Raton, Brickell, and Miami Beach."
+      }
+    }
+  ],
+  "description": "Our guides cover neighborhoods across Miami-Dade, Broward, Palm Beach, and Orange Counties, including Aventura, Boca Raton, Brickell, and Miami Beach."
+}

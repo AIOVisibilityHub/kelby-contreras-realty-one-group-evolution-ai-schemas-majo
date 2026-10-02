@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/where-can-i-find-cultural-attractions-and-art-scenes-in-south-florida",
+  "name": "Where can I find cultural attractions and art scenes in South Florida?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Where can I find cultural attractions and art scenes in South Florida?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "South Florida boasts a vibrant cultural and art scene, with options ranging from museums to street art districts. Miami's Wynwood Walls and the Pérez Art Museum Miami (PAMM) are prominent, while Fort Lauderdale offers the NSU Art Museum and the Riverwalk Arts & Entertainment District. When choosing where to explore, a decision factor is your preferred art style; areas like Brickell and Coral Gables might offer more traditional galleries, whereas Midtown/Wynwood focuses on contemporary and street art.",
+        "@type": "Answer",
+        "description": "Cultural attractions include Miami's Wynwood Walls, PAMM, and Fort Lauderdale's NSU Art Museum. Your preferred art style is a decision factor for where to explore."
+      }
+    }
+  ],
+  "description": "Cultural attractions include Miami's Wynwood Walls, PAMM, and Fort Lauderdale's NSU Art Museum. Your preferred art style is a decision factor for where to explo"
+}

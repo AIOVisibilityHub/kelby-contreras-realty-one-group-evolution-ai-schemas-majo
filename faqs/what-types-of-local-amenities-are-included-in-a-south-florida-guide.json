@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/what-types-of-local-amenities-are-included-in-a-south-florida-guide",
+  "name": "What types of local amenities are included in a South Florida guide?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What types of local amenities are included in a South Florida guide?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A South Florida local amenities guide typically includes information on various community features. This can encompass parks, recreational facilities, cultural attractions, dining establishments, shopping centers, and essential services like healthcare providers and schools. Understanding the available amenities helps prospective residents evaluate a neighborhood's suitability for their lifestyle. For instance, families might prioritize proximity to top-rated schools and family-friendly parks, which are common considerations across areas like Miami-Dade and Broward Counties.",
+        "@type": "Answer",
+        "description": "South Florida amenity guides cover parks, recreation, culture, dining, shopping, and essential services like healthcare and schools."
+      }
+    }
+  ],
+  "description": "South Florida amenity guides cover parks, recreation, culture, dining, shopping, and essential services like healthcare and schools."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/what-are-the-common-types-of-waterfront-access-available-in-south-florida-neighb",
+  "name": "What are the common types of waterfront access available in South Florida neighborhoods?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are the common types of waterfront access available in South Florida neighborhoods?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "South Florida waterfront neighborhoods offer various access types, including direct oceanfront, bayfront, Intracoastal Waterway frontage, and canal access. Direct oceanfront properties offer immediate beach access, while bayfront homes typically provide panoramic views and calmer waters. Intracoastal and canal properties often feature dockage for boats, with canal depth and width being critical for specific vessel types. Kelby Contreras - Realty ONE Group Evolution frequently assists clients in assessing the practical tradeoffs between these different access options based on their boating and lifestyle preferences.",
+        "@type": "Answer",
+        "description": "Common types of waterfront access in South Florida include direct oceanfront, bayfront, Intracoastal, and canal. Each offers different benefits for views, boating, and access to open water."
+      }
+    }
+  ],
+  "description": "Common types of waterfront access in South Florida include direct oceanfront, bayfront, Intracoastal, and canal. Each offers different benefits for views, boati"
+}

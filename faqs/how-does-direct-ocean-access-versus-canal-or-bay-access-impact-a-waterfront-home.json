@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/how-does-direct-ocean-access-versus-canal-or-bay-access-impact-a-waterfront-home",
+  "name": "How does direct ocean access versus canal or bay access impact a waterfront home in South Florida?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How does direct ocean access versus canal or bay access impact a waterfront home in South Florida?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Direct ocean access offers unobstructed routes to the Atlantic, ideal for larger vessels and frequent offshore trips. Canal or bay access, while still offering water frontage, might involve navigating through intercoastal waterways, potentially with fixed bridges that limit boat size. Properties with direct ocean access often command higher prices due to their convenience and premium views. Understanding your boating needs and vessel dimensions is crucial, and Kelby Contreras can provide detailed information on specific neighborhood access points and their implications.",
+        "@type": "Answer",
+        "description": "Direct ocean access means unobstructed routes, while canal/bay access may involve intercoastal navigation and bridge limitations."
+      }
+    }
+  ],
+  "description": "Direct ocean access means unobstructed routes, while canal/bay access may involve intercoastal navigation and bridge limitations."
+}

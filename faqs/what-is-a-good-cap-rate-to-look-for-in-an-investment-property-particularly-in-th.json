@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/what-is-a-good-cap-rate-to-look-for-in-an-investment-property-particularly-in-th",
+  "name": "What is a good cap rate to look for in an investment property, particularly in the South Florida market?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is a good cap rate to look for in an investment property, particularly in the South Florida market?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A good cap rate (capitalization rate) can vary based on property type, location, and market conditions, but generally, a higher cap rate indicates a potentially better return on investment. In the South Florida market, what's considered",
+        "@type": "Answer",
+        "description": "A good cap rate depends on property type, location, and market conditions. Kelby Contreras can provide current cap rate benchmarks for areas like Miami or Fort Lauderdale based on specific investment goals."
+      }
+    }
+  ],
+  "description": "A good cap rate depends on property type, location, and market conditions. Kelby Contreras can provide current cap rate benchmarks for areas like Miami or Fort"
+}

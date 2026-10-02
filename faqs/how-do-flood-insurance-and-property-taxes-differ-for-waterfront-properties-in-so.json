@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/how-do-flood-insurance-and-property-taxes-differ-for-waterfront-properties-in-so",
+  "name": "How do flood insurance and property taxes differ for waterfront properties in South Florida?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do flood insurance and property taxes differ for waterfront properties in South Florida?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Waterfront properties in South Florida are often located in designated flood zones, necessitating specific flood insurance policies in addition to standard homeowner's insurance. These costs can be substantial and vary based on the property's elevation, flood zone designation, and construction. Property taxes are assessed based on the home's value, and waterfront locations generally command higher valuations. Kelby Contreras can provide information on typical insurance and tax considerations for specific properties and neighborhoods during your search.",
+        "@type": "Answer",
+        "description": "Waterfront homes require specific flood insurance due to flood zones, and property taxes are often higher due to increased property values."
+      }
+    }
+  ],
+  "description": "Waterfront homes require specific flood insurance due to flood zones, and property taxes are often higher due to increased property values."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/how-do-bridge-clearances-and-canal-depths-affect-boat-selection-and-property-cho",
+  "name": "How do bridge clearances and canal depths affect boat selection and property choice in South Florida?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do bridge clearances and canal depths affect boat selection and property choice in South Florida?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Bridge clearances and canal depths are critical considerations for boaters in South Florida. Properties along canals with numerous low bridges may limit the size and type of vessel, especially sailboats or boats with tall superstructures. Shallower canals can restrict larger drafts. This is a practical tradeoff: properties with direct, unrestricted ocean access often command higher prices due to their convenience for larger vessels, while those on canals with bridge restrictions might be more affordable but require a smaller boat. Kelby Contreras can provide insights into local waterway specifics when evaluating potential waterfront homes.",
+        "@type": "Answer",
+        "description": "Bridge clearances and canal depths restrict boat size and type. Unrestricted ocean access properties cost more, while canal properties might be more affordable but limit vessel size. Kelby Contreras can advise on waterway specifics."
+      }
+    }
+  ],
+  "description": "Bridge clearances and canal depths restrict boat size and type. Unrestricted ocean access properties cost more, while canal properties might be more affordable"
+}

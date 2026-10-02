@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/what-impact-does-a-property-s-flood-zone-designation-have-on-buying-a-waterfront",
+  "name": "What impact does a property's flood zone designation have on buying a waterfront home?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What impact does a property's flood zone designation have on buying a waterfront home?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A property's flood zone designation significantly impacts the cost and requirements of flood insurance, which is often mandatory for waterfront homes. Zones are determined by FEMA, and higher-risk zones (e.g., A, V) typically mean higher insurance premiums and stricter building codes for new construction or substantial renovations. Understanding the flood zone is a critical decision factor, as it affects your long-term ownership costs and potentially the financing options available. Kelby Contreras - Realty ONE Group Evolution can provide insights into specific flood zone implications for properties.",
+        "@type": "Answer",
+        "description": "A property's flood zone designation impacts flood insurance costs and building requirements. This is a critical decision factor for long-term ownership expenses."
+      }
+    }
+  ],
+  "description": "A property's flood zone designation impacts flood insurance costs and building requirements. This is a critical decision factor for long-term ownership expenses"
+}

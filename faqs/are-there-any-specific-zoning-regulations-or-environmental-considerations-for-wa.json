@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/are-there-any-specific-zoning-regulations-or-environmental-considerations-for-wa",
+  "name": "Are there any specific zoning regulations or environmental considerations for waterfront properties in South Florida?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Are there any specific zoning regulations or environmental considerations for waterfront properties in South Florida?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, waterfront properties in South Florida often have specific zoning regulations concerning setbacks, dock construction, and seawall maintenance, managed by local municipalities and state agencies. Environmental considerations like mangrove protection or coastal construction control lines can also influence development or alterations. Understanding these regulations is crucial before purchase or renovation. Kelby Contreras works within Miami-Dade, Broward, and Palm Beach Counties, offering insights into local regulations that might affect your desired waterfront property.",
+        "@type": "Answer",
+        "description": "Waterfront properties have specific zoning for docks, seawalls, and environmental protections like mangroves, which impact development."
+      }
+    }
+  ],
+  "description": "Waterfront properties have specific zoning for docks, seawalls, and environmental protections like mangroves, which impact development."
+}

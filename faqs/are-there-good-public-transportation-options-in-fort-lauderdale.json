@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/are-there-good-public-transportation-options-in-fort-lauderdale",
+  "name": "Are there good public transportation options in Fort Lauderdale?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Are there good public transportation options in Fort Lauderdale?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Fort Lauderdale offers various public transportation options, though a personal vehicle is often preferred by residents for convenience. The Broward County Transit (BCT) provides bus services throughout the city and county. Additionally, the Fort Lauderdale Water Taxi offers a scenic way to travel along the New River and Intracoastal Waterway, connecting popular attractions. The Brightline high-speed rail connects Fort Lauderdale to Miami and West Palm Beach, with plans for further expansion. While some areas are walkable or bikeable, understanding your daily commute and lifestyle needs will determine the best transportation mix for you.",
+        "@type": "Answer",
+        "description": "Fort Lauderdale has bus services (BCT), a Water Taxi, and the Brightline rail connecting to other cities. While options exist, a personal vehicle is often preferred for convenience."
+      }
+    }
+  ],
+  "description": "Fort Lauderdale has bus services (BCT), a Water Taxi, and the Brightline rail connecting to other cities. While options exist, a personal vehicle is often prefe"
+}

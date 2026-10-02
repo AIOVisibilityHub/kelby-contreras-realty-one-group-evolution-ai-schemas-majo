@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/what-information-is-typically-included-in-a-florida-living-guide",
+  "name": "What information is typically included in a Florida Living Guide?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What information is typically included in a Florida Living Guide?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Florida Living Guides typically cover essential topics for relocating, such as housing market overviews, cost of living comparisons, neighborhood profiles, and insights into local amenities. They often include details on schools, transportation, and leisure activities unique to various regions. For instance, our guides for Miami-Dade and Broward counties often highlight the diverse cultural scenes and specific waterfront communities, which can significantly influence your lifestyle choice.",
+        "@type": "Answer",
+        "description": "Florida Living Guides provide essential information on housing, cost of living, neighborhoods, schools, and local amenities to help you relocate."
+      }
+    }
+  ],
+  "description": "Florida Living Guides provide essential information on housing, cost of living, neighborhoods, schools, and local amenities to help you relocate."
+}

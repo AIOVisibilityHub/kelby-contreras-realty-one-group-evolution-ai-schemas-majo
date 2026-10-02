@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/do-your-neighborhood-guides-include-information-on-schools-and-family-friendly-a",
+  "name": "Do your neighborhood guides include information on schools and family-friendly amenities?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do your neighborhood guides include information on schools and family-friendly amenities?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, our guides include information on local schools, parks, and other family-friendly amenities. We recognize that these are critical decision factors for many buyers, especially when considering areas like North Beach or Surfside, which tend to have a stronger residential community focus compared to the more tourist-centric South Beach. Our goal is to provide comprehensive details that assist families in evaluating the suitability of each neighborhood for their specific needs.",
+        "@type": "Answer",
+        "description": "Yes, our guides include details on schools, parks, and family amenities, which are important decision factors, particularly in residential areas like North Beach or Surfside."
+      }
+    }
+  ],
+  "description": "Yes, our guides include details on schools, parks, and family amenities, which are important decision factors, particularly in residential areas like North Beac"
+}

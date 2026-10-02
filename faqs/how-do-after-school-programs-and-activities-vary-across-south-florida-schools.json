@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/how-do-after-school-programs-and-activities-vary-across-south-florida-schools",
+  "name": "How do after-school programs and activities vary across South Florida schools?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do after-school programs and activities vary across South Florida schools?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "After-school programs and activities can vary significantly across South Florida schools, depending on the school's resources, community partnerships, and student interest. Public schools may offer district-funded clubs, sports, or academic support, while private schools often have a broader range of specialized activities. When evaluating options, inquire about the types of programs, availability, and any associated costs, as this can be a practical tradeoff to consider alongside academic offerings.",
+        "@type": "Answer",
+        "description": "After-school programs in South Florida schools vary by resources and partnerships. Inquire about program types, availability, and costs when evaluating school options."
+      }
+    }
+  ],
+  "description": "After-school programs in South Florida schools vary by resources and partnerships. Inquire about program types, availability, and costs when evaluating school o"
+}

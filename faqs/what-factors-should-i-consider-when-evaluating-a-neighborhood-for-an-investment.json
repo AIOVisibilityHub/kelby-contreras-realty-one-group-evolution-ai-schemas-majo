@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/what-factors-should-i-consider-when-evaluating-a-neighborhood-for-an-investment",
+  "name": "What factors should I consider when evaluating a neighborhood for an investment property?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What factors should I consider when evaluating a neighborhood for an investment property?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "When evaluating neighborhoods for investment properties, key factors include population growth, job market stability, rental demand, and local amenities such as schools, retail, and transportation infrastructure. Property values and rental rates in the area are also crucial. Kelby Contreras can provide localized insights into these factors across Miami-Dade, Broward, Palm Beach, Collier, and Orange Counties to help you identify promising areas based on current market trends and future development plans.",
+        "@type": "Answer",
+        "description": "Key factors include population growth, job market, rental demand, amenities, and property values. Localized insights for these factors are available from Kelby Contreras."
+      }
+    }
+  ],
+  "description": "Key factors include population growth, job market, rental demand, amenities, and property values. Localized insights for these factors are available from Kelby"
+}

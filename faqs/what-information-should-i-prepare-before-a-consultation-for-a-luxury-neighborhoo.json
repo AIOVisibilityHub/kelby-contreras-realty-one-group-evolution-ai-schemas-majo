@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/what-information-should-i-prepare-before-a-consultation-for-a-luxury-neighborhoo",
+  "name": "What information should I prepare before a consultation for a luxury neighborhood guide?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What information should I prepare before a consultation for a luxury neighborhood guide?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Before a consultation for a luxury neighborhood guide, you should prepare a clear list of your priorities, including preferred architectural styles, desired amenities, and a general budget range. Consider your family's needs, such as school requirements or recreational interests. It's also helpful to have an idea of your preferred geographical areas, even if just broad regions like 'Miami-Dade' or 'Palm Beach County,' to help us tailor the guide effectively. This preparation ensures our discussion is focused and productive in identifying suitable luxury options.",
+        "@type": "Answer",
+        "description": "Before a luxury neighborhood guide consultation, prepare your priorities: architectural style, amenities, budget, family needs, and preferred geographical areas. This ensures a focused discussion."
+      }
+    }
+  ],
+  "description": "Before a luxury neighborhood guide consultation, prepare your priorities: architectural style, amenities, budget, family needs, and preferred geographical areas"
+}

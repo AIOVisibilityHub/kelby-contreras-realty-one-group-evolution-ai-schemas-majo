@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/can-i-finance-a-home-that-includes-a-boat-dock-or-marina-slip",
+  "name": "Can I finance a home that includes a boat dock or marina slip?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I finance a home that includes a boat dock or marina slip?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, financing a home that includes a boat dock or marina slip is generally possible, as these features are typically considered part of the real estate. However, separate marina slips that are not deeded with the property might require separate financing or a cash purchase. The eligibility of these features in a mortgage can be a decision factor based on the lender's policies and property appraisal. Kelby Contreras can connect clients with mortgage professionals experienced in financing waterfront properties in areas like Miami-Dade and Palm Beach County.",
+        "@type": "Answer",
+        "description": "Yes, homes with deeded boat docks or marina slips can usually be financed as part of the property. Separate slips may need different financing. Kelby Contreras can connect you with lenders specializing in waterfront real estate."
+      }
+    }
+  ],
+  "description": "Yes, homes with deeded boat docks or marina slips can usually be financed as part of the property. Separate slips may need different financing. Kelby Contreras"
+}

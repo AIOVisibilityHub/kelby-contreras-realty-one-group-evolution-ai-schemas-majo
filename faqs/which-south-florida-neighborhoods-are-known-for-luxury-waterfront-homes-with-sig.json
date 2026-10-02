@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/which-south-florida-neighborhoods-are-known-for-luxury-waterfront-homes-with-sig",
+  "name": "Which South Florida neighborhoods are known for luxury waterfront homes with significant yacht accommodation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Which South Florida neighborhoods are known for luxury waterfront homes with significant yacht accommodation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Neighborhoods such as Fisher Island, Key Biscayne, Fort Lauderdale Beach, and areas of Boca Raton and Miami Beach are renowned for luxury waterfront estates capable of accommodating large yachts. These areas typically offer deep-water dockage, extensive seawalls, and private marinas. Kelby Contreras specializes in these high-end markets across Miami-Dade, Broward, and Palm Beach Counties, providing tailored guidance on finding properties with specific yachting requirements.",
+        "@type": "Answer",
+        "description": "Fisher Island, Key Biscayne, Fort Lauderdale Beach, and parts of Miami Beach/Boca Raton offer luxury waterfront homes with yacht accommodation."
+      }
+    }
+  ],
+  "description": "Fisher Island, Key Biscayne, Fort Lauderdale Beach, and parts of Miami Beach/Boca Raton offer luxury waterfront homes with yacht accommodation."
+}

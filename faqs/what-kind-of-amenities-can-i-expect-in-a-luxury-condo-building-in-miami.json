@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/what-kind-of-amenities-can-i-expect-in-a-luxury-condo-building-in-miami",
+  "name": "What kind of amenities can I expect in a luxury condo building in Miami?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What kind of amenities can I expect in a luxury condo building in Miami?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Luxury condo buildings in Miami typically offer an extensive array of amenities designed for convenience and an elevated lifestyle. Common features include 24-hour concierge services, valet parking, state-of-the-art fitness centers, private pools, and spa facilities. Many also boast residents' lounges, private dining rooms, business centers, and direct beach or bay access. Some buildings even provide unique offerings like private marinas, dog parks, or dedicated art collections. Before contacting us, documenting your must-have amenities and those you can compromise on will help us streamline property suggestions tailored to your preferences.",
+        "@type": "Answer",
+        "description": "Miami luxury condos feature amenities like concierge, valet, fitness centers, pools, and spas; some offer unique features like private marinas."
+      }
+    }
+  ],
+  "description": "Miami luxury condos feature amenities like concierge, valet, fitness centers, pools, and spas; some offer unique features like private marinas."
+}

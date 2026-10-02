@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/what-are-the-common-costs-associated-with-owning-a-boat-in-south-florida",
+  "name": "What are the common costs associated with owning a boat in South Florida?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are the common costs associated with owning a boat in South Florida?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Owning a boat in South Florida involves several costs, including insurance, maintenance, fuel, dockage fees (if not privately owned), and registration. Maintenance costs can vary significantly based on the boat's size, age, and type, with saltwater environments often requiring more frequent upkeep. A practical tradeoff is balancing the convenience of a larger vessel against higher fuel consumption and maintenance expenses. Kelby Contreras can discuss how proximity to marinas and repair services might factor into property selection and overall boating budget.",
+        "@type": "Answer",
+        "description": "Boat ownership costs include insurance, maintenance, fuel, dockage, and registration. Maintenance is higher in saltwater. Larger boats mean higher costs. Kelby Contreras can help factor these into property choices."
+      }
+    }
+  ],
+  "description": "Boat ownership costs include insurance, maintenance, fuel, dockage, and registration. Maintenance is higher in saltwater. Larger boats mean higher costs. Kelby"
+}

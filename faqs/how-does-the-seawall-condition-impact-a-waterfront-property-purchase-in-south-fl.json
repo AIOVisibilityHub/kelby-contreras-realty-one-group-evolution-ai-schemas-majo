@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/how-does-the-seawall-condition-impact-a-waterfront-property-purchase-in-south-fl",
+  "name": "How does the seawall condition impact a waterfront property purchase in South Florida?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How does the seawall condition impact a waterfront property purchase in South Florida?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The condition of the seawall is a critical factor in a South Florida waterfront property purchase, as it protects the land from erosion and often supports the dock. A compromised or aging seawall can lead to significant repair or replacement costs, potentially ranging from tens of thousands to hundreds of thousands of dollars, depending on its length and necessary materials. It's essential to include a thorough inspection of the seawall by a qualified marine engineer as part of your due diligence. This preparation helps prevent unforeseen expenses and ensures the long-term structural integrity and usability of your waterfront investment.",
+        "@type": "Answer",
+        "description": "Seawall condition is crucial; a damaged seawall can incur significant repair costs, so a marine engineer's inspection is essential before purchase."
+      }
+    }
+  ],
+  "description": "Seawall condition is crucial; a damaged seawall can incur significant repair costs, so a marine engineer's inspection is essential before purchase."
+}

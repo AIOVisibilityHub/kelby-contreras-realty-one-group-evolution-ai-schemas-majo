@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/what-is-the-typical-price-range-for-a-waterfront-home-in-desirable-south-florida",
+  "name": "What is the typical price range for a waterfront home in desirable South Florida areas?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the typical price range for a waterfront home in desirable South Florida areas?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The price range for waterfront homes in desirable South Florida areas varies significantly based on location, property size, water frontage, and amenities. For example, a modest waterfront condo might start from the high hundreds of thousands, while luxury estates can range from several million to tens of millions. Neighborhoods like Coral Gables or Bal Harbour will typically have higher entry points than others. Kelby Contreras can provide current market insights and help buyers understand the investment involved in different communities within Miami-Dade, Broward, and Palm Beach Counties.",
+        "@type": "Answer",
+        "description": "Waterfront home prices in South Florida vary widely, from hundreds of thousands for condos to tens of millions for luxury estates, depending on location and features."
+      }
+    }
+  ],
+  "description": "Waterfront home prices in South Florida vary widely, from hundreds of thousands for condos to tens of millions for luxury estates, depending on location and fea"
+}

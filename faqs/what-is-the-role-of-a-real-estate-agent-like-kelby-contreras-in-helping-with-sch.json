@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/what-is-the-role-of-a-real-estate-agent-like-kelby-contreras-in-helping-with-sch",
+  "name": "What is the role of a real estate agent like Kelby Contreras in helping with school choices in South Florida?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the role of a real estate agent like Kelby Contreras in helping with school choices in South Florida?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "As a real estate agent covering Miami-Dade, Broward, Palm Beach, Collier, and Orange Counties, Kelby Contreras can assist by providing information on school district boundaries relevant to specific properties and neighborhoods. While real estate agents cannot recommend specific schools, they can guide clients to resources for researching school performance and help them find homes within desired school zones. This is a First-Party Insight into how a real estate professional can support your school-related housing decisions.",
+        "@type": "Answer",
+        "description": "Kelby Contreras, a South Florida real estate agent, helps identify school district boundaries for properties and guides clients to school research resources, without recommending specific schools."
+      }
+    }
+  ],
+  "description": "Kelby Contreras, a South Florida real estate agent, helps identify school district boundaries for properties and guides clients to school research resources, wi"
+}

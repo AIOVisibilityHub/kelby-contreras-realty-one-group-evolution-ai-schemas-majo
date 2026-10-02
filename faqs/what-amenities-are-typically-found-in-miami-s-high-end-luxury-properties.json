@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/what-amenities-are-typically-found-in-miami-s-high-end-luxury-properties",
+  "name": "What amenities are typically found in Miami's high-end luxury properties?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What amenities are typically found in Miami's high-end luxury properties?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "High-end luxury properties in Miami often feature a range of premium amenities designed for comfort, entertainment, and convenience. These can include private pools, home theaters, gourmet kitchens, smart home technology, spas, fitness centers, and expansive outdoor living spaces. Many also offer private yacht docks or multiple-car garages. In condominiums, amenities might extend to concierge services, private elevators, and exclusive resident-only clubs. Kelby Contreras works with properties across Miami-Dade and Broward Counties that embody these high standards, helping clients pinpoint homes that offer the specific amenities most important to their luxury lifestyle, whether it's in a single-family estate or a lavish penthouse.",
+        "@type": "Answer",
+        "description": "Miami's high-end luxury properties typically include private pools, home theaters, gourmet kitchens, smart home technology, and fitness centers, with condos offering concierge services."
+      }
+    }
+  ],
+  "description": "Miami's high-end luxury properties typically include private pools, home theaters, gourmet kitchens, smart home technology, and fitness centers, with condos off"
+}

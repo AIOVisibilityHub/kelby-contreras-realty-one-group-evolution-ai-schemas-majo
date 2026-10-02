@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/what-should-i-prepare-before-starting-my-search-for-a-waterfront-home-in-south-f",
+  "name": "What should I prepare before starting my search for a waterfront home in South Florida?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What should I prepare before starting my search for a waterfront home in South Florida?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Before starting your search, it's beneficial to determine your budget, desired property type (single-family, condo, townhouse), specific boating requirements (boat size, need for direct ocean access, fixed bridges), and preferred lifestyle amenities. You should also consider your financing options and get pre-approved for a mortgage if applicable. Gathering this information helps Kelby Contreras narrow down options efficiently and focus on neighborhoods like Aventura, Fort Lauderdale, or Palm Beach that best match your criteria.",
+        "@type": "Answer",
+        "description": "Prepare your budget, desired property type, boating needs, and financing options before starting your waterfront home search."
+      }
+    }
+  ],
+  "description": "Prepare your budget, desired property type, boating needs, and financing options before starting your waterfront home search."
+}

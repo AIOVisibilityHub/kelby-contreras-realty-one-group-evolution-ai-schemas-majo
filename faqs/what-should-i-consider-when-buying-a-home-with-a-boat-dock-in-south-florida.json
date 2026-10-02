@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/what-should-i-consider-when-buying-a-home-with-a-boat-dock-in-south-florida",
+  "name": "What should I consider when buying a home with a boat dock in South Florida?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What should I consider when buying a home with a boat dock in South Florida?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "When purchasing a home with a boat dock, evaluate the dock's condition, size, and whether it accommodates your specific vessel. Consider the water depth at low tide, the presence of boat lifts, and any potential HOA or municipal restrictions on dock usage or boat size. Preparation involves understanding local regulations regarding dock maintenance, environmental protections, and permits for modifications. Kelby Contreras, serving areas like Aventura, Fort Lauderdale, and Miami Beach, can help navigate these details and connect buyers with local experts for dock inspections.",
+        "@type": "Answer",
+        "description": "Assess dock condition, size, water depth, and regulations. Understand local rules on maintenance and permits. Kelby Contreras can assist with these details and connect you to local experts for inspections."
+      }
+    }
+  ],
+  "description": "Assess dock condition, size, water depth, and regulations. Understand local rules on maintenance and permits. Kelby Contreras can assist with these details and"
+}

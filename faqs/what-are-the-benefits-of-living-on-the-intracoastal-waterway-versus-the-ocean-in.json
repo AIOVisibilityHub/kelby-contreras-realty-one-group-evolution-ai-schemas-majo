@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/what-are-the-benefits-of-living-on-the-intracoastal-waterway-versus-the-ocean-in",
+  "name": "What are the benefits of living on the Intracoastal Waterway versus the ocean in South Florida?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are the benefits of living on the Intracoastal Waterway versus the ocean in South Florida?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Living on the Intracoastal Waterway (ICW) typically offers calmer waters, protected dockage, and often wider views of the waterway and cityscapes. Oceanfront living provides direct beach access and immediate ocean views but can be more exposed to weather and require different types of marine infrastructure. A practical tradeoff is balancing the convenience of direct ocean access with the protection and often more private feel of an ICW location, especially for boat owners. Kelby Contreras - Realty ONE Group Evolution can highlight properties best suited for each preference.",
+        "@type": "Answer",
+        "description": "ICW living offers calmer waters and protected dockage, while oceanfront provides direct beach access. It's a practical tradeoff between protection and immediate ocean exposure for boaters."
+      }
+    }
+  ],
+  "description": "ICW living offers calmer waters and protected dockage, while oceanfront provides direct beach access. It's a practical tradeoff between protection and immediate"
+}

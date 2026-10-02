@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/what-amenities-should-i-look-for-in-a-boating-friendly-community-or-condominium",
+  "name": "What amenities should I look for in a boating-friendly community or condominium?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What amenities should I look for in a boating-friendly community or condominium?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "In a boating-friendly community or condominium, look for amenities such as private or community marinas, boat lifts, secure dockage, fueling stations, and easy access to open water. Additional valuable features can include boat storage options, wash-down areas, and even onsite marine services. The decision factor often revolves around whether the community offers the specific services and convenience that align with your boating habits and vessel type. Kelby Contreras can identify communities in areas like Aventura, Key Biscayne, or Fort Lauderdale Beach that cater to various boating lifestyles.",
+        "@type": "Answer",
+        "description": "Boating communities should offer marinas, boat lifts, secure dockage, fueling, and water access. Decision factors include amenities matching your boating habits. Kelby Contreras can help find suitable communities in top boating areas."
+      }
+    }
+  ],
+  "description": "Boating communities should offer marinas, boat lifts, secure dockage, fueling, and water access. Decision factors include amenities matching your boating habits"
+}

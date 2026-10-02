@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/are-there-specific-regulations-for-boat-owners-in-different-south-florida-counti",
+  "name": "Are there specific regulations for boat owners in different South Florida counties?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Are there specific regulations for boat owners in different South Florida counties?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, boating regulations can vary by county and even by municipality in South Florida. For example, idle speed/no wake zones, mooring rules, and environmental protections for marine life might differ between Miami-Dade, Broward, and Palm Beach Counties. Understanding these local nuances is part of responsible boating. A key contextual relevance is how these regulations can affect your boating routes and activities depending on where you reside. Kelby Contreras can help identify resources for researching specific local ordinances relevant to your chosen area.",
+        "@type": "Answer",
+        "description": "Boating regulations vary by county and municipality in South Florida, affecting speed zones and mooring rules. These local differences impact boating activities, and Kelby Contreras can help find resources for specific ordinances."
+      }
+    }
+  ],
+  "description": "Boating regulations vary by county and municipality in South Florida, affecting speed zones and mooring rules. These local differences impact boating activities"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/what-kind-of-information-can-i-expect-about-schools-in-your-south-florida-neighb",
+  "name": "What kind of information can I expect about schools in your South Florida neighborhood guides?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What kind of information can I expect about schools in your South Florida neighborhood guides?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Our South Florida neighborhood guides offer general information regarding the school districts and types of educational institutions available in each community. While we do not provide school ratings, we can inform you about the presence of public, private, and charter schools. Understanding the school landscape is a key preparation step for families, as it helps identify areas that align with their children's educational needs before deeply exploring specific properties.",
+        "@type": "Answer",
+        "description": "Our guides provide general information on school districts and types of schools in each South Florida community, aiding families in their preparation."
+      }
+    }
+  ],
+  "description": "Our guides provide general information on school districts and types of schools in each South Florida community, aiding families in their preparation."
+}

@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/do-florida-living-guides-provide-information-on-schools-and-education",
+  "name": "Do Florida Living Guides provide information on schools and education?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do Florida Living Guides provide information on schools and education?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, Florida Living Guides typically include sections on schools and education, offering insights into public, private, and charter school options within specific districts. While they don't provide individual school ratings, they can help you understand the general educational landscape of an area. This information is crucial for families, allowing them to research specific districts in areas like Coral Gables or Palm Beach County to align with their children's educational needs.",
+        "@type": "Answer",
+        "description": "Guides include information on local school options, helping families research districts in areas like Coral Gables for educational needs."
+      }
+    }
+  ],
+  "description": "Guides include information on local school options, helping families research districts in areas like Coral Gables for educational needs."
+}

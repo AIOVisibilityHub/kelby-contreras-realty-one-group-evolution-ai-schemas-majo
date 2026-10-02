@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/what-kind-of-water-sports-and-boating-activities-are-popular-in-south-florida",
+  "name": "What kind of water sports and boating activities are popular in South Florida?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What kind of water sports and boating activities are popular in South Florida?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "South Florida is a haven for water sports and boating, thanks to its extensive coastline, Intracoastal Waterway, and numerous marinas. Popular activities include jet skiing, paddleboarding, kayaking, deep-sea fishing, and yachting. Many areas, such as Fort Lauderdale, often called the 'Yachting Capital of the World,' offer abundant rental and charter services. A contextual relevance point is that regulations for boating and personal watercraft can vary slightly between counties like Miami-Dade, Broward, and Palm Beach, especially regarding speed limits in certain zones or environmental protections near marine sanctuaries.",
+        "@type": "Answer",
+        "description": "South Florida is popular for water sports like jet skiing, paddleboarding, and boating. Regulations for watercraft can vary between counties like Miami-Dade, Broward, and Palm Beach."
+      }
+    }
+  ],
+  "description": "South Florida is popular for water sports like jet skiing, paddleboarding, and boating. Regulations for watercraft can vary between counties like Miami-Dade, Br"
+}

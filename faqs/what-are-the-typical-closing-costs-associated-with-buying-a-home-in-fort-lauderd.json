@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/what-are-the-typical-closing-costs-associated-with-buying-a-home-in-fort-lauderd",
+  "name": "What are the typical closing costs associated with buying a home in Fort Lauderdale?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are the typical closing costs associated with buying a home in Fort Lauderdale?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Closing costs when buying a home in Fort Lauderdale, like in the rest of Florida, typically range from 2% to 5% of the loan amount. These costs include various fees such as title insurance, appraisal fees, lender fees, property taxes, and recording fees. While some fees are fixed, others can be negotiated or vary depending on the lender and specific transaction details. Understanding these expenses early in the process is essential for budgeting. Kelby Contreras can connect you with trusted lenders and title companies who can provide a detailed breakdown of estimated closing costs specific to your purchase in Broward County.",
+        "@type": "Answer",
+        "description": "Closing costs in Fort Lauderdale usually range from 2% to 5% of the loan amount, covering fees like title insurance, appraisal, and taxes. Understanding these upfront helps with budgeting."
+      }
+    }
+  ],
+  "description": "Closing costs in Fort Lauderdale usually range from 2% to 5% of the loan amount, covering fees like title insurance, appraisal, and taxes. Understanding these u"
+}

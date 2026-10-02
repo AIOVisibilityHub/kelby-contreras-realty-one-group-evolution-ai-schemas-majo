@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/what-is-the-process-for-enrolling-a-child-in-a-south-florida-public-school",
+  "name": "What is the process for enrolling a child in a South Florida public school?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the process for enrolling a child in a South Florida public school?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Enrolling a child in a South Florida public school typically involves providing proof of residency, the child's birth certificate, immunization records, and previous school records. Each school district, such as Miami-Dade or Broward, will have specific forms and requirements. It's advisable to start the enrollment process well in advance of the school year, especially if you are relocating, to ensure all documentation is ready and to allow time for any necessary assessments or registration appointments.",
+        "@type": "Answer",
+        "description": "Enrollment in South Florida public schools requires proof of residency, birth certificate, immunization records, and previous school records. Start the process early."
+      }
+    }
+  ],
+  "description": "Enrollment in South Florida public schools requires proof of residency, birth certificate, immunization records, and previous school records. Start the process"
+}

@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/do-your-neighborhood-guides-include-information-on-local-real-estate-market-cond",
+  "name": "Do your neighborhood guides include information on local real estate market conditions?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do your neighborhood guides include information on local real estate market conditions?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, our neighborhood guides incorporate current insights into the real estate market conditions for each specific area. This includes general trends in property values, average home prices, and types of properties commonly available. We offer a first-party insight into how different markets, such as the luxury segment in Fisher Island versus the growing family market in Doral, might impact your buying or selling strategy within the broader South Florida region.",
+        "@type": "Answer",
+        "description": "Our guides include current real estate market insights, like property values and home prices, for each South Florida area to inform your strategy."
+      }
+    }
+  ],
+  "description": "Our guides include current real estate market insights, like property values and home prices, for each South Florida area to inform your strategy."
+}

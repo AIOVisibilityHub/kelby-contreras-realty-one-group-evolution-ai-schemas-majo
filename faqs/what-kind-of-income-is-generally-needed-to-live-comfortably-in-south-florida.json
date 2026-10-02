@@ -1,0 +1,27 @@
+{
+  "url": "sellingrealestateflorida.com/faq/what-kind-of-income-is-generally-needed-to-live-comfortably-in-south-florida",
+  "name": "What kind of income is generally needed to live comfortably in South Florida?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What kind of income is generally needed to live comfortably in South Florida?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The income needed to live comfortably in South Florida largely depends on your desired lifestyle and where you choose to reside. For a single individual, a gross annual income of $60,000 to $80,000 might allow for comfortable living in many areas, while a family might require significantly more, often upwards of $100,000+. These figures are estimates, and your personal spending habits, debt levels, and housing preferences (e.g., apartment vs. house, urban vs. suburban) will ultimately define your specific income needs.",
+        "@type": "Answer",
+        "description": "The income needed for comfortable living in South Florida varies significantly by lifestyle and location, but estimates range from $60,000-$80,000 for individuals to over $100,000 for families."
+      }
+    }
+  ],
+  "description": "The income needed for comfortable living in South Florida varies significantly by lifestyle and location, but estimates range from $60,000-$80,000 for individua"
+}
