@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "generatedAt": "2026-10-05T18:42:23.433Z",
+  "generatedAt": "2026-10-05T18:43:05.613Z",
   "client": {
     "name": "Kelby Contreras - Realty ONE Group Evolution",
     "canonicalUrl": "https://kelbycontreras.aiovisibility.net",
@@ -470,7 +470,7 @@
   },
   "package": {
     "totalFiles": 4329,
-    "totalBytes": 15927101,
+    "totalBytes": 15884620,
     "stats": {
       "faqs": 3555,
       "helpArticles": 334,
@@ -22055,37 +22055,37 @@
     "public": [
       {
         "path": "index.html",
-        "bytes": 25485,
+        "bytes": 19258,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "about.html",
-        "bytes": 323762,
+        "bytes": 317683,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "services.html",
-        "bytes": 314870,
+        "bytes": 308552,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "contact.html",
-        "bytes": 25643,
+        "bytes": 19675,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "faqs.html",
-        "bytes": 2551264,
+        "bytes": 2545282,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "articles.html",
-        "bytes": 22267,
+        "bytes": 16290,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "team-members.html",
-        "bytes": 200832,
+        "bytes": 194902,
         "purpose": "LLM-optimized public page"
       }
     ],
