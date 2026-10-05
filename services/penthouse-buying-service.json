@@ -1,168 +1,168 @@
 {
-  "@context": "https://schema.org",
-  "@type": "RealEstateAgent",
-  "name": "Penthouse Buying",
-  "serviceType": "Penthouse Buying",
-  "provider": {
-    "@type": "RealEstateAgent",
-    "name": "Kelby Contreras - Realty ONE Group Evolution",
-    "url": "sellingrealestateflorida.com",
-    "telephone": "1-646-404-8166"
-  },
   "url": "sellingrealestateflorida.com",
-  "telephone": "1-646-404-8166",
+  "name": "Penthouse Buying",
+  "@type": "RealEstateAgent",
   "address": {
     "@type": "PostalAddress",
     "addressLocality": "Miami-Dade County"
   },
+  "@context": "https://schema.org",
+  "provider": {
+    "url": "sellingrealestateflorida.com",
+    "name": "Kelby Contreras - Realty ONE Group Evolution",
+    "@type": "RealEstateAgent",
+    "telephone": "1-646-404-8166"
+  },
+  "telephone": "1-646-404-8166",
   "areaServed": [
     {
-      "@type": "AdministrativeArea",
-      "name": "Miami-Dade County"
+      "name": "Miami-Dade County",
+      "@type": "AdministrativeArea"
     },
     {
-      "@type": "AdministrativeArea",
-      "name": "Broward County"
+      "name": "Broward County",
+      "@type": "AdministrativeArea"
     },
     {
-      "@type": "AdministrativeArea",
-      "name": "Palm Beach County"
+      "name": "Palm Beach County",
+      "@type": "AdministrativeArea"
     },
     {
-      "@type": "AdministrativeArea",
-      "name": "Collier County"
+      "name": "Collier County",
+      "@type": "AdministrativeArea"
     },
     {
-      "@type": "AdministrativeArea",
-      "name": "Orange County"
+      "name": "Orange County",
+      "@type": "AdministrativeArea"
     },
     {
-      "@type": "City",
-      "name": "Aventura"
+      "name": "Aventura",
+      "@type": "City"
     },
     {
-      "@type": "City",
-      "name": "Bal Harbour"
+      "name": "Bal Harbour",
+      "@type": "City"
     },
     {
-      "@type": "City",
-      "name": "Bay Harbor Islands"
+      "name": "Bay Harbor Islands",
+      "@type": "City"
     },
     {
-      "@type": "City",
-      "name": "Boca Raton"
+      "name": "Boca Raton",
+      "@type": "City"
     },
     {
-      "@type": "City",
-      "name": "Brickell"
+      "name": "Brickell",
+      "@type": "City"
     },
     {
-      "@type": "City",
-      "name": "Brickell Key"
+      "name": "Brickell Key",
+      "@type": "City"
     },
     {
-      "@type": "City",
-      "name": "Coconut Grove"
+      "name": "Coconut Grove",
+      "@type": "City"
     },
     {
-      "@type": "City",
-      "name": "Coral Gables"
+      "name": "Coral Gables",
+      "@type": "City"
     },
     {
-      "@type": "City",
-      "name": "Downtown Miami"
+      "name": "Downtown Miami",
+      "@type": "City"
     },
     {
-      "@type": "City",
-      "name": "Edgewater"
+      "name": "Edgewater",
+      "@type": "City"
     },
     {
-      "@type": "City",
-      "name": "Fisher Island"
+      "name": "Fisher Island",
+      "@type": "City"
     },
     {
-      "@type": "City",
-      "name": "Fort Lauderdale Beach"
+      "name": "Fort Lauderdale Beach",
+      "@type": "City"
     },
     {
-      "@type": "City",
-      "name": "Hallandale Beach"
+      "name": "Hallandale Beach",
+      "@type": "City"
     },
     {
-      "@type": "City",
-      "name": "Highland Beach"
+      "name": "Highland Beach",
+      "@type": "City"
     },
     {
-      "@type": "City",
-      "name": "Hollywood Beach"
+      "name": "Hollywood Beach",
+      "@type": "City"
     },
     {
-      "@type": "City",
-      "name": "Key Biscayne"
+      "name": "Key Biscayne",
+      "@type": "City"
     },
     {
-      "@type": "City",
-      "name": "Las Olas"
+      "name": "Las Olas",
+      "@type": "City"
     },
     {
-      "@type": "City",
-      "name": "Miami Beach"
+      "name": "Miami Beach",
+      "@type": "City"
     },
     {
-      "@type": "City",
-      "name": "Midtown/Wynwood"
+      "name": "Midtown/Wynwood",
+      "@type": "City"
     },
     {
-      "@type": "City",
-      "name": "North Bay Village"
+      "name": "North Bay Village",
+      "@type": "City"
     },
     {
-      "@type": "City",
-      "name": "Pinecrest"
+      "name": "Pinecrest",
+      "@type": "City"
     },
     {
-      "@type": "City",
-      "name": "Pompano Beach"
+      "name": "Pompano Beach",
+      "@type": "City"
     },
     {
-      "@type": "City",
-      "name": "South Beach"
+      "name": "South Beach",
+      "@type": "City"
     },
     {
-      "@type": "City",
-      "name": "Sunny Isles Beach"
+      "name": "Sunny Isles Beach",
+      "@type": "City"
     },
     {
-      "@type": "City",
-      "name": "Surfside"
+      "name": "Surfside",
+      "@type": "City"
     },
     {
-      "@type": "City",
-      "name": "West Palm Beach"
+      "name": "West Palm Beach",
+      "@type": "City"
     },
     {
-      "@type": "City",
-      "name": "Williams Island"
+      "name": "Williams Island",
+      "@type": "City"
     },
     {
-      "@type": "City",
-      "name": "Miami"
+      "name": "Miami",
+      "@type": "City"
     },
     {
-      "@type": "City",
-      "name": "Fort Lauderdale"
+      "name": "Fort Lauderdale",
+      "@type": "City"
     },
     {
-      "@type": "City",
-      "name": "Palm Beach"
+      "name": "Palm Beach",
+      "@type": "City"
     },
     {
-      "@type": "City",
-      "name": "Delray Beach"
+      "name": "Delray Beach",
+      "@type": "City"
     },
     {
-      "@type": "City",
-      "name": "Doral"
+      "name": "Doral",
+      "@type": "City"
     }
-  ]
+  ],
+  "serviceType": "Penthouse Buying"
 }
