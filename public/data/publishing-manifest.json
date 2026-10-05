@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "generatedAt": "2026-10-05T18:43:05.613Z",
+  "generatedAt": "2026-10-05T18:49:30.019Z",
   "client": {
     "name": "Kelby Contreras - Realty ONE Group Evolution",
     "canonicalUrl": "https://kelbycontreras.aiovisibility.net",
@@ -228,8 +228,6 @@
       "Selling an Airbnb Property",
       "Landlord Exit Strategy",
       "Rental Property Exit Strategy",
-      "Luxury Home Buying",
-      "Luxury Condo Buying",
       "Waterfront Home Buying",
       "Waterfront Condo Buying",
       "Oceanfront Condo Buying",
@@ -469,24 +467,24 @@
     ]
   },
   "package": {
-    "totalFiles": 4329,
-    "totalBytes": 15884620,
+    "totalFiles": 4335,
+    "totalBytes": 17001471,
     "stats": {
+      "qna": 0,
       "faqs": 3555,
-      "helpArticles": 334,
+      "press": 0,
+      "total": 4307,
+      "awards": 0,
+      "reviews": 0,
+      "products": 0,
+      "research": 0,
       "services": 374,
       "webpages": 0,
-      "personnel": 38,
-      "products": 0,
       "locations": 5,
-      "awards": 0,
+      "personnel": 38,
       "caseStudies": 0,
-      "organization": 1,
-      "press": 0,
-      "reviews": 0,
-      "qna": 0,
-      "research": 0,
-      "total": 4307
+      "helpArticles": 334,
+      "organization": 1
     }
   },
   "entrypoints": {
@@ -4267,11 +4265,6 @@
       {
         "path": "help/how-to-get-a-realistic-penthouse-valuation-in-boca-raton.json",
         "bytes": 6172,
-        "purpose": "schema"
-      },
-      {
-        "path": "help/publishing-plan.json",
-        "bytes": 285851,
         "purpose": "schema"
       }
     ],
@@ -22055,37 +22048,72 @@
     "public": [
       {
         "path": "index.html",
-        "bytes": 19258,
+        "bytes": 25485,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "about.html",
-        "bytes": 317683,
+        "bytes": 323762,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "services.html",
-        "bytes": 308552,
+        "bytes": 329849,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "contact.html",
-        "bytes": 19675,
+        "bytes": 25643,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "faqs.html",
-        "bytes": 2545282,
+        "bytes": 2551264,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "articles.html",
-        "bytes": 16290,
+        "bytes": 25474,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "team-members.html",
-        "bytes": 194902,
+        "bytes": 200832,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "articles/getting-started.html",
+        "bytes": 192117,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "articles/services-and-process.html",
+        "bytes": 152200,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "articles/planning-and-preparation.html",
+        "bytes": 421103,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "articles/pricing-and-estimates.html",
+        "bytes": 345704,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "articles/local-service-guidance.html",
+        "bytes": 154889,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "articles/care-and-maintenance.html",
+        "bytes": 54069,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "articles/unassigned.html",
+        "bytes": 16832,
         "purpose": "LLM-optimized public page"
       }
     ],
@@ -22097,7 +22125,7 @@
       },
       {
         "path": "llms.txt",
-        "bytes": 13233,
+        "bytes": 13190,
         "purpose": "LLM hint"
       },
       {
@@ -22122,37 +22150,37 @@
       },
       {
         "path": "ai-data.html",
-        "bytes": 2060945,
+        "bytes": 2062931,
         "purpose": "Master AI data index"
       },
       {
         "path": "llms-full.txt",
-        "bytes": 570451,
+        "bytes": 571077,
         "purpose": "Extended LLM context"
       },
       {
         "path": "llms-full.md",
-        "bytes": 570451,
+        "bytes": 571077,
         "purpose": "Extended LLM context (markdown)"
       },
       {
         "path": "full-context.md",
-        "bytes": 13193,
+        "bytes": 13150,
         "purpose": "Full markdown context"
       },
       {
         "path": "README.md",
-        "bytes": 735159,
+        "bytes": 735835,
         "purpose": "Repository README"
       },
       {
         "path": "ai-sitemap.xml",
-        "bytes": 604945,
+        "bytes": 605546,
         "purpose": "AI sitemap"
       },
       {
         "path": "sitemap.xml",
-        "bytes": 899,
+        "bytes": 1591,
         "purpose": "Standard sitemap"
       }
     ]
