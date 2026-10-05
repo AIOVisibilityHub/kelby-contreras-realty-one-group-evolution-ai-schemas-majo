@@ -7,10 +7,10 @@ Kelby Contreras - Realty ONE Group Evolution maintains a canonical AI Data Packa
 
 Package contents:
 - 3555 faqs
-- 334 helpArticles
 - 374 services
-- 38 personnel
 - 5 locations
+- 38 personnel
+- 334 helpArticles
 - 1 organization
 
 ## Cross-Destination Index — Related AI Data Sources
@@ -178,8 +178,6 @@ Services offered:
 - Selling an Airbnb Property
 - Landlord Exit Strategy
 - Rental Property Exit Strategy
-- Luxury Home Buying
-- Luxury Condo Buying
 - Waterfront Home Buying
 - Waterfront Condo Buying
 - Oceanfront Condo Buying
@@ -4412,7 +4410,7 @@ All structured data is published as JSON-LD following Schema.org, indexed via pu
 - https://kelbycontreras.aiovisibility.net/faqs/will-selling-my-home-to-avoid-foreclosure-still-affect-my-credit-score.json — schema
 - https://kelbycontreras.aiovisibility.net/faqs/will-selling-without-repairs-affect-my-home-s-value.json — schema
 
-### Help Articles (335)
+### Help Articles (334)
 - https://kelbycontreras.aiovisibility.net/help/are-3d-tours-worth-the-investment-for-high-end-properties.json — schema
 - https://kelbycontreras.aiovisibility.net/help/are-you-making-these-mistakes-with-your-vip-buyer-list.json — schema
 - https://kelbycontreras.aiovisibility.net/help/are-you-overlooking-key-details-in-your-luxury-home-purchase.json — schema
@@ -4603,7 +4601,6 @@ All structured data is published as JSON-LD following Schema.org, indexed via pu
 - https://kelbycontreras.aiovisibility.net/help/preparing-your-south-florida-luxury-listing-a-checklist-for-sellers.json — schema
 - https://kelbycontreras.aiovisibility.net/help/pricing-right-how-to-value-your-luxury-condo-for-sale.json — schema
 - https://kelbycontreras.aiovisibility.net/help/pricing-your-unique-luxury-home-when-professional-guidance-helps.json — schema
-- https://kelbycontreras.aiovisibility.net/help/publishing-plan.json — schema
 - https://kelbycontreras.aiovisibility.net/help/questions-to-ask-before-buying-a-luxury-property.json — schema
 - https://kelbycontreras.aiovisibility.net/help/ready-to-buy-your-checklist-for-purchasing-a-luxury-condo.json — schema
 - https://kelbycontreras.aiovisibility.net/help/selling-a-luxury-condo-how-to-avoid-common-mistakes.json — schema
@@ -4749,9 +4746,16 @@ All structured data is published as JSON-LD following Schema.org, indexed via pu
 - https://kelbycontreras.aiovisibility.net/help/why-your-waterfront-home-valuation-in-miami-might-be-misleading.json — schema
 - https://kelbycontreras.aiovisibility.net/help/your-step-by-step-guide-to-a-smooth-luxury-home-sale-closing-in-palm-beach-count.json — schema
 
-### Public Pages (7)
+### Public Pages (14)
 - https://kelbycontreras.aiovisibility.net/about.html — LLM-optimized public page
 - https://kelbycontreras.aiovisibility.net/articles.html — LLM-optimized public page
+- https://kelbycontreras.aiovisibility.net/articles/care-and-maintenance.html — LLM-optimized public page
+- https://kelbycontreras.aiovisibility.net/articles/getting-started.html — LLM-optimized public page
+- https://kelbycontreras.aiovisibility.net/articles/local-service-guidance.html — LLM-optimized public page
+- https://kelbycontreras.aiovisibility.net/articles/planning-and-preparation.html — LLM-optimized public page
+- https://kelbycontreras.aiovisibility.net/articles/pricing-and-estimates.html — LLM-optimized public page
+- https://kelbycontreras.aiovisibility.net/articles/services-and-process.html — LLM-optimized public page
+- https://kelbycontreras.aiovisibility.net/articles/unassigned.html — LLM-optimized public page
 - https://kelbycontreras.aiovisibility.net/contact.html — LLM-optimized public page
 - https://kelbycontreras.aiovisibility.net/faqs.html — LLM-optimized public page
 - https://kelbycontreras.aiovisibility.net/index.html — LLM-optimized public page

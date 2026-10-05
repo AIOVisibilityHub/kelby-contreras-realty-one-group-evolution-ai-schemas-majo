@@ -8,10 +8,10 @@ Kelby Contreras - Realty ONE Group Evolution publishes a structured AI Data Pack
 
 ## Package Contents
 - **3555** faqs
-- **334** helpArticles
 - **374** services
-- **38** personnel
 - **5** locations
+- **38** personnel
+- **334** helpArticles
 - **1** organization
 
 ## Cross-Destination Index — Related AI Data Sources
@@ -179,8 +179,6 @@ Purpose: transparent source discovery, entity consistency, mirror verification, 
 - Selling an Airbnb Property
 - Landlord Exit Strategy
 - Rental Property Exit Strategy
-- Luxury Home Buying
-- Luxury Condo Buying
 - Waterfront Home Buying
 - Waterfront Condo Buying
 - Oceanfront Condo Buying

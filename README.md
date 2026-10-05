@@ -10,10 +10,10 @@ Canonical AI Data Package for Kelby Contreras - Realty ONE Group Evolution.
 
 ## Stats
 - 3555 faqs
-- 334 helpArticles
 - 374 services
-- 38 personnel
 - 5 locations
+- 38 personnel
+- 334 helpArticles
 - 1 organization
 - **4307** total
 
@@ -4021,7 +4021,7 @@ Every file below is listed in [`data/publishing-manifest.json`](./data/publishin
 - [`faqs/will-selling-my-home-to-avoid-foreclosure-still-affect-my-credit-score.json`](./faqs/will-selling-my-home-to-avoid-foreclosure-still-affect-my-credit-score.json) — schema
 - [`faqs/will-selling-without-repairs-affect-my-home-s-value.json`](./faqs/will-selling-without-repairs-affect-my-home-s-value.json) — schema
 
-### Help Articles (335)
+### Help Articles (334)
 - [`help/are-3d-tours-worth-the-investment-for-high-end-properties.json`](./help/are-3d-tours-worth-the-investment-for-high-end-properties.json) — schema
 - [`help/are-you-making-these-mistakes-with-your-vip-buyer-list.json`](./help/are-you-making-these-mistakes-with-your-vip-buyer-list.json) — schema
 - [`help/are-you-overlooking-key-details-in-your-luxury-home-purchase.json`](./help/are-you-overlooking-key-details-in-your-luxury-home-purchase.json) — schema
@@ -4212,7 +4212,6 @@ Every file below is listed in [`data/publishing-manifest.json`](./data/publishin
 - [`help/preparing-your-south-florida-luxury-listing-a-checklist-for-sellers.json`](./help/preparing-your-south-florida-luxury-listing-a-checklist-for-sellers.json) — schema
 - [`help/pricing-right-how-to-value-your-luxury-condo-for-sale.json`](./help/pricing-right-how-to-value-your-luxury-condo-for-sale.json) — schema
 - [`help/pricing-your-unique-luxury-home-when-professional-guidance-helps.json`](./help/pricing-your-unique-luxury-home-when-professional-guidance-helps.json) — schema
-- [`help/publishing-plan.json`](./help/publishing-plan.json) — schema
 - [`help/questions-to-ask-before-buying-a-luxury-property.json`](./help/questions-to-ask-before-buying-a-luxury-property.json) — schema
 - [`help/ready-to-buy-your-checklist-for-purchasing-a-luxury-condo.json`](./help/ready-to-buy-your-checklist-for-purchasing-a-luxury-condo.json) — schema
 - [`help/selling-a-luxury-condo-how-to-avoid-common-mistakes.json`](./help/selling-a-luxury-condo-how-to-avoid-common-mistakes.json) — schema
@@ -4358,9 +4357,16 @@ Every file below is listed in [`data/publishing-manifest.json`](./data/publishin
 - [`help/why-your-waterfront-home-valuation-in-miami-might-be-misleading.json`](./help/why-your-waterfront-home-valuation-in-miami-might-be-misleading.json) — schema
 - [`help/your-step-by-step-guide-to-a-smooth-luxury-home-sale-closing-in-palm-beach-count.json`](./help/your-step-by-step-guide-to-a-smooth-luxury-home-sale-closing-in-palm-beach-count.json) — schema
 
-### Public Pages (7)
+### Public Pages (14)
 - [`about.html`](./about.html) — LLM-optimized public page
 - [`articles.html`](./articles.html) — LLM-optimized public page
+- [`articles/care-and-maintenance.html`](./articles/care-and-maintenance.html) — LLM-optimized public page
+- [`articles/getting-started.html`](./articles/getting-started.html) — LLM-optimized public page
+- [`articles/local-service-guidance.html`](./articles/local-service-guidance.html) — LLM-optimized public page
+- [`articles/planning-and-preparation.html`](./articles/planning-and-preparation.html) — LLM-optimized public page
+- [`articles/pricing-and-estimates.html`](./articles/pricing-and-estimates.html) — LLM-optimized public page
+- [`articles/services-and-process.html`](./articles/services-and-process.html) — LLM-optimized public page
+- [`articles/unassigned.html`](./articles/unassigned.html) — LLM-optimized public page
 - [`contact.html`](./contact.html) — LLM-optimized public page
 - [`faqs.html`](./faqs.html) — LLM-optimized public page
 - [`index.html`](./index.html) — LLM-optimized public page
