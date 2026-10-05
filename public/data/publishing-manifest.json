@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "generatedAt": "2026-10-02T23:07:12.653Z",
+  "generatedAt": "2026-10-05T18:42:23.433Z",
   "client": {
     "name": "Kelby Contreras - Realty ONE Group Evolution",
     "canonicalUrl": "https://kelbycontreras.aiovisibility.net",
@@ -469,24 +469,24 @@
     ]
   },
   "package": {
-    "totalFiles": 3999,
-    "totalBytes": 15952422,
+    "totalFiles": 4329,
+    "totalBytes": 15927101,
     "stats": {
-      "qna": 0,
-      "faqs": 3610,
-      "press": 0,
-      "total": 4026,
-      "awards": 0,
-      "reviews": 0,
-      "products": 0,
-      "research": 0,
-      "services": 38,
-      "webpages": 0,
-      "locations": 5,
-      "personnel": 38,
-      "caseStudies": 0,
+      "faqs": 3555,
       "helpArticles": 334,
-      "organization": 1
+      "services": 374,
+      "webpages": 0,
+      "personnel": 38,
+      "products": 0,
+      "locations": 5,
+      "awards": 0,
+      "caseStudies": 0,
+      "organization": 1,
+      "press": 0,
+      "reviews": 0,
+      "qna": 0,
+      "research": 0,
+      "total": 4307
     }
   },
   "entrypoints": {
@@ -689,6 +689,1686 @@
       {
         "path": "services/daily-market-notes-service.json",
         "bytes": 1972,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/luxury-real-estate-buying-service.json",
+        "bytes": 1986,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/luxury-real-estate-selling-service.json",
+        "bytes": 1988,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/luxury-home-buying-service.json",
+        "bytes": 1972,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/luxury-home-selling-service.json",
+        "bytes": 1974,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/luxury-condo-buying-service.json",
+        "bytes": 1974,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/luxury-condo-selling-service.json",
+        "bytes": 1976,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/luxury-property-buying-service.json",
+        "bytes": 1980,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/luxury-property-selling-service.json",
+        "bytes": 1982,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/luxury-property-sales-representation-service.json",
+        "bytes": 2008,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/luxury-buyer-representation-service.json",
+        "bytes": 1990,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/luxury-seller-representation-service.json",
+        "bytes": 1992,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/luxury-seller-consultation-service.json",
+        "bytes": 1988,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/luxury-home-search-service.json",
+        "bytes": 1972,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/luxury-condo-search-service.json",
+        "bytes": 1974,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/luxury-property-search-service.json",
+        "bytes": 1980,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/first-time-luxury-home-buyer-assistance-service.json",
+        "bytes": 2014,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/buyer-agent-services-service.json",
+        "bytes": 1976,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/listing-agent-services-service.json",
+        "bytes": 1980,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/luxury-listing-agent-services-service.json",
+        "bytes": 1994,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/luxury-home-listing-services-service.json",
+        "bytes": 1992,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/luxury-condo-listing-services-service.json",
+        "bytes": 1994,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/luxury-property-listing-services-service.json",
+        "bytes": 2000,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/luxury-property-marketing-service.json",
+        "bytes": 1986,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/luxury-home-marketing-service.json",
+        "bytes": 1978,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/luxury-condo-marketing-service.json",
+        "bytes": 1980,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/luxury-real-estate-photography-service.json",
+        "bytes": 1996,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/luxury-real-estate-video-marketing-service.json",
+        "bytes": 2004,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/luxury-real-estate-drone-photography-service.json",
+        "bytes": 2008,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/luxury-real-estate-virtual-tours-service.json",
+        "bytes": 2000,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/luxury-real-estate-3d-tours-service.json",
+        "bytes": 1990,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/luxury-real-estate-floor-plans-service.json",
+        "bytes": 1996,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/luxury-home-staging-consultation-service.json",
+        "bytes": 2000,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/luxury-property-advertising-service.json",
+        "bytes": 1990,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/luxury-real-estate-social-media-advertising-service.json",
+        "bytes": 2022,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/luxury-real-estate-google-ads-service.json",
+        "bytes": 1994,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/luxury-real-estate-international-marketing-service.json",
+        "bytes": 2020,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/international-buyer-network-marketing-service.json",
+        "bytes": 2010,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/pre-market-luxury-property-marketing-service.json",
+        "bytes": 2008,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/vip-buyer-list-marketing-service.json",
+        "bytes": 1984,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/luxury-property-buyer-screening-service.json",
+        "bytes": 1998,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/luxury-property-showing-strategy-service.json",
+        "bytes": 2000,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/luxury-property-offer-strategy-service.json",
+        "bytes": 1996,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/luxury-property-negotiation-service.json",
+        "bytes": 1990,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/luxury-real-estate-negotiation-service.json",
+        "bytes": 1996,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/multiple-offer-strategy-service.json",
+        "bytes": 1982,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/luxury-home-sale-closing-coordination-service.json",
+        "bytes": 2010,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/luxury-condo-sale-closing-coordination-service.json",
+        "bytes": 2012,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/luxury-property-transaction-coordination-service.json",
+        "bytes": 2016,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/real-estate-closing-coordination-service.json",
+        "bytes": 2000,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/luxury-property-valuation-service.json",
+        "bytes": 1986,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/luxury-home-valuation-service.json",
+        "bytes": 1978,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/luxury-condo-valuation-service.json",
+        "bytes": 1980,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/waterfront-home-valuation-service.json",
+        "bytes": 1986,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/oceanfront-condo-valuation-service.json",
+        "bytes": 1988,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/penthouse-valuation-service.json",
+        "bytes": 1974,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/miami-home-value-estimate-service.json",
+        "bytes": 1986,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/miami-dade-property-valuation-service.json",
+        "bytes": 1994,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/comparative-market-analysis-service.json",
+        "bytes": 1990,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/luxury-home-comparative-market-analysis-service.json",
+        "bytes": 2014,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/luxury-condo-comparative-market-analysis-service.json",
+        "bytes": 2016,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/waterfront-property-comparative-market-analysis-service.json",
+        "bytes": 2030,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/strategic-listing-price-service.json",
+        "bytes": 1982,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/luxury-listing-price-strategy-service.json",
+        "bytes": 1994,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/how-to-price-a-luxury-home-service.json",
+        "bytes": 1988,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/how-to-price-a-luxury-condo-service.json",
+        "bytes": 1990,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/how-to-sell-a-luxury-home-service.json",
+        "bytes": 1986,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/how-to-sell-a-luxury-condo-service.json",
+        "bytes": 1988,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/how-to-sell-a-waterfront-home-service.json",
+        "bytes": 1994,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/how-to-sell-an-oceanfront-condo-service.json",
+        "bytes": 1998,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/how-to-sell-a-penthouse-service.json",
+        "bytes": 1982,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/how-to-sell-a-home-for-top-dollar-service.json",
+        "bytes": 2002,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/how-to-sell-a-house-fast-service.json",
+        "bytes": 1984,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/how-to-sell-a-condo-fast-service.json",
+        "bytes": 1984,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/how-to-sell-a-house-as-is-service.json",
+        "bytes": 1986,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/how-to-sell-a-home-without-repairs-service.json",
+        "bytes": 2004,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/cash-offer-for-a-home-service.json",
+        "bytes": 1978,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/cash-offer-for-a-luxury-home-service.json",
+        "bytes": 1992,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/cash-offer-for-a-condo-service.json",
+        "bytes": 1980,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/cash-offer-for-an-inherited-home-service.json",
+        "bytes": 2000,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/cash-offer-for-a-vacant-home-service.json",
+        "bytes": 1992,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/cash-offer-for-a-rental-property-service.json",
+        "bytes": 2000,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/cash-offer-for-a-vacation-rental-service.json",
+        "bytes": 2000,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/cash-offer-for-an-investment-property-service.json",
+        "bytes": 2010,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/sell-a-home-for-cash-service.json",
+        "bytes": 1976,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/sell-a-luxury-home-for-cash-service.json",
+        "bytes": 1990,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/sell-a-condo-for-cash-service.json",
+        "bytes": 1978,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/sell-a-house-as-is-for-cash-service.json",
+        "bytes": 1990,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/cash-home-buyer-consultation-service.json",
+        "bytes": 1992,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/cash-home-sale-timeline-service.json",
+        "bytes": 1982,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/cash-offer-vs-listing-with-an-agent-service.json",
+        "bytes": 2006,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/sell-and-stay-program-service.json",
+        "bytes": 1978,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/sell-your-home-and-rent-it-back-service.json",
+        "bytes": 1998,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/sell-a-home-and-stay-in-the-same-house-service.json",
+        "bytes": 2012,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/home-sale-leaseback-service.json",
+        "bytes": 1974,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/cash-sale-and-rent-back-service.json",
+        "bytes": 1982,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/buy-before-you-sell-your-home-service.json",
+        "bytes": 1994,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/move-up-buyer-program-service.json",
+        "bytes": 1978,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/sell-current-home-before-buying-another-service.json",
+        "bytes": 2014,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/buy-a-new-home-before-selling-current-home-service.json",
+        "bytes": 2020,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/fix-and-list-services-service.json",
+        "bytes": 1978,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/pre-listing-home-repairs-service.json",
+        "bytes": 1984,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/pre-listing-home-improvements-service.json",
+        "bytes": 1994,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/home-renovations-before-selling-service.json",
+        "bytes": 1998,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/should-i-repair-my-home-before-selling-service.json",
+        "bytes": 2012,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/should-i-sell-my-house-as-is-or-fix-it-first-service.json",
+        "bytes": 2024,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/flexible-real-estate-listing-agreement-service.json",
+        "bytes": 2012,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/cancel-anytime-listing-agreement-service.json",
+        "bytes": 2000,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/flexible-commission-real-estate-listing-service.json",
+        "bytes": 2014,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/luxury-listing-marketing-strategy-service.json",
+        "bytes": 2002,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/how-to-create-a-bidding-war-for-a-home-service.json",
+        "bytes": 2012,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/how-to-get-multiple-offers-on-a-home-service.json",
+        "bytes": 2008,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/luxury-home-relisting-service.json",
+        "bytes": 1978,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/expired-luxury-listing-help-service.json",
+        "bytes": 1990,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/expired-listing-relaunch-service.json",
+        "bytes": 1984,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/why-a-home-listing-expires-service.json",
+        "bytes": 1988,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/how-to-relist-an-expired-home-listing-service.json",
+        "bytes": 2010,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/how-to-sell-a-house-that-did-not-sell-service.json",
+        "bytes": 2010,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/for-sale-by-owner-help-service.json",
+        "bytes": 1980,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/fsbo-selling-help-service.json",
+        "bytes": 1970,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/fsbo-listing-consultation-service.json",
+        "bytes": 1986,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/fsbo-pricing-help-service.json",
+        "bytes": 1970,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/fsbo-marketing-help-service.json",
+        "bytes": 1974,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/fsbo-to-listing-agent-transition-service.json",
+        "bytes": 2000,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/probate-home-sale-service.json",
+        "bytes": 1970,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/selling-an-inherited-house-service.json",
+        "bytes": 1988,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/inherited-property-sale-service.json",
+        "bytes": 1982,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/inherited-home-valuation-service.json",
+        "bytes": 1984,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/inherited-home-cash-offer-service.json",
+        "bytes": 1986,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/selling-a-house-in-probate-service.json",
+        "bytes": 1988,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/pre-foreclosure-home-sale-service.json",
+        "bytes": 1986,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/how-to-sell-a-house-before-foreclosure-service.json",
+        "bytes": 2012,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/avoiding-foreclosure-by-selling-a-home-service.json",
+        "bytes": 2012,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/short-sale-consultation-service.json",
+        "bytes": 1982,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/distressed-property-sale-service.json",
+        "bytes": 1984,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/vacant-property-sale-service.json",
+        "bytes": 1976,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/selling-a-vacant-house-service.json",
+        "bytes": 1980,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/selling-a-rental-property-service.json",
+        "bytes": 1986,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/selling-an-occupied-rental-property-service.json",
+        "bytes": 2006,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/selling-a-tenant-occupied-property-service.json",
+        "bytes": 2004,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/selling-a-rental-house-with-tenants-service.json",
+        "bytes": 2006,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/selling-an-investment-property-service.json",
+        "bytes": 1996,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/selling-a-vacation-rental-service.json",
+        "bytes": 1986,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/selling-an-airbnb-property-service.json",
+        "bytes": 1988,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/landlord-exit-strategy-service.json",
+        "bytes": 1980,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/rental-property-exit-strategy-service.json",
+        "bytes": 1994,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/waterfront-home-buying-service.json",
+        "bytes": 1980,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/waterfront-condo-buying-service.json",
+        "bytes": 1982,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/oceanfront-condo-buying-service.json",
+        "bytes": 1982,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/penthouse-buying-service.json",
+        "bytes": 1968,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/luxury-estate-buying-service.json",
+        "bytes": 1976,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/miami-luxury-home-buying-service.json",
+        "bytes": 1984,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/miami-luxury-condo-buying-service.json",
+        "bytes": 1986,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/miami-beach-luxury-condo-buying-service.json",
+        "bytes": 1998,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/south-florida-waterfront-home-buying-service.json",
+        "bytes": 2008,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/south-florida-oceanfront-condo-buying-service.json",
+        "bytes": 2010,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/waterfront-property-search-service.json",
+        "bytes": 1988,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/oceanfront-property-search-service.json",
+        "bytes": 1988,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/luxury-condominium-search-service.json",
+        "bytes": 1986,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/luxury-penthouse-search-service.json",
+        "bytes": 1982,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/luxury-estate-search-service.json",
+        "bytes": 1976,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/gated-community-home-search-service.json",
+        "bytes": 1990,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/golf-community-home-search-service.json",
+        "bytes": 1988,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/second-home-buying-service.json",
+        "bytes": 1972,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/vacation-home-buying-service.json",
+        "bytes": 1976,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/florida-vacation-home-buying-service.json",
+        "bytes": 1992,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/luxury-second-home-buying-service.json",
+        "bytes": 1986,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/luxury-vacation-property-buying-service.json",
+        "bytes": 1998,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/executive-relocation-service.json",
+        "bytes": 1976,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/south-florida-relocation-services-service.json",
+        "bytes": 2002,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/miami-relocation-services-service.json",
+        "bytes": 1986,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/miami-beach-relocation-services-service.json",
+        "bytes": 1998,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/fort-lauderdale-relocation-services-service.json",
+        "bytes": 2006,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/palm-beach-relocation-services-service.json",
+        "bytes": 1996,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/relocating-to-south-florida-service.json",
+        "bytes": 1990,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/moving-to-miami-service.json",
+        "bytes": 1966,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/moving-to-miami-beach-service.json",
+        "bytes": 1978,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/moving-to-fort-lauderdale-service.json",
+        "bytes": 1986,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/moving-to-palm-beach-service.json",
+        "bytes": 1976,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/international-home-buyer-services-service.json",
+        "bytes": 2002,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/foreign-national-home-buying-service.json",
+        "bytes": 1992,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/international-real-estate-buying-service.json",
+        "bytes": 2000,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/international-luxury-home-buying-service.json",
+        "bytes": 2000,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/foreign-national-condo-buying-service.json",
+        "bytes": 1994,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/foreign-national-mortgage-referrals-service.json",
+        "bytes": 2006,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/buying-florida-real-estate-from-another-state-service.json",
+        "bytes": 2026,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/remote-home-buying-service.json",
+        "bytes": 1972,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/virtual-home-tours-service.json",
+        "bytes": 1972,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/remote-luxury-property-search-service.json",
+        "bytes": 1994,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/remote-closing-coordination-service.json",
+        "bytes": 1990,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/off-market-property-search-service.json",
+        "bytes": 1988,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/off-market-luxury-homes-service.json",
+        "bytes": 1982,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/off-market-luxury-condos-service.json",
+        "bytes": 1984,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/off-market-waterfront-homes-service.json",
+        "bytes": 1990,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/off-market-oceanfront-condos-service.json",
+        "bytes": 1992,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/off-market-investment-properties-service.json",
+        "bytes": 2000,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/private-listing-access-service.json",
+        "bytes": 1980,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/pocket-listing-access-service.json",
+        "bytes": 1978,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/confidential-property-purchase-service.json",
+        "bytes": 1996,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/confidential-property-sale-service.json",
+        "bytes": 1988,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/discreet-luxury-home-sale-service.json",
+        "bytes": 1986,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/private-luxury-property-sale-service.json",
+        "bytes": 1992,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/new-construction-home-buying-service.json",
+        "bytes": 1992,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/new-construction-condo-buying-service.json",
+        "bytes": 1994,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/new-development-property-buying-service.json",
+        "bytes": 1998,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/new-development-condo-buying-service.json",
+        "bytes": 1992,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/miami-new-construction-homes-service.json",
+        "bytes": 1992,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/miami-new-construction-condos-service.json",
+        "bytes": 1994,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/miami-pre-construction-condos-service.json",
+        "bytes": 1994,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/pre-construction-condo-buying-service.json",
+        "bytes": 1994,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/pre-construction-home-buying-service.json",
+        "bytes": 1992,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/pre-construction-condo-sales-service.json",
+        "bytes": 1992,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/pre-construction-investment-properties-service.json",
+        "bytes": 2012,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/pre-construction-condo-investment-service.json",
+        "bytes": 2002,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/developer-inventory-access-service.json",
+        "bytes": 1988,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/pre-construction-project-comparison-service.json",
+        "bytes": 2006,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/pre-construction-unit-selection-service.json",
+        "bytes": 1998,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/pre-construction-floor-plan-selection-service.json",
+        "bytes": 2010,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/pre-construction-view-selection-service.json",
+        "bytes": 1998,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/pre-construction-deposit-schedule-service.json",
+        "bytes": 2002,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/pre-construction-contract-guidance-service.json",
+        "bytes": 2004,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/pre-construction-closing-process-service.json",
+        "bytes": 2000,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/pre-construction-delivery-timeline-service.json",
+        "bytes": 2004,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/pre-construction-resale-strategy-service.json",
+        "bytes": 2000,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/pre-construction-assignment-sale-service.json",
+        "bytes": 2000,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/luxury-investment-property-buying-service.json",
+        "bytes": 2002,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/investment-property-search-service.json",
+        "bytes": 1988,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/florida-investment-properties-service.json",
+        "bytes": 1994,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/miami-investment-properties-service.json",
+        "bytes": 1990,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/south-florida-investment-properties-service.json",
+        "bytes": 2006,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/luxury-investment-properties-service.json",
+        "bytes": 1992,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/rental-property-investment-service.json",
+        "bytes": 1988,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/cash-flow-property-search-service.json",
+        "bytes": 1986,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/cash-flow-property-analysis-service.json",
+        "bytes": 1990,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/how-to-evaluate-cash-flow-properties-service.json",
+        "bytes": 2008,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/how-to-calculate-rental-property-cash-flow-service.json",
+        "bytes": 2020,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/rental-income-property-search-service.json",
+        "bytes": 1994,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/income-producing-property-search-service.json",
+        "bytes": 2000,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/cap-rate-analysis-service.json",
+        "bytes": 1970,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/net-operating-income-analysis-service.json",
+        "bytes": 1994,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/rental-property-expenses-service.json",
+        "bytes": 1984,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/hoa-fees-and-investment-property-returns-service.json",
+        "bytes": 2016,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/florida-property-insurance-and-investment-returns-service.json",
+        "bytes": 2034,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/short-term-rental-investment-service.json",
+        "bytes": 1992,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/airbnb-investment-property-service.json",
+        "bytes": 1988,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/vacation-rental-investment-property-service.json",
+        "bytes": 2006,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/long-term-rental-investment-property-service.json",
+        "bytes": 2008,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/multifamily-investment-property-service.json",
+        "bytes": 1998,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/duplex-investment-property-service.json",
+        "bytes": 1988,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/triplex-investment-property-service.json",
+        "bytes": 1990,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/fourplex-investment-property-service.json",
+        "bytes": 1992,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/multifamily-property-search-service.json",
+        "bytes": 1990,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/duplex-property-search-service.json",
+        "bytes": 1980,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/1031-exchange-property-search-service.json",
+        "bytes": 1994,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/1031-exchange-replacement-property-search-service.json",
+        "bytes": 2018,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/florida-1031-exchange-properties-service.json",
+        "bytes": 2000,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/miami-1031-exchange-properties-service.json",
+        "bytes": 1996,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/south-florida-1031-exchange-properties-service.json",
+        "bytes": 2012,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/1031-exchange-investment-properties-service.json",
+        "bytes": 2006,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/1031-exchange-deadlines-service.json",
+        "bytes": 1982,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/45-day-1031-exchange-identification-rule-service.json",
+        "bytes": 2016,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/180-day-1031-exchange-closing-rule-service.json",
+        "bytes": 2004,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/like-kind-exchange-property-requirements-service.json",
+        "bytes": 2016,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/1031-exchange-for-rental-property-service.json",
+        "bytes": 2002,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/1031-exchange-for-vacation-rental-property-service.json",
+        "bytes": 2020,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/1031-exchange-for-multifamily-property-service.json",
+        "bytes": 2012,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/1031-exchange-for-luxury-property-service.json",
+        "bytes": 2002,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/1031-exchange-replacement-property-criteria-service.json",
+        "bytes": 2022,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/1031-exchange-qualified-intermediary-referrals-service.json",
+        "bytes": 2028,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/investment-property-portfolio-growth-service.json",
+        "bytes": 2008,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/investment-property-portfolio-diversification-service.json",
+        "bytes": 2026,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/real-estate-investment-exit-strategy-service.json",
+        "bytes": 2008,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/real-estate-market-reports-service.json",
+        "bytes": 1988,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/luxury-real-estate-market-reports-service.json",
+        "bytes": 2002,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/miami-real-estate-market-reports-service.json",
+        "bytes": 2000,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/miami-beach-real-estate-market-reports-service.json",
+        "bytes": 2012,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/south-florida-real-estate-market-reports-service.json",
+        "bytes": 2016,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/luxury-condo-market-reports-service.json",
+        "bytes": 1990,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/waterfront-property-market-reports-service.json",
+        "bytes": 2004,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/pre-construction-market-reports-service.json",
+        "bytes": 1998,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/investment-property-market-reports-service.json",
+        "bytes": 2004,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/daily-real-estate-market-notes-service.json",
+        "bytes": 1996,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/miami-housing-market-updates-service.json",
+        "bytes": 1992,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/south-florida-housing-market-updates-service.json",
+        "bytes": 2008,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/luxury-real-estate-market-trends-service.json",
+        "bytes": 2000,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/miami-condo-market-trends-service.json",
+        "bytes": 1986,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/miami-luxury-home-market-trends-service.json",
+        "bytes": 1998,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/waterfront-property-market-trends-service.json",
+        "bytes": 2002,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/new-construction-market-trends-service.json",
+        "bytes": 1996,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/pre-construction-market-trends-service.json",
+        "bytes": 1996,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/miami-neighborhood-guides-service.json",
+        "bytes": 1986,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/miami-beach-neighborhood-guides-service.json",
+        "bytes": 1998,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/south-florida-neighborhood-guides-service.json",
+        "bytes": 2002,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/luxury-neighborhood-guides-service.json",
+        "bytes": 1988,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/waterfront-neighborhood-guides-service.json",
+        "bytes": 1996,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/condo-neighborhood-guides-service.json",
+        "bytes": 1986,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/best-miami-neighborhoods-for-luxury-homes-service.json",
+        "bytes": 2018,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/best-miami-neighborhoods-for-luxury-condos-service.json",
+        "bytes": 2020,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/best-south-florida-neighborhoods-for-waterfront-homes-service.json",
+        "bytes": 2042,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/best-neighborhoods-for-pre-construction-condos-service.json",
+        "bytes": 2028,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/best-neighborhoods-for-investment-properties-service.json",
+        "bytes": 2024,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/best-miami-neighborhoods-for-rental-income-service.json",
+        "bytes": 2020,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/florida-living-guides-service.json",
+        "bytes": 1978,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/living-in-miami-service.json",
+        "bytes": 1966,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/living-in-miami-beach-service.json",
+        "bytes": 1978,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/living-in-fort-lauderdale-service.json",
+        "bytes": 1986,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/living-in-palm-beach-service.json",
+        "bytes": 1976,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/moving-to-south-florida-guide-service.json",
+        "bytes": 1994,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/south-florida-cost-of-living-guide-service.json",
+        "bytes": 2004,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/south-florida-schools-guide-service.json",
+        "bytes": 1990,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/south-florida-lifestyle-guide-service.json",
+        "bytes": 1994,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/south-florida-waterfront-lifestyle-service.json",
+        "bytes": 2004,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/south-florida-boating-lifestyle-service.json",
+        "bytes": 1998,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/south-florida-local-amenities-guide-service.json",
+        "bytes": 2006,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/south-florida-things-to-do-service.json",
+        "bytes": 1988,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/miami-things-to-do-service.json",
+        "bytes": 1972,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/miami-beach-things-to-do-service.json",
+        "bytes": 1984,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/fort-lauderdale-things-to-do-service.json",
+        "bytes": 1992,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/palm-beach-things-to-do-service.json",
+        "bytes": 1982,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/ai-real-estate-search-tools-service.json",
+        "bytes": 1990,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/ai-property-search-service.json",
+        "bytes": 1972,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/ai-assisted-property-matching-service.json",
+        "bytes": 1994,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/ai-market-intelligence-service.json",
+        "bytes": 1980,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/ai-powered-property-valuation-service.json",
+        "bytes": 1994,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/ai-powered-market-analysis-service.json",
+        "bytes": 1988,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/real-estate-buyer-guides-service.json",
+        "bytes": 1984,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/real-estate-seller-guides-service.json",
+        "bytes": 1986,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/luxury-home-buyer-guides-service.json",
+        "bytes": 1984,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/luxury-home-seller-guides-service.json",
+        "bytes": 1986,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/luxury-condo-buyer-guides-service.json",
+        "bytes": 1986,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/luxury-condo-seller-guides-service.json",
+        "bytes": 1988,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/waterfront-home-buyer-guides-service.json",
+        "bytes": 1992,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/waterfront-home-seller-guides-service.json",
+        "bytes": 1994,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/pre-construction-condo-buyer-guides-service.json",
+        "bytes": 2006,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/investment-property-buyer-guides-service.json",
+        "bytes": 2000,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/foreign-national-buyer-guides-service.json",
+        "bytes": 1994,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/relocation-buyer-guides-service.json",
+        "bytes": 1982,
         "purpose": "schema"
       }
     ],
@@ -2587,6 +4267,11 @@
       {
         "path": "help/how-to-get-a-realistic-penthouse-valuation-in-boca-raton.json",
         "bytes": 6172,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/publishing-plan.json",
+        "bytes": 285851,
         "purpose": "schema"
       }
     ],
@@ -20370,72 +22055,37 @@
     "public": [
       {
         "path": "index.html",
-        "bytes": 19257,
+        "bytes": 25485,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "about.html",
-        "bytes": 317683,
+        "bytes": 323762,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "services.html",
-        "bytes": 308552,
+        "bytes": 314870,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "contact.html",
-        "bytes": 19675,
+        "bytes": 25643,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "faqs.html",
-        "bytes": 2545282,
+        "bytes": 2551264,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "articles.html",
-        "bytes": 19497,
+        "bytes": 22267,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "team-members.html",
-        "bytes": 194902,
-        "purpose": "LLM-optimized public page"
-      },
-      {
-        "path": "articles/getting-started.html",
-        "bytes": 186151,
-        "purpose": "LLM-optimized public page"
-      },
-      {
-        "path": "articles/services-and-process.html",
-        "bytes": 146164,
-        "purpose": "LLM-optimized public page"
-      },
-      {
-        "path": "articles/planning-and-preparation.html",
-        "bytes": 415096,
-        "purpose": "LLM-optimized public page"
-      },
-      {
-        "path": "articles/pricing-and-estimates.html",
-        "bytes": 339661,
-        "purpose": "LLM-optimized public page"
-      },
-      {
-        "path": "articles/local-service-guidance.html",
-        "bytes": 148952,
-        "purpose": "LLM-optimized public page"
-      },
-      {
-        "path": "articles/care-and-maintenance.html",
-        "bytes": 48024,
-        "purpose": "LLM-optimized public page"
-      },
-      {
-        "path": "articles/unassigned.html",
-        "bytes": 10922,
+        "bytes": 200832,
         "purpose": "LLM-optimized public page"
       }
     ],
@@ -20472,37 +22122,37 @@
       },
       {
         "path": "ai-data.html",
-        "bytes": 1935272,
+        "bytes": 2060945,
         "purpose": "Master AI data index"
       },
       {
         "path": "llms-full.txt",
-        "bytes": 535508,
+        "bytes": 570451,
         "purpose": "Extended LLM context"
       },
       {
         "path": "llms-full.md",
-        "bytes": 535508,
+        "bytes": 570451,
         "purpose": "Extended LLM context (markdown)"
       },
       {
         "path": "full-context.md",
-        "bytes": 13192,
+        "bytes": 13193,
         "purpose": "Full markdown context"
       },
       {
         "path": "README.md",
-        "bytes": 694181,
+        "bytes": 735159,
         "purpose": "Repository README"
       },
       {
         "path": "ai-sitemap.xml",
-        "bytes": 566240,
+        "bytes": 604945,
         "purpose": "AI sitemap"
       },
       {
         "path": "sitemap.xml",
-        "bytes": 1591,
+        "bytes": 899,
         "purpose": "Standard sitemap"
       }
     ]
