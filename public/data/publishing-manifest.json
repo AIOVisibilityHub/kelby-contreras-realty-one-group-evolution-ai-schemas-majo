@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "generatedAt": "2026-10-24T22:16:51.208Z",
+  "generatedAt": "2026-10-24T22:17:28.606Z",
   "client": {
     "name": "Kelby Contreras - Realty ONE Group Evolution",
     "canonicalUrl": "https://kelbycontreras.aiovisibility.net",
@@ -468,7 +468,7 @@
   },
   "package": {
     "totalFiles": 4298,
-    "totalBytes": 16435296,
+    "totalBytes": 16350871,
     "stats": {
       "faqs": 3555,
       "helpArticles": 334,
@@ -21863,72 +21863,72 @@
     "public": [
       {
         "path": "index.html",
-        "bytes": 25484,
+        "bytes": 19257,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "about.html",
-        "bytes": 111064,
+        "bytes": 104985,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "services.html",
-        "bytes": 344623,
+        "bytes": 338305,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "contact.html",
-        "bytes": 26217,
+        "bytes": 20249,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "faqs.html",
-        "bytes": 2551838,
+        "bytes": 2545856,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "articles.html",
-        "bytes": 26048,
+        "bytes": 20071,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "team-members.html",
-        "bytes": 33197,
+        "bytes": 27267,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "articles/getting-started.html",
-        "bytes": 192691,
+        "bytes": 186725,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "articles/services-and-process.html",
-        "bytes": 152774,
+        "bytes": 146738,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "articles/planning-and-preparation.html",
-        "bytes": 421677,
+        "bytes": 415670,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "articles/pricing-and-estimates.html",
-        "bytes": 346278,
+        "bytes": 340235,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "articles/local-service-guidance.html",
-        "bytes": 155463,
+        "bytes": 149526,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "articles/care-and-maintenance.html",
-        "bytes": 54643,
+        "bytes": 48598,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "articles/unassigned.html",
-        "bytes": 17406,
+        "bytes": 11496,
         "purpose": "LLM-optimized public page"
       }
     ],
