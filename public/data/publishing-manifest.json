@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "generatedAt": "2026-10-05T18:51:46.792Z",
+  "generatedAt": "2026-10-24T22:16:51.208Z",
   "client": {
     "name": "Kelby Contreras - Realty ONE Group Evolution",
     "canonicalUrl": "https://kelbycontreras.aiovisibility.net",
@@ -467,24 +467,24 @@
     ]
   },
   "package": {
-    "totalFiles": 4335,
-    "totalBytes": 16917046,
+    "totalFiles": 4298,
+    "totalBytes": 16435296,
     "stats": {
-      "qna": 0,
       "faqs": 3555,
-      "press": 0,
-      "total": 4307,
-      "awards": 0,
-      "reviews": 0,
-      "products": 0,
-      "research": 0,
+      "helpArticles": 334,
       "services": 374,
       "webpages": 0,
+      "personnel": 1,
+      "products": 0,
       "locations": 5,
-      "personnel": 38,
+      "awards": 0,
       "caseStudies": 0,
-      "helpArticles": 334,
-      "organization": 1
+      "organization": 1,
+      "press": 0,
+      "reviews": 0,
+      "qna": 0,
+      "research": 0,
+      "total": 4270
     }
   },
   "entrypoints": {
@@ -2373,192 +2373,7 @@
     "team": [
       {
         "path": "team/kelby-contreras-profile.json",
-        "bytes": 6914,
-        "purpose": "schema"
-      },
-      {
-        "path": "team/kelby-contreras-miami-dade-county.json",
-        "bytes": 5434,
-        "purpose": "schema"
-      },
-      {
-        "path": "team/kelby-contreras-broward-county.json",
-        "bytes": 5431,
-        "purpose": "schema"
-      },
-      {
-        "path": "team/kelby-contreras-palm-beach-county.json",
-        "bytes": 5434,
-        "purpose": "schema"
-      },
-      {
-        "path": "team/kelby-contreras-collier-county.json",
-        "bytes": 5431,
-        "purpose": "schema"
-      },
-      {
-        "path": "team/kelby-contreras-orange-county.json",
-        "bytes": 5430,
-        "purpose": "schema"
-      },
-      {
-        "path": "team/kelby-contreras-aventura.json",
-        "bytes": 5411,
-        "purpose": "schema"
-      },
-      {
-        "path": "team/kelby-contreras-bal-harbour.json",
-        "bytes": 5414,
-        "purpose": "schema"
-      },
-      {
-        "path": "team/kelby-contreras-bay-harbor-islands.json",
-        "bytes": 5421,
-        "purpose": "schema"
-      },
-      {
-        "path": "team/kelby-contreras-boca-raton.json",
-        "bytes": 5413,
-        "purpose": "schema"
-      },
-      {
-        "path": "team/kelby-contreras-brickell.json",
-        "bytes": 5411,
-        "purpose": "schema"
-      },
-      {
-        "path": "team/kelby-contreras-brickell-key.json",
-        "bytes": 5415,
-        "purpose": "schema"
-      },
-      {
-        "path": "team/kelby-contreras-coconut-grove.json",
-        "bytes": 5416,
-        "purpose": "schema"
-      },
-      {
-        "path": "team/kelby-contreras-coral-gables.json",
-        "bytes": 5415,
-        "purpose": "schema"
-      },
-      {
-        "path": "team/kelby-contreras-downtown-miami.json",
-        "bytes": 5417,
-        "purpose": "schema"
-      },
-      {
-        "path": "team/kelby-contreras-edgewater.json",
-        "bytes": 5412,
-        "purpose": "schema"
-      },
-      {
-        "path": "team/kelby-contreras-fisher-island.json",
-        "bytes": 5416,
-        "purpose": "schema"
-      },
-      {
-        "path": "team/kelby-contreras-fort-lauderdale-beach.json",
-        "bytes": 5424,
-        "purpose": "schema"
-      },
-      {
-        "path": "team/kelby-contreras-hallandale-beach.json",
-        "bytes": 5419,
-        "purpose": "schema"
-      },
-      {
-        "path": "team/kelby-contreras-highland-beach.json",
-        "bytes": 5417,
-        "purpose": "schema"
-      },
-      {
-        "path": "team/kelby-contreras-hollywood-beach.json",
-        "bytes": 5418,
-        "purpose": "schema"
-      },
-      {
-        "path": "team/kelby-contreras-key-biscayne.json",
-        "bytes": 5415,
-        "purpose": "schema"
-      },
-      {
-        "path": "team/kelby-contreras-las-olas.json",
-        "bytes": 5411,
-        "purpose": "schema"
-      },
-      {
-        "path": "team/kelby-contreras-miami-beach.json",
-        "bytes": 5414,
-        "purpose": "schema"
-      },
-      {
-        "path": "team/kelby-contreras-midtown-wynwood.json",
-        "bytes": 5418,
-        "purpose": "schema"
-      },
-      {
-        "path": "team/kelby-contreras-north-bay-village.json",
-        "bytes": 5420,
-        "purpose": "schema"
-      },
-      {
-        "path": "team/kelby-contreras-pinecrest.json",
-        "bytes": 5412,
-        "purpose": "schema"
-      },
-      {
-        "path": "team/kelby-contreras-pompano-beach.json",
-        "bytes": 5416,
-        "purpose": "schema"
-      },
-      {
-        "path": "team/kelby-contreras-south-beach.json",
-        "bytes": 5414,
-        "purpose": "schema"
-      },
-      {
-        "path": "team/kelby-contreras-sunny-isles-beach.json",
-        "bytes": 5420,
-        "purpose": "schema"
-      },
-      {
-        "path": "team/kelby-contreras-surfside.json",
-        "bytes": 5411,
-        "purpose": "schema"
-      },
-      {
-        "path": "team/kelby-contreras-west-palm-beach.json",
-        "bytes": 5418,
-        "purpose": "schema"
-      },
-      {
-        "path": "team/kelby-contreras-williams-island.json",
-        "bytes": 5418,
-        "purpose": "schema"
-      },
-      {
-        "path": "team/kelby-contreras-miami.json",
-        "bytes": 5408,
-        "purpose": "schema"
-      },
-      {
-        "path": "team/kelby-contreras-fort-lauderdale.json",
-        "bytes": 5418,
-        "purpose": "schema"
-      },
-      {
-        "path": "team/kelby-contreras-palm-beach.json",
-        "bytes": 5413,
-        "purpose": "schema"
-      },
-      {
-        "path": "team/kelby-contreras-delray-beach.json",
-        "bytes": 5415,
-        "purpose": "schema"
-      },
-      {
-        "path": "team/kelby-contreras-doral.json",
-        "bytes": 5408,
+        "bytes": 5651,
         "purpose": "schema"
       }
     ],
@@ -2592,7 +2407,7 @@
     "organization": [
       {
         "path": "organization/kelby-contreras-realty-one-group-evolution-organization.json",
-        "bytes": 41674,
+        "bytes": 42244,
         "purpose": "schema"
       }
     ],
@@ -22048,72 +21863,72 @@
     "public": [
       {
         "path": "index.html",
-        "bytes": 19258,
+        "bytes": 25484,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "about.html",
-        "bytes": 317683,
+        "bytes": 111064,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "services.html",
-        "bytes": 323531,
+        "bytes": 344623,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "contact.html",
-        "bytes": 19675,
+        "bytes": 26217,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "faqs.html",
-        "bytes": 2545282,
+        "bytes": 2551838,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "articles.html",
-        "bytes": 19497,
+        "bytes": 26048,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "team-members.html",
-        "bytes": 194902,
+        "bytes": 33197,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "articles/getting-started.html",
-        "bytes": 186151,
+        "bytes": 192691,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "articles/services-and-process.html",
-        "bytes": 146164,
+        "bytes": 152774,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "articles/planning-and-preparation.html",
-        "bytes": 415096,
+        "bytes": 421677,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "articles/pricing-and-estimates.html",
-        "bytes": 339661,
+        "bytes": 346278,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "articles/local-service-guidance.html",
-        "bytes": 148952,
+        "bytes": 155463,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "articles/care-and-maintenance.html",
-        "bytes": 48024,
+        "bytes": 54643,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "articles/unassigned.html",
-        "bytes": 10922,
+        "bytes": 17406,
         "purpose": "LLM-optimized public page"
       }
     ],
@@ -22125,7 +21940,7 @@
       },
       {
         "path": "llms.txt",
-        "bytes": 13190,
+        "bytes": 15648,
         "purpose": "LLM hint"
       },
       {
@@ -22145,37 +21960,37 @@
       },
       {
         "path": "related-destinations.json",
-        "bytes": 1779,
+        "bytes": 6504,
         "purpose": "Cross-Destination Index (Related AI Data Sources)"
       },
       {
         "path": "ai-data.html",
-        "bytes": 2062931,
+        "bytes": 2055180,
         "purpose": "Master AI data index"
       },
       {
         "path": "llms-full.txt",
-        "bytes": 571077,
+        "bytes": 570069,
         "purpose": "Extended LLM context"
       },
       {
         "path": "llms-full.md",
-        "bytes": 571077,
+        "bytes": 570069,
         "purpose": "Extended LLM context (markdown)"
       },
       {
         "path": "full-context.md",
-        "bytes": 13150,
+        "bytes": 15607,
         "purpose": "Full markdown context"
       },
       {
         "path": "README.md",
-        "bytes": 735835,
+        "bytes": 734619,
         "purpose": "Repository README"
       },
       {
         "path": "ai-sitemap.xml",
-        "bytes": 605546,
+        "bytes": 601675,
         "purpose": "AI sitemap"
       },
       {
