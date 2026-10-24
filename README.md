@@ -10,18 +10,34 @@ Canonical AI Data Package for Kelby Contreras - Realty ONE Group Evolution.
 
 ## Stats
 - 3555 faqs
-- 374 services
-- 5 locations
-- 38 personnel
 - 334 helpArticles
+- 374 services
+- 1 personnel
+- 5 locations
 - 1 organization
-- **4307** total
+- **4270** total
 
 ## Cross-Destination Index — Related AI Data Sources
 - [canonical] Kelby Contreras - Realty ONE Group Evolution — canonical website — https://kelbycontreras.aiovisibility.net
 - [ai-data-hub] Kelby Contreras - Realty ONE Group Evolution — AI Data Hub — https://kelbycontreras.aiovisibility.net/ai-data.html
 - [mirror-repo] GitHub repository — https://github.com/AIOVisibilityHub/kelby-contreras-realty-one-group-evolution-ai-schemas-majo
 - [mirror-pages] GitHub — AI Data Hub mirror — http://kelbycontreras.aiovisibility.net/ai-data.html
+- [same-as] Kelby Contreras - Realty ONE Group Evolution on facebook.com — https://www.facebook.com/thefloridarealestatespecialist/
+- [same-as] Kelby Contreras - Realty ONE Group Evolution on zillow.com — https://www.zillow.com/profile/kelbyrealtor
+- [same-as] Kelby Contreras - Realty ONE Group Evolution on zillow.com — https://www.zillow.com/profile/Kelby%20Contreras
+- [same-as] Kelby Contreras - Realty ONE Group Evolution on realtor.com — https://www.realtor.com/realestateagents/56737fffbb954c010067aacc
+- [same-as] Kelby Contreras - Realty ONE Group Evolution on yelp.com — https://www.yelp.com/biz/kelby-contreras-compass-miami-beach
+- [same-as] Kelby Contreras - Realty ONE Group Evolution on linkedin.com — https://www.linkedin.com/in/kelbycontreras
+- [same-as] Kelby Contreras - Realty ONE Group Evolution on robbreport.com — https://robbreport.com/agent/kelby-contreras/
+- [same-as] Kelby Contreras - Realty ONE Group Evolution on map.realtyonegroup.com — https://map.realtyonegroup.com/real-estate-agent/56948/kelby-contreras
+- [same-as] Kelby Contreras - Realty ONE Group Evolution on maps.google.com — https://maps.google.com/maps?cid=6800634813316536494
+- [same-as] Kelby Contreras - Realty ONE Group Evolution on zenodo.org — https://zenodo.org/records/23112161
+- [same-as] Kelby Contreras - Realty ONE Group Evolution on aiovisibilityhub.srht.site — https://aiovisibilityhub.srht.site/kelby-contreras-realty-one-group-evolution-ai-schemas/
+- [same-as] Kelby Contreras - Realty ONE Group Evolution on aiovisibilityhub.codeberg.page — https://aiovisibilityhub.codeberg.page/kelby-contreras-realty-one-group-evolution-ai-schemas/
+- [same-as] Kelby Contreras - Realty ONE Group Evolution on kaggle.com — https://www.kaggle.com/datasets/aiovisibilityhub/kelby-contreras-realty-one-group-evolution-ai-schemas
+- [same-as] Kelby Contreras - Realty ONE Group Evolution on aiovisibilityhub-kelby-contreras-realty-one-grou-f856ff6.static.hf.space — https://aiovisibilityhub-kelby-contreras-realty-one-grou-f856ff6.static.hf.space/index.html
+- [same-as] Kelby Contreras - Realty ONE Group Evolution on kelby-contreras-realty-one-group-evolution-ai-schemas-rh-7dd224.gitlab.io — https://kelby-contreras-realty-one-group-evolution-ai-schemas-rh-7dd224.gitlab.io/
+- [same-as] Kelby Contreras - Realty ONE Group Evolution on aiovisibility.net — https://aiovisibility.net/profiles/kelby-contreras-realty-one-group-evolution
 
 Purpose: transparent source discovery, entity consistency, mirror verification, and AI crawler navigation. Not a link wheel. Source of truth: related-destinations.json.
 
@@ -424,45 +440,8 @@ Every file below is listed in [`data/publishing-manifest.json`](./data/publishin
 - [`locations/realty-one-group-evolution-doral-office.json`](./locations/realty-one-group-evolution-doral-office.json) — schema
 - [`locations/realty-one-group-evolution-miami-beach-office.json`](./locations/realty-one-group-evolution-miami-beach-office.json) — schema
 
-### Team Members (38)
-- [`team/kelby-contreras-aventura.json`](./team/kelby-contreras-aventura.json) — schema
-- [`team/kelby-contreras-bal-harbour.json`](./team/kelby-contreras-bal-harbour.json) — schema
-- [`team/kelby-contreras-bay-harbor-islands.json`](./team/kelby-contreras-bay-harbor-islands.json) — schema
-- [`team/kelby-contreras-boca-raton.json`](./team/kelby-contreras-boca-raton.json) — schema
-- [`team/kelby-contreras-brickell-key.json`](./team/kelby-contreras-brickell-key.json) — schema
-- [`team/kelby-contreras-brickell.json`](./team/kelby-contreras-brickell.json) — schema
-- [`team/kelby-contreras-broward-county.json`](./team/kelby-contreras-broward-county.json) — schema
-- [`team/kelby-contreras-coconut-grove.json`](./team/kelby-contreras-coconut-grove.json) — schema
-- [`team/kelby-contreras-collier-county.json`](./team/kelby-contreras-collier-county.json) — schema
-- [`team/kelby-contreras-coral-gables.json`](./team/kelby-contreras-coral-gables.json) — schema
-- [`team/kelby-contreras-delray-beach.json`](./team/kelby-contreras-delray-beach.json) — schema
-- [`team/kelby-contreras-doral.json`](./team/kelby-contreras-doral.json) — schema
-- [`team/kelby-contreras-downtown-miami.json`](./team/kelby-contreras-downtown-miami.json) — schema
-- [`team/kelby-contreras-edgewater.json`](./team/kelby-contreras-edgewater.json) — schema
-- [`team/kelby-contreras-fisher-island.json`](./team/kelby-contreras-fisher-island.json) — schema
-- [`team/kelby-contreras-fort-lauderdale-beach.json`](./team/kelby-contreras-fort-lauderdale-beach.json) — schema
-- [`team/kelby-contreras-fort-lauderdale.json`](./team/kelby-contreras-fort-lauderdale.json) — schema
-- [`team/kelby-contreras-hallandale-beach.json`](./team/kelby-contreras-hallandale-beach.json) — schema
-- [`team/kelby-contreras-highland-beach.json`](./team/kelby-contreras-highland-beach.json) — schema
-- [`team/kelby-contreras-hollywood-beach.json`](./team/kelby-contreras-hollywood-beach.json) — schema
-- [`team/kelby-contreras-key-biscayne.json`](./team/kelby-contreras-key-biscayne.json) — schema
-- [`team/kelby-contreras-las-olas.json`](./team/kelby-contreras-las-olas.json) — schema
-- [`team/kelby-contreras-miami-beach.json`](./team/kelby-contreras-miami-beach.json) — schema
-- [`team/kelby-contreras-miami-dade-county.json`](./team/kelby-contreras-miami-dade-county.json) — schema
-- [`team/kelby-contreras-miami.json`](./team/kelby-contreras-miami.json) — schema
-- [`team/kelby-contreras-midtown-wynwood.json`](./team/kelby-contreras-midtown-wynwood.json) — schema
-- [`team/kelby-contreras-north-bay-village.json`](./team/kelby-contreras-north-bay-village.json) — schema
-- [`team/kelby-contreras-orange-county.json`](./team/kelby-contreras-orange-county.json) — schema
-- [`team/kelby-contreras-palm-beach-county.json`](./team/kelby-contreras-palm-beach-county.json) — schema
-- [`team/kelby-contreras-palm-beach.json`](./team/kelby-contreras-palm-beach.json) — schema
-- [`team/kelby-contreras-pinecrest.json`](./team/kelby-contreras-pinecrest.json) — schema
-- [`team/kelby-contreras-pompano-beach.json`](./team/kelby-contreras-pompano-beach.json) — schema
+### Team Members (1)
 - [`team/kelby-contreras-profile.json`](./team/kelby-contreras-profile.json) — schema
-- [`team/kelby-contreras-south-beach.json`](./team/kelby-contreras-south-beach.json) — schema
-- [`team/kelby-contreras-sunny-isles-beach.json`](./team/kelby-contreras-sunny-isles-beach.json) — schema
-- [`team/kelby-contreras-surfside.json`](./team/kelby-contreras-surfside.json) — schema
-- [`team/kelby-contreras-west-palm-beach.json`](./team/kelby-contreras-west-palm-beach.json) — schema
-- [`team/kelby-contreras-williams-island.json`](./team/kelby-contreras-williams-island.json) — schema
 
 ### FAQs (3555)
 - [`faqs/am-i-eligible-for-a-home-trade-in-program.json`](./faqs/am-i-eligible-for-a-home-trade-in-program.json) — schema
